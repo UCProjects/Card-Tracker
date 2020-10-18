@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": true,
+    "id": 278,
+    "fixedId": 278,
+    "typeCard": 0,
+    "name": "Dark Candy Tree",
+    "image": "Dark_Candy_Tree",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:CANDY}}. {{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

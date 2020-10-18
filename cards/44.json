@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 5,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 44,
+    "fixedId": 44,
+    "typeCard": 0,
+    "name": "Gyftrot",
+    "image": "Gyftrot",
+    "cost": 8,
+    "rarity": "RARE",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

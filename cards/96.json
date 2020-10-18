@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 96,
+    "fixedId": 96,
+    "typeCard": 1,
+    "name": "Punishment",
+    "image": "Punishment",
+    "cost": 3,
+    "rarity": "BASE",
+    "originalCost": 3,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:3}}. If your opponent has more {{HP}} than you, deal {{DMG:4}} instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 245,
+    "fixedId": 245,
+    "typeCard": 0,
+    "name": "Editor 1",
+    "image": "Editor_1",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Move a turbo monster from your deck to the top of your deck. It costs 1 less."
+  },
+  "diffs": [
+    "New"
+  ]
+}

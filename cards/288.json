@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 2,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 288,
+    "fixedId": 288,
+    "typeCard": 0,
+    "name": "Groom",
+    "image": "Groom",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining gold."
+  },
+  "diffs": [
+    "New"
+  ]
+}

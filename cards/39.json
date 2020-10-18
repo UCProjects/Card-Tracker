@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 10,
+    "hp": 7,
+    "maxHp": 7,
+    "tribe": "ROYAL_GUARD",
+    "originalAttack": 10,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 39,
+    "fixedId": 39,
+    "typeCard": 0,
+    "name": "Royal Guard 2",
+    "image": "Royal_Guard_2",
+    "cost": 9,
+    "rarity": "BASE",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|1}} in your hand by 2 (excluding {{CARD:39|1}})."
+  },
+  "diffs": [
+    "New"
+  ]
+}

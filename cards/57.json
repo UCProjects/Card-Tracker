@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 1,
+    "originalHp": 8,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 57,
+    "fixedId": 57,
+    "typeCard": 0,
+    "name": "Gaster",
+    "image": "Gaster",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_END}}: Add a {{CARD:351|1}} to your deck."
+  },
+  "diffs": [
+    "New"
+  ]
+}

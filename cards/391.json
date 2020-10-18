@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 2,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 391,
+    "fixedId": 391,
+    "typeCard": 0,
+    "name": "Scissor Dancer",
+    "image": "Scissor_Dancer",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to an enemy monster. If the enemy monster isn't full HP, deal {{DMG:4}} instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

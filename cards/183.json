@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 183,
+    "fixedId": 183,
+    "typeCard": 1,
+    "name": "Brain Shift",
+    "image": "Brain_Shift",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max 10 DMG)."
+  },
+  "diffs": [
+    "New"
+  ]
+}

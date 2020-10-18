@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 314,
+    "fixedId": 314,
+    "typeCard": 0,
+    "name": "Fan Rudinn",
+    "image": "Fan_Rudinn",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:RANGED}}. {{KW:MAGIC}}: Give an ally monster +1/+1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

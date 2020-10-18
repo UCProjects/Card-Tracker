@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 36,
+    "fixedId": 36,
+    "typeCard": 0,
+    "name": "Snowdrake's Mom",
+    "image": "Snowdrake's_Mom",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} 2 random enemy monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

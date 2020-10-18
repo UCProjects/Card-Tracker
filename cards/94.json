@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 94,
+    "fixedId": 94,
+    "typeCard": 1,
+    "name": "Feast",
+    "image": "Feast",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give +{{HP:3}} to your monsters. If they have {{HP:3}} or lower, give +{{HP:4}} instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

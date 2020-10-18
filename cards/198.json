@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 198,
+    "fixedId": 198,
+    "typeCard": 0,
+    "name": "Red Bird",
+    "image": "Red_Bird",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Turn a monster into a random monster of the same {{COST}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

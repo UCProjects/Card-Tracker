@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "PLANT",
+    "originalAttack": 1,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 105,
+    "fixedId": 105,
+    "typeCard": 0,
+    "name": "Echo Flower",
+    "image": "Echo_Flower",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Copy a card of your opponent's hand to your hand and reduce its {{COST}} by 1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

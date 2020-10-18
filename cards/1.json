@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 0,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 1,
+    "fixedId": 1,
+    "typeCard": 0,
+    "name": "Dummy",
+    "image": "Dummy",
+    "cost": 1,
+    "rarity": "BASE",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

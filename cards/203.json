@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 9,
+    "hp": 11,
+    "maxHp": 11,
+    "originalAttack": 9,
+    "originalHp": 11,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 203,
+    "fixedId": 203,
+    "typeCard": 0,
+    "name": "Angel of Death",
+    "image": "Angel_of_Death",
+    "cost": 20,
+    "rarity": "DETERMINATION",
+    "originalCost": 20,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Summon a copy of a monster. {{KW:DUST}}: Fill your empty spaces with  {{TRIBE:LOST_SOUL|2}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

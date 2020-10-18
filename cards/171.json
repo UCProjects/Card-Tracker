@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 0,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 171,
+    "fixedId": 171,
+    "typeCard": 0,
+    "name": "Dimensional Box",
+    "image": "Dimensional_Box",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Catch a monster. {{KW:DUST}}: Release the monster (no recursion). {{KW:TURN_END}}: Die."
+  },
+  "diffs": [
+    "New"
+  ]
+}

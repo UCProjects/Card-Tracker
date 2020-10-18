@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 259,
+    "fixedId": 259,
+    "typeCard": 1,
+    "name": "Octofriend",
+    "image": "Octofriend",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give +{{HP:2}} to an ally monster. Summon a {{CARD:353}} to his left and a {{CARD:354}} to his right."
+  },
+  "diffs": [
+    "New"
+  ]
+}

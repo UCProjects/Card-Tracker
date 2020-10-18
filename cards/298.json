@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 298,
+    "fixedId": 298,
+    "typeCard": 0,
+    "name": "Rabbick",
+    "image": "Rabbick",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:TURBO}} and {{KW:DUST}}: Summon a {{CARD:374|1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

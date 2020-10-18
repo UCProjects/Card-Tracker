@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 91,
+    "fixedId": 91,
+    "typeCard": 1,
+    "name": "Heal",
+    "image": "Heal",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Heal {{HP:3}} and remove negative effects. Draw a card if there is no negative effect."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 85,
+    "fixedId": 85,
+    "typeCard": 1,
+    "name": "Cloning",
+    "image": "Cloning",
+    "cost": 3,
+    "rarity": "EPIC",
+    "originalCost": 3,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Add an exact copy of an allied monster to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

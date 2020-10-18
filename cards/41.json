@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 6,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 41,
+    "fixedId": 41,
+    "typeCard": 0,
+    "name": "Mad Dummy",
+    "image": "Mad_Dummy",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Can only be damaged by a {{DMG}} of 4 or greater."
+  },
+  "diffs": [
+    "New"
+  ]
+}

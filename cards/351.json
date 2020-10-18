@@ -1,0 +1,20 @@
+{
+  "card": {
+    "id": 351,
+    "fixedId": 351,
+    "typeCard": 1,
+    "name": "G. Blaster",
+    "image": "G._Blaster",
+    "cost": 7,
+    "rarity": "GENERATED",
+    "originalCost": 7,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:8}} to a monster or 5 to a player."
+  },
+  "diffs": [
+    "New"
+  ]
+}

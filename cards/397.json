@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": true,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 397,
+    "fixedId": 397,
+    "typeCard": 0,
+    "name": "Useless Bird",
+    "image": "Useless_Bird",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Add 2 other random {{KW:DISARMED}} monsters to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

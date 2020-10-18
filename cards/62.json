@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 9,
+    "maxHp": 9,
+    "tribe": "ROYAL_GUARD",
+    "originalAttack": 7,
+    "originalHp": 9,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 62,
+    "fixedId": 62,
+    "typeCard": 0,
+    "name": "Undyne",
+    "image": "Undyne",
+    "cost": 14,
+    "rarity": "LEGENDARY",
+    "originalCost": 14,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Deal {{DMG:8}} randomly split among all enemy monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

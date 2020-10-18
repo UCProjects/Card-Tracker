@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 367,
+    "fixedId": 367,
+    "typeCard": 1,
+    "name": "Mine",
+    "image": "Mine",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURBO}}: Deal {{DMG:4}} to you, 2 to a random ally monster and draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

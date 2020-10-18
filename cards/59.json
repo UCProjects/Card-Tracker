@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 59,
+    "fixedId": 59,
+    "typeCard": 0,
+    "name": "Sans",
+    "image": "Sans",
+    "cost": 6,
+    "rarity": "LEGENDARY",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DODGE}} (2). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

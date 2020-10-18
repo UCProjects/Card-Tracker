@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "MOLD",
+    "originalAttack": 1,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 19,
+    "fixedId": 19,
+    "typeCard": 0,
+    "name": "Moldbygg",
+    "image": "Moldbygg",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}. {{KW:TURN_END}}: Give +{{HP:1}} to all other ally {{TRIBE:MOLD|2}} (except {{CARD:19|1}}) in play."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "DETERMINATION",
+    "id": 67,
+    "fixedId": 67,
+    "typeCard": 1,
+    "name": "Resurrection",
+    "image": "Resurrection",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Add 1 copy of 2 of your dead monsters to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

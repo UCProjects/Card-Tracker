@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "BRAVERY",
+    "id": 78,
+    "fixedId": 78,
+    "typeCard": 1,
+    "name": "Aaron's Secret",
+    "image": "Aaron's_Secret",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give +{{ATK:2}} to your monsters with 3 or less {{ATK}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

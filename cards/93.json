@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 93,
+    "fixedId": 93,
+    "typeCard": 1,
+    "name": "Longevity",
+    "image": "Longevity",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Fully heal a monster. Give +{{HP:1}} for each restored {{HP}}. Give {{KW:CANDY}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

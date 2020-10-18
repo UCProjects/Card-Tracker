@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 133,
+    "fixedId": 133,
+    "typeCard": 1,
+    "name": "Fridge",
+    "image": "Fridge",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

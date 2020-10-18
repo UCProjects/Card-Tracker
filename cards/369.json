@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 369,
+    "fixedId": 369,
+    "typeCard": 1,
+    "name": "Thundersnail",
+    "image": "Thundersnail",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Summon all dead ally {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}}. Add a {{CARD:53|1}} to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

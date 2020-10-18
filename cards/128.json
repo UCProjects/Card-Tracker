@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "BRAVERY",
+    "id": 128,
+    "fixedId": 128,
+    "typeCard": 1,
+    "name": "Froggit Trio",
+    "image": "Froggit_Trio",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "If your opponent has more monsters on his board than you, summon 3 {{CARD:2|3}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

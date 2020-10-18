@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 7,
+    "originalHp": 8,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 214,
+    "fixedId": 214,
+    "typeCard": 0,
+    "name": "Casual Undyne",
+    "image": "Casual_Undyne",
+    "cost": 12,
+    "rarity": "LEGENDARY",
+    "originalCost": 12,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:HASTE}}. Deal the difference of {{DMG}} dealt to an enemy monster to the enemy player."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 90,
+    "fixedId": 90,
+    "typeCard": 1,
+    "name": "Contamination",
+    "image": "Contamination",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

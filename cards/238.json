@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "BOMB",
+    "originalAttack": 1,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 238,
+    "fixedId": 238,
+    "typeCard": 0,
+    "name": "Script Bomb",
+    "image": "Script_Bomb",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_START}}: Sacrifice this to draw 2 cards. If you draw a {{TRIBE:BOMB|1}}, reduce its {{COST}} by 2."
+  },
+  "diffs": [
+    "New"
+  ]
+}

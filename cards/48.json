@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "DOG",
+    "originalAttack": 4,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 48,
+    "fixedId": 48,
+    "typeCard": 0,
+    "name": "Greater Dog",
+    "image": "Greater_Dog",
+    "cost": 7,
+    "rarity": "RARE",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain +{{HP:3}} if you have a {{TRIBE:DOG|1}} in your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

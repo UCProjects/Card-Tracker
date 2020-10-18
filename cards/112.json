@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 6,
+    "originalHp": 8,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 112,
+    "fixedId": 112,
+    "typeCard": 0,
+    "name": "Ice Wolf",
+    "image": "Ice_Wolf",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURBO}}: {{KW:PARALYZE}} a random enemy monster. {{KW:DUST}}: Summon an enemy {{CARD:10|1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 1,
+    "maxHp": 1,
+    "tribe": "G_FOLLOWER",
+    "originalAttack": 3,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 118,
+    "fixedId": 118,
+    "typeCard": 0,
+    "name": "G Follower 1",
+    "image": "G_Follower_1",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:FUTURE}} (2): Draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

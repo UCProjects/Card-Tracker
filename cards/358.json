@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 358,
+    "fixedId": 358,
+    "typeCard": 1,
+    "name": "Load",
+    "image": "Load",
+    "cost": 17,
+    "rarity": "GENERATED",
+    "originalCost": 17,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Load the saved board."
+  },
+  "diffs": [
+    "New"
+  ]
+}

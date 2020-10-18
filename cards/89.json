@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 89,
+    "fixedId": 89,
+    "typeCard": 1,
+    "name": "Pollutant Gas",
+    "image": "Pollutant_Gas",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:1}} to all enemy monsters. If under {{KR}}, deal {{DMG:3}} instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

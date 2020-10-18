@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 4,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 35,
+    "fixedId": 35,
+    "typeCard": 0,
+    "name": "Lemon Bread",
+    "image": "Lemon_Bread",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: If you have 5 or more cards in your hand, get {{KW:HASTE}} and {{KW:TAUNT}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

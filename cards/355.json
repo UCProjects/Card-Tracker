@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 0,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 355,
+    "fixedId": 355,
+    "typeCard": 0,
+    "name": "Gift",
+    "image": "Gift",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

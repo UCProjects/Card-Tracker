@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "PLANT",
+    "originalAttack": 1,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 392,
+    "fixedId": 392,
+    "typeCard": 0,
+    "name": "Ghost Tree",
+    "image": "Ghost_Tree",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "Whenever an ally {{TRIBE:PLANT|1}} is summoned, gain +1/+1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

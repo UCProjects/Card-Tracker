@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 5,
+    "fixedId": 5,
+    "typeCard": 0,
+    "name": "Migosp",
+    "image": "Migosp",
+    "cost": 2,
+    "rarity": "BASE",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Give +{{HP:2}} to a random ally monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

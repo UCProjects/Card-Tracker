@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 34,
+    "fixedId": 34,
+    "typeCard": 0,
+    "name": "Reaper Bird",
+    "image": "Reaper_Bird",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Draw a card. If it was an {{TRIBE:AMALGAMATE|1}} , give it +{{HP:2}} and {{KW:CANDY}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

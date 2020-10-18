@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 52,
+    "fixedId": 52,
+    "typeCard": 0,
+    "name": "Alphys",
+    "image": "Alphys",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and it costs 2 less."
+  },
+  "diffs": [
+    "New"
+  ]
+}

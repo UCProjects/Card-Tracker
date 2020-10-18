@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 8,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 8,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": true,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 110,
+    "fixedId": 110,
+    "typeCard": 0,
+    "name": "Mettaton NEO",
+    "image": "Mettaton_NEO",
+    "cost": 10,
+    "rarity": "LEGENDARY",
+    "originalCost": 10,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DISARMED}}. {{KW:DUST}}: Deal its {{ATK}} as {{DMG}} to all monsters and half to your opponent."
+  },
+  "diffs": [
+    "New"
+  ]
+}

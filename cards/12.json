@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 12,
+    "fixedId": 12,
+    "typeCard": 0,
+    "name": "Chilldrake",
+    "image": "Chilldrake",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: If played on the left, add a monster from your deck to your hand. If on the right, add a spell."
+  },
+  "diffs": [
+    "New"
+  ]
+}

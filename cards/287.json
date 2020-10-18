@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 287,
+    "fixedId": 287,
+    "typeCard": 0,
+    "name": "Rouxls Kaard",
+    "image": "Rouxls_Kaard",
+    "cost": 6,
+    "rarity": "LEGENDARY",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to your opponent's hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

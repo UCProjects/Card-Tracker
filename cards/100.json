@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 100,
+    "fixedId": 100,
+    "typeCard": 1,
+    "name": "HeadShot",
+    "image": "HeadShot",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:SILENCE}} and kill a monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

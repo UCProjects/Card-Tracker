@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 33,
+    "fixedId": 33,
+    "typeCard": 0,
+    "name": "Endogeny",
+    "image": "Endogeny",
+    "cost": 8,
+    "rarity": "BASE",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

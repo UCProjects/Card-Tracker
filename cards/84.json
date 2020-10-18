@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 84,
+    "fixedId": 84,
+    "typeCard": 1,
+    "name": "Expulsion",
+    "image": "Expulsion",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Put an enemy monster back into its owner's hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

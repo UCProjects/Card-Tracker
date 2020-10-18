@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "tribe": "FROGGIT",
+    "originalAttack": 1,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 196,
+    "fixedId": 196,
+    "typeCard": 0,
+    "name": "Tiny Froggit",
+    "image": "Tiny_Froggit",
+    "cost": 0,
+    "rarity": "COMMON",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": ""
+  },
+  "diffs": [
+    "New"
+  ]
+}

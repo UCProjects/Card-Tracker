@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 4,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 318,
+    "fixedId": 318,
+    "typeCard": 0,
+    "name": "Father Alvin",
+    "image": "Father_Alvin",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Remove 2 random monsters from your dustpile and add them to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

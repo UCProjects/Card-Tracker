@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 2,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 125,
+    "fixedId": 125,
+    "typeCard": 0,
+    "name": "Heats Flamesman",
+    "image": "Heats_Flamesman",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Whenever an enemy monster is summoned, deal {{DMG:1}} to it."
+  },
+  "diffs": [
+    "New"
+  ]
+}

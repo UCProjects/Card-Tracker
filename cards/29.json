@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 5,
+    "maxHp": 5,
+    "tribe": "BOMB",
+    "originalAttack": 1,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 29,
+    "fixedId": 29,
+    "typeCard": 0,
+    "name": "Bomb",
+    "image": "Bomb",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_START}}: Sacrifice this to deal {{DMG:3}} to all enemies."
+  },
+  "diffs": [
+    "New"
+  ]
+}

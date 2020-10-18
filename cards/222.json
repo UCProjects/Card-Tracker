@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "tribe": "SNAIL",
+    "originalAttack": 1,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 222,
+    "fixedId": 222,
+    "typeCard": 0,
+    "name": "Blue Snail",
+    "image": "Blue_Snail",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Give {{KW:CHARGE}} to your other {{TRIBE:SNAIL|2}} in play."
+  },
+  "diffs": [
+    "New"
+  ]
+}

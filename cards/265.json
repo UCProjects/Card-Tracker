@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 265,
+    "fixedId": 265,
+    "typeCard": 0,
+    "name": "Lancer",
+    "image": "Lancer",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Add 3 {{CARD:371|3}} to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

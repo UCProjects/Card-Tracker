@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 5,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 247,
+    "fixedId": 247,
+    "typeCard": 0,
+    "name": "Dress Lion",
+    "image": "Dress_Lion",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURBO}}: {{KW:SILENCE}} a random enemy monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

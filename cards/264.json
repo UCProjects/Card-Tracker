@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 264,
+    "fixedId": 264,
+    "typeCard": 0,
+    "name": "Ralsei",
+    "image": "Ralsei",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:SUPPORT}}: Give {{KW:RANGED}} to the attacking monster. {{KW:DUST}}: Remove {{KW:RANGED}} from your monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

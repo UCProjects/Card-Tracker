@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": true,
+    "id": 273,
+    "fixedId": 273,
+    "typeCard": 0,
+    "name": "Noelle",
+    "image": "Noelle",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:CANDY}}. {{KW:TURN_END}}: Heal you by this monster's current {{HP}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

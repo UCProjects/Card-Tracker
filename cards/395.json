@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 395,
+    "fixedId": 395,
+    "typeCard": 0,
+    "name": "Toriel's Car",
+    "image": "Toriel's_Car",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "When you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: {{KW:TURBO}} monsters in your hand {{COST}} 1 less."
+  },
+  "diffs": [
+    "New"
+  ]
+}

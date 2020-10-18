@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 294,
+    "fixedId": 294,
+    "typeCard": 0,
+    "name": "Rudinn",
+    "image": "Rudinn",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:RANGED}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

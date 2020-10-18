@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 10,
+    "maxHp": 10,
+    "tribe": "BOMB",
+    "originalAttack": 1,
+    "originalHp": 10,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 192,
+    "fixedId": 192,
+    "typeCard": 0,
+    "name": "Big Bomb",
+    "image": "Big_Bomb",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_START}}: Kill all monsters on the board. {{KW:DUST}}: Kill its killer."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 385,
+    "fixedId": 385,
+    "typeCard": 0,
+    "name": "Evil Eye",
+    "image": "Evil_Eye",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
+  },
+  "diffs": [
+    "New"
+  ]
+}

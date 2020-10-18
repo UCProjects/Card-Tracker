@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 376,
+    "fixedId": 376,
+    "typeCard": 1,
+    "name": "Puzzle Box",
+    "image": "Puzzle_Box",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

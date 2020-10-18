@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 0,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 243,
+    "fixedId": 243,
+    "typeCard": 0,
+    "name": "Bench",
+    "image": "Bench",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain +{{ATK:1}} for each card in your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

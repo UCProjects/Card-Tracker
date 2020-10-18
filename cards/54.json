@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 5,
+    "maxHp": 5,
+    "tribe": "PLANT",
+    "originalAttack": 1,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 54,
+    "fixedId": 54,
+    "typeCard": 0,
+    "name": "Flowey",
+    "image": "Flowey",
+    "cost": 3,
+    "rarity": "EPIC",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add this monster to your deck with +{{ATK:2}} and without {{KW:HASTE}} (keep {{ATK}} buffs)."
+  },
+  "diffs": [
+    "New"
+  ]
+}

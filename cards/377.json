@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 2,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 377,
+    "fixedId": 377,
+    "typeCard": 0,
+    "name": "Ranger Rudinn",
+    "image": "Ranger_Rudinn",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:RANGED}}. {{KW:TURN_END}}: Ally {{KW:RANGED}} monsters attack the monster in front of them."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 92,
+    "fixedId": 92,
+    "typeCard": 1,
+    "name": "Force of Nature",
+    "image": "Force_of_Nature",
+    "cost": 1,
+    "rarity": "BASE",
+    "originalCost": 1,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give +{{HP:3}} to a monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

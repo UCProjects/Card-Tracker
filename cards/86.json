@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 86,
+    "fixedId": 86,
+    "typeCard": 1,
+    "name": "Worsening",
+    "image": "Worsening",
+    "cost": 3,
+    "rarity": "BASE",
+    "originalCost": 3,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:2}} to a monster. If under {{KR}}, deal {{DMG:5}} instead and the extra {{DMG}} to your opponent."
+  },
+  "diffs": [
+    "New"
+  ]
+}

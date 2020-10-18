@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 201,
+    "fixedId": 201,
+    "typeCard": 0,
+    "name": "Dancer Mettaton",
+    "image": "Dancer_Mettaton",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:HASTE}}. Restore {{HP:3}} to its owner and summon a {{CARD:359|1}} whenever this attacks and kills a monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

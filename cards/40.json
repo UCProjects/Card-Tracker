@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "tribe": "DOG",
+    "originalAttack": 2,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 40,
+    "fixedId": 40,
+    "typeCard": 0,
+    "name": "Annoying Dog",
+    "image": "Annoying_Dog",
+    "cost": 2,
+    "rarity": "RARE",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Add a {{CARD:349|1}} to the enemy's hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

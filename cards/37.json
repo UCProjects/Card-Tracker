@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "tribe": "MOLD",
+    "originalAttack": 4,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 37,
+    "fixedId": 37,
+    "typeCard": 0,
+    "name": "Moldessa",
+    "image": "Moldessa",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Deal 2-{{DMG:4}} to a random enemy monster. {{KW:DUST}}: Add a random other {{TRIBE:MOLD|1}} to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

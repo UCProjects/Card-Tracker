@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 366,
+    "fixedId": 366,
+    "typeCard": 1,
+    "name": "Little Mine",
+    "image": "Little_Mine",
+    "cost": 1,
+    "rarity": "GENERATED",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURBO}}: Deal {{DMG:3}} to you and draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

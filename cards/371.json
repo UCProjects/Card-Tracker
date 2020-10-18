@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 371,
+    "fixedId": 371,
+    "typeCard": 1,
+    "name": "Spade",
+    "image": "Spade",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "Deal {{DMG:3}} to a random enemy monster. Return this card to your hand if it killed."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 8,
+    "hp": 9,
+    "maxHp": 9,
+    "tribe": "ROYAL_GUARD",
+    "originalAttack": 8,
+    "originalHp": 9,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 315,
+    "fixedId": 315,
+    "typeCard": 0,
+    "name": "Royal Guard 3",
+    "image": "Royal_Guard_3",
+    "cost": 9,
+    "rarity": "COMMON",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Give {{KW:CANDY}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:315|1}})."
+  },
+  "diffs": [
+    "New"
+  ]
+}

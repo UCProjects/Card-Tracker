@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "DETERMINATION",
+    "id": 179,
+    "fixedId": 179,
+    "typeCard": 1,
+    "name": "Last Dream",
+    "image": "Last_Dream",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give your monsters +1/+1. If you have {{HP:1}}, give them +7/+7 instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 1,
+    "maxHp": 1,
+    "tribe": "TEMMIE",
+    "originalAttack": 2,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 356,
+    "fixedId": 356,
+    "typeCard": 0,
+    "name": "Temmie 2",
+    "image": "Temmie_2",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:HASTE}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

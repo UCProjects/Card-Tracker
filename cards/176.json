@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 2,
+    "originalHp": 8,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 176,
+    "fixedId": 176,
+    "typeCard": 0,
+    "name": "Ugly Fish",
+    "image": "Ugly_Fish",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Reduce {{ATK}} of monsters damaged by this monster by 2."
+  },
+  "diffs": [
+    "New"
+  ]
+}

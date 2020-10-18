@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 379,
+    "fixedId": 379,
+    "typeCard": 1,
+    "name": "Crown",
+    "image": "Crown",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "Turn an ally {{CARD:378|1}} into {{CARD:380|1}}. If there's none, draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

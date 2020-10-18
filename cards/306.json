@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": true,
+    "id": 306,
+    "fixedId": 306,
+    "typeCard": 0,
+    "name": "Smolder Cake",
+    "image": "Smolder_Cake",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:CANDY}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

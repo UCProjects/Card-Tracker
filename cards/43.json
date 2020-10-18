@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "tribe": "DOG",
+    "originalAttack": 4,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 43,
+    "fixedId": 43,
+    "typeCard": 0,
+    "name": "Lesser Dog",
+    "image": "Lesser_Dog",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Reduce the {{COST}} of all the cards in your hand by 1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

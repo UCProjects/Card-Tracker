@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 5,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 241,
+    "fixedId": 241,
+    "typeCard": 0,
+    "name": "Eye",
+    "image": "Eye",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Reveal your opponent's hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

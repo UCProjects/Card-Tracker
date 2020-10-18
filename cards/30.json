@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 30,
+    "fixedId": 30,
+    "typeCard": 0,
+    "name": "Burgerpants",
+    "image": "Burgerpants",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Earn {{GOLD:9}} and {{KW:TURN_END}}: Give your opponent {{GOLD:4}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

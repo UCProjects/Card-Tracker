@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 4,
+    "originalHp": 10,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 263,
+    "fixedId": 263,
+    "typeCard": 0,
+    "name": "Kris",
+    "image": "Kris",
+    "cost": 13,
+    "rarity": "DETERMINATION",
+    "originalCost": 13,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:SUPPORT}}: Give the attacking monster +1/+1 (MAX +2/+2) for each other monster you control."
+  },
+  "diffs": [
+    "New"
+  ]
+}

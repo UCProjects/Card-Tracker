@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 51,
+    "fixedId": 51,
+    "typeCard": 0,
+    "name": "Monster Kid",
+    "image": "Monster_Kid",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Give +1/+1 to adjacents monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 237,
+    "fixedId": 237,
+    "typeCard": 0,
+    "name": "Punk Hamster",
+    "image": "Punk_Hamster",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURBO}}: Deal {{DMG:4}} to you. {{KW:DUST}}: Add this monster to your opponent's deck."
+  },
+  "diffs": [
+    "New"
+  ]
+}

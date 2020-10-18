@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 95,
+    "fixedId": 95,
+    "typeCard": 1,
+    "name": "Test of Will",
+    "image": "Test_of_Will",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG}} to all monsters equals to their {{ATK}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

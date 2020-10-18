@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 393,
+    "fixedId": 393,
+    "typeCard": 0,
+    "name": "Coat Rack",
+    "image": "Coat_Rack",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Draw 2 cards. Give drawn monsters +1/+1/+1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

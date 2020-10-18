@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 3,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 354,
+    "fixedId": 354,
+    "typeCard": 0,
+    "name": "Right Tentacle",
+    "image": "Right_Tentacle",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Restore {{HP:3}} to its owner."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 11,
+    "hp": 11,
+    "maxHp": 11,
+    "tribe": "PLANT",
+    "originalAttack": 11,
+    "originalHp": 11,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 117,
+    "fixedId": 117,
+    "typeCard": 0,
+    "name": "Omega Flowey",
+    "image": "Omega_Flowey",
+    "cost": 16,
+    "rarity": "DETERMINATION",
+    "originalCost": 16,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Save the board and add a {{CARD:358|1}} spell to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

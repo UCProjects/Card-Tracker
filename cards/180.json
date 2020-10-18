@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 180,
+    "fixedId": 180,
+    "typeCard": 1,
+    "name": "Inflation",
+    "image": "Inflation",
+    "cost": 1,
+    "rarity": "EPIC",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Increase the {{COST}} of all monsters in your hand by 2, and give them +2/+2."
+  },
+  "diffs": [
+    "New"
+  ]
+}

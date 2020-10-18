@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": true,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 297,
+    "fixedId": 297,
+    "typeCard": 0,
+    "name": "Starwalker Bird",
+    "image": "Starwalker_Bird",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:HASTE}}. {{KW:RANGED}}. Whenever this attacks and kills a monster, deal {{DMG:1}} to a random enemy monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "TEMMIE",
+    "originalAttack": 3,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 139,
+    "fixedId": 139,
+    "typeCard": 0,
+    "name": "Trader Temmie",
+    "image": "Trader_Temmie",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

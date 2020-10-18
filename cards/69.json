@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "DETERMINATION",
+    "id": 69,
+    "fixedId": 69,
+    "typeCard": 1,
+    "name": "Same Fate",
+    "image": "Same_Fate",
+    "cost": 8,
+    "rarity": "RARE",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Change the {{HP}} of all monsters to 1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

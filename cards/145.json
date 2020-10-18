@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 145,
+    "fixedId": 145,
+    "typeCard": 0,
+    "name": "Diamond Boy 1",
+    "image": "Diamond_Boy_1",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Your other monsters take 1 less {{DMG}} (not stackable)"
+  },
+  "diffs": [
+    "New"
+  ]
+}

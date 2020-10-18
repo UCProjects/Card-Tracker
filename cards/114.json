@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 1,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 114,
+    "fixedId": 114,
+    "typeCard": 0,
+    "name": "Glad Dummy",
+    "image": "Glad_Dummy",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give {{KW:TAUNT}} to an ally monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

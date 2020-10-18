@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 31,
+    "fixedId": 31,
+    "typeCard": 0,
+    "name": "Snowman",
+    "image": "Snowman",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster if your opponent has as much or more monsters than you on the board."
+  },
+  "diffs": [
+    "New"
+  ]
+}

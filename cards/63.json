@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 63,
+    "fixedId": 63,
+    "typeCard": 0,
+    "name": "Asriel Dreemurr",
+    "image": "Asriel_Dreemurr",
+    "cost": 18,
+    "rarity": "LEGENDARY",
+    "originalCost": 18,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Heal its owner by 30 {{HP}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "tribe": "TEMMIE",
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 172,
+    "fixedId": 172,
+    "typeCard": 0,
+    "name": "Allergic Temmie",
+    "image": "Allergic_Temmie",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Whenever {{CARD:50|1}} or {{CARD:356|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

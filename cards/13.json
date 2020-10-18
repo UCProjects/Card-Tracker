@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 13,
+    "fixedId": 13,
+    "typeCard": 0,
+    "name": "Woshua",
+    "image": "Woshua",
+    "cost": 6,
+    "rarity": "BASE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to all enemy monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

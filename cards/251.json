@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 251,
+    "fixedId": 251,
+    "typeCard": 0,
+    "name": "Ragel",
+    "image": "Ragel",
+    "cost": 2,
+    "rarity": "EPIC",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:RANGED}}, {{KW:PARALYZE}}d, {{KW:CHARGE}}, {{KW:CANDY}}, {{KR}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

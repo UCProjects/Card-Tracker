@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 260,
+    "fixedId": 260,
+    "typeCard": 1,
+    "name": "Ice Replica",
+    "image": "Ice_Replica",
+    "cost": 1,
+    "rarity": "RARE",
+    "originalCost": 1,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Add a copy of a non DT paralysed monster to your deck. If used on ally monster, add it to the top of your deck."
+  },
+  "diffs": [
+    "New"
+  ]
+}

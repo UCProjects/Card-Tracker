@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 73,
+    "fixedId": 73,
+    "typeCard": 1,
+    "name": "Cold Winter",
+    "image": "Cold_Winter",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:PARALYZE}} a monster and the one to its left. Deal {{DMG:2}} if already paralyzed."
+  },
+  "diffs": [
+    "New"
+  ]
+}

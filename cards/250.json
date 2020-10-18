@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 250,
+    "fixedId": 250,
+    "typeCard": 0,
+    "name": "Hot Dog Harpy",
+    "image": "Hot_Dog_Harpy",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Kill a silenced enemy monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

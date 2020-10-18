@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 350,
+    "fixedId": 350,
+    "typeCard": 0,
+    "name": "Doodlebog",
+    "image": "Doodlebog",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: If played on the left side, gain +{{HP:1}}. If played on the right side, gain +{{ATK:1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

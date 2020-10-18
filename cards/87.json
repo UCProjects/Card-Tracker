@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 87,
+    "fixedId": 87,
+    "typeCard": 1,
+    "name": "Poison",
+    "image": "Poison",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give {{KR}} to a monster and add a {{CARD:87}} to your deck. Draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 3,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 32,
+    "fixedId": 32,
+    "typeCard": 0,
+    "name": "Memory Head",
+    "image": "Memory_Head",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Put a random card in the enemy player's hand back into his deck."
+  },
+  "diffs": [
+    "New"
+  ]
+}

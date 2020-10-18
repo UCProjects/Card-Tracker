@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 0,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": true,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 226,
+    "fixedId": 226,
+    "typeCard": 0,
+    "name": "Microwave",
+    "image": "Microwave",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DISARMED}}. At the start of your every 3rd turn, fully heal your other monsters and give them +{{ATK:3}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

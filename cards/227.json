@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 227,
+    "fixedId": 227,
+    "typeCard": 0,
+    "name": "Coffee Man",
+    "image": "Coffee_Man",
+    "cost": 8,
+    "rarity": "RARE",
+    "originalCost": 8,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain taunt if used on an enemy monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

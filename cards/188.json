@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 2,
+    "maxHp": 2,
+    "tribe": "PLANT",
+    "originalAttack": 0,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 188,
+    "fixedId": 188,
+    "typeCard": 0,
+    "name": "Bridge Seed",
+    "image": "Bridge_Seed",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Draw a card and gain +{{HP:1}}. Trigger this effect again for each ally {{CARD:188|1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

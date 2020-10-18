@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 7,
+    "maxHp": 7,
+    "tribe": "PLANT",
+    "originalAttack": 0,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 136,
+    "fixedId": 136,
+    "typeCard": 0,
+    "name": "Cactus",
+    "image": "Cactus",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Kill every monster damaged by this monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "DOG",
+    "originalAttack": 3,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 46,
+    "fixedId": 46,
+    "typeCard": 0,
+    "name": "Dogamy",
+    "image": "Dogamy",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: If {{CARD:47|1}} is on your board, gain +{{ATK:3}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 0,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 18,
+    "fixedId": 18,
+    "typeCard": 0,
+    "name": "Pyrope",
+    "image": "Pyrope",
+    "cost": 5,
+    "rarity": "BASE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_END}}: Deal {{DMG:3}} to the enemy player."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 202,
+    "fixedId": 202,
+    "typeCard": 0,
+    "name": "Innkeeper",
+    "image": "Innkeeper",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Raise your max {{HP}} by 3 and restore {{HP:3}} to you."
+  },
+  "diffs": [
+    "New"
+  ]
+}

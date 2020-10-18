@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 1,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 396,
+    "fixedId": 396,
+    "typeCard": 0,
+    "name": "Hathy",
+    "image": "Hathy",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:SUPPORT}}: Give +{{ATK:1}} to the attacking monster if its {{ATK}} is 3 or greater."
+  },
+  "diffs": [
+    "New"
+  ]
+}

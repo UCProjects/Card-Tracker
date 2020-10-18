@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 373,
+    "fixedId": 373,
+    "typeCard": 0,
+    "name": "Worm",
+    "image": "Worm",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:HASTE}}. When this deals DMG, restore that much {{HP}} to you."
+  },
+  "diffs": [
+    "New"
+  ]
+}

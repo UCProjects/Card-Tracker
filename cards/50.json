@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 1,
+    "maxHp": 1,
+    "tribe": "TEMMIE",
+    "originalAttack": 2,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": true,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 50,
+    "fixedId": 50,
+    "typeCard": 0,
+    "name": "Temmie",
+    "image": "Temmie",
+    "cost": 2,
+    "rarity": "RARE",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:CHARGE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

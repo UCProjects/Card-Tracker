@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 261,
+    "fixedId": 261,
+    "typeCard": 1,
+    "name": "Siphoning",
+    "image": "Siphoning",
+    "cost": 2,
+    "rarity": "RARE",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Restore {{HP:2}} for each monster under {{KR}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

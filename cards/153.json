@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 4,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 153,
+    "fixedId": 153,
+    "typeCard": 0,
+    "name": "Catty",
+    "image": "Catty",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Draw a card whenever you summon a monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

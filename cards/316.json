@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 9,
+    "hp": 8,
+    "maxHp": 8,
+    "tribe": "ROYAL_GUARD",
+    "originalAttack": 9,
+    "originalHp": 8,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 316,
+    "fixedId": 316,
+    "typeCard": 0,
+    "name": "Royal Guard 4",
+    "image": "Royal_Guard_4",
+    "cost": 9,
+    "rarity": "COMMON",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Give {{KW:RANGED}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:316|1}})."
+  },
+  "diffs": [
+    "New"
+  ]
+}

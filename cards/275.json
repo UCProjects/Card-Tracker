@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 275,
+    "fixedId": 275,
+    "typeCard": 0,
+    "name": "Mister Society",
+    "image": "Mister_Society",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:HASTE}}. If played on the right, gain {{KW:TRANSPARENCY}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

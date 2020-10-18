@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "tribe": "G_FOLLOWER",
+    "originalAttack": 4,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 119,
+    "fixedId": 119,
+    "typeCard": 0,
+    "name": "G Follower 2",
+    "image": "G_Follower_2",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:FUTURE}} (3): Earn {{GOLD:3}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

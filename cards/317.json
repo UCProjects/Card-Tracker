@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "tribe": "PLANT",
+    "originalAttack": 2,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 317,
+    "fixedId": 317,
+    "typeCard": 0,
+    "name": "Flower Can",
+    "image": "Flower_Can",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:DUST}}: Summon 2 {{CARD:375|2}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

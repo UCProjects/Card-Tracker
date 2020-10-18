@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 0,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 216,
+    "fixedId": 216,
+    "typeCard": 0,
+    "name": "Fire Trap",
+    "image": "Fire_Trap",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_END}}: Deal {{DMG}} equals to the number of turns this card remained on the board to the opponent."
+  },
+  "diffs": [
+    "New"
+  ]
+}

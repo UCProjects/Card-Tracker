@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 74,
+    "fixedId": 74,
+    "typeCard": 1,
+    "name": "Defrosting",
+    "image": "Defrosting",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:1}} to all enemy monsters. If paralyzed, deal {{DMG:3}} instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

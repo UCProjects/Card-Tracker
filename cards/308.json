@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 308,
+    "fixedId": 308,
+    "typeCard": 0,
+    "name": "Donation Stump",
+    "image": "Donation_Stump",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Reduce the enemy's {{GOLD}} by 1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

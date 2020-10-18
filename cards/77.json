@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "BRAVERY",
+    "id": 77,
+    "fixedId": 77,
+    "typeCard": 1,
+    "name": "Assault",
+    "image": "Assault",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Add 3 random monsters costing 3 or less in your deck with +1/+1. Draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

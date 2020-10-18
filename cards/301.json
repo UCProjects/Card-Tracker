@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 5,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 301,
+    "fixedId": 301,
+    "typeCard": 0,
+    "name": "Toy Block",
+    "image": "Toy_Block",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:TAUNT}}. {{KW:TURN_END}}: Swap its {{ATK}} and {{HP}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

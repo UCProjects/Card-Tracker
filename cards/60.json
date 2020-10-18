@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 5,
+    "originalHp": 9,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": true,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 60,
+    "fixedId": 60,
+    "typeCard": 0,
+    "name": "Papyrus",
+    "image": "Papyrus",
+    "cost": 13,
+    "rarity": "LEGENDARY",
+    "originalCost": 13,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, can attack another monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

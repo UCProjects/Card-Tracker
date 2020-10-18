@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 28,
+    "fixedId": 28,
+    "typeCard": 0,
+    "name": "Chara",
+    "image": "Chara",
+    "cost": 20,
+    "rarity": "DETERMINATION",
+    "originalCost": 20,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Add Genocide artifact. Set your {{HP}} and Max {{HP}} to 20."
+  },
+  "diffs": [
+    "New"
+  ]
+}

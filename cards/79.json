@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "BRAVERY",
+    "id": 79,
+    "fixedId": 79,
+    "typeCard": 1,
+    "name": "Penetration",
+    "image": "Penetration",
+    "cost": 1,
+    "rarity": "RARE",
+    "originalCost": 1,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:SILENCE}} an enemy {{KW:TAUNT}} monster. If used on a non {{KW:TAUNT}} monster, draw a card instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

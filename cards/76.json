@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "BRAVERY",
+    "id": 76,
+    "fixedId": 76,
+    "typeCard": 1,
+    "name": "Strength",
+    "image": "Strength",
+    "cost": 2,
+    "rarity": "BASE",
+    "originalCost": 2,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give +{{ATK:2}} to a monster. If your opponent has more monsters on his board, give +{{ATK:3}} instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

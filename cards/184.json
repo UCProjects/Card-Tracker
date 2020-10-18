@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "KINDNESS",
+    "id": 184,
+    "fixedId": 184,
+    "typeCard": 1,
+    "name": "Soothing",
+    "image": "Soothing",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Set a monster's {{ATK}} to 3 and {{HP}} to 2."
+  },
+  "diffs": [
+    "New"
+  ]
+}

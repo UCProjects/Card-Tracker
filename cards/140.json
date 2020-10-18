@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 140,
+    "fixedId": 140,
+    "typeCard": 0,
+    "name": "Politics Bear",
+    "image": "Politics_Bear",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Gain +{{ATK:1}} if your opponent summons a monster or +{{HP:1}} if you summon a monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

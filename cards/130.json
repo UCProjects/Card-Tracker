@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 130,
+    "fixedId": 130,
+    "typeCard": 1,
+    "name": "Investment",
+    "image": "Investment",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Add a copy of a random card from your deck to your hand and it recude its {{COST}} by 2."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "tribe": "TEMMIE",
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 200,
+    "fixedId": 200,
+    "typeCard": 0,
+    "name": "Bob",
+    "image": "Bob",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 3 random {{TRIBE:TEMMIE|2}} to your hand (except {{CARD:200|1}})."
+  },
+  "diffs": [
+    "New"
+  ]
+}

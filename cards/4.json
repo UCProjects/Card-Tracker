@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "tribe": "MOLD",
+    "originalAttack": 3,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 4,
+    "fixedId": 4,
+    "typeCard": 0,
+    "name": "Moldsmal",
+    "image": "Moldsmal",
+    "cost": 2,
+    "rarity": "BASE",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": ""
+  },
+  "diffs": [
+    "New"
+  ]
+}

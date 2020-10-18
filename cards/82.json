@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 82,
+    "fixedId": 82,
+    "typeCard": 1,
+    "name": "Break",
+    "image": "Break",
+    "cost": 0,
+    "rarity": "COMMON",
+    "originalCost": 0,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Return an allied monster to your hand and you get 20% of its {{COST}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

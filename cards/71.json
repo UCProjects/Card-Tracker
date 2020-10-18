@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 71,
+    "fixedId": 71,
+    "typeCard": 1,
+    "name": "Protection",
+    "image": "Protection",
+    "cost": 0,
+    "rarity": "BASE",
+    "originalCost": 0,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give {{KW:TAUNT}} to an ally monster. Draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

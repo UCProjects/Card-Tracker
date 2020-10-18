@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 182,
+    "fixedId": 182,
+    "typeCard": 1,
+    "name": "Brain Freeze",
+    "image": "Brain_Freeze",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Both players skip their next turn."
+  },
+  "diffs": [
+    "New"
+  ]
+}

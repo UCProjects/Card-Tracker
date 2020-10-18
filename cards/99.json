@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 99,
+    "fixedId": 99,
+    "typeCard": 1,
+    "name": "Explosion",
+    "image": "Explosion",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:4}} to a monster. If this kills the monster, deal {{DMG:3}} to adjacent monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 72,
+    "fixedId": 72,
+    "typeCard": 1,
+    "name": "Slowing",
+    "image": "Slowing",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Send a paralyzed enemy monster to your opponent's deck."
+  },
+  "diffs": [
+    "New"
+  ]
+}

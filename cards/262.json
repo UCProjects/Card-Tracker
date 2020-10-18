@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 262,
+    "fixedId": 262,
+    "typeCard": 0,
+    "name": "Mad Mew Mew",
+    "image": "Mad_Mew_Mew",
+    "cost": 5,
+    "rarity": "LEGENDARY",
+    "originalCost": 5,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
+  },
+  "diffs": [
+    "New"
+  ]
+}

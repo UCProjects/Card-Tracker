@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 2,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": true,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 149,
+    "fixedId": 149,
+    "typeCard": 0,
+    "name": "Dog House",
+    "image": "Dog_House",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Add a random {{TRIBE:DOG|1}} to your hand. Add another one if you have a {{TRIBE:DOG|1}} on your board."
+  },
+  "diffs": [
+    "New"
+  ]
+}

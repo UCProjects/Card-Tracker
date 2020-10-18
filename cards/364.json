@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "LOST_SOUL",
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 364,
+    "fixedId": 364,
+    "typeCard": 0,
+    "name": "Lost Soul 5",
+    "image": "Lost_Soul_5",
+    "cost": 5,
+    "rarity": "GENERATED",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Deal {{DMG:4}} randomly split among all enemy monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

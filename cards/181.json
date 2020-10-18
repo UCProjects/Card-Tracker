@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 181,
+    "fixedId": 181,
+    "typeCard": 1,
+    "name": "Multi Shot",
+    "image": "Multi_Shot",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Your passive triggers an additional time each turn."
+  },
+  "diffs": [
+    "New"
+  ]
+}

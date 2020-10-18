@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 1,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 56,
+    "fixedId": 56,
+    "typeCard": 0,
+    "name": "Mettaton",
+    "image": "Mettaton",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Can only lose {{HP:1}} at a time when damaged."
+  },
+  "diffs": [
+    "New"
+  ]
+}

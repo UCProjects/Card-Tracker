@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 131,
+    "fixedId": 131,
+    "typeCard": 1,
+    "name": "Shootout",
+    "image": "Shootout",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
+  },
+  "diffs": [
+    "New"
+  ]
+}

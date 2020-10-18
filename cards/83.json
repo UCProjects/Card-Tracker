@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 83,
+    "fixedId": 83,
+    "typeCard": 1,
+    "name": "Shopping",
+    "image": "Shopping",
+    "cost": 0,
+    "rarity": "RARE",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Spend all of your {{GOLD}}. Summon a copy of a monster from your deck costing your {{GOLD}} or less if no target."
+  },
+  "diffs": [
+    "New"
+  ]
+}

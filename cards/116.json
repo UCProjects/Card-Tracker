@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 116,
+    "fixedId": 116,
+    "typeCard": 0,
+    "name": "Small Bird",
+    "image": "Small_Bird",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Ignore {{KW:TAUNT}} effects. {{KW:MAGIC}}: Gain {{KW:CHARGE}} if your enemy has a {{KW:TAUNT}} or {{KW:ARMOR}} monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

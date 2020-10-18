@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 272,
+    "fixedId": 272,
+    "typeCard": 0,
+    "name": "Gardener Asgore",
+    "image": "Gardener_Asgore",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Add 2 random {{TRIBE:PLANT|2}} to your hand, then remove all negative effects from your {{TRIBE:PLANT|2}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

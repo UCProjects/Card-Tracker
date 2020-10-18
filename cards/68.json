@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "DETERMINATION",
+    "id": 68,
+    "fixedId": 68,
+    "typeCard": 1,
+    "name": "Another Chance",
+    "image": "Another_Chance",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Give an enemy monster: \"{{KW:DUST}}: Summon this monster for your opponent with +1/+1\"."
+  },
+  "diffs": [
+    "New"
+  ]
+}

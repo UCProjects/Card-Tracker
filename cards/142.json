@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 1,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 142,
+    "fixedId": 142,
+    "typeCard": 0,
+    "name": "Blue Laser",
+    "image": "Blue_Laser",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Whenever an enemy monster attacks, deal {{DMG:1}} to it."
+  },
+  "diffs": [
+    "New"
+  ]
+}

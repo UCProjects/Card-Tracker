@@ -1,0 +1,39 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 26,
+    "fixedId": 26,
+    "typeCard": 0,
+    "name": "Parsnik",
+    "image": "Parsnik",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it was already paralyzed, deal {{DMG:2}} to it."
+  },
+  "diffs": [
+    "New"
+  ]
+}

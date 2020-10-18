@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 4,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 290,
+    "fixedId": 290,
+    "typeCard": 0,
+    "name": "Snowy",
+    "image": "Snowy",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}}: Deal {{DMG:2}}. If the target dies, add a random spell to your hand with the same {{COST}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

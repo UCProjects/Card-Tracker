@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 3,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": true,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 274,
+    "fixedId": 274,
+    "typeCard": 0,
+    "name": "Starwalker",
+    "image": "Starwalker",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have atleast 3 spells in your hand, reduce this card's {{COST}} by 3."
+  },
+  "diffs": [
+    "New"
+  ]
+}

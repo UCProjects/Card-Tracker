@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 134,
+    "fixedId": 134,
+    "typeCard": 1,
+    "name": "Spider Web",
+    "image": "Spider_Web",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:PARALYZE}} all enemy monsters under {{KR}}. Draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

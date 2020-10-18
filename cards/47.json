@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 3,
+    "maxHp": 3,
+    "tribe": "DOG",
+    "originalAttack": 6,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 47,
+    "fixedId": 47,
+    "typeCard": 0,
+    "name": "Dogaressa",
+    "image": "Dogaressa",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: If {{CARD:46|1}} is on your board, gain +{{HP:3}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

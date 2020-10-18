@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "PATIENCE",
+    "id": 75,
+    "fixedId": 75,
+    "typeCard": 1,
+    "name": "Snow Storm",
+    "image": "Snow_Storm",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Kill all paralyzed monsters in play."
+  },
+  "diffs": [
+    "New"
+  ]
+}

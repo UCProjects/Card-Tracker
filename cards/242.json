@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": true,
+    "anotherChance": false,
+    "candy": false,
+    "id": 242,
+    "fixedId": 242,
+    "typeCard": 0,
+    "name": "Burger Bush",
+    "image": "Burger_Bush",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "tribe": "SNAIL",
+    "originalAttack": 1,
+    "originalHp": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 223,
+    "fixedId": 223,
+    "typeCard": 0,
+    "name": "Yellow Snail",
+    "image": "Yellow_Snail",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Give +{{HP:1}} to your other {{TRIBE:SNAIL|2}} in play."
+  },
+  "diffs": [
+    "New"
+  ]
+}

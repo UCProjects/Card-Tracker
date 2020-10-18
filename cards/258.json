@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 258,
+    "fixedId": 258,
+    "typeCard": 1,
+    "name": "Fast Sanction",
+    "image": "Fast_Sanction",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal 2-{{DMG:5}} to a monster. If result was 3 or lower, send back this card to your hand."
+  },
+  "diffs": [
+    "New"
+  ]
+}

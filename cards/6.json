@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 6,
+    "fixedId": 6,
+    "typeCard": 0,
+    "name": "Vegetoid",
+    "image": "Vegetoid",
+    "cost": 3,
+    "rarity": "BASE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Restore {{HP:5}} to its owner."
+  },
+  "diffs": [
+    "New"
+  ]
+}

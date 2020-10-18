@@ -1,0 +1,19 @@
+{
+  "card": {
+    "id": 368,
+    "fixedId": 368,
+    "typeCard": 1,
+    "name": "Big Mine",
+    "image": "Big_Mine",
+    "cost": 6,
+    "rarity": "GENERATED",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURBO}}: Deal {{DMG:6}} to you and {{DMG:2}} to your monsters and draw a card."
+  },
+  "diffs": [
+    "New"
+  ]
+}

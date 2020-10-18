@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "PERSEVERANCE",
+    "id": 88,
+    "fixedId": 88,
+    "typeCard": 1,
+    "name": "Termination",
+    "image": "Termination",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Kill a monster under {{KR}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

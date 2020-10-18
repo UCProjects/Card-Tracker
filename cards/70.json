@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "DETERMINATION",
+    "id": 70,
+    "fixedId": 70,
+    "typeCard": 1,
+    "name": "Hyper Goner",
+    "image": "Hyper_Goner",
+    "cost": 38,
+    "rarity": "EPIC",
+    "originalCost": 38,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
+  },
+  "diffs": [
+    "New"
+  ]
+}

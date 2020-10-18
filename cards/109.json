@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "AMALGAMATE",
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 109,
+    "fixedId": 109,
+    "typeCard": 0,
+    "name": "Everyman",
+    "image": "Everyman",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Can't be damaged during your turn. {{KW:MAGIC}}: Give +1/+1 to another random ally {{TRIBE:AMALGAMATE|1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

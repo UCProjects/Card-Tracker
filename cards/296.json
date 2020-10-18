@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 0,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 296,
+    "fixedId": 296,
+    "typeCard": 0,
+    "name": "Jar of Worms",
+    "image": "Jar_of_Worms",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:MAGIC}} and {{KW:TURN_START}}: Summon 1 {{CARD:373|1}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

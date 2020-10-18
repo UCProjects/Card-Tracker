@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 380,
+    "fixedId": 380,
+    "typeCard": 0,
+    "name": "K-Round",
+    "image": "K-Round",
+    "cost": 5,
+    "rarity": "GENERATED",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": ""
+  },
+  "diffs": [
+    "New"
+  ]
+}

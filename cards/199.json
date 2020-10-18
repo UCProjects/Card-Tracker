@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 5,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 199,
+    "fixedId": 199,
+    "typeCard": 0,
+    "name": "Manticore",
+    "image": "Manticore",
+    "cost": 7,
+    "rarity": "RARE",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Both players draw two cards."
+  },
+  "diffs": [
+    "New"
+  ]
+}

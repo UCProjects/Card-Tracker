@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 58,
+    "fixedId": 58,
+    "typeCard": 0,
+    "name": "Asriel",
+    "image": "Asriel",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:MAGIC}}: Remove all negative effects from your other monsters and {{KW:TURN_END}}: Heal them by {{HP:2}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "DETERMINATION",
+    "id": 129,
+    "fixedId": 129,
+    "typeCard": 1,
+    "name": "Knife",
+    "image": "Knife",
+    "cost": 3,
+    "rarity": "BASE",
+    "originalCost": 3,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Kill an enemy monster. Deal dead monster's {{COST}} as {{DMG}} to yourself."
+  },
+  "diffs": [
+    "New"
+  ]
+}

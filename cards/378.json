@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 378,
+    "fixedId": 378,
+    "typeCard": 0,
+    "name": "C-Round",
+    "image": "C-Round",
+    "cost": 3,
+    "rarity": "EPIC",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:DUST}}: Return this monster to your hand and add a {{CARD:379|1}} to your deck."
+  },
+  "diffs": [
+    "New"
+  ]
+}

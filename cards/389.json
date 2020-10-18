@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 1,
+    "originalHp": 5,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": true,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 389,
+    "fixedId": 389,
+    "typeCard": 0,
+    "name": "Mirror",
+    "image": "Mirror",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "description": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes DMG, deal as much {{DMG}} to a random enemy monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

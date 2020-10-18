@@ -1,0 +1,21 @@
+{
+  "card": {
+    "classe": "INTEGRITY",
+    "id": 257,
+    "fixedId": 257,
+    "typeCard": 1,
+    "name": "Golden Hit",
+    "image": "Golden_Hit",
+    "cost": 0,
+    "rarity": "RARE",
+    "originalCost": 0,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equals to the amount spent. Convert extra {{DMG}} into {{GOLD}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

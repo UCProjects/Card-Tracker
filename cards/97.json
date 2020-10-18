@@ -1,0 +1,20 @@
+{
+  "card": {
+    "classe": "JUSTICE",
+    "id": 97,
+    "fixedId": 97,
+    "typeCard": 1,
+    "name": "Strafe",
+    "image": "Strafe",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Deal {{DMG:2}} to all enemy monsters."
+  },
+  "diffs": [
+    "New"
+  ]
+}

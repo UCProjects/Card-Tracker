@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "tribe": "G_FOLLOWER",
+    "originalAttack": 5,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 120,
+    "fixedId": 120,
+    "typeCard": 0,
+    "name": "G Follower 3",
+    "image": "G_Follower_3",
+    "cost": 8,
+    "rarity": "COMMON",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:FUTURE}} (4): Kill a random enemy monster."
+  },
+  "diffs": [
+    "New"
+  ]
+}

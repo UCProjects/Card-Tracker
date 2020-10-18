@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 3,
+    "originalHp": 9,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 165,
+    "fixedId": 165,
+    "typeCard": 0,
+    "name": "Oni",
+    "image": "Oni",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:TURN_START}}: Gain +{{ATK:2}}."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "tribe": "LOST_SOUL",
+    "originalAttack": 2,
+    "originalHp": 3,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 365,
+    "fixedId": 365,
+    "typeCard": 0,
+    "name": "Lost Soul 6",
+    "image": "Lost_Soul_6",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "{{KW:DUST}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and it reduce its {{COST}} by 1."
+  },
+  "diffs": [
+    "New"
+  ]
+}

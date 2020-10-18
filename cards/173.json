@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 0,
+    "originalHp": 6,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 173,
+    "fixedId": 173,
+    "typeCard": 0,
+    "name": "Temmie Statue",
+    "image": "Temmie_Statue",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "description": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give +1/+1 to the summoned {{TRIBE:TEMMIE|1}}. If it has {{KW:HASTE}}, give it +2/+2 instead."
+  },
+  "diffs": [
+    "New"
+  ]
+}

@@ -3,6 +3,7 @@ const hash = require('./hash');
 const needle = require('needle');
 const util = require('util');
 
+const commit = true;
 
 const readFile = util.promisify(fs.readFile);
 const access = util.promisify(fs.access);
@@ -44,7 +45,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           Object.keys(card).forEach((key) => {
             const prev = old[key];
             const now = card[key];
-            if (now !== prev) {
+            if (now !== prev && (!Array.isArray(now) || now.length !== prev.length)) {
               // changes.push(`${key}: ${prev !== undefined ? `${prev} ->` : '(new)'} ${now}`);
               diffs.push({ key, now, prev });
             }
@@ -65,7 +66,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           },
           changes: diffs.length,
         };
-      }).then((data) => writeFile(path, JSON.stringify(data, undefined, 2)).then(() => data));
+      }).then((data) => commit ? writeFile(path, JSON.stringify(data, undefined, 2)).then(() => data) : data);
     });
 
     return Promise.all(promises).then((data) => {

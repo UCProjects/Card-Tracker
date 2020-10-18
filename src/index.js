@@ -45,7 +45,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           Object.keys(card).forEach((key) => {
             const prev = old[key];
             const now = card[key];
-            if (now !== prev && (!Array.isArray(now) || now.length !== prev.length)) {
+            if (now !== prev && (!Array.isArray(now) || prev === undefined || now.length !== prev.length)) {
               // changes.push(`${key}: ${prev !== undefined ? `${prev} ->` : '(new)'} ${now}`);
               diffs.push({ key, now, prev });
             }

@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

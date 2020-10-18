@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Give your monsters +1 {{HP}}. At the start of its 3rd turn, die and give +2/+1 to your monsters."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

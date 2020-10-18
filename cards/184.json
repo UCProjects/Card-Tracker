@@ -6,22 +6,32 @@
     "typeCard": 1,
     "name": "Soothing",
     "image": "Soothing",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Set a monster's {{ATK}} to 3 and {{HP}} to 2."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

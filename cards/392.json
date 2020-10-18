@@ -3,7 +3,6 @@
     "attack": 3,
     "hp": 2,
     "maxHp": 2,
-    "tribe": "PLANT",
     "originalAttack": 3,
     "originalHp": 2,
     "dodge": 0,
@@ -32,41 +31,17 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 1
-      },
-      "hp": {
-        "now": 2,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}.",
-        "prev": "Whenever an ally {{TRIBE:PLANT|1}} is summoned, gain +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

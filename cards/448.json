@@ -1,0 +1,27 @@
+{
+  "card": {
+    "id": 448,
+    "fixedId": 448,
+    "typeCard": 1,
+    "name": "Heart Chaos",
+    "image": "Heart_Chaos",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribe": "CHAOS_WEAPON",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "Restore 7 {{HP}} to all allies."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -33,13 +33,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG:3}}, draw 3 cards and restore {{HP:3}} to yourself."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

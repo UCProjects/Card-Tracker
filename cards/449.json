@@ -1,0 +1,27 @@
+{
+  "card": {
+    "id": 449,
+    "fixedId": 449,
+    "typeCard": 1,
+    "name": "Spade Chaos",
+    "image": "Spade_Chaos",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribe": "CHAOS_WEAPON",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "Deal 2 {{DMG}} to all enemies."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -14,27 +14,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      },
-      "description": {
-        "now": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}.",
-        "prev": "Look at 3 random cards in your deck. Choose one and add its copy to your hand with -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

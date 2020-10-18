@@ -13,12 +13,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

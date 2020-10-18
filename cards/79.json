@@ -14,12 +14,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:SILENCE}} an enemy {{KW:TAUNT}} monster. If used on a non {{KW:TAUNT}} monster, draw a card instead."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

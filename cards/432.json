@@ -32,12 +32,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Has +1 {{KW:THORNS}} for each other monster on the board."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:ARMOR}} (2). {{KW:MAGIC}}: Add a random different Gerson's artifact."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

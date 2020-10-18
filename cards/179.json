@@ -13,12 +13,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Give your monsters +1/+1. If you have {{HP:1}}, give them +7/+7 instead."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

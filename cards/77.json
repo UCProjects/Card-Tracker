@@ -13,19 +13,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Add 3 random monsters costing 3 to your deck with +1/+1. Draw a card."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Add 3 random monsters costing 3 to your deck with +1/+1. Draw a card.",
-        "prev": "Add 3 random monsters costing 3 or less in your deck with +1/+1. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

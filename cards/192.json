@@ -3,7 +3,6 @@
     "attack": 1,
     "hp": 10,
     "maxHp": 10,
-    "tribe": "BOMB",
     "originalAttack": 1,
     "originalHp": 10,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "BOMB",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:TURN_START}}: Kill all monsters on the board. {{KW:DUST}}: Kill its killer."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

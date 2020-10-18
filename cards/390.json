@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Silence all ally monsters."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

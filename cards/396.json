@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:SUPPORT}}: Give +{{ATK:1}} to the attacking monster if its {{ATK}} is 3 or greater."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

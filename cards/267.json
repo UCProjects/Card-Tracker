@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Summon 2 different dead ally {{KW:DUST}} monsters costing 7 or less that died this game on adjacent slots."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

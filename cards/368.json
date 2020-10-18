@@ -12,14 +12,20 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURBO}}: Deal {{DMG:6}} to you and {{DMG:2}} to your monsters and draw a card."
+    "description": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card.",
+        "prev": "{{KW:TURBO}}: Deal {{DMG:6}} to you and {{DMG:2}} to your monsters and draw a card."
+      }
+    }
   }
 }

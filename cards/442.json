@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 4,
+    "originalHp": 8,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 442,
+    "fixedId": 442,
+    "typeCard": 0,
+    "name": "Sand Dog",
+    "image": "Sand_Dog",
+    "cost": 10,
+    "rarity": "EPIC",
+    "originalCost": 10,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribe": "DOG",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon a 0/1 copy of this and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

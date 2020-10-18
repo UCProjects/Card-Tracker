@@ -3,7 +3,6 @@
     "attack": 1,
     "hp": 1,
     "maxHp": 1,
-    "tribe": "SNAIL",
     "originalAttack": 1,
     "originalHp": 1,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "SNAIL",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Give {{KW:CHARGE}} to your other {{TRIBE:SNAIL|2}} in play."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

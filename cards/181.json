@@ -14,23 +14,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ALL",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}.",
-        "prev": "Deal 1 {{DMG}}. If this killed a monster, add {{CARD:181|1}} into your hand."
-      }
-    }
+    "changed": {}
   }
 }

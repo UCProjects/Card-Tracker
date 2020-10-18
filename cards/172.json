@@ -3,7 +3,6 @@
     "attack": 2,
     "hp": 2,
     "maxHp": 2,
-    "tribe": "TEMMIE",
     "originalAttack": 2,
     "originalHp": 2,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "TEMMIE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Whenever {{CARD:50|1}}, {{CARD:356|1}} or {{CARD:200|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

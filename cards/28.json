@@ -32,24 +32,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 17,
-        "prev": 20
-      },
-      "originalCost": {
-        "now": 17,
-        "prev": 20
-      }
-    }
+    "changed": {}
   }
 }

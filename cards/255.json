@@ -6,26 +6,31 @@
     "typeCard": 1,
     "name": "Rage",
     "image": "Rage",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {
-      "description": {
-        "now": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it.",
-        "prev": "Deal selected ally monster's {{ATK}} as {{DMG}} to the monster in front of it and extra {{DMG}} to its owner (max: 6)."
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
       }
     }
   }

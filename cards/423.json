@@ -33,12 +33,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Choose between {{CARD:10|1}}, {{CARD:9|1}} or {{CARD:31|1}}. Add the chosen card to your hand."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

@@ -32,12 +32,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: If you have {{CARD:429|1}} and {{CARD:430|1}} in your dustpile, remove them and turn this into a {{CARD:431|1}}."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

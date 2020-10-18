@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
+    "dodge": 0,
+    "thorns": 1,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 435,
+    "fixedId": 435,
+    "typeCard": 0,
+    "name": "Ficus Licker",
+    "image": "Ficus_Licker",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:THORNS}} (1). {{KW:MAGIC}}: Give an ally monster +1 {{KW:THORNS}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

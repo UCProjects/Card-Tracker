@@ -3,7 +3,6 @@
     "attack": 5,
     "hp": 6,
     "maxHp": 6,
-    "tribe": "AMALGAMATE",
     "originalAttack": 5,
     "originalHp": 6,
     "dodge": 0,
@@ -29,19 +28,27 @@
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
+    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "AMALGAMATE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Reveal your opponent's hand."
+    "description": "{{KW:MAGIC}}: Choose a card from your opponent's hand and increase its {{COST}} by 1."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "target": "RANGE",
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose a card from your opponent's hand and increase its {{COST}} by 1.",
+        "prev": "{{KW:MAGIC}}: Reveal your opponent's hand."
+      }
+    }
   }
 }

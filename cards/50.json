@@ -3,7 +3,6 @@
     "attack": 2,
     "hp": 1,
     "maxHp": 1,
-    "tribe": "TEMMIE",
     "originalAttack": 2,
     "originalHp": 1,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "TEMMIE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:CHARGE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

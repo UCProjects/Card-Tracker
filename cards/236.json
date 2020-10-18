@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 6,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -25,47 +25,47 @@
     "typeCard": 0,
     "name": "Hot Dog Vulkin",
     "image": "Hot_Dog_Vulkin",
-    "cost": 5,
+    "cost": 7,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 7,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Deal 2 {{DMG}} to an enemy monster or give +2 {{ATK}} to an ally monster."
+    "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
       "hp": {
-        "now": 4,
-        "prev": 5
+        "now": 6,
+        "prev": 4
       },
       "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
+        "now": 6,
+        "prev": 4
       },
       "originalHp": {
-        "now": 4,
+        "now": 6,
+        "prev": 4
+      },
+      "cost": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 7,
         "prev": 5
       },
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}} to an enemy monster or give +2 {{ATK}} to an ally monster.",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG:2}} and give +{{ATK:2}} to a monster."
+        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster.",
+        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}} to an enemy monster or give +2 {{ATK}} to an ally monster."
       }
     }
   }

@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 1,
+    "originalHp": 6,
+    "dodge": 0,
+    "thorns": 2,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 439,
+    "fixedId": 439,
+    "typeCard": 0,
+    "name": "Candle",
+    "image": "Candle",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "RANGE",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Look at 3 random non-DT {{KW:DUST}} monsters and choose one. Add it to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

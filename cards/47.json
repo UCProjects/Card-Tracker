@@ -3,7 +3,6 @@
     "attack": 6,
     "hp": 3,
     "maxHp": 3,
-    "tribe": "DOG",
     "originalAttack": 6,
     "originalHp": 3,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "DOG",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: If {{CARD:46|1}} is on your board, gain +{{HP:3}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

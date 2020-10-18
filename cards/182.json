@@ -13,23 +13,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Both players skip their next turn."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   }
 }

@@ -32,12 +32,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Send a {{CARD:312|1}} from your dustpile to your hand."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

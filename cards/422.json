@@ -3,7 +3,6 @@
     "attack": 4,
     "hp": 5,
     "maxHp": 5,
-    "tribe": "PLANT",
     "originalAttack": 4,
     "originalHp": 5,
     "dodge": 0,
@@ -33,13 +32,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each other ally {{TRIBE:PLANT}}."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

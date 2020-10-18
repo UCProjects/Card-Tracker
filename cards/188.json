@@ -3,7 +3,6 @@
     "attack": 0,
     "hp": 2,
     "maxHp": 2,
-    "tribe": "PLANT",
     "originalAttack": 0,
     "originalHp": 2,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Draw a card and gain +{{HP:1}}. Trigger this effect again for each ally {{CARD:188|1}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

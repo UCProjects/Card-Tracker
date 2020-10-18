@@ -3,7 +3,6 @@
     "attack": 9,
     "hp": 8,
     "maxHp": 8,
-    "tribe": "ROYAL_GUARD",
     "originalAttack": 9,
     "originalHp": 8,
     "dodge": 0,
@@ -32,16 +31,22 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "ROYAL_GUARD",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Give {{KW:RANGED}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:316|1}})."
+    "description": "{{KW:DUST}}: Give {{KW:RANGED}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give {{KW:RANGED}} to all ally {{TRIBE:ROYAL_GUARD|2}}.",
+        "prev": "{{KW:DUST}}: Give {{KW:RANGED}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:316|1}})."
+      }
+    }
   }
 }

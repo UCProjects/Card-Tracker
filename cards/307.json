@@ -3,7 +3,6 @@
     "attack": 2,
     "hp": 1,
     "maxHp": 1,
-    "tribe": "PLANT",
     "originalAttack": 2,
     "originalHp": 1,
     "dodge": 0,
@@ -33,14 +32,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster that costs 3 or less."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

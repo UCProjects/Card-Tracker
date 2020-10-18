@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 3,
-    "originalHp": 7,
+    "originalHp": 6,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -32,15 +32,32 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "Kill every summoned enemy monster ({{COST}}<= 2) and restore its {{HP}}."
+    "description": "{{KW:TURN_START}}: and {{KW:TURN_END}}: Kill a random <= 2 {{GOLD}} monster and restore its {{HP}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:TURN_START}}: and {{KW:TURN_END}}: Kill a random <= 2 {{GOLD}} monster and restore its {{HP}}.",
+        "prev": "Kill every summoned enemy monster ({{COST}}<= 2) and restore its {{HP}}."
+      }
+    }
   }
 }

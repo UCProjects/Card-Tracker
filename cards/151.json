@@ -33,13 +33,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Copy an enemy monster's current ATK, HP, {{KW:TAUNT}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:CANDY}} and {{KW:RANGED}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

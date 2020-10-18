@@ -32,15 +32,20 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Remove 2 random monsters from your dustpile and add them to your hand."
+    "description": "{{KW:MAGIC}}: Remove 2 random other monsters from your Dustpile and add them to your hand."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Remove 2 random other monsters from your Dustpile and add them to your hand.",
+        "prev": "{{KW:MAGIC}}: Remove 2 random monsters from your dustpile and add them to your hand."
+      }
+    }
   }
 }

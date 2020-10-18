@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 4,
+    "originalHp": 8,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 443,
+    "fixedId": 443,
+    "typeCard": 0,
+    "name": "Spade Chain",
+    "image": "Spade_Chain",
+    "cost": 11,
+    "rarity": "EPIC",
+    "originalCost": 11,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG}} to a monster equal to half its cost (Rounded up)."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

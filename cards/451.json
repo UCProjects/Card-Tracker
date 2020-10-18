@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 451,
+    "fixedId": 451,
+    "typeCard": 0,
+    "name": "Red Flower",
+    "image": "Red_Flower",
+    "cost": 5,
+    "rarity": "GENERATED",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribe": "PLANT",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -3,7 +3,6 @@
     "attack": 10,
     "hp": 7,
     "maxHp": 7,
-    "tribe": "ROYAL_GUARD",
     "originalAttack": 10,
     "originalHp": 7,
     "dodge": 0,
@@ -32,16 +31,22 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "ROYAL_GUARD",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|2}} in your hand by 2 (excluding {{CARD:39|1}})."
+    "description": "{{KW:DUST}}: Reduce the {{COST}} of all {{TRIBE:ROYAL_GUARD|2}} in your hand by 2."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Reduce the {{COST}} of all {{TRIBE:ROYAL_GUARD|2}} in your hand by 2.",
+        "prev": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|2}} in your hand by 2 (excluding {{CARD:39|1}})."
+      }
+    }
   }
 }

@@ -3,7 +3,6 @@
     "attack": 2,
     "hp": 2,
     "maxHp": 2,
-    "tribe": "PLANT",
     "originalAttack": 2,
     "originalHp": 2,
     "dodge": 0,
@@ -32,16 +31,22 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Add a random {{TRIBE:PLANT|1}} to your hand."
+    "description": "{{KW:DUST}}: Add a {{CARD:451|1}} to your hand."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add a {{CARD:451|1}} to your hand.",
+        "prev": "{{KW:DUST}}: Add a random {{TRIBE:PLANT|1}} to your hand."
+      }
+    }
   }
 }

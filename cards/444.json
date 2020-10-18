@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 444,
+    "fixedId": 444,
+    "typeCard": 0,
+    "name": "Jevil",
+    "image": "Jevil",
+    "cost": 12,
+    "rarity": "LEGENDARY",
+    "originalCost": 12,
+    "target": "RANGE",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:MAGIC}}: Look at all {{TRIBE:CHAOS_WEAPON|2}} and choose one to cast."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

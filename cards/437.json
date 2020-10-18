@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 437,
+    "fixedId": 437,
+    "typeCard": 0,
+    "name": "Shyren's Agent",
+    "image": "Shyren's_Agent",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:MAGIC}}: Restore 4 {{HP}} to a damaged monster. Gain +1/+1 for each excess {{HP}} healed."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

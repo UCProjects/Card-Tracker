@@ -1,0 +1,27 @@
+{
+  "card": {
+    "id": 445,
+    "fixedId": 445,
+    "typeCard": 1,
+    "name": "Devilsknife",
+    "image": "Devilsknife",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribe": "CHAOS_WEAPON",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "Kill a random enemy monster."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

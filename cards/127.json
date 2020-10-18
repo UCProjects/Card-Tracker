@@ -32,15 +32,20 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 different 1 costing spells to your hand."
+    "description": "{{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand.",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 different 1 costing spells to your hand."
+      }
+    }
   }
 }

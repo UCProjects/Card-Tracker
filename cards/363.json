@@ -1,11 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 5,
-    "maxHp": 5,
-    "tribe": "LOST_SOUL",
-    "originalAttack": 2,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -17,7 +16,7 @@
     "taunt": false,
     "ranged": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "anotherChance": false,
     "candy": false,
@@ -32,16 +31,46 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "LOST_SOUL",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Give {{KW:HASTE}} to 2 random monsters in your hand."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a copy of its killer to your hand and give it {{KW:HASTE}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a copy of its killer to your hand and give it {{KW:HASTE}}.",
+        "prev": "{{KW:DUST}}: Give {{KW:HASTE}} to 2 random monsters in your hand."
+      }
+    }
   }
 }

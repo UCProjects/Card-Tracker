@@ -3,7 +3,6 @@
     "attack": 0,
     "hp": 7,
     "maxHp": 7,
-    "tribe": "PLANT",
     "originalAttack": 0,
     "originalHp": 7,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:TURN_END}}: Put in your hand all allied monsters that died during your turn."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

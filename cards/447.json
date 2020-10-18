@@ -1,0 +1,27 @@
+{
+  "card": {
+    "id": 447,
+    "fixedId": 447,
+    "typeCard": 1,
+    "name": "Club Chaos",
+    "image": "Club_Chaos",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribe": "CHAOS_WEAPON",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "Cast 7 random spells costing <= {{GOLD:4}} on random targets."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

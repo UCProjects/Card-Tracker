@@ -3,7 +3,6 @@
     "attack": 3,
     "hp": 4,
     "maxHp": 4,
-    "tribe": "PLANT",
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
@@ -33,13 +32,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 3 random 4-cost monsters and catch one. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

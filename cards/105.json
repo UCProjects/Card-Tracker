@@ -3,7 +3,6 @@
     "attack": 1,
     "hp": 6,
     "maxHp": 6,
-    "tribe": "PLANT",
     "originalAttack": 1,
     "originalHp": 6,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Copy a card of your opponent's hand to your hand and reduce its {{COST}} by 1."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

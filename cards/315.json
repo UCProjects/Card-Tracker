@@ -3,7 +3,6 @@
     "attack": 8,
     "hp": 9,
     "maxHp": 9,
-    "tribe": "ROYAL_GUARD",
     "originalAttack": 8,
     "originalHp": 9,
     "dodge": 0,
@@ -32,16 +31,22 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "ROYAL_GUARD",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Give {{KW:CANDY}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:315|1}})."
+    "description": "{{KW:DUST}}: Give {{KW:CANDY}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give {{KW:CANDY}} to all ally {{TRIBE:ROYAL_GUARD|2}}.",
+        "prev": "{{KW:DUST}}: Give {{KW:CANDY}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:315|1}})."
+      }
+    }
   }
 }

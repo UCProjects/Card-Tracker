@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 440,
+    "fixedId": 440,
+    "typeCard": 0,
+    "name": "Crystal Cheese",
+    "image": "Crystal_Cheese",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "target": "RANGE",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:MAGIC}}: Look at 3 random {{KW:DUST}} monsters costing <= 8 {{GOLD}} and catch one. {{KW:DUST}}: Release a 1/1 copy of it."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

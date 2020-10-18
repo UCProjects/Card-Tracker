@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:TURBO}}: Add a random {{TRIBE:SNAIL|1}} to your hand. {{KW:MAGIC}}: If you have 2+ {{TRIBE:SNAIL|1}} in play, add {{CARD:369|1}} to your hand."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

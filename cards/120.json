@@ -3,7 +3,6 @@
     "attack": 5,
     "hp": 6,
     "maxHp": 6,
-    "tribe": "G_FOLLOWER",
     "originalAttack": 5,
     "originalHp": 6,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "G_FOLLOWER",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:FUTURE}} (4): Kill a random enemy monster."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

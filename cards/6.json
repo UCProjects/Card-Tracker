@@ -3,7 +3,6 @@
     "attack": 3,
     "hp": 3,
     "maxHp": 3,
-    "tribe": "PLANT",
     "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:DUST}}: Restore {{HP:5}} to its owner."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

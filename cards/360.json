@@ -1,10 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 4,
     "maxHp": 4,
-    "tribe": "LOST_SOUL",
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
@@ -26,22 +25,40 @@
     "typeCard": 0,
     "name": "Lost Soul 1",
     "image": "Lost_Soul_1",
-    "cost": 4,
+    "cost": 5,
     "rarity": "GENERATED",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "LOST_SOUL",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:DUST}}: Set a random enemy monster's {{ATK}} to 1."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

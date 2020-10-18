@@ -32,28 +32,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:DUST}}: Draw 2 cards."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 1
-      }
-    }
+    "changed": {}
   }
 }

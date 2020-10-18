@@ -26,21 +26,30 @@
     "name": "Worm",
     "image": "Worm",
     "cost": 2,
-    "rarity": "GENERATED",
+    "rarity": "COMMON",
     "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
-    "description": "{{KW:HASTE}}. When this deals {{DMG}}, restore that much {{HP}} to you."
+    "description": "{{KW:HASTE}}. When this deals {{DMG}} to a monster, restore that much {{HP}} to you."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "GENERATED"
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. When this deals {{DMG}} to a monster, restore that much {{HP}} to you.",
+        "prev": "{{KW:HASTE}}. When this deals {{DMG}}, restore that much {{HP}} to you."
+      }
+    }
   }
 }

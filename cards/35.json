@@ -3,7 +3,6 @@
     "attack": 4,
     "hp": 6,
     "maxHp": 6,
-    "tribe": "AMALGAMATE",
     "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "AMALGAMATE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: If you have 5 or more cards in your hand, get {{KW:HASTE}} and {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

@@ -3,7 +3,6 @@
     "attack": 3,
     "hp": 4,
     "maxHp": 4,
-    "tribe": "PLANT",
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
@@ -33,14 +32,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it was already paralyzed, deal {{DMG:2}} to it."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

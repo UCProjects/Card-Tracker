@@ -3,7 +3,6 @@
     "attack": 3,
     "hp": 9,
     "maxHp": 9,
-    "tribe": "PLANT",
     "originalAttack": 3,
     "originalHp": 9,
     "dodge": 0,
@@ -32,13 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "PLANT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}} on adjacent slots."
   },
   "diffs": {
     "added": {
-      "new": true
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

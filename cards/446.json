@@ -1,0 +1,27 @@
+{
+  "card": {
+    "id": 446,
+    "fixedId": 446,
+    "typeCard": 1,
+    "name": "Diamond Chaos",
+    "image": "Diamond_Chaos",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribe": "CHAOS_WEAPON",
+    "selectCards": [],
+    "ownerId": 0,
+    "imageExtension": "png",
+    "description": "Draw 3 cards. Reduce the cost of the cards drawn by 1."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

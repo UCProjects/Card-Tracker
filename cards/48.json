@@ -3,7 +3,6 @@
     "attack": 4,
     "hp": 6,
     "maxHp": 6,
-    "tribe": "DOG",
     "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "DOG",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain +{{HP:3}} if you have a {{TRIBE:DOG|1}} in your hand."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

@@ -3,7 +3,6 @@
     "attack": 3,
     "hp": 4,
     "maxHp": 4,
-    "tribe": "AMALGAMATE",
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "AMALGAMATE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Put a random card in the enemy player's hand back into his deck."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

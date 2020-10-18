@@ -3,7 +3,6 @@
     "attack": 1,
     "hp": 1,
     "maxHp": 1,
-    "tribe": "FROGGIT",
     "originalAttack": 1,
     "originalHp": 1,
     "dodge": 0,
@@ -32,14 +31,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribe": "FROGGIT",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": ""
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

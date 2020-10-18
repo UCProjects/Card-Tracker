@@ -32,13 +32,13 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "When you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: {{KW:TURBO}} monsters in your hand {{COST}} 1 less."
   },
   "diffs": {
     "added": {
-      "thorns": 0,
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

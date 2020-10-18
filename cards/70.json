@@ -13,12 +13,13 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "ownerId": 0,
     "imageExtension": "png",
     "description": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
   },
   "diffs": {
     "added": {
-      "imageExtension": "png"
+      "ownerId": 0
     },
     "removed": {},
     "changed": {}

@@ -1,1612 +1,1773 @@
 {
   "1": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "2": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "3": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "4": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "5": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "6": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "7": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "8": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "9": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "10": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "11": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "12": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "13": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "14": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. This takes 1 less {{DMG}} from monsters costing 4 or less.",
-        "prev": "{{KW:TAUNT}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "15": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "16": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "17": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "18": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "19": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it.",
-        "prev": "{{KW:DUST}}: If there is an ally {{TRIBE:MOLD|1}}, summon a {{CARD:4|1}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "20": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "21": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "22": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "23": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "24": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "25": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "26": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "27": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "28": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "29": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "30": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Earn 9 {{GOLD}}. {{KW:DELAY}}: Give your opponent 4 {{GOLD}}.",
-        "prev": "{{KW:MAGIC}}: Earn {{GOLD:9}} and {{KW:TURN_END}}: Give your opponent {{GOLD:4}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "31": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "32": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "33": {
-    "added": {
-      "target": "ENEMY_MONSTER"
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "cost": {
-        "now": 9,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand.",
-        "prev": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1."
-      }
-    }
+    "changed": {}
   },
   "34": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "35": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
       "tribes": {
         "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "MOLD"
+        ],
+        "prev": [
+          "MOLD",
+          "AMALGAMATE"
         ]
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Gain {{KW:TAUNT}}. If you have 5 or more cards in your hand, gain {{KW:HASTE}} instead.",
-        "prev": "{{KW:MAGIC}}: If you have 5 or more cards in your hand, get {{KW:HASTE}} and {{KW:TAUNT}}."
       }
     }
   },
   "36": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "37": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Draw a {{TRIBE:MOLD|1}} from your deck and give it +1 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}} to a random enemy monster. If there is an ally {{TRIBE:MOLD|1}}, deal 4 {{DMG}} instead."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "38": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "39": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "40": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "41": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "42": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "43": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "44": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "45": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "46": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "47": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "48": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "49": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "50": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "51": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "52": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "53": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "54": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "55": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "56": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "57": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "58": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Remove all negative effects from your other monsters. {{KW:DELAY}}: Heal them by 2 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Remove all negative effects from your other monsters and {{KW:TURN_END}}: Heal them by {{HP:2}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "59": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "60": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "61": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "62": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "63": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "64": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "65": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 14
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 14
-      },
-      "description": {
-        "now": "You are {{KW:INVULNERABLE}}. Costs 1 more for each other monster. {{KW:MAGIC}}: Gain 3 {{HP}} for each other monster. {{KW:DUST}}: Add {{CARD:65|1}} to your deck.",
-        "prev": "You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Gain +{{HP:3}} for each other monster. {{KW:DUST}}: Add {{CARD:65|1}} to your deck."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "66": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "67": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too.",
+        "prev": "Add a copy of 2 non {{RARITY:GENERATED}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+      }
+    }
   },
   "68": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "69": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "70": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "71": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "72": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "73": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "74": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "75": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "76": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "77": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "78": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "79": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "80": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "81": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "82": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "83": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "84": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "85": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "86": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "87": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "88": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "89": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "90": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "91": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "92": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "93": {
     "added": {},
     "removed": {
-      "target": "MONSTER"
+      "creatorFixedId": 0
     },
-    "changed": {
-      "description": {
-        "now": "Gain +10 max {{HP}}.",
-        "prev": "Fully heal a monster. Give +{{HP:1}} for each restored {{HP}}. Give {{KW:CANDY}}."
-      }
-    }
+    "changed": {}
   },
   "94": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 1
-      },
-      "description": {
-        "now": "Fully heal all damaged ally monsters. Give undamaged ally monsters +1/+1.",
-        "prev": "Fully heal all ally monsters. Costs 1 more for each damaged ally monster on the board."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "95": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "96": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "97": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "98": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "99": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "100": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "101": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "102": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "103": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill an enemy monster with 2 or less {{ATK}}.",
+        "prev": "{{KW:MAGIC}}: Kill a random enemy monster with 2 or less {{ATK}}."
+      }
+    }
   },
   "104": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "105": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "106": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "107": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "108": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "109": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "110": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "111": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "112": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "113": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "114": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "115": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "116": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If there is a {{KW:TAUNT}} monster on the board, gain {{KW:CHARGE}}.",
-        "prev": "{{KW:MAGIC}}: Gain {{KW:CHARGE}} if your opponent has a {{KW:TAUNT}} monster."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "117": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "118": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "119": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "120": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "121": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "122": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "123": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "124": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "125": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "126": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "127": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "128": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "129": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "130": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "131": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "132": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "133": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "134": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "135": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "136": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "137": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "138": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 3
-      },
-      "hp": {
-        "now": 6,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "cost": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 3
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "139": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "140": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "141": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "142": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "143": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "144": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "145": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "146": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "147": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "148": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "149": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "150": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "151": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "152": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "153": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "154": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "160": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "161": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "162": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "163": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "164": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-6 {{GOLD}} (or {{CARD:65|1}} with a low chance) and set its stats to 2/2.",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random other monster ({{COST}} <= 2) or {{CARD:65|1}} with a low chance."
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-5 {{GOLD}} and set its base stats to 2/2.",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-6 {{GOLD}} (or {{CARD:65|1}} with a low chance) and set its stats to 2/2."
       }
     }
   },
   "165": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "166": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "167": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "168": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "169": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "170": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "171": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "172": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "173": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "174": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "175": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "176": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "177": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "178": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "179": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 6
-      },
-      "description": {
-        "now": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give them +7/+7 instead.",
-        "prev": "Summon the next {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}}. Then, if you have 15 {{HP}} or less, give all ally monsters +1/+1."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "180": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "181": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "182": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "183": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "184": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "185": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "186": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "187": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "188": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "191": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "192": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "193": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "194": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
       "hp": {
-        "now": 3,
-        "prev": 4
+        "now": 6,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
+        "now": 6,
+        "prev": 3
       },
       "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
         "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Kill an ally monster to gain +1 {{ATK}} and {{KW:HASTE}}.",
-        "prev": "{{KW:MAGIC}}: Kill an ally monster and gain +2/+2."
+        "prev": 3
       }
     }
   },
   "195": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "196": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "197": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "198": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "199": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Both players draw 2 cards.",
-        "prev": "{{KW:MAGIC}}: Both players draw up to 2 cards."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "200": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:GENERATED}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}}).",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other {{TRIBE:TEMMIE|1}} to your hand (From lowest to highest {{COST}})."
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:TOKEN}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}}).",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:GENERATED}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}})."
       }
     }
   },
   "201": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "202": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "203": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|2}}.",
+        "prev": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random generated {{TRIBE:LOST_SOUL|2}}."
+      }
+    }
   },
   "214": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "215": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "216": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "217": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "218": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "219": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "220": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "221": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "222": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "223": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "224": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "225": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "226": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "227": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "228": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DISARMED}}. {{KW:SYNERGY}}: {{KW:SILENCE}} itself.",
-        "prev": "{{KW:DISARMED}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "229": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "235": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "236": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "237": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "238": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "239": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "240": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "241": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "242": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "243": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "244": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "245": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "246": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "247": {
-    "added": {
-      "target": "ENEMY_MONSTER"
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 5
-      },
-      "hp": {
-        "now": 4,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 7
-      },
-      "cost": {
-        "now": 4,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this.",
-        "prev": "{{KW:TURBO}}: and {{KW:MAGIC}}: {{KW:SILENCE}} a random enemy monster."
-      }
-    }
+    "changed": {}
   },
   "248": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "249": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "250": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "251": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "252": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "253": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "254": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "255": {
     "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "256": {
-    "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "name": {
-        "now": "Soul Drain",
-        "prev": "Faded Memory"
-      },
-      "image": {
-        "now": "Soul_Drain",
-        "prev": "Faded_Memory"
-      },
-      "baseImage": {
-        "now": "Soul_Drain",
-        "prev": "Faded_Memory"
-      },
-      "cost": {
-        "now": 0,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 4
-      },
       "description": {
-        "now": "Deal 2 {{DMG}} to yourself and draw a card.",
-        "prev": "Look at all {{TRIBE:LOST_SOUL|2}}. Choose one to summon."
+        "now": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2.",
+        "prev": "Give all monsters in your hand and board that didn't start in your deck +1/+2."
       }
     }
   },
+  "256": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
+  },
   "257": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "258": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "259": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "260": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "261": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "262": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "263": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "264": {
     "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "265": {
-    "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "266": {
-    "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "267": {
-    "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots.",
-        "prev": "{{KW:MAGIC}}: Summon 2 different dead ally {{KW:DUST}} monsters costing 7 or less that died this game on adjacent slots."
-      }
-    }
-  },
-  "270": {
-    "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "271": {
-    "added": {},
-    "removed": {},
-    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
       "cost": {
         "now": 7,
         "prev": 8
@@ -1615,1496 +1776,2035 @@
         "now": 7,
         "prev": 8
       },
-      "target": {
-        "now": "ALLY_MONSTER",
-        "prev": "MONSTER"
-      },
       "description": {
-        "now": "{{KW:MAGIC}}: Transform an ally monster into {{CARD:372|1}}.",
-        "prev": "{{KW:MAGIC}}: Turn a monster into the {{CARD:372|1}}."
+        "now": "{{KW:MAGIC}}: Look at all non-{{RARITY:DETERMINATION}} monsters in your hand and choose one. Summon a 3/3 copy of it.",
+        "prev": "{{KW:MAGIC}}: Choose a non-DT monster from your hand. Summon it. {{KW:TURN_START}}: Return it to your hand."
       }
     }
+  },
+  "265": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
+  },
+  "266": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
+  },
+  "267": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
+  },
+  "270": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
+  },
+  "271": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "272": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:375|1}} instead.",
-        "prev": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:451|1}}, if there are none summon a {{CARD:375|1}} instead."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "273": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "274": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "275": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "276": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "277": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "278": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:SUPPORT}}: Restore 2 {{HP}} to the attacker. If it was a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well.",
-        "prev": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}. If it is a {{TRIBE:PLANT|1}}, also gives it +1/+1."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "279": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "280": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 8
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set all other monsters stats to 3/3.",
+        "prev": "{{KW:TURN_START}}: Attack a random enemy."
+      }
+    }
   },
   "281": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "282": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon the most expensive other monster from your deck that costs less than this.",
-        "prev": "{{KW:MAGIC}}: Summon a random monster from your deck that costs less than this monster."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "285": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "286": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "287": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "288": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "289": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "290": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "291": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "292": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "293": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "294": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "295": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "296": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "297": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "298": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "299": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "300": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "301": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "302": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "303": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Has {{ATK}} equal to number of other ally {{TRIBE:PLANT|2}} on board.",
+        "prev": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}."
+      }
+    }
   },
   "306": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "307": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "308": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: The opponent loses 1 {{GOLD}}. {{KW:SYNERGY}}: Gain 1 {{GOLD}}.",
-        "prev": "{{KW:MAGIC}}: Reduce the enemy's {{GOLD}} by 1."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "309": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "310": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "311": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "312": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "313": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "314": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "315": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "316": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "317": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "318": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "349": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "350": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "351": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "352": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "353": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "354": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "355": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "356": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "357": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "358": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "359": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "360": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "361": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "362": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "363": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Heal 3 {{HP}} to a random damaged ally monster and yourself.",
-        "prev": "{{KW:DUST}}: Draw a monster and give it +1/+1."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "364": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "365": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give 2 random monsters in your hand +1/+1.",
-        "prev": "{{KW:DUST}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and reduce its {{COST}} by 2."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "366": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "367": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Deal 2 {{DMG}} to yourself. Draw a card.",
-        "prev": "{{KW:TURBO}}: Deal {{DMG:4}} to you, 2 to a random ally monster and draw a card."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "368": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "369": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Summon all dead ally 1-{{COST}} {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}} effects.",
-        "prev": "Summon all dead ally {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}}. Add a {{CARD:53|1}} to your hand."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "370": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "371": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "372": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "373": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "374": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "375": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "376": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "377": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "378": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "379": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "380": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "381": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "384": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "385": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "386": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "389": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "390": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "391": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "392": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "393": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "394": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "395": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "396": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "397": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "398": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "399": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "400": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "401": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "402": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "403": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "404": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "405": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "406": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "407": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "408": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "409": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "410": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "411": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "hp": {
-        "now": 7,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "cost": {
-        "now": 8,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 9
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right, halve this monster's stats as base stats (rounded up) and summon a copy of it.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4 (base stats), then summon an exact copy of this."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "412": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "413": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "414": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "415": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "416": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "417": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SHOCK}}: Draw a card.",
-        "prev": "Whenever you cast a spell with a base {{COST}} of 2 or more, draw a card."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "418": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "419": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 2
-      },
-      "hp": {
-        "now": 8,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 8,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 8,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with <= 2 {{HP}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with <= 2 {{HP}} and gain +2/+2 for each killed monster."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "420": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "421": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "422": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "423": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "424": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "425": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a {{KW:GENERATED}} card from your deck.",
+        "prev": "{{KW:MAGIC}}: Draw a card that didn't start in your deck."
+      }
+    }
   },
   "426": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "427": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "428": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "429": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "430": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "431": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "432": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}} (1). {{KW:DISARMED}}. {{KW:SUPPORT}}: Attack the rightmost enemy monster.",
+        "prev": "{{KW:ARMOR}} (1). {{KW:DISARMED}}. {{KW:SUPPORT}}: Attack a random enemy monster on the edge of the board."
+      }
+    }
   },
   "433": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "434": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "435": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      },
-      "tribes": {
-        "now": [
-          "PLANT"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} from your deck.",
-        "prev": "{{KW:MAGIC}}: Draw a card."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "436": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "437": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "438": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "439": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "440": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "441": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "442": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "443": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "444": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "445": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "446": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "447": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "448": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "449": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "450": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "451": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 5
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}.",
-        "prev": ""
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "452": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "453": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
       "description": {
-        "now": "Summon a 1/1 copy of 3 random different non-{{RARITY:GENERATED}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less.",
-        "prev": "Summon 3 random 1/1 copies of {{KW:DUST}} monsters with a {{COST}} of 3 or less from your dustpile."
+        "now": "Summon a 1/1 copy of 3 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less.",
+        "prev": "Summon a 1/1 copy of 3 random different non-{{RARITY:GENERATED}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
       }
     }
   },
   "454": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "455": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "456": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Heal 3 {{HP}} randomly split among your monsters. Give 3 random monsters in your hand +1/+1.",
-        "prev": "Heal 4 {{HP}} randomly split among ally damaged monsters. Give 3 random monsters in your hand +1/+1."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "457": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "458": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "459": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "460": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "461": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "462": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "463": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "464": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "465": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "466": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If your deck has no spell, look at all spells of your soul. Choose one to add to your hand, it costs 3 less (not below 2).",
-        "prev": "{{KW:MAGIC}}: If your deck has no spell, look at all spells of your soul. Choose one to add to your hand, it costs 3 less."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "467": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "468": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "469": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "470": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "471": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|1}} to your hand.",
+        "prev": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random generated {{TRIBE:LOST_SOUL|1}} to your hand."
+      }
+    }
   },
   "472": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "473": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "474": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "475": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "476": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "477": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT",
+          "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
+        ]
+      }
+    }
   },
   "478": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "479": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a {{CARD:479|1}}, {{KW:SILENCE}} this and gain {{KW:CHARGE}}.",
-        "prev": "{{KW:CHARGE}}. Whenever you cast a spell with a {{COST}} of 2 or higher, summon a {{CARD:479|1}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   },
   "480": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   },
   "481": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "482": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "483": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "Gain an extra life.",
-        "prev": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give +7/+7 instead."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "484": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "485": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "486": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "Add an exact copy of an ally monster to your hand (Except {{CARD:52|1}}).",
-        "prev": "Add an exact copy of an ally monster to your hand."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   },
   "487": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "488": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "489": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "490": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "491": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "492": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "493": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "494": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "495": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "496": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{TRIBE:SNAIL|2}} in your hand have +1 {{COST}}. {{TRIBE:SNAIL|2}} on your board have +1/+1.",
+        "prev": "Other {{TRIBE:SNAIL|2}} on your board and hand have +1/+1/+1."
+      }
+    }
   },
   "497": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "498": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "499": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "500": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "501": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "502": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "503": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Send a copy of all cards in your hand (except this) which didn't start in your deck to your deck with -1 {{COST}}."
+      }
+    }
   },
   "504": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "505": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "506": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "507": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "508": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "509": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "510": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "511": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "512": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "513": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "514": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "515": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: If it's not a {{RARITY:TOKEN}} spell, add {{CARD:516|1}} to your hand.",
+        "prev": "{{KW:SHOCK}}: If it's not a {{RARITY:GENERATED}} spell, add {{CARD:516|1}} to your hand."
+      }
+    }
   },
   "516": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "517": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "518": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "519": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "520": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "521": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "522": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "523": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "524": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "525": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   },
   "526": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "527": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "528": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "529": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "530": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "531": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "532": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "533": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "534": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   },
   "535": {
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
+  },
+  "536": {
     "added": {
       "new": true
     },

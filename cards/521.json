@@ -36,14 +36,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give an ally monster +2/+1. {{KW:DUST}}: Add {{CARD:522|1}} to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -35,17 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Earn 9 {{GOLD}}. {{KW:DELAY}}: Give your opponent 4 {{GOLD}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Earn 9 {{GOLD}}. {{KW:DELAY}}: Give your opponent 4 {{GOLD}}.",
-        "prev": "{{KW:MAGIC}}: Earn {{GOLD:9}} and {{KW:TURN_END}}: Give your opponent {{GOLD:4}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

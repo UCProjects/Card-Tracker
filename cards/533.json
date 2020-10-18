@@ -35,14 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: If your deck has no duplicate, summon a random card costing 4-7 from your dustpile."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   }
 }

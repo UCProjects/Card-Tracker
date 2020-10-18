@@ -35,17 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a {{CARD:479|1}}, {{KW:SILENCE}} this and gain {{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a {{CARD:479|1}}, {{KW:SILENCE}} this and gain {{KW:CHARGE}}.",
-        "prev": "{{KW:CHARGE}}. Whenever you cast a spell with a {{COST}} of 2 or higher, summon a {{CARD:479|1}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

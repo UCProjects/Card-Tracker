@@ -7,7 +7,7 @@
     "image": "Create_a_Machine",
     "baseImage": "Create_a_Machine",
     "cost": 1,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 1,
     "target": "MONSTER",
     "shiny": false,
@@ -18,14 +18,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Choose a monster on the board. Add a {{CARD:270|1}} with its {{COST}} and stats as base stats to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

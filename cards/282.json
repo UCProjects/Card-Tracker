@@ -35,17 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Summon the most expensive other monster from your deck that costs less than this."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon the most expensive other monster from your deck that costs less than this.",
-        "prev": "{{KW:MAGIC}}: Summon a random monster from your deck that costs less than this monster."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

@@ -36,47 +36,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this."
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 5
-      },
-      "hp": {
-        "now": 4,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 7
-      },
-      "cost": {
-        "now": 4,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this.",
-        "prev": "{{KW:TURBO}}: and {{KW:MAGIC}}: {{KW:SILENCE}} a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

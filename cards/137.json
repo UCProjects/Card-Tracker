@@ -35,12 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Whenever this survives {{DMG}}, summon another {{CARD:137|1}} (keep {{ATK}} buffs)."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

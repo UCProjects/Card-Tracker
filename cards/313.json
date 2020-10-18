@@ -38,12 +38,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:SYNERGY}}: Give +2 {{ATK}} and {{KW:HASTE}} to {{TRIBE:PIECE|2}} at its right and +2 {{HP}} and {{KW:TAUNT}} to {{TRIBE:PIECE|2}} at its left."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

@@ -35,12 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Deal {{DMG:1}} to all enemy monsters and {{DMG:3}} to the opponent."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

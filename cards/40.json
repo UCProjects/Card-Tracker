@@ -37,12 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Add a {{CARD:349|1}} to the enemy's hand."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

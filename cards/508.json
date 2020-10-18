@@ -35,14 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:SHOCK}}: Return 25% of the spell's {{COST}} (rounded up)."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   }
 }

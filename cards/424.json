@@ -37,12 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}} on adjacent slots."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

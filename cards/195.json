@@ -35,12 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:DUST}}: Summon a random {{TRIBE:DOG|1}}. If its {{COST}} is <= 3, add a {{CARD:195|1}} to your deck."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

@@ -22,25 +22,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give them +7/+7 instead."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 6
-      },
-      "description": {
-        "now": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give them +7/+7 instead.",
-        "prev": "Summon the next {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}}. Then, if you have 15 {{HP}} or less, give all ally monsters +1/+1."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

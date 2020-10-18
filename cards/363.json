@@ -25,7 +25,7 @@
     "image": "Lost_Papyrus",
     "baseImage": "Lost_Papyrus",
     "cost": 3,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -37,16 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:DUST}}: Heal 3 {{HP}} to a random damaged ally monster and yourself."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Heal 3 {{HP}} to a random damaged ally monster and yourself.",
-        "prev": "{{KW:DUST}}: Draw a monster and give it +1/+1."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   }

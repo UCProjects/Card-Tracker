@@ -37,14 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Whenever an ally {{TRIBE:PLANT|1}} dies, gain +1 {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   }
 }

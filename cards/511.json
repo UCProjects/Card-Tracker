@@ -7,7 +7,7 @@
     "image": "Tea_Set",
     "baseImage": "Tea_Set",
     "cost": 1,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 1,
     "target": "ALL",
     "shiny": false,
@@ -18,14 +18,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Heal 4 {{HP}}. If this targeted a monster, also give it +1/+1."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

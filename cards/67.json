@@ -22,12 +22,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "Add a copy of 2 non {{RARITY:GENERATED}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+    "description": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too.",
+        "prev": "Add a copy of 2 non {{RARITY:GENERATED}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+      }
+    }
   }
 }

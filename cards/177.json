@@ -38,12 +38,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Give an enemy monster -2/-2. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

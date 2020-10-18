@@ -11,7 +11,7 @@
     "image": "Royal_Justice",
     "baseImage": "Royal_Justice",
     "cost": 5,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
@@ -23,12 +23,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Your passive triggers an additional time."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

@@ -21,19 +21,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Gain +10 max {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "target": "MONSTER"
+      "creatorFixedId": 0
     },
-    "changed": {
-      "description": {
-        "now": "Gain +10 max {{HP}}.",
-        "prev": "Fully heal a monster. Give +{{HP:1}} for each restored {{HP}}. Give {{KW:CANDY}}."
-      }
-    }
+    "changed": {}
   }
 }

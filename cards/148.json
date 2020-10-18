@@ -36,12 +36,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Reduce a monster's {{ATK}} by 2 and add a random card with a {{COST}} equal to the monster's remaining {{ATK}} to your hand."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

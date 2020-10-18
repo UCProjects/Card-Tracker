@@ -36,12 +36,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG}} to a monster equal to half its cost (Rounded up)."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

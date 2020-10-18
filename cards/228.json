@@ -37,17 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:DISARMED}}. {{KW:SYNERGY}}: {{KW:SILENCE}} itself."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DISARMED}}. {{KW:SYNERGY}}: {{KW:SILENCE}} itself.",
-        "prev": "{{KW:DISARMED}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

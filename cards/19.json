@@ -37,21 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it.",
-        "prev": "{{KW:DUST}}: If there is an ally {{TRIBE:MOLD|1}}, summon a {{CARD:4|1}}."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

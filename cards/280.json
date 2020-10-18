@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 8,
+    "attack": 3,
     "hp": 8,
     "maxHp": 8,
-    "originalAttack": 8,
+    "originalAttack": 3,
     "originalHp": 8,
     "dodge": 0,
     "armor": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -35,12 +35,30 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "{{KW:TURN_START}}: Attack a random enemy."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set all other monsters stats to 3/3."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 8
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set all other monsters stats to 3/3.",
+        "prev": "{{KW:TURN_START}}: Attack a random enemy."
+      }
+    }
   }
 }

@@ -25,7 +25,7 @@
     "image": "Blockler_O",
     "baseImage": "Blockler_O",
     "cost": 5,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
@@ -35,20 +35,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   }

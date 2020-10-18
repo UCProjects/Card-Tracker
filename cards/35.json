@@ -31,53 +31,30 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "MOLD",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "MOLD"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Gain {{KW:TAUNT}}. If you have 5 or more cards in your hand, gain {{KW:HASTE}} instead."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
       "tribes": {
         "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "MOLD"
+        ],
+        "prev": [
+          "MOLD",
+          "AMALGAMATE"
         ]
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Gain {{KW:TAUNT}}. If you have 5 or more cards in your hand, gain {{KW:HASTE}} instead.",
-        "prev": "{{KW:MAGIC}}: If you have 5 or more cards in your hand, get {{KW:HASTE}} and {{KW:TAUNT}}."
       }
     }
   }

@@ -22,37 +22,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Deal 2 {{DMG}} to yourself and draw a card."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "name": {
-        "now": "Soul Drain",
-        "prev": "Faded Memory"
-      },
-      "image": {
-        "now": "Soul_Drain",
-        "prev": "Faded_Memory"
-      },
-      "baseImage": {
-        "now": "Soul_Drain",
-        "prev": "Faded_Memory"
-      },
-      "cost": {
-        "now": 0,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 4
-      },
-      "description": {
-        "now": "Deal 2 {{DMG}} to yourself and draw a card.",
-        "prev": "Look at all {{TRIBE:LOST_SOUL|2}}. Choose one to summon."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

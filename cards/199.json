@@ -35,25 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Both players draw 2 cards."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Both players draw 2 cards.",
-        "prev": "{{KW:MAGIC}}: Both players draw up to 2 cards."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

@@ -12,7 +12,7 @@
     "image": "Royal_Determination",
     "baseImage": "Royal_Determination",
     "cost": 4,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
@@ -24,16 +24,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Gain an extra life."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
-      "description": {
-        "now": "Gain an extra life.",
-        "prev": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give +7/+7 instead."
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
       }
     }
   }

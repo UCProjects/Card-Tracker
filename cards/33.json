@@ -39,35 +39,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand."
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "cost": {
-        "now": 9,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand.",
-        "prev": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

@@ -7,7 +7,7 @@
     "image": "Load",
     "baseImage": "Load",
     "cost": 17,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 17,
     "shiny": false,
     "quantity": 1,
@@ -17,12 +17,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Load the saved board."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

@@ -37,12 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Draw a card and gain +{{HP:1}}. Trigger this effect again for each ally {{CARD:188|1}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

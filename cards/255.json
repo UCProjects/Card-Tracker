@@ -21,12 +21,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "Give all monsters in your hand and board that didn't start in your deck +1/+2."
+    "description": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "description": {
+        "now": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2.",
+        "prev": "Give all monsters in your hand and board that didn't start in your deck +1/+2."
+      }
+    }
   }
 }

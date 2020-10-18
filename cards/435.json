@@ -37,27 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} from your deck."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      },
-      "tribes": {
-        "now": [
-          "PLANT"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} from your deck.",
-        "prev": "{{KW:MAGIC}}: Draw a card."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

@@ -35,17 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:375|1}} instead."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:375|1}} instead.",
-        "prev": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:451|1}}, if there are none summon a {{CARD:375|1}} instead."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

@@ -35,14 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|1}}. {{KW:DELAY}}: {{KW:SILENCE}} all {{CARD:525|1}} in your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   }
 }

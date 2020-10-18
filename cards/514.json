@@ -36,14 +36,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: If you have a {{KW:TAUNT}} monster in your hand give a monster {{KW:TAUNT}}. If you have an {{KW:HASTE}} monster in your hand, also give {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -25,7 +25,7 @@
     "image": "Lost_Sans",
     "baseImage": "Lost_Sans",
     "cost": 3,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -37,12 +37,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand. It costs 3 less."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

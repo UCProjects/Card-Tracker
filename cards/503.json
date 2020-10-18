@@ -35,14 +35,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "{{KW:MAGIC}}: Send a copy of all cards in your hand (except this) which didn't start in your deck to your deck with -1 {{COST}}."
+    "description": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Send a copy of all cards in your hand (except this) which didn't start in your deck to your deck with -1 {{COST}}."
+      }
+    }
   }
 }

@@ -22,16 +22,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "Summon a 1/1 copy of 3 random different non-{{RARITY:GENERATED}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
+    "description": "Summon a 1/1 copy of 3 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
       "description": {
-        "now": "Summon a 1/1 copy of 3 random different non-{{RARITY:GENERATED}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less.",
-        "prev": "Summon 3 random 1/1 copies of {{KW:DUST}} monsters with a {{COST}} of 3 or less from your dustpile."
+        "now": "Summon a 1/1 copy of 3 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less.",
+        "prev": "Summon a 1/1 copy of 3 random different non-{{RARITY:GENERATED}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
       }
     }
   }

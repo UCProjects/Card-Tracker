@@ -37,12 +37,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Shuffle 2 {{CARD:115|2}} into your deck. {{KW:SYNERGY}}: Shuffle {{CARD:475|1}} and {{CARD:476|1}} into your deck instead."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {}
   }
 }

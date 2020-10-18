@@ -37,14 +37,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "Other {{TRIBE:SNAIL|2}} on your board and hand have +1/+1/+1."
+    "description": "{{TRIBE:SNAIL|2}} in your hand have +1 {{COST}}. {{TRIBE:SNAIL|2}} on your board have +1/+1."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{TRIBE:SNAIL|2}} in your hand have +1 {{COST}}. {{TRIBE:SNAIL|2}} on your board have +1/+1.",
+        "prev": "Other {{TRIBE:SNAIL|2}} on your board and hand have +1/+1/+1."
+      }
+    }
   }
 }

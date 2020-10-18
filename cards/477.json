@@ -31,19 +31,31 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "ARACHNID",
-      "PLANT"
+      "PLANT",
+      "ARACHNID"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Summon a {{CARD:375|1}}. {{KW:SYNERGY}}: Give the summoned {{CARD:375|1}} +2/+2 as base stats."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT",
+          "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
+        ]
+      }
+    }
   }
 }

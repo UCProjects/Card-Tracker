@@ -35,17 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots.",
-        "prev": "{{KW:MAGIC}}: Summon 2 different dead ally {{KW:DUST}} monsters costing 7 or less that died this game on adjacent slots."
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

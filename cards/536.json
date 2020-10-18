@@ -1,0 +1,29 @@
+{
+  "card": {
+    "id": 536,
+    "fixedId": 536,
+    "typeCard": 1,
+    "name": "Dream",
+    "image": "Dream",
+    "baseImage": "Dream",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "Look at your hand and choose a card. Return it to your deck and draw 2 cards."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

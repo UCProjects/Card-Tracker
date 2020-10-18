@@ -35,16 +35,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-6 {{GOLD}} (or {{CARD:65|1}} with a low chance) and set its stats to 2/2."
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-5 {{GOLD}} and set its base stats to 2/2."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-6 {{GOLD}} (or {{CARD:65|1}} with a low chance) and set its stats to 2/2.",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random other monster ({{COST}} <= 2) or {{CARD:65|1}} with a low chance."
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-5 {{GOLD}} and set its base stats to 2/2.",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-6 {{GOLD}} (or {{CARD:65|1}} with a low chance) and set its stats to 2/2."
       }
     }
   }

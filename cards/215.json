@@ -35,21 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:MAGIC}}: Look at 2 others cheapest monsters with a {{COST}} lower than the elapsed turn count in your dustpile and choose one. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {}
   }
 }

@@ -25,7 +25,7 @@
     "image": "Mettabot",
     "baseImage": "Mettabot",
     "cost": 1,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 1,
     "shiny": false,
     "quantity": 1,
@@ -35,12 +35,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "{{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

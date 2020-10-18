@@ -37,16 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:GENERATED}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}})."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:TOKEN}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}})."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "creatorFixedId": 0
+    },
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:GENERATED}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}}).",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other {{TRIBE:TEMMIE|1}} to your hand (From lowest to highest {{COST}})."
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:TOKEN}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}}).",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:GENERATED}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}})."
       }
     }
   }

@@ -7,7 +7,7 @@
     "image": "Scope",
     "baseImage": "Scope",
     "cost": 0,
-    "rarity": "GENERATED",
+    "rarity": "TOKEN",
     "originalCost": 0,
     "shiny": false,
     "quantity": 1,
@@ -17,12 +17,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "creatorFixedId": 0,
     "description": "Look at the 2 cards at the top of your opponent's deck and choose one. Send it to the bottom of their deck."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "creatorFixedId": 0
+    },
+    "changed": {
+      "rarity": {
+        "now": "TOKEN",
+        "prev": "GENERATED"
+      }
+    }
   }
 }

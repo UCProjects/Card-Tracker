@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1.",
-        "prev": "{{KW:MAGIC}}: Look at 3 random monsters in your Dustpile. Add one to your deck with +1/+1."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

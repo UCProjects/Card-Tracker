@@ -24,9 +24,9 @@
     "name": "Blockler B",
     "image": "Blockler_B",
     "baseImage": "Blockler_B",
-    "cost": 6,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,30 +40,15 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
+    "removed": {},
     "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
       "cost": {
-        "now": 6,
-        "prev": 5
+        "now": 5,
+        "prev": 6
       },
       "originalCost": {
-        "now": 6,
-        "prev": 5
+        "now": 5,
+        "prev": 6
       }
     }
   }

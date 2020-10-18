@@ -28,9 +28,7 @@
     "description": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

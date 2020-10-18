@@ -40,19 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "dodge": {
-        "now": 3,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:DODGE}} (3).  {{KW:MAGIC}} and {{KW:TURN_START}}: Add a {{CARD:351|1}} to your hand with -2 {{COST}}.",
-        "prev": "{{KW:DODGE}} (5). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

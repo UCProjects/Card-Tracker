@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 512,
+    "fixedId": 512,
+    "typeCard": 0,
+    "name": "Game Bomb",
+    "image": "Game_Bomb",
+    "baseImage": "Game_Bomb",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Whenever this takes {{DMG}}, summon a {{CARD:513|1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

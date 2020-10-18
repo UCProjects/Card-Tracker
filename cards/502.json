@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 502,
+    "fixedId": 502,
+    "typeCard": 0,
+    "name": "Mystery Machine",
+    "image": "Mystery_Machine",
+    "baseImage": "Mystery_Machine",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} itself. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. They {{COST}} 0."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

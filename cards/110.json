@@ -40,19 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "cantAttack": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Deal {{DMG}} equal to its {{ATK}} to all monsters and half to the opponent.",
-        "prev": "{{KW:DISARMED}}. {{KW:DUST}}: Deal its {{ATK}} as {{DMG}} to all monsters and half to your opponent."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

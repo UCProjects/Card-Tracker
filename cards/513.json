@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 513,
+    "fixedId": 513,
+    "typeCard": 0,
+    "name": "Dynamite Stick",
+    "image": "Dynamite_Stick",
+    "baseImage": "Dynamite_Stick",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:DUST}}: Deal 1 {{DMG}} to 2 random enemies."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 4,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 5,
+    "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
     "armor": 0,
@@ -24,9 +24,10 @@
     "name": "Endogeny",
     "image": "Endogeny",
     "baseImage": "Endogeny",
-    "cost": 5,
+    "cost": 9,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 9,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -39,14 +40,34 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1."
+    "description": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand."
   },
   "diffs": {
-    "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
+    "added": {
+      "target": "ENEMY_MONSTER"
     },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 9,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand.",
+        "prev": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1."
+      }
+    }
   }
 }

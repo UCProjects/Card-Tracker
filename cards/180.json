@@ -26,22 +26,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "imageExtension": "png"
-    },
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 1
-      },
-      "description": {
-        "now": "Increase the cost of all monsters in your hand by 1, and give them +2/+1.",
-        "prev": "Increase the {{COST}} of all monsters in your hand by 2, and give them +2/+2."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

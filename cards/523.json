@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 523,
+    "fixedId": 523,
+    "typeCard": 0,
+    "name": "Snoring Monsters",
+    "image": "Snoring_Monsters",
+    "baseImage": "Snoring_Monsters",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Whenever this attacks, deal excess {{DMG}} to your opponent."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

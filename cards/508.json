@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 508,
+    "fixedId": 508,
+    "typeCard": 0,
+    "name": "Hooded Ralsei",
+    "image": "Hooded_Ralsei",
+    "baseImage": "Hooded_Ralsei",
+    "cost": 5,
+    "rarity": "LEGENDARY",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:SHOCK}}: Return 25% of the spell's {{COST}} (rounded up)."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

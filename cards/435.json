@@ -25,54 +25,38 @@
     "image": "Ficus_Licker",
     "baseImage": "Ficus_Licker",
     "cost": 2,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "{{KW:MAGIC}}: Draw a card."
+    "description": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} from your deck."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 2,
-      "target": "ALLY_MONSTER",
-      "imageExtension": "png"
-    },
+    "removed": {},
     "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "hp": {
-        "now": 2,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
-      },
       "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
+        "now": "COMMON",
+        "prev": "BASE"
+      },
+      "tribes": {
+        "now": [
+          "PLANT"
+        ],
+        "prev": []
       },
       "description": {
-        "now": "{{KW:MAGIC}}: Draw a card.",
-        "prev": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Give an ally monster +2 {{KW:THORNS}}."
+        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} from your deck.",
+        "prev": "{{KW:MAGIC}}: Draw a card."
       }
     }
   }

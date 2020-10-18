@@ -1,0 +1,50 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 2,
+    "originalHp": 7,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 519,
+    "fixedId": 519,
+    "typeCard": 0,
+    "name": "Ficus",
+    "image": "Ficus",
+    "baseImage": "Ficus",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Whenever an ally {{TRIBE:PLANT|1}} dies, gain +1 {{ATK}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

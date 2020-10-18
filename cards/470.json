@@ -24,9 +24,9 @@
     "name": "Blockler O",
     "image": "Blockler_O",
     "baseImage": "Blockler_O",
-    "cost": 6,
+    "cost": 5,
     "rarity": "GENERATED",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,26 +40,15 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
+    "removed": {},
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
       "cost": {
-        "now": 6,
-        "prev": 5
+        "now": 5,
+        "prev": 6
       },
       "originalCost": {
-        "now": 6,
-        "prev": 5
+        "now": 5,
+        "prev": 6
       }
     }
   }

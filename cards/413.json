@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, shuffle {{CARD:413|1}} into your deck. Draw a card.",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, draw a card, then add a {{CARD:413|1}} to the top of your deck."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

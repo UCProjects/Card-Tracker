@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "candy": false,
+    "id": 506,
+    "fixedId": 506,
+    "typeCard": 0,
+    "name": "Soul Cage",
+    "image": "Soul_Cage",
+    "baseImage": "Soul_Cage",
+    "cost": 4,
+    "rarity": "GENERATED",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: If it's your opponent's turn, decrease {{ARTIFACT:34|1}}'s counter by 1. If the counter reaches 0, lose the game."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

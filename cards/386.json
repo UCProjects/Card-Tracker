@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. Has +1/+1 for each {{CARD:386|1}} you've played this game.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for each other ally {{CARD:386|1}} summoned this game."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

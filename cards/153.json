@@ -40,23 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
-      "description": {
-        "now": "Whenever you summon a monster when you have 5 or less cards in hand draw a card.",
-        "prev": "Draw a card whenever you summon a monster."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

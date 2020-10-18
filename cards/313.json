@@ -43,35 +43,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:SYNERGY}}: Give +2 {{ATK}} and {{KW:HASTE}} to {{TRIBE:PIECE|2}} at its right and +2 {{HP}} and {{KW:TAUNT}} to {{TRIBE:PIECE|2}} at its left.",
-        "prev": "{{KW:MAGIC}}: If played on the left, give an ally {{TRIBE:PIECE|1}} +2 {{ATK}} and {{KW:TRANSPARENCY}}. If played on the right, give an ally {{TRIBE:PIECE|1}} +2 {{HP}} and {{KW:CANDY}}. {{KW:SYNERGY}}: Give it both."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

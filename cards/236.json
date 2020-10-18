@@ -41,19 +41,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "target": {
-        "now": "ALL",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give +3 {{ATK}} to an ally monster.",
-        "prev": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

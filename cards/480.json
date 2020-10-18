@@ -42,15 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Copy {{KW:HASTE}}, {{KW:CHARGE}}, {{KW:TRANSPARENCY}}, {{KW:CANDY}}, {{KW:TAUNT}}, {{KW:ARMOR}} and {{KW:DODGE}} from all ally {{TRIBE:PIECE|2}}.",
-        "prev": "{{KW:MAGIC}}: Copy {{KW:THORNS}}, {{KW:HASTE}}, {{KW:CHARGE}}, {{KW:TRANSPARENCY}}, {{KW:CANDY}}, {{KW:TAUNT}}, {{KW:ARMOR}} and {{KW:DODGE}} from all ally {{TRIBE:PIECE|2}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

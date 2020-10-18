@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 510,
+    "fixedId": 510,
+    "typeCard": 0,
+    "name": "Cracked Table",
+    "image": "Cracked_Table",
+    "baseImage": "Cracked_Table",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:MAGIC}}: Add a {{CARD:511|1}} to your hand, or your opponent's hand if they have lower {{HP}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

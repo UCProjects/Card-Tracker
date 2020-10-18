@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 1,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:THORNS}} (1)."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

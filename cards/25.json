@@ -40,31 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 8
-      },
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

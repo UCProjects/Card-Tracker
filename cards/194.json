@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 5,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 5,
+    "originalHp": 3,
     "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Shambling Mass",
     "image": "Shambling_Mass",
     "baseImage": "Shambling_Mass",
-    "cost": 5,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 6,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -37,14 +37,44 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "{{KW:MAGIC}}: Kill an ally monster and gain +2/+2."
+    "description": "{{KW:MAGIC}}: Kill an ally monster to gain +1 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill an ally monster to gain +1 {{ATK}} and {{KW:HASTE}}.",
+        "prev": "{{KW:MAGIC}}: Kill an ally monster and gain +2/+2."
+      }
+    }
   }
 }

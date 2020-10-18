@@ -1,0 +1,50 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 529,
+    "fixedId": 529,
+    "typeCard": 0,
+    "name": "Vine",
+    "image": "Vine",
+    "baseImage": "Vine",
+    "cost": 12,
+    "rarity": "EPIC",
+    "originalCost": 12,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Costs 1 less for each {{TRIBE:PLANT|1}} you played this game (max: -9 {{COST}})."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 532,
+    "fixedId": 532,
+    "typeCard": 0,
+    "name": "Easy to Draw Bed",
+    "image": "Easy_to_Draw_Bed",
+    "baseImage": "Easy_to_Draw_Bed",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "After this attacks replace this by a random monster.Set its base stats to 4/4 and give it {{KW:HASTE}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

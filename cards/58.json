@@ -36,14 +36,16 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "{{KW:MAGIC}}: Remove all negative effects from your other monsters and {{KW:TURN_END}}: Heal them by {{HP:2}}."
+    "description": "{{KW:MAGIC}}: Remove all negative effects from your other monsters. {{KW:DELAY}}: Heal them by 2 {{HP}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Remove all negative effects from your other monsters. {{KW:DELAY}}: Heal them by 2 {{HP}}.",
+        "prev": "{{KW:MAGIC}}: Remove all negative effects from your other monsters and {{KW:TURN_END}}: Heal them by {{HP:2}}."
+      }
+    }
   }
 }

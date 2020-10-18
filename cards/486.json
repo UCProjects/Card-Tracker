@@ -25,13 +25,16 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "Add an exact copy of an ally monster to your hand."
+    "description": "Add an exact copy of an ally monster to your hand (Except {{CARD:52|1}})."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add an exact copy of an ally monster to your hand (Except {{CARD:52|1}}).",
+        "prev": "Add an exact copy of an ally monster to your hand."
+      }
+    }
   }
 }

@@ -6,9 +6,9 @@
     "name": "Thundersnail",
     "image": "Thundersnail",
     "baseImage": "Thundersnail",
-    "cost": 4,
+    "cost": 2,
     "rarity": "GENERATED",
-    "originalCost": 4,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -18,13 +18,24 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "Summon all dead ally {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}}. Add a {{CARD:53|1}} to your hand."
+    "description": "Summon all dead ally 1-{{COST}} {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}} effects."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "imageExtension": "png"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Summon all dead ally 1-{{COST}} {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}} effects.",
+        "prev": "Summon all dead ally {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}}. Add a {{CARD:53|1}} to your hand."
+      }
+    }
   }
 }

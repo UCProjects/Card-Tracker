@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a card and shuffle both players' hands into their decks. They draw the same number of cards.",
-        "prev": "{{KW:MAGIC}}: Shuffle both players' hands into their deck and they draw the same number of cards."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

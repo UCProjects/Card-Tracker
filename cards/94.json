@@ -10,9 +10,9 @@
     "name": "Feast",
     "image": "Feast",
     "baseImage": "Feast",
-    "cost": 1,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 1,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,13 +22,24 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "Fully heal all ally monsters. Costs 1 more for each damaged ally monster on the board."
+    "description": "Fully heal all damaged ally monsters. Give undamaged ally monsters +1/+1."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "imageExtension": "png"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 1
+      },
+      "description": {
+        "now": "Fully heal all damaged ally monsters. Give undamaged ally monsters +1/+1.",
+        "prev": "Fully heal all ally monsters. Costs 1 more for each damaged ally monster on the board."
+      }
+    }
   }
 }

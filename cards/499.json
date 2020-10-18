@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 2,
+    "originalHp": 1,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 499,
+    "fixedId": 499,
+    "typeCard": 0,
+    "name": "Anime Sword",
+    "image": "Anime_Sword",
+    "baseImage": "Anime_Sword",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:DUST}}: Give this monster's {{ATK}} and max {{HP}} to a random monster in your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

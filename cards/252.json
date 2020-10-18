@@ -40,27 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a non-DT highest rarity card from your deck (except {{CARD:252|1}}).",
-        "prev": "{{KW:MAGIC}}: Add to your hand a random monster with the highest rarity from your deck (Max: Legendary)."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

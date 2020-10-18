@@ -42,15 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:CANDY}}, +1 {{KW:DODGE}} or +1 {{KW:ARMOR}}.",
-        "prev": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:CANDY}}, +1 {{KW:DODGE}}, +1 {{KW:ARMOR}}, +3 {{KW:THORNS}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

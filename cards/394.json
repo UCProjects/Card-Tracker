@@ -42,15 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the right, gain {{KW:ARMOR}} (1). If on the left, gain +1/+1 and {{KW:TAUNT}}.",
-        "prev": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

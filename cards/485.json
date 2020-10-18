@@ -27,9 +27,7 @@
     "description": "Both players skip their next turn."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

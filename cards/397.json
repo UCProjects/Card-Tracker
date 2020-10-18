@@ -40,27 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "cantAttack": {
-        "now": false,
-        "prev": true
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TRANSPARENCY}}.",
-        "prev": "{{KW:DISARMED}}. {{KW:MAGIC}}: Add 2 other random {{KW:DISARMED}} monsters to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -25,13 +25,16 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give +7/+7 instead."
+    "description": "Gain an extra life."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Gain an extra life.",
+        "prev": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give +7/+7 instead."
+      }
+    }
   }
 }

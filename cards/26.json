@@ -43,27 +43,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 2,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it.",
-        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

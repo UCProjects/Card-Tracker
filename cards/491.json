@@ -1,0 +1,50 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 2,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 491,
+    "fixedId": 491,
+    "typeCard": 0,
+    "name": "Moldstack",
+    "image": "Moldstack",
+    "baseImage": "Moldstack",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "MOLD"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add a copy of a random other ally {{TRIBE:MOLD|1}} to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

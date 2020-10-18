@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 4,
+    "originalHp": 10,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "candy": false,
+    "id": 505,
+    "fixedId": 505,
+    "typeCard": 0,
+    "name": "Soulless Kris",
+    "image": "Soulless_Kris",
+    "baseImage": "Soulless_Kris",
+    "cost": 13,
+    "rarity": "DETERMINATION",
+    "originalCost": 13,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give {{ARTIFACT:34|1}} artifact to your opponent and summon an enemy {{CARD:506|1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

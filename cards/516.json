@@ -1,0 +1,30 @@
+{
+  "card": {
+    "id": 516,
+    "fixedId": 516,
+    "typeCard": 1,
+    "name": "Breaking Love",
+    "image": "Breaking_Love",
+    "baseImage": "Breaking_Love",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Earn 2 {{GOLD}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

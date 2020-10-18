@@ -27,9 +27,7 @@
     "description": "Your passive triggers an additional time."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 531,
+    "fixedId": 531,
+    "typeCard": 0,
+    "name": "Teacher Toriel",
+    "image": "Teacher_Toriel",
+    "baseImage": "Teacher_Toriel",
+    "cost": 10,
+    "rarity": "LEGENDARY",
+    "originalCost": 10,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} of each card in your hand. Gain +1/+1 for each {{KW:TURBO}} effect triggered."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

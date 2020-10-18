@@ -1,0 +1,49 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 4,
+    "originalHp": 2,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "candy": false,
+    "id": 522,
+    "fixedId": 522,
+    "typeCard": 0,
+    "name": "Broken Pillar",
+    "image": "Broken_Pillar",
+    "baseImage": "Broken_Pillar",
+    "cost": 5,
+    "rarity": "GENERATED",
+    "originalCost": 5,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give an ally monster +1/+2."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

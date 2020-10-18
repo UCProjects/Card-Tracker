@@ -27,9 +27,7 @@
     "description": "Make all ally monsters {{KW:INVULNERABLE}} this turn."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

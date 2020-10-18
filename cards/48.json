@@ -42,15 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. This has +3 {{HP}} while you have a {{TRIBE:DOG|1}} in your hand.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain +{{HP:3}} if you have a {{TRIBE:DOG|1}} in your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

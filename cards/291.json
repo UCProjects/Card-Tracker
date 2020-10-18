@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 5,
     "dodge": 0,
     "armor": 0,
@@ -40,38 +40,15 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
+    "removed": {},
     "changed": {
       "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
+        "now": 4,
+        "prev": 3
       },
       "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:PARALYZE}} itself after attacking.",
-        "prev": "{{KW:TURBO}}: If you have 2 or more cards with {{KW:DISARMED}} in your hand gain {{KW:CHARGE}}."
+        "now": 4,
+        "prev": 3
       }
     }
   }

@@ -27,9 +27,7 @@
     "description": "{{KW:PARALYZE}} all monsters under {{KR}}. Draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

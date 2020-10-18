@@ -41,35 +41,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it.",
-        "prev": "{{KW:MAGIC}}: Make the target ally monster attack the monster in front of it."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

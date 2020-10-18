@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 3,
+    "originalHp": 7,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 507,
+    "fixedId": 507,
+    "typeCard": 0,
+    "name": "Fireplace",
+    "image": "Fireplace",
+    "baseImage": "Fireplace",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:TAUNT}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

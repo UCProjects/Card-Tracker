@@ -42,40 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "target": "ENEMY_MONSTER",
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "rarity": {
-        "now": "RARE",
-        "prev": "COMMON"
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: and {{KW:SYNERGY}}: If played on the left, deal 2 {{DMG}} to a random enemy monster. If played on the right, draw a card.",
-        "prev": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it instead."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

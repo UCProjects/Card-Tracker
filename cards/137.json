@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "Whenever this survives {{DMG}}, summon another {{CARD:137|1}} (keep {{ATK}} buffs).",
-        "prev": "Whenever this takes damage and survives, summon a {{CARD:137|1}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

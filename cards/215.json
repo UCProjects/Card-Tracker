@@ -24,9 +24,9 @@
     "name": "Coffin",
     "image": "Coffin",
     "baseImage": "Coffin",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,22 +40,15 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
+    "removed": {},
     "changed": {
       "cost": {
-        "now": 5,
-        "prev": 4
+        "now": 4,
+        "prev": 5
       },
       "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 2 others cheapest monsters with a {{COST}} lower than the elapsed turn count in your dustpile and choose one. {{KW:DUST}}: Release it.",
-        "prev": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile."
+        "now": 4,
+        "prev": 5
       }
     }
   }

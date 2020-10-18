@@ -21,9 +21,7 @@
     "description": "Look at all cards in your opponent's hand and choose one. Increase its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -1,0 +1,49 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 2,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 521,
+    "fixedId": 521,
+    "typeCard": 0,
+    "name": "Pillar",
+    "image": "Pillar",
+    "baseImage": "Pillar",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give an ally monster +2/+1. {{KW:DUST}}: Add {{CARD:522|1}} to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

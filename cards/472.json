@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If you have 3 or less cards in your deck give all monsters in your deck and hand +2/+3.",
-        "prev": "{{KW:MAGIC}}: If you have 3 or less cards in your deck, give all cards in your deck and hand +3/+3."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

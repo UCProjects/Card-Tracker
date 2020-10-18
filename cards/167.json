@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "Whenever it takes {{DMG}}, reduce the {{COST}} of a random card in your hand by 2.",
-        "prev": "Whenever it takes DMG, reduce the {{COST}} of a random card in your hand by 2."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

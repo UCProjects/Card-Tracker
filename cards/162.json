@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, gain {{KW:TRANSPARENCY}}.",
-        "prev": "{{KW:TRANSPARENCY}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

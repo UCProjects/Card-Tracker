@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards.",
-        "prev": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, give all monsters in your hand +1/+1."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

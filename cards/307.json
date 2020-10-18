@@ -42,23 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 6
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

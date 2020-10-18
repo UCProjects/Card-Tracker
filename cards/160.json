@@ -40,27 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}.",
-        "prev": "{{KW:DISARMED}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -42,19 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "COMMON"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give +1/+1 to all {{TRIBE:FROGGIT|2}} you own (except {{CARD:24|1}}). {{TRIBE:FROGGIT|2}} in your deck also gain +1 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: Give +1/+1/+1 to all ally {{TRIBE:FROGGIT|99}} (except {{CARD:24}}) wherever they are."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

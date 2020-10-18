@@ -24,10 +24,10 @@
     "name": "Chaos Duck",
     "image": "Chaos_Duck",
     "baseImage": "Chaos_Duck",
-    "cost": 8,
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 8,
-    "target": "MONSTER",
+    "originalCost": 7,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -37,14 +37,28 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "{{KW:MAGIC}}: Turn a monster into the {{CARD:372|1}}."
+    "description": "{{KW:MAGIC}}: Transform an ally monster into {{CARD:372|1}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
+      },
+      "target": {
+        "now": "ALLY_MONSTER",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Transform an ally monster into {{CARD:372|1}}.",
+        "prev": "{{KW:MAGIC}}: Turn a monster into the {{CARD:372|1}}."
+      }
+    }
   }
 }

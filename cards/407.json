@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Choose a {{KW:TURBO}} monster from your hand. Activate its {{KW:TURBO}} effect.",
-        "prev": "{{KW:MAGIC}}: Send a {{KW:TURBO}} monster in your hand back to the top of your deck and draw a card."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

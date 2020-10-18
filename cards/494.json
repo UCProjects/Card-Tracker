@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 494,
+    "fixedId": 494,
+    "typeCard": 0,
+    "name": "Jumping Frog",
+    "image": "Jumping_Frog",
+    "baseImage": "Jumping_Frog",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "FROGGIT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:MAGIC}}: Deal this monster's {{ATK}} as {{DMG}} to an enemy monster."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

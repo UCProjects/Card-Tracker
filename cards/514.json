@@ -1,0 +1,49 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 514,
+    "fixedId": 514,
+    "typeCard": 0,
+    "name": "Date Alphys",
+    "image": "Date_Alphys",
+    "baseImage": "Date_Alphys",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:MAGIC}}: If you have a {{KW:TAUNT}} monster in your hand give a monster {{KW:TAUNT}}. If you have an {{KW:HASTE}} monster in your hand, also give {{KW:HASTE}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

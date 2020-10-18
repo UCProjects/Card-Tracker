@@ -40,47 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 2,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 7,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 3
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all allies.",
-        "prev": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Look at 3 random non-DT {{KW:DUST}} monsters and choose one. Add it to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

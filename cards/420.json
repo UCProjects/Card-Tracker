@@ -40,15 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 4,
-      "imageExtension": "png"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. Whenever this gets damaged, gain +3 {{ATK}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:THORNS}} (4)."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

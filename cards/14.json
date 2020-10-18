@@ -36,14 +36,16 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "description": "{{KW:TAUNT}}."
+    "description": "{{KW:TAUNT}}. This takes 1 less {{DMG}} from monsters costing 4 or less."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "thorns": 0,
-      "imageExtension": "png"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. This takes 1 less {{DMG}} from monsters costing 4 or less.",
+        "prev": "{{KW:TAUNT}}."
+      }
+    }
   }
 }

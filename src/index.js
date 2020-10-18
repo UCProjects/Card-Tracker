@@ -28,7 +28,6 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
       console.log('Cards not found');
       return;
     }
-    // TODO: get descriptions for description diffs?
     const promises = cards.map((card) => {
       card.description = (lang[`card-${card.id}`] || '').trim();
       const path = `./cards/${card.id}.json`;
@@ -54,19 +53,24 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           Object.keys(old).forEach((key) => {
             diffs.push({ key, prev: old[key] });
           });
-          if (!diffs.length) {
-            // diffs.push('None');
-          }
         } else {
-          diffs.push('New');
+          diffs.push({ key: 'new', now: true });
         }
-        return { card, diffs };
+        return { 
+          card,
+          diffs: {
+            added: diffs.filter(d => d.prev === undefined).reduce((cur, {key, now}) => (cur[key] = now, cur), {}),
+            removed: diffs.filter(d => d.now === undefined).reduce((cur, {key, prev}) => (cur[key] = prev, cur), {}),
+            changed: diffs.filter(d => ![d.prev, d.now].includes(undefined)).reduce((cur, {key, now, prev}) => (cur[key] = {now, prev}, cur), {}),
+          },
+          changes: diffs.length,
+        };
       }).then((data) => writeFile(path, JSON.stringify(data, undefined, 2)).then(() => data));
     });
 
     return Promise.all(promises).then((data) => {
       const diffs = data.reduce((cur, {card, diffs}) => (cur[card.id] = diffs, cur), {});
-      const count = data.reduce((cur, {diffs}) => cur + diffs.length, 0);
+      const count = data.reduce((cur, {changes}) => cur + changes, 0);
       console.log(count, 'changes.');
       return writeFile('latestDiffs.json', JSON.stringify(diffs, undefined, 2));
     });

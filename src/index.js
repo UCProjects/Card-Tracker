@@ -45,7 +45,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           Object.keys(card).forEach((key) => {
             const prev = old[key];
             const now = card[key];
-            if (now !== prev && (!Array.isArray(now) || prev === undefined || now.length !== prev.length)) {
+            if (!equality(prev, now)) {
               // changes.push(`${key}: ${prev !== undefined ? `${prev} ->` : '(new)'} ${now}`);
               diffs.push({ key, now, prev });
             }
@@ -76,6 +76,22 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
       return writeFile('latestDiffs.json', JSON.stringify(diffs, replacer, 2));
     });
   }).catch(console.error);
+}
+
+function equality(a, b) {
+  return a === b || arrayEquals(a, b) || objectEquals(a, b);
+}
+
+function arrayEquals(a, b) {
+  return Array.isArray(a) && Array.isArray(b) &&
+    a.length === b.length &&
+    a.every((val, i) => equality(val, b[i]));
+}
+
+function objectEquals(a, b) {
+  if (typeof a !== 'object' || typeof b !== 'object') return false;
+  const keysA = Object.keys(a);
+  return keysA.length === Object.keys(b).length && keysA.every((key) => equality(a[key], b[key]));
 }
 
 function replacer(key, value) {

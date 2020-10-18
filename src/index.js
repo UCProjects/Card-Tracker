@@ -13,7 +13,7 @@ const [from, lang] = process.argv.slice(2);
 loadChanges(from, lang);
 
 async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'https://undercards.net/translation/en.json') {
-  const language = lang.startsWith('https://') ? needle(lang).then(res => res.body) : readFile(lang).then(JSON.parse);''
+  const language = lang.startsWith('https://') ? needle(lang).then(res => res.body) : readFile(lang);
   const allCards = from.startsWith('https://') ? needle(from).then(res => res.body) : readFile(from).then(JSON.parse);
   allCards.then(({cards} = {}) => {
     // TODO: compare hash from latest.json, only process if new things
@@ -21,7 +21,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
     // console.log(now);
     if (typeof cards === 'string') return JSON.parse(cards);
     if (Array.isArray(cards)) return cards;
-  }).then((cards) => language.then((lang) => ({cards, lang})).catch(() => ({cards}))).then(({
+  }).then((cards) => language.then(JSON.parse).then((lang) => ({cards, lang})).catch(() => ({cards}))).then(({
     cards = [],
     lang = {},
   } = {}) => {

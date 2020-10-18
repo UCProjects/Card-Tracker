@@ -25,23 +25,38 @@
     "typeCard": 0,
     "name": "Jevil",
     "image": "Jevil",
-    "cost": 12,
+    "cost": 13,
     "rarity": "LEGENDARY",
-    "originalCost": 12,
-    "target": "RANGE",
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Look at all {{TRIBE:CHAOS_WEAPON|2}} and choose one to cast."
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "RANGE"
+    },
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 12
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 1,
-    "originalHp": 7,
+    "originalHp": 6,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -31,16 +31,34 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:TAUNT}}. {{KW:DUST}}: {{KW:PARALYZE}} the killer."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

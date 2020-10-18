@@ -31,16 +31,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
+    "description": "{{KW:TURBO}}: Reveal a random card in your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of the last revealed card by 2."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Reveal a random card in your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of the last revealed card by 2.",
+        "prev": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
+      }
+    }
   }
 }

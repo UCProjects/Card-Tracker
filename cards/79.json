@@ -1,28 +1,55 @@
 {
   "card": {
-    "classe": "BRAVERY",
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
     "id": 79,
     "fixedId": 79,
     "typeCard": 1,
     "name": "Penetration",
     "image": "Penetration",
-    "cost": 1,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 1,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:SILENCE}} an enemy {{KW:TAUNT}} monster. If used on a non {{KW:TAUNT}} monster, draw a card instead."
+    "description": "{{KW:SILENCE}} all enemy monsters."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY",
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "{{KW:SILENCE}} all enemy monsters.",
+        "prev": "{{KW:SILENCE}} an enemy {{KW:TAUNT}} monster. If used on a non {{KW:TAUNT}} monster, draw a card instead."
+      }
+    }
   }
 }

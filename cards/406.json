@@ -28,20 +28,26 @@
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
-    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Give a monster in your hand +1/+1."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   }
 }

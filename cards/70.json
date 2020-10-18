@@ -1,6 +1,10 @@
 {
   "card": {
-    "classe": "DETERMINATION",
+    "soul": {
+      "lives": 1,
+      "id": 2,
+      "name": "DETERMINATION"
+    },
     "id": 70,
     "fixedId": 70,
     "typeCard": 1,
@@ -12,16 +16,33 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
+    "description": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30)."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "DETERMINATION"
+    },
+    "changed": {
+      "description": {
+        "now": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30).",
+        "prev": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
+      }
+    }
   }
 }

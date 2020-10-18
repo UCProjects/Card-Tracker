@@ -1,27 +1,62 @@
 {
   "card": {
-    "classe": "BRAVERY",
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
     "id": 78,
     "fixedId": 78,
     "typeCard": 1,
-    "name": "Aaron's Secret",
-    "image": "Aaron's_Secret",
-    "cost": 2,
+    "name": "Double Trouble",
+    "image": "Double_Trouble",
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Give +1 {{ATK}} to 3 random different allies on your board."
+    "description": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "name": {
+        "now": "Double Trouble",
+        "prev": "Aaron's Secret"
+      },
+      "image": {
+        "now": "Double_Trouble",
+        "prev": "Aaron's_Secret"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1.",
+        "prev": "Give +1 {{ATK}} to 3 random different allies on your board."
+      }
+    }
   }
 }

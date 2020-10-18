@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "PATIENCE",
+    "soul": {
+      "id": 6,
+      "name": "PATIENCE"
+    },
     "id": 133,
     "fixedId": 133,
     "typeCard": 1,
@@ -13,16 +16,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PATIENCE"
+    },
     "changed": {}
   }
 }

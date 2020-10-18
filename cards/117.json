@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "PLANT",
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Save the board and add a {{CARD:358|1}} spell to your hand."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   }
 }

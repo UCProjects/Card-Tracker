@@ -28,20 +28,26 @@
     "cost": 5,
     "rarity": "EPIC",
     "originalCost": 5,
-    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Choose a monster in your hand. Shuffle it into your deck with +2/+2 and {{KW:CANDY}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   }
 }

@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "SNAIL",
+    "tribes": [
+      "SNAIL"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Give +{{ATK:1}} to your other {{TRIBE:SNAIL|1}} in play."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "SNAIL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "SNAIL"
+    },
     "changed": {}
   }
 }

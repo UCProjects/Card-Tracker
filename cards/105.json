@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "PLANT",
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Copy a card of your opponent's hand to your hand and reduce its {{COST}} by 1."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   }
 }

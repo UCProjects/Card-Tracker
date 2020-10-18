@@ -31,17 +31,29 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "AMALGAMATE",
+    "tribes": [
+      "DOG",
+      "AMALGAMATE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand and reduce its {{COST}} by 2."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG",
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   }
 }

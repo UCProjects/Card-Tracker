@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "BRAVERY",
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
     "id": 77,
     "fixedId": 77,
     "typeCard": 1,
@@ -9,19 +12,37 @@
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Add 3 random monsters costing 3 to your deck with +1/+1. Draw a card."
+    "description": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "target": "ALLY_MONSTER",
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "description": {
+        "now": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}.",
+        "prev": "Add 3 random monsters costing 3 to your deck with +1/+1. Draw a card."
+      }
+    }
   }
 }

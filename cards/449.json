@@ -11,17 +11,32 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribe": "CHAOS_WEAPON",
+    "tribes": [
+      "CHAOS_WEAPON"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Deal 2 {{DMG}} to all enemies."
+    "description": "Deal {{DMG}} to all enemy monsters equal to the amount of empty slots on your side of the board."
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
+    "changed": {
+      "description": {
+        "now": "Deal {{DMG}} to all enemy monsters equal to the amount of empty slots on your side of the board.",
+        "prev": "Deal 2 {{DMG}} to all enemies."
+      }
+    }
   }
 }

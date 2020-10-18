@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "PERSEVERANCE",
+    "soul": {
+      "id": 7,
+      "name": "PERSEVERANCE"
+    },
     "id": 89,
     "fixedId": 89,
     "typeCard": 1,
@@ -12,16 +15,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Deal {{DMG:1}} to all enemy monsters. If under {{KR}}, deal {{DMG:3}} instead."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   }
 }

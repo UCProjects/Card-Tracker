@@ -31,16 +31,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TAUNT}}. {{KW:TURN_START}}: Gain -{{ATK:2}}. {{KW:TURN_END}}: Gain +{{ATK:2}}."
+    "description": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn.",
+        "prev": "{{KW:TAUNT}}. {{KW:TURN_START}}: Gain -{{ATK:2}}. {{KW:TURN_END}}: Gain +{{ATK:2}}."
+      }
+    }
   }
 }

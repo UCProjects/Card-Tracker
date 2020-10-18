@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "LOST_SOUL",
+    "tribes": [
+      "LOST_SOUL"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:DUST}}: Kill a random damaged enemy monster."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
     "changed": {}
   }
 }

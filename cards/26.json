@@ -32,17 +32,32 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "PLANT",
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it was already paralyzed, deal {{DMG:2}} to it."
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead.",
+        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it was already paralyzed, deal {{DMG:2}} to it."
+      }
+    }
   }
 }

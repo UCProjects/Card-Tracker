@@ -24,24 +24,39 @@
     "fixedId": 36,
     "typeCard": 0,
     "name": "Snowdrake's Mom",
-    "image": "Snowdrake's_Mom",
+    "image": "Snowdrakes_Mom",
     "cost": 7,
     "rarity": "COMMON",
     "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "AMALGAMATE",
+    "tribes": [
+      "AMALGAMATE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} 2 random enemy monsters."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
+    "changed": {
+      "image": {
+        "now": "Snowdrakes_Mom",
+        "prev": "Snowdrake's_Mom"
+      }
+    }
   }
 }

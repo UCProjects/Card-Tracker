@@ -28,38 +28,26 @@
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
-    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand."
   },
   "diffs": {
     "added": {
-      "target": "RANGE",
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand.",
-        "prev": "{{KW:MAGIC}}: Return the most expensive card from your hand to your deck. It costs 4 less."
-      }
-    }
+    "removed": {
+      "target": "RANGE"
+    },
+    "changed": {}
   }
 }

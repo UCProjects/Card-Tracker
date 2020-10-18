@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "INTEGRITY",
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
     "id": 83,
     "fixedId": 83,
     "typeCard": 1,
@@ -12,16 +15,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Spend all of your {{GOLD}}. Summon a copy of a monster from your deck costing your {{GOLD}} or less if no target."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   }
 }

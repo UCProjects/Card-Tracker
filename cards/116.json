@@ -31,16 +31,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Ignore {{KW:TAUNT}} effects. {{KW:MAGIC}}: Gain {{KW:CHARGE}} if your enemy has a {{KW:TAUNT}} or {{KW:ARMOR}} monster."
+    "description": "{{KW:MAGIC}}: Gain {{KW:CHARGE}} if your opponent has a {{KW:TAUNT}} monster."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Gain {{KW:CHARGE}} if your opponent has a {{KW:TAUNT}} monster.",
+        "prev": "Ignore {{KW:TAUNT}} effects. {{KW:MAGIC}}: Gain {{KW:CHARGE}} if your enemy has a {{KW:TAUNT}} or {{KW:ARMOR}} monster."
+      }
+    }
   }
 }

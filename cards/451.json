@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "PLANT",
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": ""
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   }
 }

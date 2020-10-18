@@ -31,14 +31,19 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:HASTE}}. Whenever a {{CARD:115|1}} or a {{CARD:103|1}} is summoned, gain +2/+1. {{KW:MAGIC}}: Put 3 {{CARD:115|3}} in both decks."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}

@@ -31,16 +31,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURBO}}: {{KW:SILENCE}} a random enemy monster."
+    "description": "{{KW:TURBO}}: and {{KW:MAGIC}}: {{KW:SILENCE}} a random enemy monster."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: and {{KW:MAGIC}}: {{KW:SILENCE}} a random enemy monster.",
+        "prev": "{{KW:TURBO}}: {{KW:SILENCE}} a random enemy monster."
+      }
+    }
   }
 }

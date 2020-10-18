@@ -1,27 +1,62 @@
 {
   "card": {
-    "classe": "BRAVERY",
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
     "id": 80,
     "fixedId": 80,
     "typeCard": 1,
-    "name": "Final Charge",
-    "image": "Final_Charge",
-    "cost": 7,
+    "name": "Ambush",
+    "image": "Ambush",
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Give {{KW:CHARGE}} to your monsters."
+    "description": "Choose a monster from your hand ({{COST}} <= 10). Summon it along with a random monster from your opponent's hand and make them fight."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "name": {
+        "now": "Ambush",
+        "prev": "Final Charge"
+      },
+      "image": {
+        "now": "Ambush",
+        "prev": "Final_Charge"
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "Choose a monster from your hand ({{COST}} <= 10). Summon it along with a random monster from your opponent's hand and make them fight.",
+        "prev": "Give {{KW:CHARGE}} to your monsters."
+      }
+    }
   }
 }

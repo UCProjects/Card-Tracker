@@ -1,27 +1,46 @@
 {
   "card": {
-    "classe": "JUSTICE",
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
     "id": 98,
     "fixedId": 98,
     "typeCard": 1,
     "name": "Undyne's Spears",
-    "image": "Undyne's_Spears",
+    "image": "Undynes_Spears",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Deal {{DMG:5}} randomly split among all enemy monsters."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "JUSTICE"
+    },
+    "changed": {
+      "image": {
+        "now": "Undynes_Spears",
+        "prev": "Undyne's_Spears"
+      }
+    }
   }
 }

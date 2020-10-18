@@ -1,3071 +1,4852 @@
 {
   "1": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "2": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "FROGGIT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "FROGGIT"
+    },
     "changed": {}
   },
   "3": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "4": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "MOLD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "MOLD"
+    },
     "changed": {}
   },
   "5": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give adjacent monsters +1 {{HP}}.",
+        "prev": "{{KW:MAGIC}}: Give +1 {{HP}} to an ally monster."
+      }
+    }
   },
   "6": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "7": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "8": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "9": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "10": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   },
   "11": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "12": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "13": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "14": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "15": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "thorns": {
+        "now": 1,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:THORNS}} (1).",
+        "prev": ""
+      }
+    }
   },
   "16": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "17": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 9,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 8
+      },
+      "description": {
+        "now": "After this attacks, heal itself by the amount of {{DMG}} dealt.",
+        "prev": "Whenever this attacks heal itself by its amount of {{ATK}}."
+      }
+    }
   },
   "18": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "19": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "MOLD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "MOLD"
+    },
     "changed": {}
   },
   "20": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "21": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 7,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 9
+      }
+    }
   },
   "22": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "23": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "24": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "FROGGIT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "FROGGIT"
+    },
     "changed": {}
   },
   "25": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "26": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead.",
+        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it was already paralyzed, deal {{DMG:2}} to it."
+      }
+    }
   },
   "27": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "28": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "29": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "BOMB"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "BOMB"
+    },
     "changed": {}
   },
   "30": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "31": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      }
+    }
   },
   "32": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   },
   "33": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG",
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   },
   "34": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "FROGGIT",
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   },
   "35": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "MOLD",
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   },
   "36": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
+    "changed": {
+      "image": {
+        "now": "Snowdrakes_Mom",
+        "prev": "Snowdrake's_Mom"
+      }
+    }
   },
   "37": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "MOLD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "MOLD"
+    },
     "changed": {}
   },
   "38": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give {{KW:TAUNT}} to all ally {{TRIBE:ROYAL_GUARD|2}}.",
-        "prev": "{{KW:DUST}}: Give {{KW:TAUNT}} to ally {{TRIBE:ROYAL_GUARD|2}} (excluding {{CARD:38|1}})."
-      }
-    }
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
+    "changed": {}
   },
   "39": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Reduce the {{COST}} of all {{TRIBE:ROYAL_GUARD|2}} in your hand by 2.",
-        "prev": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|2}} in your hand by 2 (excluding {{CARD:39|1}})."
-      }
-    }
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
+    "changed": {}
   },
   "40": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "DOG"
+    },
     "changed": {}
   },
   "41": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "42": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "43": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "DOG"
+    },
     "changed": {}
   },
   "44": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "45": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "DOG"
+    },
     "changed": {}
   },
   "46": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "DOG"
+    },
+    "changed": {
+      "description": {
+        "now": "Has +2 {{ATK}} while you have {{CARD:47|1}} in your hand.",
+        "prev": "{{KW:MAGIC}}: If {{CARD:47|1}} is on your board, gain +{{ATK:3}}."
+      }
+    }
   },
   "47": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "DOG"
+    },
+    "changed": {
+      "description": {
+        "now": "Has +2 {{HP}} while you have {{CARD:46|1}} in your hand.",
+        "prev": "{{KW:MAGIC}}: If {{CARD:46|1}} is on your board, gain +{{HP:3}}."
+      }
+    }
   },
   "48": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "DOG"
+    },
     "changed": {}
   },
   "49": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "50": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   },
   "51": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give +1/+1 to all ally monsters.",
+        "prev": "{{KW:DUST}}: Give +1/+1 to adjacents monsters."
+      }
+    }
   },
   "52": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "53": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "54": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "55": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "56": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "57": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "58": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "59": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "60": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "61": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "62": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
     "changed": {}
   },
   "63": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "64": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "65": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "66": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "67": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "68": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "69": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "70": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "DETERMINATION"
+    },
+    "changed": {
+      "description": {
+        "now": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30).",
+        "prev": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
+      }
+    }
   },
   "71": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "PATIENCE"
+    },
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 0
+      }
+    }
   },
   "72": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PATIENCE"
+    },
     "changed": {}
   },
   "73": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "PATIENCE"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead.",
+        "prev": "{{KW:PARALYZE}} a monster and the one to its left. Deal {{DMG:2}} if already paralyzed."
+      }
+    }
   },
   "74": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PATIENCE"
+    },
     "changed": {}
   },
   "75": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PATIENCE"
+    },
     "changed": {}
   },
   "76": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY",
+      "target": "MONSTER"
+    },
+    "changed": {
+      "description": {
+        "now": "Give 2 random ally monsters +1/+1.",
+        "prev": "Give +{{ATK:2}} to a monster. If your opponent has more monsters on his board, give +{{ATK:3}} instead."
+      }
+    }
   },
   "77": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "target": "ALLY_MONSTER",
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "description": {
+        "now": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}.",
+        "prev": "Add 3 random monsters costing 3 to your deck with +1/+1. Draw a card."
+      }
+    }
   },
   "78": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "name": {
+        "now": "Double Trouble",
+        "prev": "Aaron's Secret"
+      },
+      "image": {
+        "now": "Double_Trouble",
+        "prev": "Aaron's_Secret"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1.",
+        "prev": "Give +1 {{ATK}} to 3 random different allies on your board."
+      }
+    }
   },
   "79": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY",
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "{{KW:SILENCE}} all enemy monsters.",
+        "prev": "{{KW:SILENCE}} an enemy {{KW:TAUNT}} monster. If used on a non {{KW:TAUNT}} monster, draw a card instead."
+      }
+    }
   },
   "80": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "name": {
+        "now": "Ambush",
+        "prev": "Final Charge"
+      },
+      "image": {
+        "now": "Ambush",
+        "prev": "Final_Charge"
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "Choose a monster from your hand ({{COST}} <= 10). Summon it along with a random monster from your opponent's hand and make them fight.",
+        "prev": "Give {{KW:CHARGE}} to your monsters."
+      }
+    }
   },
   "81": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "82": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "83": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "84": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "85": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "86": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "87": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "88": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "89": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "90": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "91": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {}
   },
   "92": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {}
   },
   "93": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {}
   },
   "94": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {}
   },
   "95": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {}
   },
   "96": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "97": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "98": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "JUSTICE"
+    },
+    "changed": {
+      "image": {
+        "now": "Undynes_Spears",
+        "prev": "Undyne's_Spears"
+      }
+    }
   },
   "99": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "100": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "101": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "102": {
     "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      }
-    }
-  },
-  "103": {
-    "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
+  "103": {
+    "added": {
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {},
+    "changed": {
+      "image": {
+        "now": "Muffets_Pet",
+        "prev": "Muffet's_Pet"
+      }
+    }
+  },
   "104": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "105": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "106": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "107": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "108": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "109": {
     "added": {
-      "ownerId": 0
+      "target": "ALLY_MONSTER",
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand.",
+        "prev": "Can't be damaged during your turn. {{KW:MAGIC}}: Give +1/+1 to another random ally {{TRIBE:AMALGAMATE|1}}."
+      }
+    }
   },
   "110": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "111": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "112": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "113": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "114": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "115": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "116": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Gain {{KW:CHARGE}} if your opponent has a {{KW:TAUNT}} monster.",
+        "prev": "Ignore {{KW:TAUNT}} effects. {{KW:MAGIC}}: Gain {{KW:CHARGE}} if your enemy has a {{KW:TAUNT}} or {{KW:ARMOR}} monster."
+      }
+    }
   },
   "117": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "118": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "G_FOLLOWER"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "G_FOLLOWER"
+    },
     "changed": {}
   },
   "119": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "G_FOLLOWER"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "G_FOLLOWER"
+    },
     "changed": {}
   },
   "120": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "G_FOLLOWER"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "G_FOLLOWER"
+    },
     "changed": {}
   },
   "121": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "122": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "123": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "124": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "125": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "126": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "127": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand.",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 different 1 costing spells to your hand."
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand.",
+        "prev": "{{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand."
       }
     }
   },
   "128": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand.",
+        "prev": "If your opponent has more monsters on his board than you, summon 3 {{CARD:2|3}}."
+      }
+    }
   },
   "129": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "130": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY",
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "131": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "132": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {}
   },
   "133": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PATIENCE"
+    },
     "changed": {}
   },
   "134": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "target": "MONSTER",
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
+    "changed": {
+      "description": {
+        "now": "Give a monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead.",
+        "prev": "{{KW:PARALYZE}} all enemy monsters under {{KR}}. Draw a card."
+      }
+    }
+  },
+  "135": {
+    "added": {
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
-  "135": {
-    "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:TURN_START}}: and {{KW:TURN_END}}: Kill a random <= 2 {{GOLD}} monster and restore its {{HP}}.",
-        "prev": "Kill every summoned enemy monster ({{COST}}<= 2) and restore its {{HP}}."
-      }
-    }
-  },
   "136": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "137": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "138": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "139": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   },
   "140": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "141": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "142": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "143": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "144": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 2,
-        "prev": 3
+      "target": {
+        "now": "ENEMY_MONSTER",
+        "prev": "MONSTER"
       },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster.",
+        "prev": "{{KW:MAGIC}}: Silence a monster."
       }
     }
   },
   "145": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "146": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "147": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "148": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "149": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "150": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "151": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "152": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "153": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "154": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "160": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "161": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "162": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "163": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "164": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "165": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "166": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "167": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "168": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "169": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "170": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "171": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "172": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   },
   "173": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "174": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "175": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "176": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "177": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "G_FOLLOWER"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "G_FOLLOWER"
+    },
     "changed": {}
   },
   "178": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "target": "ALLY_MONSTER",
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "name": {
+        "now": "Overheat",
+        "prev": "Acceleration"
+      },
+      "image": {
+        "now": "Overheat",
+        "prev": "Acceleration"
+      },
+      "cost": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 3
+      },
+      "description": {
+        "now": "Kill an ally monster. Deal its {{ATK}} as {{DMG}} to all enemy monsters.",
+        "prev": "Shuffle your hand into your deck. Draw 4 cards. They cost 1 less."
+      }
+    }
   },
   "179": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "180": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "181": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "182": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PATIENCE"
+    },
     "changed": {}
   },
   "183": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "184": {
     "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
       },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {
+      "classe": "KINDNESS"
+    },
+    "changed": {}
   },
   "185": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "186": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "187": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "188": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "191": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Vulkins_Cloud",
+        "prev": "Vulkin's_Cloud"
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Deal its {{ATK}} as {{DMG}} to random enemy monster.",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Deal its {{ATK}} as {{DMG}} to a random enemy."
+      }
+    }
   },
   "192": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "BOMB"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "BOMB"
+    },
     "changed": {}
   },
   "193": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "194": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Kill an ally monster and gain +2/+2.",
-        "prev": "{{KW:MAGIC}}: Kill an ally monster and gain {{GOLD:2}}."
-      }
-    }
+    "changed": {}
   },
   "195": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "196": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "FROGGIT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "FROGGIT"
+    },
     "changed": {}
   },
   "197": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "198": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "199": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "200": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   },
   "201": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "202": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "203": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 17,
+        "prev": 20
+      },
+      "originalCost": {
+        "now": 17,
+        "prev": 20
+      }
+    }
   },
   "214": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "215": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "216": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "217": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "218": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "219": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "220": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "221": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "222": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "SNAIL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "SNAIL"
+    },
     "changed": {}
   },
   "223": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "SNAIL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "SNAIL"
+    },
     "changed": {}
   },
   "224": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "SNAIL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "SNAIL"
+    },
     "changed": {}
   },
   "225": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "226": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "227": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "228": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "229": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "235": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "236": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 4
-      },
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster.",
-        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}} to an enemy monster or give +2 {{ATK}} to an ally monster."
-      }
-    }
+    "changed": {}
   },
   "237": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "238": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "BOMB"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "BOMB"
+    },
     "changed": {}
   },
   "239": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "240": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "241": {
     "added": {
-      "target": "RANGE",
-      "ownerId": 0
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Choose a card from your opponent's hand and increase its {{COST}} by 1.",
-        "prev": "{{KW:MAGIC}}: Reveal your opponent's hand."
-      }
-    }
+    "removed": {
+      "target": "RANGE",
+      "tribe": "AMALGAMATE"
+    },
+    "changed": {}
   },
   "242": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead.",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1."
+      }
+    }
   },
   "243": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "244": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "245": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "246": {
     "added": {
-      "target": "RANGE",
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand.",
-        "prev": "{{KW:MAGIC}}: Return the most expensive card from your hand to your deck. It costs 4 less."
-      }
-    }
+    "removed": {
+      "target": "RANGE"
+    },
+    "changed": {}
   },
   "247": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: and {{KW:MAGIC}}: {{KW:SILENCE}} a random enemy monster.",
+        "prev": "{{KW:TURBO}}: {{KW:SILENCE}} a random enemy monster."
+      }
+    }
   },
   "248": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "249": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "250": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster. If it was already silenced, kill it instead.",
+        "prev": "{{KW:MAGIC}}: Kill a silenced enemy monster."
+      }
+    }
   },
   "251": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 3
+      },
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:CANDY}}, +1 {{KW:DODGE}}, +1 {{KW:ARMOR}}, +3 {{KW:THORNS}}.",
+        "prev": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:RANGED}}, {{KW:PARALYZE}}d, {{KW:CHARGE}}, {{KW:CANDY}}, {{KR}}."
+      }
+    }
   },
   "252": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "253": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "254": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "255": {
     "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
       },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {
+      "classe": "BRAVERY",
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "Overgrowth",
+        "prev": "Rage"
+      },
+      "image": {
+        "now": "Overgrowth",
+        "prev": "Rage"
+      },
+      "description": {
+        "now": "Give all monsters in your hand and board that didn't start in your deck +1/+2.",
+        "prev": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
       }
     }
   },
   "256": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   },
   "257": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   },
   "258": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   },
   "259": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right.",
-        "prev": "Give +{{HP:2}} to an ally monster. Summon a {{CARD:353}} to his left and a {{CARD:354}} to his right."
+        "now": "Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right.",
+        "prev": "{{KW:MAGIC}}: Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right."
       }
     }
   },
   "260": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "PATIENCE"
+    },
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      }
+    }
   },
   "261": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
     "changed": {}
   },
   "262": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "263": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "264": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "265": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "266": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "267": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "270": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ALL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "ALL"
+    },
     "changed": {}
   },
   "271": {
     "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {
-      "target": {
-        "now": "MONSTER",
-        "prev": "ENEMY_MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Turn a monster into the {{CARD:372|1}}.",
-        "prev": "{{KW:MAGIC}}: Turn an enemy monster into the {{CARD:372|1}}"
-      }
-    }
-  },
-  "272": {
-    "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
+  "272": {
+    "added": {
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a {{CARD:451|1}} and {{CARD:375|1}} into your hand, then remove all negative effects from ally {{TRIBE:PLANT|2}}.",
+        "prev": "{{KW:MAGIC}}: Add 2 random {{TRIBE:PLANT|2}} to your hand, then remove all negative effects from your {{TRIBE:PLANT|2}}."
+      }
+    }
+  },
   "273": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "274": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "275": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "276": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Cattys_Dad",
+        "prev": "Catty's_Dad"
+      }
+    }
   },
   "277": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "278": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "279": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "280": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "281": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   },
   "282": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "285": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "286": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "287": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "288": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining {{GOLD}} or less if no target.",
+        "prev": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining gold."
+      }
+    }
   },
   "289": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "290": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "291": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "292": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "293": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "294": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "295": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "296": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{CARD:373|1}}. {{KW:TURN_END}}: Give ally {{CARD:373|2}} +1 {{ATK}}.",
+        "prev": "{{KW:MAGIC}} and {{KW:TURN_START}}: Summon 1 {{CARD:373|1}}."
+      }
+    }
   },
   "297": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "298": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "299": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "300": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Add a {{CARD:451|1}} to your hand.",
-        "prev": "{{KW:DUST}}: Add a random {{TRIBE:PLANT|1}} to your hand."
-      }
-    }
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {}
   },
   "301": {
     "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "302": {
-    "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 5
+      },
       "hp": {
         "now": 5,
-        "prev": 6
+        "prev": 2
       },
       "maxHp": {
         "now": 5,
-        "prev": 6
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 5
       },
       "originalHp": {
         "now": 5,
-        "prev": 6
+        "prev": 2
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TURN_START}}: Gain +1 {{HP}}. {{KW:TURN_END}}: Gain +1 {{ATK}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:TURN_END}}: Swap its {{ATK}} and {{HP}}."
       }
     }
   },
-  "303": {
+  "302": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
+  },
+  "303": {
+    "added": {
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 2
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Your other monsters have +1 {{ATK}}.",
+        "prev": "{{KW:MAGIC}}: Give {{KW:TRANSPARENCY}} to adjacent monsters costing 2 or less."
+      }
+    }
   },
   "306": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      }
+    }
   },
   "307": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "308": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "309": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add a {{CARD:309|1}} to your hand.",
+        "prev": "{{KW:DUST}}: Add a {{CARD:309|1}} in your hand."
+      }
+    }
   },
   "310": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "311": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "312": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "313": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "314": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "hp": {
+        "now": 2,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "ranged": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a monster +1/+2.",
+        "prev": "{{KW:RANGED}}. {{KW:MAGIC}}: Give an ally monster +1/+1."
+      }
+    }
   },
   "315": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give {{KW:CANDY}} to all ally {{TRIBE:ROYAL_GUARD|2}}.",
-        "prev": "{{KW:DUST}}: Give {{KW:CANDY}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:315|1}})."
-      }
-    }
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
+    "changed": {}
   },
   "316": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give {{KW:RANGED}} to all ally {{TRIBE:ROYAL_GUARD|2}}.",
-        "prev": "{{KW:DUST}}: Give {{KW:RANGED}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:316|1}})."
-      }
-    }
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
+    "changed": {}
   },
   "317": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "318": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
       "description": {
-        "now": "{{KW:MAGIC}}: Remove 2 random other monsters from your Dustpile and add them to your hand.",
-        "prev": "{{KW:MAGIC}}: Remove 2 random monsters from your dustpile and add them to your hand."
+        "now": "{{KW:MAGIC}}: Look at 3 random different non-dt monsters in your dustpile. Send one to your hand.",
+        "prev": "{{KW:MAGIC}}: Remove 2 random other monsters from your Dustpile and add them to your hand."
       }
     }
   },
   "349": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "350": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "351": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Gaster Blaster",
+        "prev": "G. Blaster"
+      },
+      "image": {
+        "now": "Gaster_Blaster",
+        "prev": "G._Blaster"
+      }
+    }
   },
   "352": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "353": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "354": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "355": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "356": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   },
   "357": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "358": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "359": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "360": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
+    "changed": {}
   },
   "361": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
     "changed": {}
   },
   "362": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "hp": {
-        "now": 2,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 1
-      },
-      "dodge": {
-        "now": 1,
-        "prev": 0
-      },
-      "cost": {
-        "now": 5,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:DODGE}} (1). {{KW:DUST}}: Add 2 {{CARD:351|2}} to your deck and reduce their {{COST}} by 2.",
-        "prev": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand."
-      }
-    }
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
+    "changed": {}
   },
   "363": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a copy of its killer to your hand and give it {{KW:HASTE}}.",
-        "prev": "{{KW:DUST}}: Give {{KW:HASTE}} to 2 random monsters in your hand."
-      }
-    }
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
+    "changed": {}
   },
   "364": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
     "changed": {}
   },
   "365": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "LOST_SOUL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 5,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 3
-      },
-      "cost": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and reduce its {{COST}} by 2.",
-        "prev": "{{KW:DUST}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and it reduce its {{COST}} by 1."
-      }
-    }
+    "removed": {
+      "tribe": "LOST_SOUL"
+    },
+    "changed": {}
   },
   "366": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "367": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "368": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card.",
-        "prev": "{{KW:TURBO}}: Deal {{DMG:6}} to you and {{DMG:2}} to your monsters and draw a card."
+        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card.",
+        "prev": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card."
       }
     }
   },
   "369": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "370": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 3
+      }
+    }
   },
   "371": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "372": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "373": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "GENERATED"
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. When this deals {{DMG}} to a monster, restore that much {{HP}} to you.",
-        "prev": "{{KW:HASTE}}. When this deals {{DMG}}, restore that much {{HP}} to you."
-      }
-    }
+    "changed": {}
   },
   "374": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "375": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "376": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "377": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "378": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "379": {
     "added": {
-      "ownerId": 0
+      "target": "MONSTER",
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster +1/+2. If it's a {{CARD:378|1}}, turn it into a {{CARD:380|1}} instead. Draw a card.",
+        "prev": "Turn an ally {{CARD:378|1}} into {{CARD:380|1}}. If there's none, draw a card."
+      }
+    }
   },
   "380": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "381": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "384": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "385": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Reveal a random card in your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of the last revealed card by 2.",
+        "prev": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
+      }
+    }
   },
   "386": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "389": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "390": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} ally monsters. {{KW:DUST}}: {{KW:SILENCE}} a random enemy monster.",
+        "prev": "{{KW:MAGIC}}: Silence all ally monsters."
+      }
+    }
   },
   "391": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "392": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}.",
+        "prev": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
+      }
+    }
   },
   "393": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "394": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn.",
+        "prev": "{{KW:TAUNT}}. {{KW:TURN_START}}: Gain -{{ATK:2}}. {{KW:TURN_END}}: Gain +{{ATK:2}}."
+      }
+    }
   },
   "395": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Toriels_Car",
+        "prev": "Toriel's_Car"
+      }
+    }
   },
   "396": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "397": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "398": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "399": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "400": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "401": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "402": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "403": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "404": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "405": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "406": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "407": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "408": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "409": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "410": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "411": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4 (base stats), then summon an exact copy of this.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4, then summon an exact copy of this."
+      }
+    }
   },
   "412": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "413": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "414": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "415": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Restore 2 {{HP}} to yourself. Restore 2 extra {{HP}} for each active {{KW:FUTURE}} effect.",
-        "prev": "{{KW:MAGIC}}: Restore {{HP:2}} to yourself for each active {{KW:FUTURE}} effect."
-      }
-    }
+    "changed": {}
   },
   "416": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "417": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "418": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "419": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "420": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "421": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Asgores_Truck",
+        "prev": "Asgore's_Truck"
+      }
+    }
   },
   "422": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "423": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "424": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "425": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "426": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE",
+      "tribe": "PLANT"
+    },
     "changed": {}
   },
   "427": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "428": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "429": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "430": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "431": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "432": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "433": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "434": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "435": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "436": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "437": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Shyrens_Agent",
+        "prev": "Shyren's_Agent"
+      }
+    }
   },
   "438": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}.",
+        "prev": "Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}."
+      }
+    }
   },
   "439": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "440": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   },
   "441": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "442": {
     "added": {
-      "new": true
+      "tribes": [
+        "DOG"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "DOG"
+    },
+    "changed": {
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 11,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 10
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a copy of this with -4/-7 and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon a 0/1 copy of this and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand."
+      }
+    }
   },
   "443": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "444": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "RANGE"
+    },
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 12
+      }
+    }
   },
   "445": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
     "changed": {}
   },
   "446": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
+    "changed": {
+      "description": {
+        "now": "Draw up to 3 cards and reduce their {{COST}} by 2.",
+        "prev": "Draw 3 cards. Reduce the cost of the cards drawn by 1."
+      }
+    }
   },
   "447": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
     "changed": {}
   },
   "448": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
     "changed": {}
   },
   "449": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
+    "changed": {
+      "description": {
+        "now": "Deal {{DMG}} to all enemy monsters equal to the amount of empty slots on your side of the board.",
+        "prev": "Deal 2 {{DMG}} to all enemies."
+      }
+    }
   },
   "450": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}
   },
   "451": {
+    "added": {
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {}
+  },
+  "452": {
     "added": {
       "new": true
     },

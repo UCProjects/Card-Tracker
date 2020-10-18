@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "INTEGRITY",
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
     "id": 82,
     "fixedId": 82,
     "typeCard": 1,
@@ -13,16 +16,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Return an allied monster to your hand and you get 20% of its {{COST}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   }
 }

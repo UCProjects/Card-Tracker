@@ -31,16 +31,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4, then summon an exact copy of this."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4 (base stats), then summon an exact copy of this."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4 (base stats), then summon an exact copy of this.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4, then summon an exact copy of this."
+      }
+    }
   }
 }

@@ -17,7 +17,7 @@
     "ranged": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "anotherChance": false,
     "candy": false,
     "id": 392,
@@ -31,17 +31,36 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribe": "PLANT",
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
+    "description": "{{KW:TRANSPARENCY}}. Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "PLANT"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "PLANT"
+    },
+    "changed": {
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}.",
+        "prev": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
+      }
+    }
   }
 }

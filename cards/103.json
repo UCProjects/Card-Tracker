@@ -24,23 +24,33 @@
     "fixedId": 103,
     "typeCard": 0,
     "name": "Muffet's Pet",
-    "image": "Muffet's_Pet",
+    "image": "Muffets_Pet",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Kill a random enemy monster with 2 or less {{ATK}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Muffets_Pet",
+        "prev": "Muffet's_Pet"
+      }
+    }
   }
 }

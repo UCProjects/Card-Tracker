@@ -3,8 +3,8 @@
     "id": 351,
     "fixedId": 351,
     "typeCard": 1,
-    "name": "G. Blaster",
-    "image": "G._Blaster",
+    "name": "Gaster Blaster",
+    "image": "Gaster_Blaster",
     "cost": 6,
     "rarity": "GENERATED",
     "originalCost": 6,
@@ -12,16 +12,30 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Deal {{DMG:8}} to a monster."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Gaster Blaster",
+        "prev": "G. Blaster"
+      },
+      "image": {
+        "now": "Gaster_Blaster",
+        "prev": "G._Blaster"
+      }
+    }
   }
 }

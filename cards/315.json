@@ -31,22 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "ROYAL_GUARD",
+    "tribes": [
+      "ROYAL_GUARD"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:DUST}}: Give {{KW:CANDY}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give {{KW:CANDY}} to all ally {{TRIBE:ROYAL_GUARD|2}}.",
-        "prev": "{{KW:DUST}}: Give {{KW:CANDY}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:315|1}})."
-      }
-    }
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
+    "changed": {}
   }
 }

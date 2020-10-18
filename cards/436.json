@@ -28,20 +28,26 @@
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
-    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a monster with {{KW:HASTE}} in your hand +1 {{ATK}}."
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "target": "RANGE"
+    },
     "changed": {}
   }
 }

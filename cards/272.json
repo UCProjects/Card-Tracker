@@ -31,16 +31,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Add 2 random {{TRIBE:PLANT|2}} to your hand, then remove all negative effects from your {{TRIBE:PLANT|2}}."
+    "description": "{{KW:MAGIC}}: Add a {{CARD:451|1}} and {{CARD:375|1}} into your hand, then remove all negative effects from ally {{TRIBE:PLANT|2}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a {{CARD:451|1}} and {{CARD:375|1}} into your hand, then remove all negative effects from ally {{TRIBE:PLANT|2}}.",
+        "prev": "{{KW:MAGIC}}: Add 2 random {{TRIBE:PLANT|2}} to your hand, then remove all negative effects from your {{TRIBE:PLANT|2}}."
+      }
+    }
   }
 }

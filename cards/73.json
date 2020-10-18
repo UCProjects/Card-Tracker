@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "PATIENCE",
+    "soul": {
+      "id": 6,
+      "name": "PATIENCE"
+    },
     "id": 73,
     "fixedId": 73,
     "typeCard": 1,
@@ -13,16 +16,32 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:PARALYZE}} a monster and the one to its left. Deal {{DMG:2}} if already paralyzed."
+    "description": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 6,
+        "name": "PATIENCE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "PATIENCE"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead.",
+        "prev": "{{KW:PARALYZE}} a monster and the one to its left. Deal {{DMG:2}} if already paralyzed."
+      }
+    }
   }
 }

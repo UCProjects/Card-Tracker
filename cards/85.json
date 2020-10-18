@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "INTEGRITY",
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
     "id": 85,
     "fixedId": 85,
     "typeCard": 1,
@@ -13,16 +16,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Add an exact copy of an allied monster to your hand."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   }
 }

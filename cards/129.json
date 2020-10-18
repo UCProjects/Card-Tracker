@@ -1,6 +1,10 @@
 {
   "card": {
-    "classe": "DETERMINATION",
+    "soul": {
+      "lives": 1,
+      "id": 2,
+      "name": "DETERMINATION"
+    },
     "id": 129,
     "fixedId": 129,
     "typeCard": 1,
@@ -13,16 +17,28 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Kill an enemy monster. Deal dead monster's {{COST}} as {{DMG}} to yourself."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   }
 }

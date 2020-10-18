@@ -1,27 +1,54 @@
 {
   "card": {
-    "classe": "BRAVERY",
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
     "id": 128,
     "fixedId": 128,
     "typeCard": 1,
     "name": "Froggit Trio",
     "image": "Froggit_Trio",
-    "cost": 4,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "If your opponent has more monsters on his board than you, summon 3 {{CARD:2|3}}."
+    "description": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 1,
+        "name": "BRAVERY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "BRAVERY"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand.",
+        "prev": "If your opponent has more monsters on his board than you, summon 3 {{CARD:2|3}}."
+      }
+    }
   }
 }

@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "AMALGAMATE",
+    "tribes": [
+      "AMALGAMATE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Put a random card in the enemy player's hand back into his deck."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   }
 }

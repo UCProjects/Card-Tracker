@@ -25,22 +25,40 @@
     "typeCard": 0,
     "name": "Burger Bush",
     "image": "Burger_Bush",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1."
+    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead.",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1."
+      }
+    }
   }
 }

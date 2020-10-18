@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "JUSTICE",
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
     "id": 181,
     "fixedId": 181,
     "typeCard": 1,
@@ -13,16 +16,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   }
 }

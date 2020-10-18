@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "JUSTICE",
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
     "id": 131,
     "fixedId": 131,
     "typeCard": 1,
@@ -12,16 +15,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "JUSTICE"
+    },
     "changed": {}
   }
 }

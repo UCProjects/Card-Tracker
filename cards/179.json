@@ -1,6 +1,10 @@
 {
   "card": {
-    "classe": "DETERMINATION",
+    "soul": {
+      "lives": 1,
+      "id": 2,
+      "name": "DETERMINATION"
+    },
     "id": 179,
     "fixedId": 179,
     "typeCard": 1,
@@ -12,16 +16,28 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Give your monsters +1/+1. If you have {{HP:1}}, give them +7/+7 instead."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "lives": 1,
+        "id": 2,
+        "name": "DETERMINATION"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "DETERMINATION"
+    },
     "changed": {}
   }
 }

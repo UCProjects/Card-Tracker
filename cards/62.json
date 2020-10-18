@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "ROYAL_GUARD",
+    "tribes": [
+      "ROYAL_GUARD"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Deal {{DMG:8}} randomly split among all enemy monsters."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ROYAL_GUARD"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "ROYAL_GUARD"
+    },
     "changed": {}
   }
 }

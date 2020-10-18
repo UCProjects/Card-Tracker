@@ -28,27 +28,31 @@
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
-    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "AMALGAMATE",
+    "tribes": [
+      "AMALGAMATE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Choose a card from your opponent's hand and increase its {{COST}} by 1."
   },
   "diffs": {
     "added": {
-      "target": "RANGE",
-      "ownerId": 0
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Choose a card from your opponent's hand and increase its {{COST}} by 1.",
-        "prev": "{{KW:MAGIC}}: Reveal your opponent's hand."
-      }
-    }
+    "removed": {
+      "target": "RANGE",
+      "tribe": "AMALGAMATE"
+    },
+    "changed": {}
   }
 }

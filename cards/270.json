@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribe": "ALL",
+    "tribes": [
+      "ALL"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "ALL"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "ALL"
+    },
     "changed": {}
   }
 }

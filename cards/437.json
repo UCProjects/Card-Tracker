@@ -24,7 +24,7 @@
     "fixedId": 437,
     "typeCard": 0,
     "name": "Shyren's Agent",
-    "image": "Shyren's_Agent",
+    "image": "Shyrens_Agent",
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
@@ -32,16 +32,26 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Restore 4 {{HP}} to a damaged monster. Gain +1/+1 for each excess {{HP}} healed."
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "image": {
+        "now": "Shyrens_Agent",
+        "prev": "Shyren's_Agent"
+      }
+    }
   }
 }

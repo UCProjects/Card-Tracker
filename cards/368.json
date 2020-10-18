@@ -11,20 +11,25 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card."
+    "description": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card.",
-        "prev": "{{KW:TURBO}}: Deal {{DMG:6}} to you and {{DMG:2}} to your monsters and draw a card."
+        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card.",
+        "prev": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card."
       }
     }
   }

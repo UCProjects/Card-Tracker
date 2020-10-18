@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "PERSEVERANCE",
+    "soul": {
+      "id": 7,
+      "name": "PERSEVERANCE"
+    },
     "id": 134,
     "fixedId": 134,
     "typeCard": 1,
@@ -9,19 +12,37 @@
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:PARALYZE}} all enemy monsters under {{KR}}. Draw a card."
+    "description": "Give a monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 7,
+        "name": "PERSEVERANCE"
+      },
+      "target": "MONSTER",
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "classe": "PERSEVERANCE"
+    },
+    "changed": {
+      "description": {
+        "now": "Give a monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead.",
+        "prev": "{{KW:PARALYZE}} all enemy monsters under {{KR}}. Draw a card."
+      }
+    }
   }
 }

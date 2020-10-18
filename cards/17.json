@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 5,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 9,
+    "maxHp": 9,
     "originalAttack": 5,
-    "originalHp": 8,
+    "originalHp": 9,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -31,16 +31,38 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Whenever this attacks heal itself by its amount of {{ATK}}."
+    "description": "After this attacks, heal itself by the amount of {{DMG}} dealt."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 9,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 8
+      },
+      "description": {
+        "now": "After this attacks, heal itself by the amount of {{DMG}} dealt.",
+        "prev": "Whenever this attacks heal itself by its amount of {{ATK}}."
+      }
+    }
   }
 }

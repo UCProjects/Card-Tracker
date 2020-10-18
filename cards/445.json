@@ -11,17 +11,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribe": "CHAOS_WEAPON",
+    "tribes": [
+      "CHAOS_WEAPON"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Kill a random enemy monster."
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [
+        "CHAOS_WEAPON"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "CHAOS_WEAPON"
+    },
     "changed": {}
   }
 }

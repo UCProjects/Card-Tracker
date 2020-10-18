@@ -31,17 +31,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "TEMMIE",
+    "tribes": [
+      "TEMMIE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 3 random {{TRIBE:TEMMIE|2}} to your hand (except {{CARD:200|1}})."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "TEMMIE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "TEMMIE"
+    },
     "changed": {}
   }
 }

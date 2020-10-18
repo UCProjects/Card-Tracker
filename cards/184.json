@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "KINDNESS",
+    "soul": {
+      "id": 5,
+      "name": "KINDNESS"
+    },
     "id": 184,
     "fixedId": 184,
     "typeCard": 1,
@@ -13,25 +16,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Set a monster's {{ATK}} to 3 and {{HP}} to 2."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
       },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
+    },
+    "removed": {
+      "classe": "KINDNESS"
+    },
+    "changed": {}
   }
 }

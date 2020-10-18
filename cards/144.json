@@ -28,32 +28,33 @@
     "cost": 3,
     "rarity": "BASE",
     "originalCost": 3,
-    "target": "MONSTER",
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Silence a monster."
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 2,
-        "prev": 3
+      "target": {
+        "now": "ENEMY_MONSTER",
+        "prev": "MONSTER"
       },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster.",
+        "prev": "{{KW:MAGIC}}: Silence a monster."
       }
     }
   }

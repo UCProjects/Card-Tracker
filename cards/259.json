@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "KINDNESS",
+    "soul": {
+      "id": 5,
+      "name": "KINDNESS"
+    },
     "id": 259,
     "fixedId": 259,
     "typeCard": 1,
@@ -13,20 +16,31 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right."
+    "description": "Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 5,
+        "name": "KINDNESS"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "KINDNESS"
+    },
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right.",
-        "prev": "Give +{{HP:2}} to an ally monster. Summon a {{CARD:353}} to his left and a {{CARD:354}} to his right."
+        "now": "Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right.",
+        "prev": "{{KW:MAGIC}}: Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right."
       }
     }
   }

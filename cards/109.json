@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
@@ -28,20 +28,45 @@
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "AMALGAMATE",
+    "tribes": [
+      "AMALGAMATE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Can't be damaged during your turn. {{KW:MAGIC}}: Give +1/+1 to another random ally {{TRIBE:AMALGAMATE|1}}."
+    "description": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "target": "ALLY_MONSTER",
+      "tribes": [
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand.",
+        "prev": "Can't be damaged during your turn. {{KW:MAGIC}}: Give +1/+1 to another random ally {{TRIBE:AMALGAMATE|1}}."
+      }
+    }
   }
 }

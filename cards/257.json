@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "INTEGRITY",
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
     "id": 257,
     "fixedId": 257,
     "typeCard": 1,
@@ -13,16 +16,27 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equals to the amount spent. Convert extra {{DMG}} into {{GOLD}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY"
+    },
     "changed": {}
   }
 }

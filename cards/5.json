@@ -28,20 +28,31 @@
     "cost": 2,
     "rarity": "BASE",
     "originalCost": 2,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Give +1 {{HP}} to an ally monster."
+    "description": "{{KW:MAGIC}}: Give adjacent monsters +1 {{HP}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give adjacent monsters +1 {{HP}}.",
+        "prev": "{{KW:MAGIC}}: Give +1 {{HP}} to an ally monster."
+      }
+    }
   }
 }

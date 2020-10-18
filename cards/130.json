@@ -1,6 +1,9 @@
 {
   "card": {
-    "classe": "INTEGRITY",
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
     "id": 130,
     "fixedId": 130,
     "typeCard": 1,
@@ -9,20 +12,31 @@
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
-    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "soul": {
+        "id": 3,
+        "name": "INTEGRITY"
+      },
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "classe": "INTEGRITY",
+      "target": "RANGE"
+    },
     "changed": {}
   }
 }

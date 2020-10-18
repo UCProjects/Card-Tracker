@@ -32,14 +32,19 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "tribes": [],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:THORNS}} (1). {{KW:MAGIC}}: Give an ally monster +1 {{KW:THORNS}}."
   },
   "diffs": {
     "added": {
-      "new": true
+      "tribes": [],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
     "removed": {},
     "changed": {}

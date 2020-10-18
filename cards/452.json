@@ -1,10 +1,14 @@
 {
   "card": {
-    "id": 398,
-    "fixedId": 398,
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
+    "id": 452,
+    "fixedId": 452,
     "typeCard": 1,
-    "name": "Scope",
-    "image": "Scope",
+    "name": "Recruitment",
+    "image": "Recruitment",
     "cost": 0,
     "rarity": "GENERATED",
     "originalCost": 0,
@@ -17,17 +21,13 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Look at the 2 cards at the top of your opponent's deck and choose one. Send it to the bottom of their deck."
+    "description": "Look at 3 random monsters with a {{COST}} of 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "new": true
     },
-    "removed": {
-      "target": "RANGE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

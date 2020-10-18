@@ -31,17 +31,29 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribe": "AMALGAMATE",
+    "tribes": [
+      "FROGGIT",
+      "AMALGAMATE"
+    ],
     "selectCards": [],
+    "typeSkin": 0,
     "ownerId": 0,
+    "creatorFixedId": 0,
     "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Draw a card. If it was an {{TRIBE:AMALGAMATE|1}} , give it +{{HP:2}} and {{KW:CANDY}}."
   },
   "diffs": {
     "added": {
-      "ownerId": 0
+      "tribes": [
+        "FROGGIT",
+        "AMALGAMATE"
+      ],
+      "typeSkin": 0,
+      "creatorFixedId": 0
     },
-    "removed": {},
+    "removed": {
+      "tribe": "AMALGAMATE"
+    },
     "changed": {}
   }
 }

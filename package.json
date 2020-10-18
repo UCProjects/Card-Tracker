@@ -1,0 +1,17 @@
+{
+  "name": "cards",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "node src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^12.0.0"
+  },
+  "author": "feildmaster",
+  "license": "MIT",
+  "dependencies": {
+    "needle": "^2.5.2"
+  }
+}

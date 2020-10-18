@@ -11,9 +11,9 @@
     "name": "Hyper Goner",
     "image": "Hyper_Goner",
     "baseImage": "Hyper_Goner",
-    "cost": 38,
+    "cost": 23,
     "rarity": "EPIC",
-    "originalCost": 38,
+    "originalCost": 23,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,14 +24,24 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30)."
+    "description": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}})."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Hyper_Goner",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 23,
+        "prev": 38
+      },
+      "originalCost": {
+        "now": 23,
+        "prev": 38
+      },
+      "description": {
+        "now": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}}).",
+        "prev": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30)."
+      }
+    }
   }
 }

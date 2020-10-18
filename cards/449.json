@@ -24,16 +24,8 @@
     "description": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Spade_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board.",
-        "prev": "Deal {{DMG}} to all enemy monsters equal to the amount of empty slots on your side of the board."
-      }
-    }
+    "changed": {}
   }
 }

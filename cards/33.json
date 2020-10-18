@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 33,
     "fixedId": 33,
@@ -46,47 +44,11 @@
     "description": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Endogeny",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 5,
-        "prev": 8
-      },
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 8
-      },
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
-      },
-      "description": {
-        "now": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1.",
-        "prev": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand and reduce its {{COST}} by 2."
-      }
-    }
+    "changed": {}
   }
 }

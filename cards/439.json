@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 1,
-    "originalHp": 6,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "thorns": 2,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 439,
     "fixedId": 439,
@@ -43,12 +41,32 @@
     "description": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Look at 3 random non-DT {{KW:DUST}} monsters and choose one. Add it to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Candle",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 1
+      },
+      "hp": {
+        "now": 3,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 6
+      }
+    }
   }
 }

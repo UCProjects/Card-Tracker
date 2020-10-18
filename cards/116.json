@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 116,
     "fixedId": 116,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Gain {{KW:CHARGE}} if your opponent has a {{KW:TAUNT}} monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Small_Bird",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

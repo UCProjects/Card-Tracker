@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 308,
     "fixedId": 308,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Reduce the enemy's {{GOLD}} by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Donation_Stump",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

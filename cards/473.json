@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 473,
     "fixedId": 473,
@@ -45,10 +43,11 @@
     "description": "{{KW:HASTE}}. {{KW:TURBO}}: Shuffle 2 {{CARD:115|2}} into your deck."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

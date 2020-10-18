@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 227,
     "fixedId": 227,
@@ -44,12 +42,11 @@
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Silence a monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Coffee_Man",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

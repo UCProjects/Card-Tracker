@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 194,
     "fixedId": 194,
@@ -44,41 +42,11 @@
     "description": "{{KW:MAGIC}}: Kill an ally monster and gain +2/+2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shambling_Mass",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 6
-      },
-      "hp": {
-        "now": 4,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 6
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      }
-    }
+    "changed": {}
   }
 }

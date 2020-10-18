@@ -6,9 +6,9 @@
     "name": "Instant Noodles",
     "image": "Instant_Noodles",
     "baseImage": "Instant_Noodles",
-    "cost": 4,
+    "cost": 2,
     "rarity": "GENERATED",
-    "originalCost": 4,
+    "originalCost": 2,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -20,13 +20,24 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Give a monster +4/+4."
+    "description": "Give a monster +2/+2. Draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Give a monster +2/+2. Draw a card.",
+        "prev": "Give a monster +4/+4."
+      }
+    }
   }
 }

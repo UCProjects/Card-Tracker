@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 126,
     "fixedId": 126,
@@ -43,12 +41,11 @@
     "description": "{{KW:DISARMED}}. Increase {{DMG}} dealt to all enemy monsters by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Papyrus_Statue",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

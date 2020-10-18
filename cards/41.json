@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 41,
     "fixedId": 41,
@@ -43,12 +41,11 @@
     "description": "Can only be damaged by a {{DMG}} of 4 or greater."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mad_Dummy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

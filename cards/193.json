@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 193,
     "fixedId": 193,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Change the spells in your hand into other random spells, they {{COST}} 1 less."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Disco_Ball",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

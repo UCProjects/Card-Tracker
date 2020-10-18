@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": true,
     "id": 306,
     "fixedId": 306,
@@ -43,21 +41,11 @@
     "description": "{{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Smolder_Cake",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

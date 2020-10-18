@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 433,
     "fixedId": 433,
@@ -43,21 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a random <= 3 {{GOLD}} spell to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Butterflies",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a random <= 3 {{GOLD}} spell to your hand.",
-        "prev": "{{KW:DUST}}: Add a random <= {{GOLD:3}} spell to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": true,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 60,
     "fixedId": 60,
@@ -43,12 +41,11 @@
     "description": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, can attack another monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Papyrus",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

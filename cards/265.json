@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 265,
     "fixedId": 265,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Add 3 {{CARD:371|3}} to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lancer",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

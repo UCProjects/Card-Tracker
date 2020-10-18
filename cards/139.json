@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 139,
     "fixedId": 139,
@@ -45,12 +43,11 @@
     "description": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Trader_Temmie",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

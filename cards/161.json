@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 161,
     "fixedId": 161,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Reduce the {{COST}} of all spells in your hand by 2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clam_Girl",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

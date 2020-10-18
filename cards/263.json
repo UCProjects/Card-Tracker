@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 263,
     "fixedId": 263,
@@ -43,12 +41,11 @@
     "description": "{{KW:SUPPORT}}: Give the attacking monster +1/+1 (MAX +2/+2) for each other monster you control."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Kris",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

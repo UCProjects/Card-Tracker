@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 440,
     "fixedId": 440,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Look at 3 random {{KW:DUST}} monsters costing <= 8 {{GOLD}} and catch one. {{KW:DUST}}: Release a 1/1 copy of it."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Crystal_Cheese",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

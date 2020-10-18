@@ -26,24 +26,8 @@
     "description": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Brain_Freeze",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 8
-      },
-      "description": {
-        "now": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn.",
-        "prev": "Both players skip their next turn."
-      }
-    }
+    "changed": {}
   }
 }

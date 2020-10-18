@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 415,
     "fixedId": 415,
@@ -27,9 +25,9 @@
     "name": "Goner Clam",
     "image": "Goner_Clam",
     "baseImage": "Goner_Clam",
-    "cost": 5,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 6,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -43,34 +41,26 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all other ally {{TRIBE:G_FOLLOWER|2}} +1/+2."
+    "description": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all ally {{TRIBE:G_FOLLOWER|2}} +1/+1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Goner_Clam",
-      "target": "ALL",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
       "cost": {
-        "now": 5,
-        "prev": 4
+        "now": 6,
+        "prev": 5
       },
       "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "tribes": {
-        "now": [
-          "G_FOLLOWER"
-        ],
-        "prev": []
+        "now": 6,
+        "prev": 5
       },
       "description": {
-        "now": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all other ally {{TRIBE:G_FOLLOWER|2}} +1/+2.",
-        "prev": "{{KW:MAGIC}}: Restore 2 {{HP}} to yourself. Restore 2 extra {{HP}} for each active {{KW:FUTURE}} effect."
+        "now": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all ally {{TRIBE:G_FOLLOWER|2}} +1/+1.",
+        "prev": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all other ally {{TRIBE:G_FOLLOWER|2}} +1/+2."
       }
     }
   }

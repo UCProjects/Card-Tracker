@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 420,
     "fixedId": 420,
@@ -43,12 +41,11 @@
     "description": "{{KW:TAUNT}}. {{KW:THORNS}} (4)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spike_Trap",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

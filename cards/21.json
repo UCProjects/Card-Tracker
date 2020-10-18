@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 21,
     "fixedId": 21,
@@ -43,12 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Deal {{DMG:1}} to all enemy monsters and {{DMG:3}} to the opponent."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tsunderplane",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

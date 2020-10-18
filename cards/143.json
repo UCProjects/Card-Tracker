@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 143,
     "fixedId": 143,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_START}}: Deal {{DMG:3}} to enemy monsters played at least one turn ago and that didn't attack."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Orange_Laser",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

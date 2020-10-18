@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 114,
     "fixedId": 114,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Give {{KW:TAUNT}} to all other monsters on the board."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Glad_Dummy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

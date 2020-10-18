@@ -28,20 +28,8 @@
     "description": "Kill an enemy monster. Deal dead monster's {{COST}} as {{DMG}} to yourself."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Knife",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

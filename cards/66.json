@@ -11,10 +11,9 @@
     "name": "Will to Fight",
     "image": "Will_to_Fight",
     "baseImage": "Will_to_Fight",
-    "cost": 1,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -25,14 +24,26 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Send an ally monster back to your deck with +{{ATK:4}} and +{{HP:4}}."
+    "description": "Add the next {{TRIBE:LOST_SOUL|1}} on the top of your deck with +2/+2 and {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Will_to_Fight",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "target": "ALLY_MONSTER"
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      },
+      "description": {
+        "now": "Add the next {{TRIBE:LOST_SOUL|1}} on the top of your deck with +2/+2 and {{KW:HASTE}}.",
+        "prev": "Send an ally monster back to your deck with +{{ATK:4}} and +{{HP:4}}."
+      }
+    }
   }
 }

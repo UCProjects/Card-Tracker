@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 28,
     "fixedId": 28,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chara",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

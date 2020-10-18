@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 437,
     "fixedId": 437,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Restore 4 {{HP}} to a damaged monster. Gain +1/+1 for each excess {{HP}} healed."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shyrens_Agent",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

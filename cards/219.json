@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 219,
     "fixedId": 219,
@@ -43,12 +41,11 @@
     "description": "{{KW:ARMOR}} (2). {{KW:MAGIC}}: Add a random different Gerson's artifact."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gerson",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

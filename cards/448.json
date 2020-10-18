@@ -24,10 +24,7 @@
     "description": "Restore 7 {{HP}} to all allies."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Heart_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 443,
     "fixedId": 443,
@@ -44,12 +42,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG}} to a monster equal to half its cost (Rounded up)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spade_Chain",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 144,
     "fixedId": 144,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Scarf_Mouse",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

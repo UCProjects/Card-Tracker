@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 185,
     "fixedId": 185,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it, draw 2 cards and reduce their cost by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Librarian",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

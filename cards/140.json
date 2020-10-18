@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 140,
     "fixedId": 140,
@@ -43,12 +41,11 @@
     "description": "Gain +{{ATK:1}} if your opponent summons a monster or +{{HP:1}} if you summon a monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Politics_Bear",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

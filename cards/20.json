@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 20,
     "fixedId": 20,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:2}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Vulkin",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

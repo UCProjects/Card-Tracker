@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 312,
     "fixedId": 312,
@@ -34,7 +32,7 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [
-      "CHESS_FIGURE"
+      "PIECE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -45,50 +43,19 @@
     "description": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. If played on the right, gain +1 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ponman",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
       "tribes": {
         "now": [
-          "CHESS_FIGURE"
+          "PIECE"
         ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. If played on the right, gain +1 {{ATK}} and {{KW:HASTE}}.",
-        "prev": "{{KW:DUST}}: Summon every {{CARD:312|1}} from your hand."
+        "prev": [
+          "CHESS_FIGURE"
+        ]
       }
     }
   }

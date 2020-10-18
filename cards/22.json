@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 22,
     "fixedId": 22,
@@ -44,29 +42,11 @@
     "description": "{{KW:MAGIC}}: Heal 3 {{HP}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shyren",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Heal 3 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Restore {{HP:4}}."
-      }
-    }
+    "changed": {}
   }
 }

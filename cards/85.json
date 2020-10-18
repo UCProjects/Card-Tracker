@@ -10,9 +10,10 @@
     "name": "Cloning",
     "image": "Cloning",
     "baseImage": "Cloning",
-    "cost": 1,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 1,
+    "originalCost": 4,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,28 +24,25 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Choose a monster from your hand. Add an exact copy of it to your hand."
+    "description": "Summon a 3/3 base stats copy of a non-DT monster."
   },
   "diffs": {
     "added": {
-      "baseImage": "Cloning",
-      "playedTurn": 0
+      "target": "MONSTER"
     },
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
+    "removed": {},
     "changed": {
       "cost": {
-        "now": 1,
-        "prev": 3
+        "now": 4,
+        "prev": 1
       },
       "originalCost": {
-        "now": 1,
-        "prev": 3
+        "now": 4,
+        "prev": 1
       },
       "description": {
-        "now": "Choose a monster from your hand. Add an exact copy of it to your hand.",
-        "prev": "Add an exact copy of an allied monster to your hand."
+        "now": "Summon a 3/3 base stats copy of a non-DT monster.",
+        "prev": "Choose a monster from your hand. Add an exact copy of it to your hand."
       }
     }
   }

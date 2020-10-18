@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 121,
     "fixedId": 121,
@@ -27,9 +25,9 @@
     "name": "Goner Kid",
     "image": "Goner_Kid",
     "baseImage": "Goner_Kid",
-    "cost": 10,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,38 +43,19 @@
     "description": "{{KW:MAGIC}}: Kill a random other monster. {{KW:SYNERGY}}: Kill a random enemy monster instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Goner_Kid",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
       "cost": {
-        "now": 10,
-        "prev": 5
+        "now": 8,
+        "prev": 10
       },
       "originalCost": {
-        "now": 10,
-        "prev": 5
-      },
-      "tribes": {
-        "now": [
-          "G_FOLLOWER"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Kill a random other monster. {{KW:SYNERGY}}: Kill a random enemy monster instead.",
-        "prev": "{{KW:MAGIC}}: Copy and trigger your {{KW:FUTURE}} effects (cannot copy the same effect twice)."
+        "now": 8,
+        "prev": 10
       }
     }
   }

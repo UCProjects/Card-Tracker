@@ -10,9 +10,9 @@
     "name": "Worming Up",
     "image": "Worming_Up",
     "baseImage": "Worming_Up",
-    "cost": 9,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 9,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -23,13 +23,24 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Fill your board with {{CARD:373|2}}, then give all {{CARD:373|2}} on the board +1 {{ATK}}."
+    "description": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 9
+      },
+      "description": {
+        "now": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1.",
+        "prev": "Fill your board with {{CARD:373|2}}, then give all {{CARD:373|2}} on the board +1 {{ATK}}."
+      }
+    }
   }
 }

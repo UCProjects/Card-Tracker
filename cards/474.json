@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 474,
     "fixedId": 474,
@@ -45,10 +43,11 @@
     "description": "{{KW:MAGIC}}: Transform all {{CARD:115|2}} in your deck into {{CARD:475|1}} and {{CARD:476|1}} (randomly)."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

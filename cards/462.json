@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 6,
-    "originalHp": 6,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 462,
     "fixedId": 462,
@@ -45,10 +43,32 @@
     "description": "{{KW:TAUNT}}."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

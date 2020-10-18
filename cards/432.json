@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 432,
     "fixedId": 432,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Has +1 {{KW:THORNS}} for each other monster on the board."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Popumeter",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

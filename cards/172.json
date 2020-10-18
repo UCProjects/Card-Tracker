@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 172,
     "fixedId": 172,
@@ -45,17 +43,11 @@
     "description": "Whenever you summon a {{TRIBE:TEMMIE|1}} (Except {{CARD:172|1}}), deal 1 {{DMG}} to all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Allergic_Temmie",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever you summon a {{TRIBE:TEMMIE|1}} (Except {{CARD:172|1}}), deal 1 {{DMG}} to all enemy monsters.",
-        "prev": "Whenever {{CARD:50|1}}, {{CARD:356|1}} or {{CARD:200|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

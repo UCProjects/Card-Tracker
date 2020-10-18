@@ -27,10 +27,7 @@
     "description": "{{KW:SILENCE}} and kill a monster."
   },
   "diffs": {
-    "added": {
-      "baseImage": "HeadShot",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

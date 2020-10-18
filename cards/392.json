@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": true,
-    "anotherChance": false,
     "candy": false,
     "id": 392,
     "fixedId": 392,
@@ -45,12 +43,11 @@
     "description": "{{KW:TRANSPARENCY}}. Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ghost_Tree",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

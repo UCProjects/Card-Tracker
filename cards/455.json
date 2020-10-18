@@ -10,9 +10,9 @@
     "name": "Powerhouse",
     "image": "Powerhouse",
     "baseImage": "Powerhouse",
-    "cost": 8,
+    "cost": 9,
     "rarity": "COMMON",
-    "originalCost": 8,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -26,10 +26,17 @@
     "description": "Draw 2 cards, then reduce the {{COST}} of all cards in your hand by 2 (not below 2)."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 8
+      }
+    }
   }
 }

@@ -24,10 +24,7 @@
     "description": "Draw up to 3 cards and reduce their {{COST}} by 2."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Diamond_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

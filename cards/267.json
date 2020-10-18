@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 267,
     "fixedId": 267,
@@ -27,9 +25,9 @@
     "name": "Tombstone",
     "image": "Tombstone",
     "baseImage": "Tombstone",
-    "cost": 14,
+    "cost": 13,
     "rarity": "EPIC",
-    "originalCost": 14,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -43,12 +41,20 @@
     "description": "{{KW:MAGIC}}: Summon 2 different dead ally {{KW:DUST}} monsters costing 7 or less that died this game on adjacent slots."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tombstone",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 14
+      }
+    }
   }
 }

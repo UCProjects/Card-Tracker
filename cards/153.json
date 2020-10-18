@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 153,
     "fixedId": 153,
@@ -43,12 +41,11 @@
     "description": "Draw a card whenever you summon a monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Catty",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 434,
     "fixedId": 434,
@@ -35,7 +33,7 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [
-      "CHESS_FIGURE"
+      "PIECE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -46,31 +44,19 @@
     "description": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dark_Ponman",
-      "target": "ENEMY_MONSTER",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
       "tribes": {
         "now": [
-          "CHESS_FIGURE"
+          "PIECE"
         ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it instead.",
-        "prev": "{{KW:MAGIC}}: Send a {{CARD:312|1}} from your dustpile to your hand."
+        "prev": [
+          "CHESS_FIGURE"
+        ]
       }
     }
   }

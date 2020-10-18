@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": true,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 479,
     "fixedId": 479,
@@ -40,13 +38,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:CHARGE}}. Whenever you cast spell costing >= 2, summon a {{CARD:479}}."
+    "description": "{{KW:CHARGE}}. Whenever you cast a spell with a {{COST}} of 2 or higher, summon a {{CARD:479|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. Whenever you cast a spell with a {{COST}} of 2 or higher, summon a {{CARD:479|1}}.",
+        "prev": "{{KW:CHARGE}}. Whenever you cast spell costing >= 2, summon a {{CARD:479}}."
+      }
+    }
   }
 }

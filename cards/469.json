@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 469,
     "fixedId": 469,
@@ -43,10 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Summon {{CARD:470|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

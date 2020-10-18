@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 200,
     "fixedId": 200,
@@ -45,25 +43,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other {{TRIBE:TEMMIE|1}} to your hand (From lowest to highest {{COST}})."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bob",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other {{TRIBE:TEMMIE|1}} to your hand (From lowest to highest {{COST}}).",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 3 random {{TRIBE:TEMMIE|2}} to your hand (except {{CARD:200|1}})."
-      }
-    }
+    "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 52,
     "fixedId": 52,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and it costs 1 less."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Alphys",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

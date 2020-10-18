@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 353,
     "fixedId": 353,
@@ -43,12 +41,11 @@
     "description": "{{KW:DUST}}: Deal {{DMG:3}} to your opponent."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Left_Tentacle",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

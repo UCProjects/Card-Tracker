@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": true,
-    "anotherChance": false,
     "candy": false,
     "id": 242,
     "fixedId": 242,
@@ -45,19 +43,11 @@
     "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Burger_Bush",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

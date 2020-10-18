@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 224,
     "fixedId": 224,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Give +{{ATK:1}} to your other {{TRIBE:SNAIL|1}} in play."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Snail",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

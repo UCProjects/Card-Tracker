@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 400,
     "fixedId": 400,
@@ -43,17 +41,11 @@
     "description": "{{KW:TURN_END}}: Shuffle the most expensive card in your hand into your deck and draw a card."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cogwheel",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Shuffle the most expensive card in your hand into your deck and draw a card.",
-        "prev": "{{KW:TURN_END}}: Shuffle the cheapest card in your hand into your deck and draw a card."
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 3,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 2,
+    "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
@@ -15,21 +15,19 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 361,
     "fixedId": 361,
     "typeCard": 0,
-    "name": "Lost Soul 2",
-    "image": "Lost_Soul_2",
-    "baseImage": "Lost_Soul_2",
-    "cost": 5,
+    "name": "Lost Asgore",
+    "image": "Lost_Asgore",
+    "baseImage": "Lost_Asgore",
+    "cost": 3,
     "rarity": "GENERATED",
-    "originalCost": 5,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,12 +43,40 @@
     "description": "{{KW:DUST}}: Kill a random damaged enemy monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_2",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "name": {
+        "now": "Lost Asgore",
+        "prev": "Lost Soul 2"
+      },
+      "image": {
+        "now": "Lost_Asgore",
+        "prev": "Lost_Soul_2"
+      },
+      "baseImage": {
+        "now": "Lost_Asgore",
+        "prev": "Lost_Soul_2"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
   }
 }

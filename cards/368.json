@@ -22,20 +22,8 @@
     "description": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Big_Mine",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

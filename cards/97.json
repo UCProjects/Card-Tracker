@@ -26,10 +26,7 @@
     "description": "Deal {{DMG:2}} to all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Strafe",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

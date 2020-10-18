@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 120,
     "fixedId": 120,
@@ -42,47 +40,18 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead."
+    "description": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one one to add to your hand. {{KW:SYNERGY}}: Add both instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "G_Follower_3",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 5
-      },
-      "hp": {
-        "now": 2,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 6
-      },
-      "cost": {
-        "now": 2,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 8
-      },
       "description": {
-        "now": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead.",
-        "prev": "{{KW:FUTURE}} (4): Kill a random enemy monster."
+        "now": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one one to add to your hand. {{KW:SYNERGY}}: Add both instead.",
+        "prev": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead."
       }
     }
   }

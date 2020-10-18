@@ -26,16 +26,8 @@
     "description": "Look at 5 random monsters costing 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Recruitment",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 5 random monsters costing 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}.",
-        "prev": "Look at 3 random monsters with a {{COST}} of 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

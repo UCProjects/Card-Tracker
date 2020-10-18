@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 292,
     "fixedId": 292,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:4}} to itself."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "The_Warrior",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

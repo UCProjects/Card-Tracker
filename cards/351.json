@@ -23,10 +23,7 @@
     "description": "Deal {{DMG:8}} to a monster."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Gaster_Blaster",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

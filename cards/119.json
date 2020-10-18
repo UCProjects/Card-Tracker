@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 119,
     "fixedId": 119,
@@ -45,32 +43,23 @@
     "description": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "G_Follower_2",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
       "hp": {
-        "now": 4,
-        "prev": 5
+        "now": 3,
+        "prev": 4
       },
       "maxHp": {
-        "now": 4,
-        "prev": 5
+        "now": 3,
+        "prev": 4
       },
       "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}.",
-        "prev": "{{KW:FUTURE}} (3): Earn {{GOLD:3}}."
+        "now": 3,
+        "prev": 4
       }
     }
   }

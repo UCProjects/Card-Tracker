@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 145,
     "fixedId": 145,
@@ -43,12 +41,11 @@
     "description": "Your other monsters take 1 less {{DMG}} (not stackable)"
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Diamond_Boy_1",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

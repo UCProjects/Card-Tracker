@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 107,
     "fixedId": 107,
@@ -43,37 +41,11 @@
     "description": "{{KW:TURN_END}}: Restore 2 {{HP}} to all allies."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Water_Cooler",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 1
-      },
-      "hp": {
-        "now": 3,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:TURN_END}}: Restore 2 {{HP}} to all allies.",
-        "prev": "{{KW:TURN_END}}: Restore {{HP:2}} to ally monsters."
-      }
-    }
+    "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 359,
     "fixedId": 359,
@@ -43,21 +41,11 @@
     "description": "{{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mettabot",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      }
-    }
+    "changed": {}
   }
 }

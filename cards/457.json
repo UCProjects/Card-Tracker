@@ -26,9 +26,7 @@
     "description": "Look at your deck and choose a card to draw. If it's <= {{RARITY:EPIC}}, reduce its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

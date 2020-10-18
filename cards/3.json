@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 3,
     "fixedId": 3,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Gain +{{ATK:1}} for each other ally monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Whimsun",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

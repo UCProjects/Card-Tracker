@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 418,
     "fixedId": 418,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Choose a monster in your hand. Shuffle it into your deck with +2/+2 and {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Malius",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

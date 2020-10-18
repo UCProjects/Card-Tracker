@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 5,
     "fixedId": 5,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Give adjacent monsters +1 {{HP}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Migosp",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

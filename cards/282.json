@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 282,
     "fixedId": 282,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Summon a random monster from your deck that costs less than this monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Great_Door",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

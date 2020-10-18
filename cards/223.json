@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 223,
     "fixedId": 223,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Give +{{HP:1}} to your other {{TRIBE:SNAIL|2}} in play."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Yellow_Snail",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

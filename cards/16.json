@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 16,
     "fixedId": 16,
@@ -27,9 +25,9 @@
     "name": "Madjick",
     "image": "Madjick",
     "baseImage": "Madjick",
-    "cost": 5,
+    "cost": 4,
     "rarity": "BASE",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -44,12 +42,20 @@
     "description": "{{KW:MAGIC}}: Swap the {{ATK}} and {{HP}} of a monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Madjick",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

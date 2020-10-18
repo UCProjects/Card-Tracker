@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 357,
     "fixedId": 357,
@@ -43,17 +41,11 @@
     "description": "{{KW:DUST}}: Give +4 {{ATK}} to all ally {{CARD:169|2}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bun",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give +4 {{ATK}} to all ally {{CARD:169|2}}.",
-        "prev": "{{KW:DUST}}: Give +{{ATK:4}} to a random ally {{CARD:169|1}}."
-      }
-    }
+    "changed": {}
   }
 }

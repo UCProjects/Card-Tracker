@@ -26,10 +26,7 @@
     "description": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Investment",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

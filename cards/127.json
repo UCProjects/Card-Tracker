@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 127,
     "fixedId": 127,
@@ -43,12 +41,11 @@
     "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Garbage",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

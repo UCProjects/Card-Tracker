@@ -27,16 +27,8 @@
     "description": "Deal 1 {{DMG}} to a monster and give it {{KR}}. Draw a card."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Poison",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 1 {{DMG}} to a monster and give it {{KR}}. Draw a card.",
-        "prev": "Give {{KR}} to a monster and add a {{CARD:87}} to your deck. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

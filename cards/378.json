@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 378,
     "fixedId": 378,
@@ -43,12 +41,11 @@
     "description": "{{KW:DUST}}: Return this monster to your hand and add a {{CARD:379|1}} to your deck."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "C-Round",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

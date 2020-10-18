@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 396,
     "fixedId": 396,
@@ -43,12 +41,11 @@
     "description": "{{KW:SUPPORT}}: Give +{{ATK:1}} to the attacking monster if its {{ATK}} is 3 or greater."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Hathy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

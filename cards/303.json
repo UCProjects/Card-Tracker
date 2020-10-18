@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": true,
-    "anotherChance": false,
     "candy": false,
     "id": 303,
     "fixedId": 303,
@@ -45,17 +43,11 @@
     "description": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Bush",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}.",
-        "prev": "{{KW:TRANSPARENCY}}. Your other monsters have +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

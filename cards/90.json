@@ -26,24 +26,8 @@
     "description": "Kill all monsters under {{KR}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Contamination",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 10
-      },
-      "description": {
-        "now": "Kill all monsters under {{KR}}.",
-        "prev": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
-      }
-    }
+    "changed": {}
   }
 }

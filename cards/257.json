@@ -27,10 +27,7 @@
     "description": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equals to the amount spent. Convert extra {{DMG}} into {{GOLD}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Golden_Hit",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

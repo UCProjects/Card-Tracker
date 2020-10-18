@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 466,
     "fixedId": 466,
@@ -43,10 +41,11 @@
     "description": "{{KW:MAGIC}}: If your deck has no spell, look at all spells of your soul. Choose one to add to your hand, it costs 3 less."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

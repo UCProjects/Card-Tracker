@@ -27,16 +27,8 @@
     "description": "Deal 2 {{DMG}} to a monster and the opponent. Increase {{DMG}} by 1 if the target has {{KR}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Worsening",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 2 {{DMG}} to a monster and the opponent. Increase {{DMG}} by 1 if the target has {{KR}}.",
-        "prev": "Deal {{DMG:2}} to a monster. If under {{KR}}, deal {{DMG:5}} instead and the extra {{DMG}} to your opponent."
-      }
-    }
+    "changed": {}
   }
 }

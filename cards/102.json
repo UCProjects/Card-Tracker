@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 102,
     "fixedId": 102,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Reduce opponent's {{GOLD}} by 2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sad_Customer",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

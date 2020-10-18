@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 311,
     "fixedId": 311,
@@ -43,12 +41,11 @@
     "description": "{{KW:DUST}}: Draw 2 cards."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chest",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

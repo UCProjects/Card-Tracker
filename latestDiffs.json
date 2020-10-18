@@ -1,3926 +1,183 @@
 {
   "1": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dummy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "2": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Froggit",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "3": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Whimsun",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "4": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Moldsmal",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "5": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Migosp",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "6": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Vegetoid",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "7": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Loox",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "8": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Toriel",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "9": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice_Cap",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "10": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "11": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowdrake",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "12": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chilldrake",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "13": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Woshua",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "14": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jerry",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "15": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Aaron",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "16": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Madjick",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   },
   "17": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Knight_Knight",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "18": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Pyrope",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "19": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Moldbygg",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "20": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Vulkin",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "21": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tsunderplane",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "22": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shyren",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Heal 3 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Restore {{HP:4}}."
-      }
-    }
-  },
-  "23": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Migospel",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "24": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Final_Froggit",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "25": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Astigmatism",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "26": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Parsnik",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "27": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Whimsalot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "28": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chara",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "29": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bomb",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "30": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Burgerpants",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "31": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowman",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "32": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Memory_Head",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "33": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Endogeny",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 5,
-        "prev": 8
-      },
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 8
-      },
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
-      },
-      "description": {
-        "now": "{{KW:SYNERGY}}: Give all {{TRIBE:AMALGAMATE|2}} and {{TRIBE:DOG|2}} in your hand +1/+1.",
-        "prev": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand and reduce its {{COST}} by 2."
-      }
-    }
-  },
-  "34": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Reaper_Bird",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a card. If it's an {{TRIBE:AMALGAMATE|1}} or a {{TRIBE:FROGGIT|1}}, give it +2 {{HP}} and {{KW:CANDY}}.",
-        "prev": "{{KW:MAGIC}}: Draw a card. If it was an {{TRIBE:AMALGAMATE|1}} , give it +{{HP:2}} and {{KW:CANDY}}."
-      }
-    }
-  },
-  "35": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lemon_Bread",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
-  },
-  "36": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowdrakes_Mom",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "37": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Moldessa",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "38": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Royal_Guard_1",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "39": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Royal_Guard_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "40": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Annoying_Dog",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "41": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mad_Dummy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "42": {
-    "added": {
-      "burn": 0,
-      "baseImage": "So_Sorry",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "43": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lesser_Dog",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "44": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gyftrot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 8,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 8,
-        "prev": 7
-      }
-    }
-  },
-  "45": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Doggo",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "46": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dogamy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "47": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dogaressa",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "48": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Greater_Dog",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "49": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Glyde",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "50": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Temmie",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "51": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Monster_Kid",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "52": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Alphys",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "53": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Napstablook",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "54": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flowey",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "55": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Muffet",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. Whenever you play an {{TRIBE:ARACHNID|1}}, gain +2/+1. {{KW:MAGIC}}: Shuffle 3 {{CARD:115|3}} into both players decks.",
-        "prev": "{{KW:HASTE}}. Whenever a {{CARD:115|1}} or a {{CARD:103|1}} is summoned, gain +2/+1. {{KW:MAGIC}}: Put 3 {{CARD:115|3}} in both decks."
-      }
-    }
-  },
-  "56": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mettaton",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "Can only take up to 3 {{DMG}} at a time.",
-        "prev": "Can only lose {{HP:1}} at a time when damaged."
-      }
-    }
-  },
-  "57": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gaster",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 1
-      },
-      "hp": {
-        "now": 7,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 14,
-        "prev": 4
-      },
-      "rarity": {
-        "now": "LEGENDARY",
-        "prev": "EPIC"
-      },
-      "originalCost": {
-        "now": 14,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game.",
-        "prev": "{{KW:TURN_END}}: Add a {{CARD:351|1}} to your deck."
-      }
-    }
-  },
-  "58": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Asriel",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "59": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sans",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "60": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Papyrus",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "61": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Asgore",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "62": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Undyne",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "63": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Asriel_Dreemurr",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "64": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mettaton_Ex",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 5
-      },
-      "cost": {
-        "now": 9,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 6
-      },
-      "description": {
-        "now": "All cards cost 2 more.",
-        "prev": "{{KW:MAGIC}}: Decrease your and opponent's {{GOLD}} amount by your remaining {{GOLD}} amount."
-      }
-    }
-  },
-  "65": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Frisk",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "66": {
-    "added": {
-      "baseImage": "Will_to_Fight",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "67": {
-    "added": {
-      "baseImage": "Resurrection",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "68": {
-    "added": {
-      "baseImage": "Another_Chance",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "69": {
-    "added": {
-      "baseImage": "Same_Fate",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
-  },
-  "70": {
-    "added": {
-      "baseImage": "Hyper_Goner",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "71": {
-    "added": {
-      "baseImage": "Protection",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "72": {
-    "added": {
-      "baseImage": "Slowing",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "73": {
-    "added": {
-      "baseImage": "Cold_Winter",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "74": {
-    "added": {
-      "baseImage": "Defrosting",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "75": {
-    "added": {
-      "baseImage": "Snow_Storm",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "76": {
-    "added": {
-      "baseImage": "Strength",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "77": {
-    "added": {
-      "baseImage": "Assault",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "If your opponent has equal or more monsters than you, give an ally monster +1 {{ATK}} and {{KW:HASTE}}.",
-        "prev": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}."
-      }
-    }
-  },
-  "78": {
-    "added": {
-      "baseImage": "Double_Trouble",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "79": {
-    "added": {
-      "baseImage": "Penetration",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "80": {
-    "added": {
-      "baseImage": "Ambush",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "81": {
-    "added": {
-      "baseImage": "Fortune",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "82": {
-    "added": {
-      "baseImage": "Break",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "83": {
-    "added": {
-      "baseImage": "Shopping",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 0
-      },
-      "description": {
-        "now": "Draw cards until their {{COST}} is 10 or higher (up to 7 cards in hand)",
-        "prev": "Spend all of your {{GOLD}}. Summon a copy of a monster from your deck costing your {{GOLD}} or less if no target."
-      }
-    }
-  },
-  "84": {
-    "added": {
-      "baseImage": "Expulsion",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "85": {
-    "added": {
-      "baseImage": "Cloning",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {
-      "target": "ALLY_MONSTER"
+      "ranged": false,
+      "anotherChance": false
     },
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 3
-      },
-      "description": {
-        "now": "Choose a monster from your hand. Add an exact copy of it to your hand.",
-        "prev": "Add an exact copy of an allied monster to your hand."
-      }
-    }
-  },
-  "86": {
-    "added": {
-      "baseImage": "Worsening",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 2 {{DMG}} to a monster and the opponent. Increase {{DMG}} by 1 if the target has {{KR}}.",
-        "prev": "Deal {{DMG:2}} to a monster. If under {{KR}}, deal {{DMG:5}} instead and the extra {{DMG}} to your opponent."
-      }
-    }
-  },
-  "87": {
-    "added": {
-      "baseImage": "Poison",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 1 {{DMG}} to a monster and give it {{KR}}. Draw a card.",
-        "prev": "Give {{KR}} to a monster and add a {{CARD:87}} to your deck. Draw a card."
-      }
-    }
-  },
-  "88": {
-    "added": {
-      "baseImage": "Termination",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead.",
-        "prev": "Kill a monster under {{KR}}."
-      }
-    }
-  },
-  "89": {
-    "added": {
-      "baseImage": "Pollutant_Gas",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}.",
-        "prev": "Deal {{DMG:1}} to all enemy monsters. If under {{KR}}, deal {{DMG:3}} instead."
-      }
-    }
-  },
-  "90": {
-    "added": {
-      "baseImage": "Contamination",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 10
-      },
-      "description": {
-        "now": "Kill all monsters under {{KR}}.",
-        "prev": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
-      }
-    }
-  },
-  "91": {
-    "added": {
-      "baseImage": "Heal",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "92": {
-    "added": {
-      "baseImage": "Force_of_Nature",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "93": {
-    "added": {
-      "baseImage": "Longevity",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "94": {
-    "added": {
-      "baseImage": "Feast",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give +2 {{HP}} to your monsters. If they have <= 3 {{HP}}, give them an extra +1/+1.",
-        "prev": "Give +{{HP:3}} to your monsters. If they have {{HP:3}} or lower, give +{{HP:4}} instead."
-      }
-    }
-  },
-  "95": {
-    "added": {
-      "baseImage": "Test_of_Will",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "96": {
-    "added": {
-      "baseImage": "Punishment",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "97": {
-    "added": {
-      "baseImage": "Strafe",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "98": {
-    "added": {
-      "baseImage": "Undynes_Spears",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "99": {
-    "added": {
-      "baseImage": "Explosion",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "100": {
-    "added": {
-      "baseImage": "HeadShot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "101": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Nacarat_Jester",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "102": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sad_Customer",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "103": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Muffets_Pet",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID"
-        ],
-        "prev": []
-      }
-    }
-  },
-  "104": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Grillby",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "105": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Echo_Flower",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "106": {
-    "added": {
-      "burn": 0,
-      "baseImage": "The_Heroine",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "107": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Water_Cooler",
-      "playedTurn": 0
-    },
-    "removed": {},
     "changed": {
       "attack": {
-        "now": 3,
+        "now": 4,
         "prev": 1
       },
       "hp": {
-        "now": 3,
+        "now": 4,
         "prev": 6
       },
       "maxHp": {
-        "now": 3,
+        "now": 4,
         "prev": 6
       },
       "originalAttack": {
-        "now": 3,
+        "now": 4,
         "prev": 1
       },
       "originalHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:TURN_END}}: Restore 2 {{HP}} to all allies.",
-        "prev": "{{KW:TURN_END}}: Restore {{HP:2}} to ally monsters."
-      }
-    }
-  },
-  "108": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Rock",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "109": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Everyman",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "110": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mettaton_NEO",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "111": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Memorial_Statue",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "112": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice_Wolf",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "113": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Igloo",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "114": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Glad_Dummy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "115": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spider",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID"
-        ],
-        "prev": []
-      }
-    }
-  },
-  "116": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Small_Bird",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "117": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Omega_Flowey",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "118": {
-    "added": {
-      "burn": 0,
-      "baseImage": "G_Follower_1",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 1
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a card with {{KW:SYNERGY}}.",
-        "prev": "{{KW:FUTURE}} (2): Draw a card."
-      }
-    }
-  },
-  "119": {
-    "added": {
-      "burn": 0,
-      "baseImage": "G_Follower_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}.",
-        "prev": "{{KW:FUTURE}} (3): Earn {{GOLD:3}}."
-      }
-    }
-  },
-  "120": {
-    "added": {
-      "burn": 0,
-      "baseImage": "G_Follower_3",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 5
-      },
-      "hp": {
-        "now": 2,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 6
-      },
-      "cost": {
-        "now": 2,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 8
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead.",
-        "prev": "{{KW:FUTURE}} (4): Kill a random enemy monster."
-      }
-    }
-  },
-  "121": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Goner_Kid",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 10,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 5
-      },
-      "tribes": {
-        "now": [
-          "G_FOLLOWER"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Kill a random other monster. {{KW:SYNERGY}}: Kill a random enemy monster instead.",
-        "prev": "{{KW:MAGIC}}: Copy and trigger your {{KW:FUTURE}} effects (cannot copy the same effect twice)."
-      }
-    }
-  },
-  "122": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Janitor",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "123": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Onion_San",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "124": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Golden_Flowers",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 0
-      },
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 0
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "cost": {
-        "now": 6,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 2 random different spells costing <=10 {{GOLD}} that you've cast this game. Choose one to add to your hand.",
-        "prev": "{{KW:TURN_END}}: Put in your hand all allied monsters that died during your turn."
-      }
-    }
-  },
-  "125": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Heats_Flamesman",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "126": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Papyrus_Statue",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "127": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Garbage",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "128": {
-    "added": {
-      "baseImage": "Froggit_Trio",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "129": {
-    "added": {
-      "baseImage": "Knife",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
-  },
-  "130": {
-    "added": {
-      "baseImage": "Investment",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "131": {
-    "added": {
-      "baseImage": "Shootout",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "132": {
-    "added": {
-      "baseImage": "Pie",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give a monster {{KW:HASTE}} and +1 {{KW:DODGE}}.",
-        "prev": "Make an ally monster immune to {{DMG}} this turn and give it {{KW:HASTE}}."
-      }
-    }
-  },
-  "133": {
-    "added": {
-      "baseImage": "Fridge",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "134": {
-    "added": {
-      "baseImage": "Spider_Web",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "135": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Big_Mouth",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "136": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cactus",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "137": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Big_Bob",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever this takes damage and survives, summon a {{CARD:137|1}}.",
-        "prev": "Summon another {{CARD:137|1}} if this monster is still alive after being damaged (keep {{ATK}} buffs)."
-      }
-    }
-  },
-  "138": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ferry",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "139": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Trader_Temmie",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "140": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Politics_Bear",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "141": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gift_Bear",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "142": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Blue_Laser",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "143": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Orange_Laser",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "144": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Scarf_Mouse",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "145": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Diamond_Boy_1",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "146": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Diamond_Boy_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "147": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fuku_Fire",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "148": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Faun",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "149": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dog_House",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "150": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Nice_Cream_Guy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "151": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Echo_Fish",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "152": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bratty",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "153": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Catty",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "154": {
-    "added": {
-      "burn": 0,
-      "baseImage": "River_Person",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "160": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snow_Poff",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "161": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clam_Girl",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "162": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clam_Boy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "163": {
-    "added": {
-      "burn": 0,
-      "baseImage": "MTT_Fountain",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "164": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lamp",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "165": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Oni",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "166": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Crazy_Bun",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "167": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Receptionist_1",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "168": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sad_Dragon",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "169": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bunbun",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "170": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Loren",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "171": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dimensional_Box",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "172": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Allergic_Temmie",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever you summon a {{TRIBE:TEMMIE|1}} (Except {{CARD:172|1}}), deal 1 {{DMG}} to all enemy monsters.",
-        "prev": "Whenever {{CARD:50|1}}, {{CARD:356|1}} or {{CARD:200|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
-      }
-    }
-  },
-  "173": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Temmie_Statue",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
-      }
-    }
-  },
-  "174": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Receptionist_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "175": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Charles",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "176": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ugly_Fish",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "177": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Redacted",
-      "target": "ENEMY_MONSTER",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an enemy monster -2/-2. {{KW:SYNERGY}}: Gain {{KW:HASTE}}.",
-        "prev": "{{KW:FUTURE}} (4): Add a {{TRIBE:G_FOLLOWER|1}} into your deck for each active {{KW:FUTURE}} effect."
-      }
-    }
-  },
-  "178": {
-    "added": {
-      "baseImage": "Overheat",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
-  },
-  "179": {
-    "added": {
-      "baseImage": "Last_Dream",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "180": {
-    "added": {
-      "baseImage": "Inflation",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "181": {
-    "added": {
-      "baseImage": "Multi_Shot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "182": {
-    "added": {
-      "baseImage": "Brain_Freeze",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 8
-      },
-      "description": {
-        "now": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn.",
-        "prev": "Both players skip their next turn."
-      }
-    }
-  },
-  "183": {
-    "added": {
-      "baseImage": "Brain_Shift",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "target": {
-        "now": "ENEMY_MONSTER",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "Force an enemy monster to attack another random enemy monster.",
-        "prev": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max 8 {{DMG}})."
-      }
-    }
-  },
-  "184": {
-    "added": {
-      "baseImage": "Soothing",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "185": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Librarian",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "186": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Trash_Tornado",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "187": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Candy_Dish",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "188": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bridge_Seed",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "191": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Vulkins_Cloud",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "192": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Big_Bomb",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "193": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Disco_Ball",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "194": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shambling_Mass",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
         "now": 4,
         "prev": 6
-      },
-      "hp": {
-        "now": 4,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 6
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      }
-    }
-  },
-  "195": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dog_Food",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "196": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tiny_Froggit",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "197": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Elder_Puzzler",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "198": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Bird",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "199": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Manticore",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "200": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bob",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other {{TRIBE:TEMMIE|1}} to your hand (From lowest to highest {{COST}}).",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 3 random {{TRIBE:TEMMIE|2}} to your hand (except {{CARD:200|1}})."
-      }
-    }
-  },
-  "201": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dancer_Mettaton",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "202": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Innkeeper",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "203": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Angel_of_Death",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "214": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Casual_Undyne",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "215": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Coffin",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "216": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fire_Trap",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "217": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mace",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "218": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Receptionist_3",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "219": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gerson",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "220": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Timer",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "221": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Skateboard_Girl",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "222": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Blue_Snail",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "223": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Yellow_Snail",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "224": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Snail",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "225": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fishing_Rod",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "226": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Microwave",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "227": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Coffee_Man",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "228": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tree",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "229": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snail_Trainer",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      }
-    }
-  },
-  "235": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dad_Slime",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "236": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Hot_Dog_Vulkin",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
-      }
-    }
-  },
-  "237": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Punk_Hamster",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "238": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Script_Bomb",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "239": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowdin_Sign",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "240": {
-    "added": {
-      "burn": 0,
-      "baseImage": "TV",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "241": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Eye",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "242": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Burger_Bush",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT"
-        ],
-        "prev": []
-      }
-    }
-  },
-  "243": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bench",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "244": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fox_Head",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "245": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Editor_1",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "246": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Editor_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "247": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dress_Lion",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "248": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Business_Dude",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a 1/1 copy of a random other non-DT monster from your deck.",
-        "prev": "{{KW:MAGIC}}: Summon a 1/1 copy of a monster from your deck."
-      }
-    }
-  },
-  "249": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Robot_98",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "250": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Hot_Dog_Harpy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "251": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ragel",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "252": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Throne",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "253": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bone_Painting",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "254": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cool_Papyrus",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "255": {
-    "added": {
-      "baseImage": "Overgrowth",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "256": {
-    "added": {
-      "baseImage": "Sacrifice",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Kill an ally monster and restore 4 {{HP}} to you. Add a {{TRIBE:LOST_SOUL|1}} to your hand with -2 {{COST}}.",
-        "prev": "Kill an ally monster and heal {{HP:4}}. Add a {{TRIBE:LOST_SOUL|1}}  to your hand."
-      }
-    }
-  },
-  "257": {
-    "added": {
-      "baseImage": "Golden_Hit",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "258": {
-    "added": {
-      "baseImage": "Blitz_Quiz",
-      "playedTurn": 0
-    },
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "name": {
-        "now": "Blitz Quiz",
-        "prev": "Fast Sanction"
-      },
-      "image": {
-        "now": "Blitz_Quiz",
-        "prev": "Fast_Sanction"
-      },
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand.",
-        "prev": "Deal 2-{{DMG:5}} to a monster. If result was 3 or lower, send back this card to your hand."
-      }
-    }
-  },
-  "259": {
-    "added": {
-      "baseImage": "Octofriend",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "260": {
-    "added": {
-      "baseImage": "Ice_Replica",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "261": {
-    "added": {
-      "baseImage": "Siphoning",
-      "target": "ALL",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      },
-      "description": {
-        "now": "Heal 3 {{HP}}. Heal 1 extra {{HP}} per monster with {{KR}} on the board.",
-        "prev": "Restore {{HP:2}} for each monster under {{KR}}."
-      }
-    }
-  },
-  "262": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mad_Mew_Mew",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "263": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Kris",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "264": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ralsei",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "265": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lancer",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "266": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clover",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "267": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tombstone",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "270": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Thrashing_M",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. This card has all monster tribes.",
-        "prev": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
-      }
-    }
-  },
-  "271": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chaos_Duck",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "272": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gardener_Asgore",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "273": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Noelle",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "274": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Starwalker",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "275": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mister_Society",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "CHESS_FIGURE"
-        ],
-        "prev": []
-      }
-    }
-  },
-  "276": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cattys_Dad",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "277": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snailmobile",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "278": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dark_Candy_Tree",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "candy": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}.",
-        "prev": "{{KW:CANDY}}. {{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}."
-      }
-    }
-  },
-  "279": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Berdly",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "280": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Susie",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "281": {
-    "added": {
-      "burn": 0,
-      "baseImage": "School_Tem",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "282": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Great_Door",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "285": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tutorial_Guy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "286": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Nurse_Mouth",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "287": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Rouxls_Kaard",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "288": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Groom",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "289": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Wagon",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "290": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      }
-    }
-  },
-  "291": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Striped_Bird",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
-  },
-  "292": {
-    "added": {
-      "burn": 0,
-      "baseImage": "The_Warrior",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "293": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Forest_Worm",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "294": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Rudinn",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "295": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jigsawry",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "296": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jar_of_Worms",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. {{KW:TURN_START}}: Add a {{CARD:373|1}} to your hand. {{KW:TURN_END}}: Give all ally {{CARD:373|2}} +1 {{ATK}}.",
-        "prev": "{{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{CARD:373|1}}. {{KW:TURN_END}}: Give ally {{CARD:373|2}} +1 {{ATK}}."
-      }
-    }
-  },
-  "297": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Starwalker_Bird",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "298": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Rabbick",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "299": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Politician_Bear",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "300": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flower_Jar",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "301": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Toy_Block",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "302": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Big_Hat_Charles",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "303": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Bush",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}.",
-        "prev": "{{KW:TRANSPARENCY}}. Your other monsters have +1 {{ATK}}."
-      }
-    }
-  },
-  "306": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Smolder_Cake",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      }
-    }
-  },
-  "307": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bloody_Tree",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "308": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Donation_Stump",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "309": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lancer_Painting",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Add a {{CARD:371|1}} to your hand.",
-        "prev": "{{KW:DUST}}: Add a {{CARD:309|1}} to your hand."
-      }
-    }
-  },
-  "310": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Green_Fire",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "311": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chest",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "312": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ponman",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "tribes": {
-        "now": [
-          "CHESS_FIGURE"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. If played on the right, gain +1 {{ATK}} and {{KW:HASTE}}.",
-        "prev": "{{KW:DUST}}: Summon every {{CARD:312|1}} from your hand."
-      }
-    }
-  },
-  "313": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ponman_Statue",
-      "target": "ALLY_MONSTER",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 1
-      },
-      "hp": {
-        "now": 3,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      },
-      "tribes": {
-        "now": [
-          "CHESS_FIGURE"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, give an ally {{TRIBE:CHESS_FIGURE|1}} +2 {{ATK}} and {{KW:TRANSPARENCY}}. If played on the right, give +2 {{HP}} and {{KW:CANDY}} instead.",
-        "prev": "{{KW:MAGIC}}: Add a {{CARD:312|1}} to the top of your deck. {{KW:TURN_END}}: Give all your {{CARD:312|2}} in play +{{HP:1}}."
-      }
-    }
-  },
-  "314": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fan_Rudinn",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "315": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Royal_Guard_3",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "316": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Royal_Guard_4",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "317": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flower_Can",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "318": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Father_Alvin",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "349": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dog_Residue",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "350": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Doodlebog",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "351": {
-    "added": {
-      "baseImage": "Gaster_Blaster",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "352": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Pebble",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "353": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Left_Tentacle",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "354": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Right_Tentacle",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "355": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gift",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "356": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Temmie_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "357": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bun",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give +4 {{ATK}} to all ally {{CARD:169|2}}.",
-        "prev": "{{KW:DUST}}: Give +{{ATK:4}} to a random ally {{CARD:169|1}}."
-      }
-    }
-  },
-  "358": {
-    "added": {
-      "baseImage": "Load",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "359": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mettabot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      }
-    }
-  },
-  "360": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_1",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "361": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_2",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "362": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_3",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "363": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_4",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "364": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_5",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "365": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_6",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "366": {
-    "added": {
-      "baseImage": "Little_Mine",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 1
-      }
-    }
-  },
-  "367": {
-    "added": {
-      "baseImage": "Mine",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 3
-      }
-    }
-  },
-  "368": {
-    "added": {
-      "baseImage": "Big_Mine",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 6
-      }
-    }
-  },
-  "369": {
-    "added": {
-      "baseImage": "Thundersnail",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
-  },
-  "370": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Kid_Slime",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "371": {
-    "added": {
-      "baseImage": "Spade",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "372": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Apoca_Duck",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "373": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Worm",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "374": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clean_Rabbick",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "375": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Green_Flower",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "376": {
-    "added": {
-      "baseImage": "Puzzle_Box",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "377": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ranger_Rudinn",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "378": {
-    "added": {
-      "burn": 0,
-      "baseImage": "C-Round",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "379": {
-    "added": {
-      "baseImage": "Crown",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "380": {
-    "added": {
-      "burn": 0,
-      "baseImage": "K-Round",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "candy": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:CANDY}}.",
-        "prev": ""
-      }
-    }
-  },
-  "381": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Catti",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      }
-    }
-  },
-  "384": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clover_Head",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "385": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Evil_Eye",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Reveal a random card from your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of a random card in your opponent's hand by 2.",
-        "prev": "{{KW:TURBO}}: Reveal a random card in your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of the last revealed card by 2."
-      }
-    }
-  },
-  "386": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Pizzapants",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 5
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for each other ally {{CARD:386|1}} summoned this game.",
-        "prev": "{{KW:SUPPORT}}: Add a 1/1 copy of the attacking monster to your hand."
-      }
-    }
-  },
-  "389": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mirror",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "390": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ball_Person",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "391": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Scissor_Dancer",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "392": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ghost_Tree",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "393": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Coat_Rack",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "394": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mister_Elegance",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
       },
       "taunt": {
         "now": false,
@@ -3928,238 +185,554 @@
       },
       "cost": {
         "now": 5,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:DUST}}: If there is an ally {{TRIBE:MOLD|1}}, summon a {{CARD:4|1}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:TURN_END}}: Give +{{HP:1}} to all other ally {{TRIBE:MOLD|2}} (except {{CARD:19|1}}) in play."
+      }
+    }
+  },
+  "20": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "21": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "22": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "23": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "24": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "25": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "26": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "27": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "28": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "29": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "tribes": {
+        "now": [],
+        "prev": [
+          "BOMB"
+        ]
+      }
+    }
+  },
+  "30": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "31": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "32": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 3
+      },
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "cost": {
+        "now": 5,
         "prev": 4
       },
       "originalCost": {
         "now": 5,
         "prev": 4
       },
+      "description": {
+        "now": "{{KW:MAGIC}}: Shuffle a random other non-DT card and a copy of it from your hand into your deck.",
+        "prev": "{{KW:MAGIC}}: Put a random card in the enemy player's hand back into his deck."
+      }
+    }
+  },
+  "33": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "34": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
       "tribes": {
         "now": [
-          "CHESS_FIGURE"
+          "AMALGAMATE",
+          "FROGGIT"
         ],
-        "prev": []
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
+        ]
       },
       "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}.",
-        "prev": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn."
+        "now": "{{KW:MAGIC}}: Draw an {{TRIBE:AMALGAMATE|1}} or a {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +1/+1.",
+        "prev": "{{KW:MAGIC}}: Draw a card. If it's an {{TRIBE:AMALGAMATE|1}} or a {{TRIBE:FROGGIT|1}}, give it +2 {{HP}} and {{KW:CANDY}}."
       }
     }
   },
-  "395": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Toriels_Car",
-      "playedTurn": 0
+  "35": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
-  },
-  "396": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Hathy",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "397": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Useless_Bird",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "398": {
-    "added": {
-      "baseImage": "Scope",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "399": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dragon_Kid",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "400": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cogwheel",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Shuffle the most expensive card in your hand into your deck and draw a card.",
-        "prev": "{{KW:TURN_END}}: Shuffle the cheapest card in your hand into your deck and draw a card."
-      }
-    }
-  },
-  "401": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Certificate",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "402": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bone_Box",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "403": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jukebox",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "404": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shrine_Mascot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "405": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Telescope",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "406": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sugar_Pot",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "407": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cash_Register",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "408": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Space_Cooler",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "409": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Action_Figures",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "410": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bloxer",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "411": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Animals",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "412": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Evil_Blueprints",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random monsters with a {{COST}} <= 10 and choose one. Add it to your hand with all tribes.",
-        "prev": "{{KW:MAGIC}}: Look at 3 random monsters with a tribe costing <= {{GOLD:10}} and choose one. Add it to your hand with all tribes."
-      }
-    }
-  },
-  "413": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jumping_Rabbit",
-      "playedTurn": 0
-    },
-    "removed": {},
     "changed": {
       "hp": {
-        "now": 3,
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
+  },
+  "36": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "37": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}} to a random enemy monster. If there is an ally {{TRIBE:MOLD|1}}, deal 4 {{DMG}} instead.",
+        "prev": "{{KW:MAGIC}}: Deal 2-{{DMG:4}} to a random enemy monster. {{KW:DUST}}: Add a random other {{TRIBE:MOLD|1}} to your hand."
+      }
+    }
+  },
+  "38": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "39": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "40": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "41": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "42": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 5,
         "prev": 4
       },
       "maxHp": {
-        "now": 3,
+        "now": 5,
         "prev": 4
       },
       "originalHp": {
-        "now": 3,
+        "now": 5,
         "prev": 4
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, draw a card, then add a {{CARD:413|1}} to the top of your deck.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a {{CARD:413|1}} to your hand and {{KW:TURN_END}}: Remove all {{CARD:413|99}} generated by this from your hand."
       }
     }
   },
-  "414": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Purple_Mascot",
-      "playedTurn": 0
+  "43": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      }
+    }
+  },
+  "44": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
     "changed": {}
   },
-  "415": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Goner_Clam",
-      "target": "ALL",
-      "playedTurn": 0
+  "45": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send an ally monster to your hand.",
+        "prev": "{{KW:MAGIC}}: Put an ally monster back to your hand. If it's a {{TRIBE:DOG|1}}, reduce its {{COST}} by 2."
+      }
+    }
+  },
+  "46": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "47": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "48": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "49": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "50": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "51": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "52": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "53": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "54": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "55": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "56": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "57": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "58": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "59": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "60": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "61": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "62": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "63": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "64": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      },
+      "description": {
+        "now": "{{KW:DUST}}: If you have 15 or more {{GOLD}}, summon {{CARD:64|1}}.",
+        "prev": "All cards cost 2 more."
+      }
+    }
+  },
+  "65": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "66": {
+    "added": {},
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      },
+      "description": {
+        "now": "Add the next {{TRIBE:LOST_SOUL|1}} on the top of your deck with +2/+2 and {{KW:HASTE}}.",
+        "prev": "Send an ally monster back to your deck with +{{ATK:4}} and +{{HP:4}}."
+      }
+    }
+  },
+  "67": {
+    "added": {},
     "removed": {},
+    "changed": {
+      "description": {
+        "now": "Add a copy of 2 non {{RARITY:GENERATED}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too.",
+        "prev": "Add 1 copy of 2 of your dead monsters to your hand."
+      }
+    }
+  },
+  "68": {
+    "added": {},
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
     "changed": {
       "cost": {
         "now": 5,
@@ -4169,244 +742,2304 @@
         "now": 5,
         "prev": 4
       },
-      "tribes": {
-        "now": [
-          "G_FOLLOWER"
-        ],
-        "prev": []
-      },
       "description": {
-        "now": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all other ally {{TRIBE:G_FOLLOWER|2}} +1/+2.",
-        "prev": "{{KW:MAGIC}}: Restore 2 {{HP}} to yourself. Restore 2 extra {{HP}} for each active {{KW:FUTURE}} effect."
+        "now": "Kill all monsters and replace them with random {{TRIBE:LOST_SOUL|2}}.",
+        "prev": "Give an enemy monster: \"{{KW:DUST}}: Summon this monster for your opponent with +1/+1\"."
       }
     }
   },
-  "416": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dad_Dragon",
-      "playedTurn": 0
-    },
+  "69": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "417": {
+  "70": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 23,
+        "prev": 38
+      },
+      "originalCost": {
+        "now": 23,
+        "prev": 38
+      },
+      "description": {
+        "now": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}}).",
+        "prev": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30)."
+      }
+    }
+  },
+  "71": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "72": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "73": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "74": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "75": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "76": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "77": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "78": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "79": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "80": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "81": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "82": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "83": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "84": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "85": {
     "added": {
-      "burn": 0,
-      "baseImage": "Jockington",
-      "playedTurn": 0
+      "target": "MONSTER"
     },
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
+      "cost": {
+        "now": 4,
+        "prev": 1
       },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
+      "originalCost": {
+        "now": 4,
+        "prev": 1
       },
       "description": {
-        "now": "Whenever you cast a spell with a base {{COST}} of 2 or more, draw a card.",
-        "prev": "Whenever you cast a spell, draw a card."
+        "now": "Summon a 3/3 base stats copy of a non-DT monster.",
+        "prev": "Choose a monster from your hand. Add an exact copy of it to your hand."
       }
     }
   },
-  "418": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Malius",
-      "playedTurn": 0
-    },
+  "86": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "419": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spade_King",
-      "playedTurn": 0
-    },
+  "87": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "420": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spike_Trap",
-      "playedTurn": 0
-    },
+  "88": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "421": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Asgores_Truck",
-      "playedTurn": 0
-    },
+  "89": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "422": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flower_Fingers",
-      "playedTurn": 0
-    },
+  "90": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "91": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "92": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "93": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "94": {
+    "added": {},
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 4
+      },
+      "description": {
+        "now": "Fully heal all ally monsters. Costs 1 more for each damaged ally monster on the board.",
+        "prev": "Give +2 {{HP}} to your monsters. If they have <= 3 {{HP}}, give them an extra +1/+1."
+      }
+    }
+  },
+  "95": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "96": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALL"
+      },
+      "description": {
+        "now": "Deal 4 {{DMG}} to a monster.",
+        "prev": "Deal {{DMG:3}}. If your opponent has more {{HP}} than you, deal {{DMG:4}} instead."
+      }
+    }
+  },
+  "97": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "98": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "99": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "100": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "101": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "102": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "103": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "104": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "105": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
       "hp": {
         "now": 4,
-        "prev": 5
+        "prev": 6
       },
       "maxHp": {
         "now": 4,
-        "prev": 5
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
       },
       "originalHp": {
+        "now": 4,
+        "prev": 6
+      }
+    }
+  },
+  "106": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "107": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "108": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "109": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "110": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "111": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "112": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "113": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 0
+      },
+      "hp": {
+        "now": 4,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 0
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 7
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
         "now": 4,
         "prev": 5
       },
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each ally {{TRIBE:PLANT|1}}.",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each other ally {{TRIBE:PLANT}}."
+        "now": "{{KW:MAGIC}}: Look at 3 cards at the bottom of the enemy deck. Choose one. Add a copy of it to your hand.",
+        "prev": "{{KW:TURN_START}}: summon a random common, rare or epic monster."
       }
     }
   },
-  "423": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice_Drink_Wolf",
-      "playedTurn": 0
+  "114": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
+    "changed": {}
+  },
+  "115": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "116": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "117": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "118": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "119": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      }
+    }
+  },
+  "120": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one one to add to your hand. {{KW:SYNERGY}}: Add both instead.",
+        "prev": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead."
+      }
+    }
+  },
+  "121": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 10
+      }
+    }
+  },
+  "122": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "123": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "124": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "125": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "126": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "127": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "128": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "424": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Christmas_Tree",
-      "playedTurn": 0
-    },
+  "129": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "425": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dark_Throne",
-      "playedTurn": 0
-    },
+  "130": {
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "426": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Rabbick_Hole",
-      "playedTurn": 0
-    },
+  "131": {
+    "added": {},
     "removed": {},
+    "changed": {}
+  },
+  "132": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "133": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "134": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "135": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "136": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "137": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "138": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "139": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "140": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "141": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "142": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "143": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "144": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "145": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "146": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "147": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "148": {
+    "added": {
+      "target": "MONSTER"
+    },
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Reduce a monster's {{ATK}} by 2 and add a random card with a {{COST}} equal to the monster's remaining {{ATK}} to your hand.",
+        "prev": "{{KW:MAGIC}}: Halve the {{ATK}} of the monster in front of this (rounded up)."
+      }
+    }
+  },
+  "149": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "150": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "151": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:TRANSPARENCY}} and {{KW:THORNS}}.",
+        "prev": "{{KW:MAGIC}}: Copy an enemy monster's current ATK, HP, {{KW:TAUNT}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:CANDY}} and {{KW:RANGED}}."
+      }
+    }
+  },
+  "152": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "153": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "154": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "160": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "161": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "162": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "163": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "164": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "165": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "166": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "167": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "168": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "169": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "170": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "171": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "172": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "173": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "174": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "175": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "176": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "177": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "178": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "179": {
+    "added": {},
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      },
+      "description": {
+        "now": "Summon the next {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}}. Then, if you have 15 {{HP}} or less, give all ally monsters +1/+1.",
+        "prev": "Give your monsters +1/+1. If you have {{HP:1}}, give them +7/+7 instead."
+      }
+    }
+  },
+  "180": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "181": {
+    "added": {},
+    "removed": {
+      "target": "ALL"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less.",
+        "prev": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}."
+      }
+    }
+  },
+  "182": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "183": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "184": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "185": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "186": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "187": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "188": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "191": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "192": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
     "changed": {
       "tribes": {
         "now": [],
         "prev": [
-          "PLANT"
+          "BOMB"
+        ]
+      }
+    }
+  },
+  "193": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "194": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "195": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "196": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "197": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "198": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "199": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "200": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "201": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "202": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "203": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random generated {{TRIBE:LOST_SOUL|2}}.",
+        "prev": "{{KW:MAGIC}}: Summon a copy of a monster. {{KW:DUST}}: Fill your empty spaces with  {{TRIBE:LOST_SOUL|2}}."
+      }
+    }
+  },
+  "214": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "215": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile.",
+        "prev": "{{KW:DUST}}: Summon a dead ally monster that costs less than the elapsed turn count (except itself)."
+      }
+    }
+  },
+  "216": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "217": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "218": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "219": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "220": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "221": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "222": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give {{KW:HASTE}} to all ally {{TRIBE:SNAIL|2}}. {{TRIBE:SNAIL|2}} which cost 1 or less gain {{KW:CHARGE}} instead.",
+        "prev": "{{KW:MAGIC}}: Give {{KW:CHARGE}} to your other {{TRIBE:SNAIL|2}} in play."
+      }
+    }
+  },
+  "223": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "224": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "225": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "226": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "227": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "228": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "229": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "235": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "236": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "237": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "238": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "tribes": {
+        "now": [],
+        "prev": [
+          "BOMB"
         ]
       },
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Summon a {{CARD:298|1}}.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 3 random 4-cost monsters and catch one. {{KW:DUST}}: Release it."
+        "now": "{{KW:DUST}}: Draw a card and reduce its cost by 2. {{KW:TURN_START}}: Sacrifice this and trigger its {{KW:DUST}}.",
+        "prev": "{{KW:TURN_START}}: Sacrifice this to draw 2 cards. If you draw a {{TRIBE:BOMB|1}}, reduce its {{COST}} by 2."
       }
     }
   },
-  "427": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Killer_Cook",
-      "playedTurn": 0
+  "239": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
-  "428": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Eggs",
-      "playedTurn": 0
+  "240": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
-  },
-  "429": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flour",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "430": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Milk",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "431": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cake",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "432": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Popumeter",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
-  "433": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Butterflies",
-      "playedTurn": 0
-    },
-    "removed": {},
     "changed": {
-      "haste": {
-        "now": true,
-        "prev": false
+      "description": {
+        "now": "{{KW:TURBO}}: Add a random card on the top of both decks. Yours costs 1 less.",
+        "prev": "{{KW:TURBO}}: Add a random card to the top of each players decks."
+      }
+    }
+  },
+  "241": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "242": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "243": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "244": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "245": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at all {{KW:TURBO}} monsters in your deck. Choose one and add it to the top of your deck. It costs 1 less.",
+        "prev": "{{KW:MAGIC}}: Move a turbo monster from your deck to the top of your deck. It costs 1 less."
+      }
+    }
+  },
+  "246": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "247": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "248": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "249": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "250": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "251": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "252": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "253": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "254": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "255": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "256": {
+    "added": {},
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "Faded Memory",
+        "prev": "Sacrifice"
+      },
+      "image": {
+        "now": "Faded_Memory",
+        "prev": "Sacrifice"
+      },
+      "baseImage": {
+        "now": "Faded_Memory",
+        "prev": "Sacrifice"
+      },
+      "cost": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 1
       },
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a random <= 3 {{GOLD}} spell to your hand.",
-        "prev": "{{KW:DUST}}: Add a random <= {{GOLD:3}} spell to your hand."
+        "now": "Look at all {{TRIBE:LOST_SOUL|2}}. Choose one to summon.",
+        "prev": "Kill an ally monster and restore 4 {{HP}} to you. Add a {{TRIBE:LOST_SOUL|1}} to your hand with -2 {{COST}}."
       }
     }
   },
-  "434": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dark_Ponman",
-      "target": "ENEMY_MONSTER",
-      "playedTurn": 0
-    },
+  "257": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "258": {
+    "added": {},
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 2
+      },
+      "description": {
+        "now": "Look at {{CARD:463}} and {{CARD:464|1}}. Choose one to add to your hand.",
+        "prev": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand."
+      }
+    }
+  },
+  "259": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "260": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "261": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "262": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "263": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "264": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
       "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose a non-DT monster from your hand. Summon it. {{KW:TURN_START}}: Return it to your hand.",
+        "prev": "{{KW:SUPPORT}}: Give {{KW:RANGED}} to the attacking monster. {{KW:DUST}}: Remove {{KW:RANGED}} from your monsters."
+      }
+    }
+  },
+  "265": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "266": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "267": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 14
+      }
+    }
+  },
+  "270": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. This card has all monster tribes."
+      }
+    }
+  },
+  "271": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "272": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "cost": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:451|1}}, if there are none summon a {{CARD:375|1}} instead.",
+        "prev": "{{KW:MAGIC}}: Add a {{CARD:451|1}} and {{CARD:375|1}} into your hand, then remove all negative effects from ally {{TRIBE:PLANT|2}}."
+      }
+    }
+  },
+  "273": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "274": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "275": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "tribes": {
+        "now": [
+          "PIECE"
+        ],
+        "prev": [
+          "CHESS_FIGURE"
+        ]
+      }
+    }
+  },
+  "276": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "277": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "278": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}. If it is a {{TRIBE:PLANT|1}}, also gives it +1/+1.",
+        "prev": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}."
+      }
+    }
+  },
+  "279": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "280": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "281": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "282": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "285": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "286": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "287": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "288": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TURBO}}: If you have 6 cards or less in your hand, draw a card.",
+        "prev": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining {{GOLD}} or less if no target."
+      }
+    }
+  },
+  "289": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "290": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "291": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "292": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "293": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "294": {
+    "added": {},
+    "removed": {
+      "ranged": true,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a random Deltarune monster costing 2-4 to your hand. Give it +1 {{ATK}}.",
+        "prev": "{{KW:RANGED}}."
+      }
+    }
+  },
+  "295": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "296": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "Ally {{CARD:373|2}} have +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{CARD:373|1}}.",
+        "prev": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. {{KW:TURN_START}}: Add a {{CARD:373|1}} to your hand. {{KW:TURN_END}}: Give all ally {{CARD:373|2}} +1 {{ATK}}."
+      }
+    }
+  },
+  "297": {
+    "added": {},
+    "removed": {
+      "ranged": true,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 3
+      },
+      "hp": {
+        "now": 5,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 3
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, give all monsters in your hand +1/+1.",
+        "prev": "{{KW:HASTE}}. {{KW:RANGED}}. Whenever this attacks and kills a monster, deal {{DMG:1}} to a random enemy monster."
+      }
+    }
+  },
+  "298": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "299": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "300": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "301": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "302": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "303": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "306": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "307": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false,
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 2
+      },
+      "hp": {
+        "now": 6,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 1
+      },
+      "cost": {
+        "now": 6,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy.",
+        "prev": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster that costs 3 or less."
+      }
+    }
+  },
+  "308": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "309": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "310": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "311": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "312": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "tribes": {
+        "now": [
+          "PIECE"
+        ],
+        "prev": [
+          "CHESS_FIGURE"
+        ]
+      }
+    }
+  },
+  "313": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 2,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "tribes": {
+        "now": [
+          "PIECE"
+        ],
+        "prev": [
+          "CHESS_FIGURE"
+        ]
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, give an ally {{TRIBE:PIECE|1}} +2 {{ATK}} and {{KW:TRANSPARENCY}}. If played on the right, give an ally {{TRIBE:PIECE|1}} +2 {{HP}} and {{KW:CANDY}}. {{KW:SYNERGY}}: Give it both.",
+        "prev": "{{KW:MAGIC}}: If played on the left, give an ally {{TRIBE:CHESS_FIGURE|1}} +2 {{ATK}} and {{KW:TRANSPARENCY}}. If played on the right, give +2 {{HP}} and {{KW:CANDY}} instead."
+      }
+    }
+  },
+  "314": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "315": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "316": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}.",
+        "prev": "{{KW:DUST}}: Give {{KW:RANGED}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
+      }
+    }
+  },
+  "317": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "318": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "349": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "350": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "351": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "352": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "353": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "354": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "355": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "356": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "357": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "358": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "359": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "360": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
         "now": 3,
         "prev": 4
       },
@@ -4414,400 +3047,1390 @@
         "now": 3,
         "prev": 4
       },
-      "tribes": {
-        "now": [
-          "CHESS_FIGURE"
-        ],
-        "prev": []
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "name": {
+        "now": "Lost Toriel",
+        "prev": "Lost Soul 1"
+      },
+      "image": {
+        "now": "Lost_Toriel",
+        "prev": "Lost_Soul_1"
+      },
+      "baseImage": {
+        "now": "Lost_Toriel",
+        "prev": "Lost_Soul_1"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
       },
       "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it instead.",
-        "prev": "{{KW:MAGIC}}: Send a {{CARD:312|1}} from your dustpile to your hand."
+        "now": "{{KW:DUST}}: Reduce a random enemy monster's {{ATK}} by 3.",
+        "prev": "{{KW:DUST}}: Set a random enemy monster's {{ATK}} to 1."
+      }
+    }
+  },
+  "361": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "name": {
+        "now": "Lost Asgore",
+        "prev": "Lost Soul 2"
+      },
+      "image": {
+        "now": "Lost_Asgore",
+        "prev": "Lost_Soul_2"
+      },
+      "baseImage": {
+        "now": "Lost_Asgore",
+        "prev": "Lost_Soul_2"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
+  },
+  "362": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "dodge": {
+        "now": 0,
+        "prev": 1
+      },
+      "name": {
+        "now": "Lost Sans",
+        "prev": "Lost Soul 3"
+      },
+      "image": {
+        "now": "Lost_Sans",
+        "prev": "Lost_Soul_3"
+      },
+      "baseImage": {
+        "now": "Lost_Sans",
+        "prev": "Lost_Soul_3"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand. It costs 3 less.",
+        "prev": "{{KW:DODGE}} (1). {{KW:DUST}}: Add 2 {{CARD:351|2}} to your deck and reduce their {{COST}} by 2."
+      }
+    }
+  },
+  "363": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "name": {
+        "now": "Lost Papyrus",
+        "prev": "Lost Soul 4"
+      },
+      "image": {
+        "now": "Lost_Papyrus",
+        "prev": "Lost_Soul_4"
+      },
+      "baseImage": {
+        "now": "Lost_Papyrus",
+        "prev": "Lost_Soul_4"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Draw a monster and give it +1/+1.",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add a copy of its killer to your hand and give it {{KW:HASTE}}."
+      }
+    }
+  },
+  "364": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "name": {
+        "now": "Lost Undyne",
+        "prev": "Lost Soul 5"
+      },
+      "image": {
+        "now": "Lost_Undyne",
+        "prev": "Lost_Soul_5"
+      },
+      "baseImage": {
+        "now": "Lost_Undyne",
+        "prev": "Lost_Soul_5"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Deal 2 {{DMG}} to 2 random enemy monsters.",
+        "prev": "{{KW:DUST}}: Deal {{DMG:4}} randomly split among all enemy monsters."
+      }
+    }
+  },
+  "365": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "name": {
+        "now": "Lost Alphys",
+        "prev": "Lost Soul 6"
+      },
+      "image": {
+        "now": "Lost_Alphys",
+        "prev": "Lost_Soul_6"
+      },
+      "baseImage": {
+        "now": "Lost_Alphys",
+        "prev": "Lost_Soul_6"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
+  },
+  "366": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "367": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "368": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "369": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "370": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "371": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "372": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "373": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 0,
+        "prev": 1
+      },
+      "hp": {
+        "now": 2,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "cost": {
+        "now": 0,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 2
+      }
+    }
+  },
+  "374": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "375": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "376": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "377": {
+    "added": {},
+    "removed": {
+      "ranged": true,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 4,
+        "prev": 6
+      },
+      "rarity": {
+        "now": "COMMON",
+        "prev": "EPIC"
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, choose a card in your hand. Return it to your deck with -4 {{COST}}.",
+        "prev": "{{KW:RANGED}}. {{KW:TURN_END}}: Ally {{KW:RANGED}} monsters attack the monster in front of them."
+      }
+    }
+  },
+  "378": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "379": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "380": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "381": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "384": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "385": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "386": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "389": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "390": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "391": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ENEMY_MONSTER"
+      }
+    }
+  },
+  "392": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "393": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "394": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "tribes": {
+        "now": [
+          "PIECE"
+        ],
+        "prev": [
+          "CHESS_FIGURE"
+        ]
+      }
+    }
+  },
+  "395": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "396": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "397": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "398": {
+    "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "399": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "400": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "401": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "402": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      }
+    }
+  },
+  "403": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "404": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "405": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "406": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "407": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "408": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "409": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "410": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "411": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "412": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "413": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "414": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "415": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all ally {{TRIBE:G_FOLLOWER|2}} +1/+1.",
+        "prev": "{{KW:MAGIC}}: Heal 4 {{HP}}. {{KW:SYNERGY}}: Give all other ally {{TRIBE:G_FOLLOWER|2}} +1/+2."
+      }
+    }
+  },
+  "416": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "417": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "418": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "419": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "420": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "421": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "422": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "423": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "424": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "425": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      }
+    }
+  },
+  "426": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "427": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "428": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "429": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "430": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "431": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "432": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "433": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {}
+  },
+  "434": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "tribes": {
+        "now": [
+          "PIECE"
+        ],
+        "prev": [
+          "CHESS_FIGURE"
+        ]
       }
     }
   },
   "435": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ficus_Licker",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "thorns": {
-        "now": 2,
-        "prev": 1
-      },
-      "description": {
-        "now": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Give an ally monster +2 {{KW:THORNS}}.",
-        "prev": "{{KW:THORNS}} (1). {{KW:MAGIC}}: Give an ally monster +1 {{KW:THORNS}}."
-      }
-    }
+    "changed": {}
   },
   "436": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Town_Hall_Guy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "437": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shyrens_Agent",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "438": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Battleflies",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
+    "changed": {}
+  },
+  "439": {
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
     "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
+      "attack": {
+        "now": 3,
+        "prev": 1
       },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
+      "hp": {
+        "now": 3,
+        "prev": 6
       },
-      "description": {
-        "now": "{{KW:HASTE}}. Whenever you cast a spell, this has +4 {{ATK}} until the start of your next turn.",
-        "prev": "{{KW:HASTE}}. Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}."
+      "maxHp": {
+        "now": 3,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 6
       }
     }
   },
-  "439": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Candle",
-      "playedTurn": 0
-    },
-    "removed": {},
-    "changed": {}
-  },
   "440": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Crystal_Cheese",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "441": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sword_Emblem",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "442": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sand_Dog",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "443": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spade_Chain",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "444": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jevil",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "445": {
-    "added": {
-      "baseImage": "Devilsknife",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "446": {
-    "added": {
-      "baseImage": "Diamond_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "447": {
-    "added": {
-      "baseImage": "Club_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "448": {
-    "added": {
-      "baseImage": "Heart_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "449": {
-    "added": {
-      "baseImage": "Spade_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board.",
-        "prev": "Deal {{DMG}} to all enemy monsters equal to the amount of empty slots on your side of the board."
-      }
-    }
+    "changed": {}
   },
   "450": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Desk_Lamp",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "451": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Flower",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "452": {
-    "added": {
-      "baseImage": "Recruitment",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 5 random monsters costing 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}.",
-        "prev": "Look at 3 random monsters with a {{COST}} of 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
-      }
-    }
+    "changed": {}
   },
   "453": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "454": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "455": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 8
+      }
+    }
   },
   "456": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Heal 4 {{HP}} randomly split among ally damaged monsters. Give 3 random monsters in your hand +1/+1.",
+        "prev": "Restore 1 {{HP}} to ally monsters. Give 3 random monsters in your hand +1/+1."
+      }
+    }
   },
   "457": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "458": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "459": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "460": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 9
+      },
+      "description": {
+        "now": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1.",
+        "prev": "Fill your board with {{CARD:373|2}}, then give all {{CARD:373|2}} on the board +1 {{ATK}}."
+      }
+    }
   },
   "461": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Give a monster +2/+2. Draw a card.",
+        "prev": "Give a monster +4/+4."
+      }
+    }
   },
   "462": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   },
   "463": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 5
+      },
+      "description": {
+        "now": "Deal 2 {{DMG}} to a monster. Draw 1 card.",
+        "prev": "Deal 5 {{DMG}} to a monster."
+      }
+    }
   },
   "464": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}} to a monster. Draw 2 cards.",
+        "prev": "Deal 2 {{DMG}} to a monster."
+      }
+    }
   },
   "465": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   },
   "466": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "467": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "468": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "469": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "470": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "471": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random generated {{TRIBE:LOST_SOUL|1}} to your hand.",
+        "prev": "{{KW:MAGIC}}: Deal 5 {{DMG}} to you and add a random {{TRIBE:LOST_SOUL|1}} to your hand."
+      }
+    }
   },
   "472": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   },
   "473": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "474": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "475": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "476": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "477": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "478": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   },
   "479": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. Whenever you cast a spell with a {{COST}} of 2 or higher, summon a {{CARD:479|1}}.",
+        "prev": "{{KW:CHARGE}}. Whenever you cast spell costing >= 2, summon a {{CARD:479}}."
+      }
+    }
   },
   "480": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "PIECE"
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Copy {{KW:THORNS}}, {{KW:HASTE}}, {{KW:CHARGE}}, {{KW:TRANSPARENCY}}, {{KW:CANDY}}, {{KW:TAUNT}}, {{KW:ARMOR}} and {{KW:DODGE}} from all ally {{TRIBE:PIECE|2}}.",
+        "prev": "{{KW:MAGIC}}: Copy {{KW:THORNS}}, {{KW:RANGED}}, {{KW:HASTE}}, {{KW:CHARGE}}, {{KW:TRANSPARENCY}}, {{KW:CANDY}}, {{KW:TAUNT}}, {{KW:ARMOR}} and {{KW:DODGE}} from all ally {{TRIBE:CHESS_FIGURE|2}}."
+      }
+    }
   }
 }

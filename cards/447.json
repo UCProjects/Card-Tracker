@@ -24,10 +24,7 @@
     "description": "Cast 7 random spells costing <= {{GOLD:4}} on random targets."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Club_Chaos",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

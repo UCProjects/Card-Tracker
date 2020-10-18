@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 2,
-    "originalHp": 3,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 288,
     "fixedId": 288,
@@ -27,9 +25,9 @@
     "name": "Groom",
     "image": "Groom",
     "baseImage": "Groom",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,15 +38,47 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining {{GOLD}} or less if no target."
+    "description": "{{KW:TURBO}}: If you have 6 cards or less in your hand, draw a card."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Groom",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TURBO}}: If you have 6 cards or less in your hand, draw a card.",
+        "prev": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining {{GOLD}} or less if no target."
+      }
+    }
   }
 }

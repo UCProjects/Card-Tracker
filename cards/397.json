@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 397,
     "fixedId": 397,
@@ -43,12 +41,11 @@
     "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Add 2 other random {{KW:DISARMED}} monsters to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Useless_Bird",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

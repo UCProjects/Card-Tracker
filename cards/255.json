@@ -26,10 +26,7 @@
     "description": "Give all monsters in your hand and board that didn't start in your deck +1/+2."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Overgrowth",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

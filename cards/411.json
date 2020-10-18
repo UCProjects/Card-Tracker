@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 411,
     "fixedId": 411,
@@ -43,12 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4 (base stats), then summon an exact copy of this."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Animals",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

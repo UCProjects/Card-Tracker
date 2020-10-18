@@ -27,10 +27,7 @@
     "description": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Cold_Winter",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -27,10 +27,7 @@
     "description": "Deal {{DMG:4}} to a monster. If this kills the monster, deal {{DMG:3}} to adjacent monsters."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Explosion",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

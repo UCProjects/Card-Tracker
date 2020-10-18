@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 275,
     "fixedId": 275,
@@ -34,7 +32,7 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [
-      "CHESS_FIGURE"
+      "PIECE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -45,18 +43,19 @@
     "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:HASTE}}. If played on the right, gain {{KW:TRANSPARENCY}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mister_Society",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "CHESS_FIGURE"
+          "PIECE"
         ],
-        "prev": []
+        "prev": [
+          "CHESS_FIGURE"
+        ]
       }
     }
   }

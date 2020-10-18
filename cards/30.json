@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 30,
     "fixedId": 30,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Earn {{GOLD:9}} and {{KW:TURN_END}}: Give your opponent {{GOLD:4}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Burgerpants",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

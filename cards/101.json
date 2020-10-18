@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 101,
     "fixedId": 101,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Nacarat_Jester",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

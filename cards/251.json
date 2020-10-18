@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 251,
     "fixedId": 251,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:CANDY}}, +1 {{KW:DODGE}}, +1 {{KW:ARMOR}}, +3 {{KW:THORNS}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ragel",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

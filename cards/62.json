@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 62,
     "fixedId": 62,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:8}} randomly split among all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Undyne",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

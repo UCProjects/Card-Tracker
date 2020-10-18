@@ -26,10 +26,7 @@
     "description": "{{KW:SILENCE}} all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Penetration",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 424,
     "fixedId": 424,
@@ -45,12 +43,11 @@
     "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}} on adjacent slots."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Christmas_Tree",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

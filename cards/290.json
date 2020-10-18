@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 290,
     "fixedId": 290,
@@ -44,33 +42,11 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:2}}. If the target dies, add a random spell to your hand with the same {{COST}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

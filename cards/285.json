@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 285,
     "fixedId": 285,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Look at 3 random starter cards. Add one to your hand and reduce its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tutorial_Guy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

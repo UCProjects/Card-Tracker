@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 442,
     "fixedId": 442,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Summon a copy of this with -4/-7 and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sand_Dog",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

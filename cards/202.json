@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 202,
     "fixedId": 202,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Raise your max {{HP}} by 3 and restore {{HP:3}} to you."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Innkeeper",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

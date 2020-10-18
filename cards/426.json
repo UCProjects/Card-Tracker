@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 426,
     "fixedId": 426,
@@ -43,23 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Summon a {{CARD:298|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Rabbick_Hole",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [],
-        "prev": [
-          "PLANT"
-        ]
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Summon a {{CARD:298|1}}.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 3 random 4-cost monsters and catch one. {{KW:DUST}}: Release it."
-      }
-    }
+    "changed": {}
   }
 }

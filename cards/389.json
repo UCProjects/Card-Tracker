@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 389,
     "fixedId": 389,
@@ -43,12 +41,11 @@
     "description": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes {{DMG}}, deal as much {{DMG}} to a random enemy monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mirror",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

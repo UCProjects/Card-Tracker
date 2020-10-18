@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 5,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 42,
     "fixedId": 42,
@@ -43,12 +41,24 @@
     "description": "{{KW:MAGIC}}: Add 2 {{CARD:350|2}} to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "So_Sorry",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

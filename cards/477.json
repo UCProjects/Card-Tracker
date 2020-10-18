@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 477,
     "fixedId": 477,
@@ -46,10 +44,11 @@
     "description": "{{KW:MAGIC}}: Summon a {{CARD:375|1}}. {{KW:SYNERGY}}: Give the summoned {{CARD:375|1}} +2/+2 as base stats."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

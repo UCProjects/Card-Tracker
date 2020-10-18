@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 26,
     "fixedId": 26,
@@ -46,12 +44,11 @@
     "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Parsnik",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

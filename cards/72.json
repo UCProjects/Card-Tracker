@@ -27,10 +27,7 @@
     "description": "Send a paralyzed enemy monster to your opponent's deck."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Slowing",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

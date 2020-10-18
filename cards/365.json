@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 5,
+    "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,21 +15,19 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 365,
     "fixedId": 365,
     "typeCard": 0,
-    "name": "Lost Soul 6",
-    "image": "Lost_Soul_6",
-    "baseImage": "Lost_Soul_6",
-    "cost": 5,
+    "name": "Lost Alphys",
+    "image": "Lost_Alphys",
+    "baseImage": "Lost_Alphys",
+    "cost": 3,
     "rarity": "GENERATED",
-    "originalCost": 5,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,12 +43,44 @@
     "description": "{{KW:DUST}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and reduce its {{COST}} by 2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_6",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "name": {
+        "now": "Lost Alphys",
+        "prev": "Lost Soul 6"
+      },
+      "image": {
+        "now": "Lost_Alphys",
+        "prev": "Lost_Soul_6"
+      },
+      "baseImage": {
+        "now": "Lost_Alphys",
+        "prev": "Lost_Soul_6"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
   }
 }

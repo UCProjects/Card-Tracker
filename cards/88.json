@@ -27,16 +27,8 @@
     "description": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Termination",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead.",
-        "prev": "Kill a monster under {{KR}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -24,10 +24,7 @@
     "description": "Kill a random enemy monster."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Devilsknife",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

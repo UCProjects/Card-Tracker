@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 412,
     "fixedId": 412,
@@ -43,17 +41,11 @@
     "description": "{{KW:MAGIC}}: Look at 3 random monsters with a {{COST}} <= 10 and choose one. Add it to your hand with all tribes."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Evil_Blueprints",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random monsters with a {{COST}} <= 10 and choose one. Add it to your hand with all tribes.",
-        "prev": "{{KW:MAGIC}}: Look at 3 random monsters with a tribe costing <= {{GOLD:10}} and choose one. Add it to your hand with all tribes."
-      }
-    }
+    "changed": {}
   }
 }

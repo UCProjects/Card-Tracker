@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 40,
     "fixedId": 40,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Add a {{CARD:349|1}} to the enemy's hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Annoying_Dog",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

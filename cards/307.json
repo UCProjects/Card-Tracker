@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 1,
-    "maxHp": 1,
-    "originalAttack": 2,
-    "originalHp": 1,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 307,
     "fixedId": 307,
@@ -27,10 +25,9 @@
     "name": "Bloody Tree",
     "image": "Bloody_Tree",
     "baseImage": "Bloody_Tree",
-    "cost": 2,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 2,
-    "target": "ALLY_MONSTER",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -43,15 +40,48 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster that costs 3 or less."
+    "description": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bloody_Tree",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false,
+      "target": "ALLY_MONSTER"
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 2
+      },
+      "hp": {
+        "now": 6,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 1
+      },
+      "cost": {
+        "now": 6,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy.",
+        "prev": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster that costs 3 or less."
+      }
+    }
   }
 }

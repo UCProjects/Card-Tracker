@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 310,
     "fixedId": 310,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to all ally monsters."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Green_Fire",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

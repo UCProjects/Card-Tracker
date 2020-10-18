@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 450,
     "fixedId": 450,
@@ -43,12 +41,11 @@
     "description": "{{KW:TAUNT}}. {{KW:DODGE}} (1)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Desk_Lamp",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

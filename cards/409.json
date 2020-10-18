@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 409,
     "fixedId": 409,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Silence a non DT ally monster and add a silenced copy of it to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Action_Figures",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

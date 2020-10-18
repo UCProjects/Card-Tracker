@@ -27,10 +27,7 @@
     "description": "Put an enemy monster back into its owner's hand."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Expulsion",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

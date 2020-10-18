@@ -27,9 +27,7 @@
     "description": "Summon 3 random 1/1 copies of {{KW:DUST}} monsters with a {{COST}} of 3 or less from your dustpile."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

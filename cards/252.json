@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 252,
     "fixedId": 252,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Add to your hand a random monster with the highest rarity from your deck (Max: Legendary)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Throne",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -27,20 +27,8 @@
     "description": "Kill an ally monster. Deal its {{ATK}} as {{DMG}} to all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Overheat",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

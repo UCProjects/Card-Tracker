@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": true,
-    "anotherChance": false,
     "candy": false,
     "id": 162,
     "fixedId": 162,
@@ -43,12 +41,11 @@
     "description": "{{KW:TRANSPARENCY}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clam_Boy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

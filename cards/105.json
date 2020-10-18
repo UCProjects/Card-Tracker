@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 1,
-    "originalHp": 6,
+    "attack": 2,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 2,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 105,
     "fixedId": 105,
@@ -45,12 +43,32 @@
     "description": "{{KW:MAGIC}}: Copy a card of your opponent's hand to your hand and reduce its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Echo_Flower",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      }
+    }
   }
 }

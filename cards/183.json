@@ -27,20 +27,8 @@
     "description": "Force an enemy monster to attack another random enemy monster."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Brain_Shift",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ENEMY_MONSTER",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "Force an enemy monster to attack another random enemy monster.",
-        "prev": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max 8 {{DMG}})."
-      }
-    }
+    "changed": {}
   }
 }

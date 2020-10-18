@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 220,
     "fixedId": 220,
@@ -43,12 +41,11 @@
     "description": "{{KW:DISARMED}}. At the start of every 3 turns your opponent will skip its next turn."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Timer",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

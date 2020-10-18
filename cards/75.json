@@ -26,10 +26,7 @@
     "description": "Kill all paralyzed monsters in play."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Snow_Storm",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

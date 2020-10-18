@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 45,
     "fixedId": 45,
@@ -43,15 +41,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Put an ally monster back to your hand. If it's a {{TRIBE:DOG|1}}, reduce its {{COST}} by 2."
+    "description": "{{KW:MAGIC}}: Send an ally monster to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Doggo",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send an ally monster to your hand.",
+        "prev": "{{KW:MAGIC}}: Put an ally monster back to your hand. If it's a {{TRIBE:DOG|1}}, reduce its {{COST}} by 2."
+      }
+    }
   }
 }

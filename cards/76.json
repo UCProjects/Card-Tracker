@@ -26,10 +26,7 @@
     "description": "Give 2 random ally monsters +1/+1."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Strength",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

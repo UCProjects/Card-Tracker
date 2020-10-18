@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 295,
     "fixedId": 295,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: If you have another {{CARD:295|1}}, combine them and add its {{ATK}} and {{HP}} to this monster's base stats."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jigsawry",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

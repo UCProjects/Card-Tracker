@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": true,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 9,
     "fixedId": 9,
@@ -43,12 +41,11 @@
     "description": "{{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice_Cap",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

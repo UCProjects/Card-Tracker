@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 118,
     "fixedId": 118,
@@ -45,37 +43,11 @@
     "description": "{{KW:MAGIC}}: Draw a card with {{KW:SYNERGY}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "G_Follower_1",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 1
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a card with {{KW:SYNERGY}}.",
-        "prev": "{{KW:FUTURE}} (2): Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

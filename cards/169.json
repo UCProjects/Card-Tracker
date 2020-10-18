@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 169,
     "fixedId": 169,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Summon a {{CARD:357|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bunbun",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

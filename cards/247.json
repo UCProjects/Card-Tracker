@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 247,
     "fixedId": 247,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURBO}}: and {{KW:MAGIC}}: {{KW:SILENCE}} a random enemy monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dress_Lion",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

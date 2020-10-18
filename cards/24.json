@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 24,
     "fixedId": 24,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Give +1/+1/+1 to all ally {{TRIBE:FROGGIT|99}} (except {{CARD:24}}) wherever they are."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Final_Froggit",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

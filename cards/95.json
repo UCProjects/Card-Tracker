@@ -26,10 +26,7 @@
     "description": "Deal {{DMG}} to all monsters equals to their {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Test_of_Will",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

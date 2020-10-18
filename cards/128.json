@@ -26,10 +26,7 @@
     "description": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Froggit_Trio",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

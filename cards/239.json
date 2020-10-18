@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 239,
     "fixedId": 239,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Add a random spell of your class to your hand. {{KW:DUST}}: Add a random spell to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snowdin_Sign",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

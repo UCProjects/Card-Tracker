@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 151,
     "fixedId": 151,
@@ -41,15 +39,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Copy an enemy monster's current ATK, HP, {{KW:TAUNT}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:CANDY}} and {{KW:RANGED}}."
+    "description": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:TRANSPARENCY}} and {{KW:THORNS}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Echo_Fish",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:TRANSPARENCY}} and {{KW:THORNS}}.",
+        "prev": "{{KW:MAGIC}}: Copy an enemy monster's current ATK, HP, {{KW:TAUNT}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:CANDY}} and {{KW:RANGED}}."
+      }
+    }
   }
 }

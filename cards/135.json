@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 135,
     "fixedId": 135,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_START}}: and {{KW:TURN_END}}: Kill a random <= 2 {{GOLD}} monster and restore its {{HP}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Big_Mouth",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

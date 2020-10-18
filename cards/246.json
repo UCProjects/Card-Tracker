@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 246,
     "fixedId": 246,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Editor_2",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

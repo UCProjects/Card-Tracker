@@ -27,10 +27,7 @@
     "description": "Give +{{HP:3}} to a monster."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Force_of_Nature",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -10,9 +10,9 @@
     "name": "Blitz Quiz",
     "image": "Blitz_Quiz",
     "baseImage": "Blitz_Quiz",
-    "cost": 2,
+    "cost": 0,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,36 +23,23 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand."
+    "description": "Look at {{CARD:463}} and {{CARD:464|1}}. Choose one to add to your hand."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Blitz_Quiz",
-      "playedTurn": 0
-    },
-    "removed": {
-      "target": "MONSTER"
-    },
+    "added": {},
+    "removed": {},
     "changed": {
-      "name": {
-        "now": "Blitz Quiz",
-        "prev": "Fast Sanction"
-      },
-      "image": {
-        "now": "Blitz_Quiz",
-        "prev": "Fast_Sanction"
-      },
       "cost": {
-        "now": 2,
-        "prev": 4
+        "now": 0,
+        "prev": 2
       },
       "originalCost": {
-        "now": 2,
-        "prev": 4
+        "now": 0,
+        "prev": 2
       },
       "description": {
-        "now": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand.",
-        "prev": "Deal 2-{{DMG:5}} to a monster. If result was 3 or lower, send back this card to your hand."
+        "now": "Look at {{CARD:463}} and {{CARD:464|1}}. Choose one to add to your hand.",
+        "prev": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand."
       }
     }
   }

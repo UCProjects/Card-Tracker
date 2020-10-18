@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 18,
     "fixedId": 18,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_END}}: Deal {{DMG:3}} to the enemy player."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Pyrope",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

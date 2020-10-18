@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 279,
     "fixedId": 279,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_END}}: If you control no other monster, reduce the {{COST}} of a random spell in your hand by 3."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Berdly",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

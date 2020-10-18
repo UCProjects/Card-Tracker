@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 0,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 0,
-    "originalHp": 7,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 113,
     "fixedId": 113,
@@ -27,9 +25,9 @@
     "name": "Igloo",
     "image": "Igloo",
     "baseImage": "Igloo",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,15 +38,47 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURN_START}}: summon a random common, rare or epic monster."
+    "description": "{{KW:MAGIC}}: Look at 3 cards at the bottom of the enemy deck. Choose one. Add a copy of it to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Igloo",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 0
+      },
+      "hp": {
+        "now": 4,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 0
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 7
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 cards at the bottom of the enemy deck. Choose one. Add a copy of it to your hand.",
+        "prev": "{{KW:TURN_START}}: summon a random common, rare or epic monster."
+      }
+    }
   }
 }

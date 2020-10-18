@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 222,
     "fixedId": 222,
@@ -42,15 +40,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Give {{KW:CHARGE}} to your other {{TRIBE:SNAIL|2}} in play."
+    "description": "{{KW:MAGIC}}: Give {{KW:HASTE}} to all ally {{TRIBE:SNAIL|2}}. {{TRIBE:SNAIL|2}} which cost 1 or less gain {{KW:CHARGE}} instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Blue_Snail",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give {{KW:HASTE}} to all ally {{TRIBE:SNAIL|2}}. {{TRIBE:SNAIL|2}} which cost 1 or less gain {{KW:CHARGE}} instead.",
+        "prev": "{{KW:MAGIC}}: Give {{KW:CHARGE}} to your other {{TRIBE:SNAIL|2}} in play."
+      }
+    }
   }
 }

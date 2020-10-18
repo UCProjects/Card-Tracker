@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 291,
     "fixedId": 291,
@@ -43,21 +41,11 @@
     "description": "{{KW:TURBO}}: If you have 2 or more cards with {{KW:DISARMED}} in your hand gain {{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Striped_Bird",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

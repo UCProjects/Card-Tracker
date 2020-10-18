@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 3,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 2,
+    "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 391,
     "fixedId": 391,
@@ -30,7 +28,7 @@
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
-    "target": "ENEMY_MONSTER",
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,12 +42,24 @@
     "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Scissor_Dancer",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ENEMY_MONSTER"
+      }
+    }
   }
 }

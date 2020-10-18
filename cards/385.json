@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 385,
     "fixedId": 385,
@@ -43,17 +41,11 @@
     "description": "{{KW:TURBO}}: Reveal a random card from your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of a random card in your opponent's hand by 2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Evil_Eye",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Reveal a random card from your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of a random card in your opponent's hand by 2.",
-        "prev": "{{KW:TURBO}}: Reveal a random card in your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of the last revealed card by 2."
-      }
-    }
+    "changed": {}
   }
 }

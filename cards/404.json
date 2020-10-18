@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 404,
     "fixedId": 404,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_END}}: Earn {{GOLD:1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Shrine_Mascot",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

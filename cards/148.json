@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 148,
     "fixedId": 148,
@@ -30,6 +28,7 @@
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,15 +39,41 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Halve the {{ATK}} of the monster in front of this (rounded up)."
+    "description": "{{KW:MAGIC}}: Reduce a monster's {{ATK}} by 2 and add a random card with a {{COST}} equal to the monster's remaining {{ATK}} to your hand."
   },
   "diffs": {
     "added": {
-      "burn": 0,
-      "baseImage": "Faun",
-      "playedTurn": 0
+      "target": "MONSTER"
     },
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
+    },
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Reduce a monster's {{ATK}} by 2 and add a random card with a {{COST}} equal to the monster's remaining {{ATK}} to your hand.",
+        "prev": "{{KW:MAGIC}}: Halve the {{ATK}} of the monster in front of this (rounded up)."
+      }
+    }
   }
 }

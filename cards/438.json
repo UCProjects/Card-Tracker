@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 438,
     "fixedId": 438,
@@ -43,25 +41,11 @@
     "description": "{{KW:HASTE}}. Whenever you cast a spell, this has +4 {{ATK}} until the start of your next turn."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Battleflies",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. Whenever you cast a spell, this has +4 {{ATK}} until the start of your next turn.",
-        "prev": "{{KW:HASTE}}. Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

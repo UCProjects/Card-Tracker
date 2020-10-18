@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 23,
     "fixedId": 23,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Give +{{HP:3}} to a monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Migospel",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

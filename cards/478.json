@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 478,
     "fixedId": 478,
@@ -45,10 +43,11 @@
     "description": "{{KW:MAGIC}}: Shuffle 2 {{CARD:115|2}} into your deck. {{KW:SYNERGY}}: Shuffle {{CARD:475|1}} and {{CARD:476|1}} into your deck instead."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 152,
     "fixedId": 152,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Increase the {{COST}} of all spells in opponent's hand by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bratty",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

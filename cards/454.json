@@ -26,9 +26,7 @@
     "description": "Choose a card from your hand. Burn it and draw 3 cards."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

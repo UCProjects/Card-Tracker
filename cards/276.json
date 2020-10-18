@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 276,
     "fixedId": 276,
@@ -43,12 +41,11 @@
     "description": "Gain {{GOLD:1}} whenever you summon a monster costing 2 or more."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cattys_Dad",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

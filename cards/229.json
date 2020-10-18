@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 229,
     "fixedId": 229,
@@ -43,21 +41,11 @@
     "description": "{{KW:TURBO}}: Add a random {{TRIBE:SNAIL|1}} to your hand. {{KW:MAGIC}}: If you have 2+ {{TRIBE:SNAIL|1}} in play, add {{CARD:369|1}} to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Snail_Trainer",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

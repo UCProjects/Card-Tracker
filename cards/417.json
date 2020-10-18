@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 417,
     "fixedId": 417,
@@ -43,29 +41,11 @@
     "description": "Whenever you cast a spell with a base {{COST}} of 2 or more, draw a card."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jockington",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "Whenever you cast a spell with a base {{COST}} of 2 or more, draw a card.",
-        "prev": "Whenever you cast a spell, draw a card."
-      }
-    }
+    "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 248,
     "fixedId": 248,
@@ -43,37 +41,11 @@
     "description": "{{KW:MAGIC}}: Summon a 1/1 copy of a random other non-DT monster from your deck."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Business_Dude",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a 1/1 copy of a random other non-DT monster from your deck.",
-        "prev": "{{KW:MAGIC}}: Summon a 1/1 copy of a monster from your deck."
-      }
-    }
+    "changed": {}
   }
 }

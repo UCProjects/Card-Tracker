@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 419,
     "fixedId": 419,
@@ -43,12 +41,11 @@
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with <= 2 {{HP}} and gain +2/+2 for each killed monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Spade_King",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

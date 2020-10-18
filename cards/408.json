@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 408,
     "fixedId": 408,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_END}}: Give 2 random monsters in your hand +1/+1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Space_Cooler",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

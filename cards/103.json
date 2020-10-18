@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 103,
     "fixedId": 103,
@@ -45,19 +43,11 @@
     "description": "{{KW:MAGIC}}: Kill a random enemy monster with 2 or less {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Muffets_Pet",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

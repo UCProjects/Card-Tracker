@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 240,
     "fixedId": 240,
@@ -40,15 +38,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURBO}}: Add a random card to the top of each players decks."
+    "description": "{{KW:TURBO}}: Add a random card on the top of both decks. Yours costs 1 less."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "TV",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Add a random card on the top of both decks. Yours costs 1 less.",
+        "prev": "{{KW:TURBO}}: Add a random card to the top of each players decks."
+      }
+    }
   }
 }

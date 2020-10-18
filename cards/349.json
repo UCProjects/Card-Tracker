@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 349,
     "fixedId": 349,
@@ -43,12 +41,11 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dog_Residue",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

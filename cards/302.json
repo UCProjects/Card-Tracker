@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 302,
     "fixedId": 302,
@@ -43,12 +41,11 @@
     "description": "{{KW:ARMOR}} (1)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Big_Hat_Charles",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

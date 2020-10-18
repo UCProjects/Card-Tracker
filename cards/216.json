@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 216,
     "fixedId": 216,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_END}}: Deal {{DMG}} equals to the number of turns this card remained on the board to the opponent."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fire_Trap",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

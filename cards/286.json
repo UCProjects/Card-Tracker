@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 286,
     "fixedId": 286,
@@ -43,12 +41,11 @@
     "description": "When an ally monster costing 3 or more dies, restore {{HP:3}} to you."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Nurse_Mouth",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

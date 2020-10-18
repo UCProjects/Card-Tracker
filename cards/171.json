@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 171,
     "fixedId": 171,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Catch a monster. {{KW:DUST}}: Release the monster (no recursion). {{KW:TURN_END}}: Die."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dimensional_Box",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 56,
     "fixedId": 56,
@@ -43,45 +41,11 @@
     "description": "Can only take up to 3 {{DMG}} at a time."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mettaton",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "Can only take up to 3 {{DMG}} at a time.",
-        "prev": "Can only lose {{HP:1}} at a time when damaged."
-      }
-    }
+    "changed": {}
   }
 }

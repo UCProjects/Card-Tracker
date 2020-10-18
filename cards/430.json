@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 430,
     "fixedId": 430,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: If you have {{CARD:428|1}} and {{CARD:429|1}} in your dustpile, remove them and turn this into a {{CARD:431|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Milk",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 395,
     "fixedId": 395,
@@ -43,12 +41,11 @@
     "description": "When you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: {{KW:TURBO}} monsters in your hand {{COST}} 1 less."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Toriels_Car",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

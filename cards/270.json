@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 3,
-    "originalHp": 3,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 270,
     "fixedId": 270,
@@ -27,9 +25,9 @@
     "name": "Thrashing M",
     "image": "Thrashing_M",
     "baseImage": "Thrashing_M",
-    "cost": 4,
+    "cost": 3,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,35 +40,42 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:HASTE}}. This card has all monster tribes."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Thrashing_M",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
       "hp": {
-        "now": 3,
-        "prev": 5
+        "now": 4,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 5
+        "now": 4,
+        "prev": 3
       },
       "originalHp": {
-        "now": 3,
-        "prev": 5
+        "now": 4,
+        "prev": 3
       },
       "haste": {
-        "now": true,
-        "prev": false
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
       },
       "description": {
-        "now": "{{KW:HASTE}}. This card has all monster tribes.",
-        "prev": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
+        "now": "",
+        "prev": "{{KW:HASTE}}. This card has all monster tribes."
       }
     }
   }

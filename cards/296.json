@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 1,
-    "originalHp": 6,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 296,
     "fixedId": 296,
@@ -27,9 +25,9 @@
     "name": "Jar of Worms",
     "image": "Jar_of_Worms",
     "baseImage": "Jar_of_Worms",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,19 +38,38 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. {{KW:TURN_START}}: Add a {{CARD:373|1}} to your hand. {{KW:TURN_END}}: Give all ally {{CARD:373|2}} +1 {{ATK}}."
+    "description": "Ally {{CARD:373|2}} have +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{CARD:373|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Jar_of_Worms",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
       "description": {
-        "now": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. {{KW:TURN_START}}: Add a {{CARD:373|1}} to your hand. {{KW:TURN_END}}: Give all ally {{CARD:373|2}} +1 {{ATK}}.",
-        "prev": "{{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{CARD:373|1}}. {{KW:TURN_END}}: Give ally {{CARD:373|2}} +1 {{ATK}}."
+        "now": "Ally {{CARD:373|2}} have +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{CARD:373|1}}.",
+        "prev": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. {{KW:TURN_START}}: Add a {{CARD:373|1}} to your hand. {{KW:TURN_END}}: Give all ally {{CARD:373|2}} +1 {{ATK}}."
       }
     }
   }

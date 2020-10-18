@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 315,
     "fixedId": 315,
@@ -45,12 +43,11 @@
     "description": "{{KW:DUST}}: Give {{KW:CANDY}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Royal_Guard_3",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

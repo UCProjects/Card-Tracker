@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 394,
     "fixedId": 394,
@@ -34,7 +32,7 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [
-      "CHESS_FIGURE"
+      "PIECE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -45,54 +43,19 @@
     "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mister_Elegance",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
       "tribes": {
         "now": [
-          "CHESS_FIGURE"
+          "PIECE"
         ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}.",
-        "prev": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn."
+        "prev": [
+          "CHESS_FIGURE"
+        ]
       }
     }
   }

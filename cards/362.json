@@ -1,11 +1,11 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 2,
-    "originalHp": 2,
-    "dodge": 1,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
@@ -15,21 +15,19 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 362,
     "fixedId": 362,
     "typeCard": 0,
-    "name": "Lost Soul 3",
-    "image": "Lost_Soul_3",
-    "baseImage": "Lost_Soul_3",
-    "cost": 5,
+    "name": "Lost Sans",
+    "image": "Lost_Sans",
+    "baseImage": "Lost_Sans",
+    "cost": 3,
     "rarity": "GENERATED",
-    "originalCost": 5,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,15 +40,63 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DODGE}} (1). {{KW:DUST}}: Add 2 {{CARD:351|2}} to your deck and reduce their {{COST}} by 2."
+    "description": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand. It costs 3 less."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Lost_Soul_3",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "dodge": {
+        "now": 0,
+        "prev": 1
+      },
+      "name": {
+        "now": "Lost Sans",
+        "prev": "Lost Soul 3"
+      },
+      "image": {
+        "now": "Lost_Sans",
+        "prev": "Lost_Soul_3"
+      },
+      "baseImage": {
+        "now": "Lost_Sans",
+        "prev": "Lost_Soul_3"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand. It costs 3 less.",
+        "prev": "{{KW:DODGE}} (1). {{KW:DUST}}: Add 2 {{CARD:351|2}} to your deck and reduce their {{COST}} by 2."
+      }
+    }
   }
 }

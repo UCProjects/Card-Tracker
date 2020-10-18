@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 112,
     "fixedId": 112,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURBO}}: {{KW:PARALYZE}} a random enemy monster. {{KW:DUST}}: Summon an enemy {{CARD:10|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice_Wolf",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

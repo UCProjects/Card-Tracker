@@ -27,20 +27,8 @@
     "description": "Change the {{HP}} of all monsters to 1."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Same_Fate",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   }
 }

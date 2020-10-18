@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 422,
     "fixedId": 422,
@@ -46,29 +44,11 @@
     "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each ally {{TRIBE:PLANT|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flower_Fingers",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each ally {{TRIBE:PLANT|1}}.",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each other ally {{TRIBE:PLANT}}."
-      }
-    }
+    "changed": {}
   }
 }

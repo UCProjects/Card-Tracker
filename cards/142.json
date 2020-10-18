@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 142,
     "fixedId": 142,
@@ -43,12 +41,11 @@
     "description": "Whenever an enemy monster attacks, deal {{DMG:1}} to it."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Blue_Laser",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

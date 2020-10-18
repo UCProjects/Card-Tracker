@@ -22,10 +22,7 @@
     "description": "Load the saved board."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Load",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -26,10 +26,7 @@
     "description": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Double_Trouble",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

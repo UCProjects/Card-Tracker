@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 217,
     "fixedId": 217,
@@ -43,12 +41,11 @@
     "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:DUST}}: Deal {{DMG:4}} to its killer."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mace",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

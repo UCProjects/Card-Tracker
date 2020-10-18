@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 245,
     "fixedId": 245,
@@ -40,15 +38,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Move a turbo monster from your deck to the top of your deck. It costs 1 less."
+    "description": "{{KW:MAGIC}}: Look at all {{KW:TURBO}} monsters in your deck. Choose one and add it to the top of your deck. It costs 1 less."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Editor_1",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at all {{KW:TURBO}} monsters in your deck. Choose one and add it to the top of your deck. It costs 1 less.",
+        "prev": "{{KW:MAGIC}}: Move a turbo monster from your deck to the top of your deck. It costs 1 less."
+      }
+    }
   }
 }

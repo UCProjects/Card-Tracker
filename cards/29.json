@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 29,
     "fixedId": 29,
@@ -33,9 +31,7 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "BOMB"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -45,12 +41,18 @@
     "description": "{{KW:TURN_START}}: Sacrifice this to deal {{DMG:3}} to all enemies."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Bomb",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [],
+        "prev": [
+          "BOMB"
+        ]
+      }
+    }
   }
 }

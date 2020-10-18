@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 401,
     "fixedId": 401,
@@ -43,12 +41,11 @@
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{KW:TAUNT}} monsters and choose one. Add it to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Certificate",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

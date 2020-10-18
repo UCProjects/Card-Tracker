@@ -27,10 +27,7 @@
     "description": "Give {{KW:TAUNT}} to an ally monster. Draw a card."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Protection",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 177,
     "fixedId": 177,
@@ -46,38 +44,11 @@
     "description": "{{KW:MAGIC}}: Give an enemy monster -2/-2. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Redacted",
-      "target": "ENEMY_MONSTER",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an enemy monster -2/-2. {{KW:SYNERGY}}: Gain {{KW:HASTE}}.",
-        "prev": "{{KW:FUTURE}} (4): Add a {{TRIBE:G_FOLLOWER|1}} into your deck for each active {{KW:FUTURE}} effect."
-      }
-    }
+    "changed": {}
   }
 }

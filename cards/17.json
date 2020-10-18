@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 17,
     "fixedId": 17,
@@ -43,12 +41,11 @@
     "description": "After this attacks, heal itself by the amount of {{DMG}} dealt."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Knight_Knight",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

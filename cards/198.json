@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 198,
     "fixedId": 198,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Turn a monster into a random monster of the same {{COST}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Red_Bird",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

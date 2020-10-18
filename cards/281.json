@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": true,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 281,
     "fixedId": 281,
@@ -45,12 +43,11 @@
     "description": "{{KW:CHARGE}}. When you summon a monster with more {{ATK}} than this, gain +1/+1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "School_Tem",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

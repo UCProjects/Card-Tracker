@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": true,
     "id": 475,
     "fixedId": 475,
@@ -45,10 +43,11 @@
     "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}. {{KW:DUST}}: Restore 3 {{HP}} to you."
   },
   "diffs": {
-    "added": {
-      "new": true
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

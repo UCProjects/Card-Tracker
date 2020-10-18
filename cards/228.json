@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 228,
     "fixedId": 228,
@@ -45,12 +43,11 @@
     "description": "{{KW:DISARMED}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Tree",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

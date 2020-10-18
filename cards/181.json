@@ -10,10 +10,9 @@
     "name": "Multi Shot",
     "image": "Multi_Shot",
     "baseImage": "Multi_Shot",
-    "cost": 1,
+    "cost": 2,
     "rarity": "EPIC",
-    "originalCost": 1,
-    "target": "ALL",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,14 +23,26 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}."
+    "description": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Multi_Shot",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "target": "ALL"
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less.",
+        "prev": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}."
+      }
+    }
   }
 }

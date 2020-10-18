@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": true,
     "id": 431,
     "fixedId": 431,
@@ -43,12 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}. {{KW:DUST}}: Restore 5 {{HP}} to all allies."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cake",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

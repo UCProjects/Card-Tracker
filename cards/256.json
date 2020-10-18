@@ -8,13 +8,12 @@
     "id": 256,
     "fixedId": 256,
     "typeCard": 1,
-    "name": "Sacrifice",
-    "image": "Sacrifice",
-    "baseImage": "Sacrifice",
-    "cost": 1,
+    "name": "Faded Memory",
+    "image": "Faded_Memory",
+    "baseImage": "Faded_Memory",
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -25,18 +24,37 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Kill an ally monster and restore 4 {{HP}} to you. Add a {{TRIBE:LOST_SOUL|1}} to your hand with -2 {{COST}}."
+    "description": "Look at all {{TRIBE:LOST_SOUL|2}}. Choose one to summon."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Sacrifice",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "target": "ALLY_MONSTER"
     },
-    "removed": {},
     "changed": {
+      "name": {
+        "now": "Faded Memory",
+        "prev": "Sacrifice"
+      },
+      "image": {
+        "now": "Faded_Memory",
+        "prev": "Sacrifice"
+      },
+      "baseImage": {
+        "now": "Faded_Memory",
+        "prev": "Sacrifice"
+      },
+      "cost": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 1
+      },
       "description": {
-        "now": "Kill an ally monster and restore 4 {{HP}} to you. Add a {{TRIBE:LOST_SOUL|1}} to your hand with -2 {{COST}}.",
-        "prev": "Kill an ally monster and heal {{HP:4}}. Add a {{TRIBE:LOST_SOUL|1}}  to your hand."
+        "now": "Look at all {{TRIBE:LOST_SOUL|2}}. Choose one to summon.",
+        "prev": "Kill an ally monster and restore 4 {{HP}} to you. Add a {{TRIBE:LOST_SOUL|1}} to your hand with -2 {{COST}}."
       }
     }
   }

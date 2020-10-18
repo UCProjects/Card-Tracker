@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 170,
     "fixedId": 170,
@@ -43,12 +41,11 @@
     "description": "Whenever a monster dies, deal {{DMG:1}} to the enemy player."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Loren",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

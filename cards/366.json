@@ -22,20 +22,8 @@
     "description": "{{KW:TURBO}}: Deal {{DMG:3}} to you and draw a card."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Little_Mine",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 1
-      }
-    }
+    "changed": {}
   }
 }

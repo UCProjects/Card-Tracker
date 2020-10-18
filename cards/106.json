@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 106,
     "fixedId": 106,
@@ -43,12 +41,11 @@
     "description": "Instead of dying, return to its base state with -2/-2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "The_Heroine",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

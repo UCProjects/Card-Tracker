@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 293,
     "fixedId": 293,
@@ -43,12 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +{{ATK:1}} if there are 7 or more monsters in opponent's dustpile."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Forest_Worm",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

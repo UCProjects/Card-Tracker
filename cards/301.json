@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 301,
     "fixedId": 301,
@@ -43,12 +41,11 @@
     "description": "{{KW:TURN_START}}: Gain +1 {{HP}}. {{KW:TURN_END}}: Gain +1 {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Toy_Block",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

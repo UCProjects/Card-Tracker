@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 167,
     "fixedId": 167,
@@ -43,12 +41,11 @@
     "description": "Whenever it takes DMG, reduce the {{COST}} of a random card in your hand by 2."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Receptionist_1",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -26,9 +26,7 @@
     "description": "Spend all your {{GOLD}}. Summon a {{CARD:459|1}} and give it +1/+1/+1 for each {{GOLD}} spent."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

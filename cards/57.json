@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 57,
     "fixedId": 57,
@@ -43,53 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Gaster",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 1
-      },
-      "hp": {
-        "now": 7,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 14,
-        "prev": 4
-      },
-      "rarity": {
-        "now": "LEGENDARY",
-        "prev": "EPIC"
-      },
-      "originalCost": {
-        "now": 14,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game.",
-        "prev": "{{KW:TURN_END}}: Add a {{CARD:351|1}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

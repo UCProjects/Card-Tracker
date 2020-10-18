@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 386,
     "fixedId": 386,
@@ -43,49 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for each other ally {{CARD:386|1}} summoned this game."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Pizzapants",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 5
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for each other ally {{CARD:386|1}} summoned this game.",
-        "prev": "{{KW:SUPPORT}}: Add a 1/1 copy of the attacking monster to your hand."
-      }
-    }
+    "changed": {}
   }
 }

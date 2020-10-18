@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": true,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 149,
     "fixedId": 149,
@@ -43,12 +41,11 @@
     "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Add a random {{TRIBE:DOG|1}} to your hand. Add another one if you have a {{TRIBE:DOG|1}} on your board."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dog_House",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

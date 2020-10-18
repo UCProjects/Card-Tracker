@@ -23,10 +23,7 @@
     "description": "Give a monster +1/+2. If it's a {{CARD:378|1}}, turn it into a {{CARD:380|1}} instead. Draw a card."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Crown",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 375,
     "fixedId": 375,
@@ -45,12 +43,11 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Green_Flower",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

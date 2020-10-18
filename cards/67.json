@@ -24,14 +24,16 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Add 1 copy of 2 of your dead monsters to your hand."
+    "description": "Add a copy of 2 non {{RARITY:GENERATED}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Resurrection",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add a copy of 2 non {{RARITY:GENERATED}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too.",
+        "prev": "Add 1 copy of 2 of your dead monsters to your hand."
+      }
+    }
   }
 }

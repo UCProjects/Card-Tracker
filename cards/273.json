@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": true,
     "id": 273,
     "fixedId": 273,
@@ -43,12 +41,11 @@
     "description": "{{KW:CANDY}}. {{KW:TURN_END}}: Heal you by this monster's current {{HP}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Noelle",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

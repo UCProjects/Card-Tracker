@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 416,
     "fixedId": 416,
@@ -43,12 +41,11 @@
     "description": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Dad_Dragon",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

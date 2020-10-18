@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 254,
     "fixedId": 254,
@@ -43,12 +41,11 @@
     "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a copy of the dead monster to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cool_Papyrus",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

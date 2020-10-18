@@ -27,25 +27,8 @@
     "description": "Heal 3 {{HP}}. Heal 1 extra {{HP}} per monster with {{KR}} on the board."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Siphoning",
-      "target": "ALL",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      },
-      "description": {
-        "now": "Heal 3 {{HP}}. Heal 1 extra {{HP}} per monster with {{KR}} on the board.",
-        "prev": "Restore {{HP:2}} for each monster under {{KR}}."
-      }
-    }
+    "changed": {}
   }
 }

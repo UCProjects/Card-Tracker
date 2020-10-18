@@ -27,10 +27,7 @@
     "description": "Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Octofriend",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

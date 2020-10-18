@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 215,
     "fixedId": 215,
@@ -40,15 +38,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Summon a dead ally monster that costs less than the elapsed turn count (except itself)."
+    "description": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Coffin",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile.",
+        "prev": "{{KW:DUST}}: Summon a dead ally monster that costs less than the elapsed turn count (except itself)."
+      }
+    }
   }
 }

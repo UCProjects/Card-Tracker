@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 393,
     "fixedId": 393,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Draw 2 cards. Give drawn monsters +1/+1/+1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Coat_Rack",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

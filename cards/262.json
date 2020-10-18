@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 262,
     "fixedId": 262,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Mad_Mew_Mew",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 12,
     "fixedId": 12,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: If played on the left, add a monster from your deck to your hand. If on the right, add a spell."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Chilldrake",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

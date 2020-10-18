@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 317,
     "fixedId": 317,
@@ -45,12 +43,11 @@
     "description": "{{KW:DUST}}: Summon 2 {{CARD:375|2}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flower_Can",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

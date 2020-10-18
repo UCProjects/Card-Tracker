@@ -22,10 +22,7 @@
     "description": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Puzzle_Box",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

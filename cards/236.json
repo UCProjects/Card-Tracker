@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 236,
     "fixedId": 236,
@@ -44,21 +42,11 @@
     "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Hot_Dog_Vulkin",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   }
 }

@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 441,
     "fixedId": 441,
@@ -43,12 +41,11 @@
     "description": "{{KW:ARMOR}} (1). {{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}. If played on the right, gain {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Sword_Emblem",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

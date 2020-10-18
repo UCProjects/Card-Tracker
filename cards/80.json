@@ -26,10 +26,7 @@
     "description": "Choose a monster from your hand ({{COST}} <= 10). Summon it along with a random monster from your opponent's hand and make them fight."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Ambush",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

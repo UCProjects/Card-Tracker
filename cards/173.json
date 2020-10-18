@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 173,
     "fixedId": 173,
@@ -43,21 +41,11 @@
     "description": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give +1/+1 to the summoned {{TRIBE:TEMMIE|1}}. If it has {{KW:HASTE}}, give it +2/+2 instead."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Temmie_Statue",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

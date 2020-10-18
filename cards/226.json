@@ -15,11 +15,9 @@
     "cantAttack": true,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 226,
     "fixedId": 226,
@@ -43,12 +41,11 @@
     "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Give your monsters +1 {{HP}}. At the start of its 3rd turn, die and give +2/+1 to your monsters."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Microwave",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

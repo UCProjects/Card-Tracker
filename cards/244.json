@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 244,
     "fixedId": 244,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to enemy monsters at the rightmost and leftmost side."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Fox_Head",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

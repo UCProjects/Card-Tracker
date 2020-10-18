@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 436,
     "fixedId": 436,
@@ -43,12 +41,11 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a monster with {{KW:HASTE}} in your hand +1 {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Town_Hall_Guy",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

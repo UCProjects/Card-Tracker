@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 423,
     "fixedId": 423,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Choose between {{CARD:10|1}}, {{CARD:9|1}} or {{CARD:31|1}}. Add the chosen card to your hand."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ice_Drink_Wolf",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

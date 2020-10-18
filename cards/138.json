@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 138,
     "fixedId": 138,
@@ -43,12 +41,11 @@
     "description": "{{KW:DUST}}: Earn {{GOLD:2}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Ferry",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

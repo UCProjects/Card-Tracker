@@ -27,16 +27,8 @@
     "description": "Give a monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Pie",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give a monster {{KW:HASTE}} and +1 {{KW:DODGE}}.",
-        "prev": "Make an ally monster immune to {{DMG}} this turn and give it {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

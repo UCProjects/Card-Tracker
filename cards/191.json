@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": true,
-    "anotherChance": false,
     "candy": false,
     "id": 191,
     "fixedId": 191,
@@ -43,12 +41,11 @@
     "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Deal its {{ATK}} as {{DMG}} to random enemy monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Vulkins_Cloud",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

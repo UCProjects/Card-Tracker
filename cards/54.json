@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 54,
     "fixedId": 54,
@@ -45,12 +43,11 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Add this monster to your deck with +{{ATK:2}} and without {{KW:HASTE}} (keep {{ATK}} buffs)."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Flowey",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

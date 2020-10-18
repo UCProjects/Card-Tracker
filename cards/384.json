@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 384,
     "fixedId": 384,
@@ -44,12 +42,11 @@
     "description": "{{KW:MAGIC}}: Add a copy of an ally {{KW:TURBO}} monster to the top of your deck."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Clover_Head",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

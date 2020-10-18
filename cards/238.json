@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 1,
-    "originalHp": 6,
+    "originalHp": 5,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 238,
     "fixedId": 238,
@@ -33,24 +31,44 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "BOMB"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURN_START}}: Sacrifice this to draw 2 cards. If you draw a {{TRIBE:BOMB|1}}, reduce its {{COST}} by 2."
+    "description": "{{KW:DUST}}: Draw a card and reduce its cost by 2. {{KW:TURN_START}}: Sacrifice this and trigger its {{KW:DUST}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Script_Bomb",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "tribes": {
+        "now": [],
+        "prev": [
+          "BOMB"
+        ]
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Draw a card and reduce its cost by 2. {{KW:TURN_START}}: Sacrifice this and trigger its {{KW:DUST}}.",
+        "prev": "{{KW:TURN_START}}: Sacrifice this to draw 2 cards. If you draw a {{TRIBE:BOMB|1}}, reduce its {{COST}} by 2."
+      }
+    }
   }
 }

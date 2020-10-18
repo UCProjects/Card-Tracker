@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 427,
     "fixedId": 427,
@@ -43,12 +41,11 @@
     "description": "{{KW:MAGIC}}: Add {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}} to your deck."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Killer_Cook",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

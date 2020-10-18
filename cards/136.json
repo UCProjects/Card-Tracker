@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 136,
     "fixedId": 136,
@@ -45,12 +43,11 @@
     "description": "Kill every monster damaged by this monster."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Cactus",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

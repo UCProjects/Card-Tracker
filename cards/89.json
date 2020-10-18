@@ -26,24 +26,8 @@
     "description": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}."
   },
   "diffs": {
-    "added": {
-      "baseImage": "Pollutant_Gas",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}.",
-        "prev": "Deal {{DMG:1}} to all enemy monsters. If under {{KR}}, deal {{DMG:3}} instead."
-      }
-    }
+    "changed": {}
   }
 }

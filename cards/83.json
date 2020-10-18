@@ -26,24 +26,8 @@
     "description": "Draw cards until their {{COST}} is 10 or higher (up to 7 cards in hand)"
   },
   "diffs": {
-    "added": {
-      "baseImage": "Shopping",
-      "playedTurn": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 0
-      },
-      "description": {
-        "now": "Draw cards until their {{COST}} is 10 or higher (up to 7 cards in hand)",
-        "prev": "Spend all of your {{GOLD}}. Summon a copy of a monster from your deck costing your {{GOLD}} or less if no target."
-      }
-    }
+    "changed": {}
   }
 }

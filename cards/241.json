@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 241,
     "fixedId": 241,
@@ -45,12 +43,11 @@
     "description": "{{KW:MAGIC}}: Choose a card from your opponent's hand and increase its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Eye",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
     "changed": {}
   }
 }

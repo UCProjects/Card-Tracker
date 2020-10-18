@@ -15,11 +15,9 @@
     "cantAttack": false,
     "charge": false,
     "taunt": false,
-    "ranged": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "anotherChance": false,
     "candy": false,
     "id": 316,
     "fixedId": 316,
@@ -42,15 +40,19 @@
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Give {{KW:RANGED}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
+    "description": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}."
   },
   "diffs": {
-    "added": {
-      "burn": 0,
-      "baseImage": "Royal_Guard_4",
-      "playedTurn": 0
+    "added": {},
+    "removed": {
+      "ranged": false,
+      "anotherChance": false
     },
-    "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}.",
+        "prev": "{{KW:DUST}}: Give {{KW:RANGED}} to all ally {{TRIBE:ROYAL_GUARD|2}}."
+      }
+    }
   }
 }

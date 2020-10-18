@@ -6,7 +6,6 @@
     "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -38,14 +37,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG:3}}, draw 3 cards and restore {{HP:3}} to yourself."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {}
   }

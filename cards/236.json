@@ -6,7 +6,6 @@
     "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -28,7 +27,7 @@
     "cost": 8,
     "rarity": "COMMON",
     "originalCost": 8,
-    "target": "MONSTER",
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -38,15 +37,23 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster."
+    "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give +3 {{ATK}} to an ally monster."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ALL",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give +3 {{ATK}} to an ally monster.",
+        "prev": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy monster or give +3 {{ATK}} to an ally monster."
+      }
+    }
   }
 }

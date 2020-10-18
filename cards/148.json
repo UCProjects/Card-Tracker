@@ -6,7 +6,6 @@
     "originalAttack": 4,
     "originalHp": 3,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -38,42 +37,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Reduce a monster's {{ATK}} by 2 and add a random card with a {{COST}} equal to the monster's remaining {{ATK}} to your hand."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Reduce a monster's {{ATK}} by 2 and add a random card with a {{COST}} equal to the monster's remaining {{ATK}} to your hand.",
-        "prev": "{{KW:MAGIC}}: Halve the {{ATK}} of the monster in front of this (rounded up)."
-      }
-    }
+    "changed": {}
   }
 }

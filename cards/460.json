@@ -22,25 +22,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 9
-      },
-      "description": {
-        "now": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1.",
-        "prev": "Fill your board with {{CARD:373|2}}, then give all {{CARD:373|2}} on the board +1 {{ATK}}."
-      }
-    }
+    "removed": {
+      "imageExtension": "png"
+    },
+    "changed": {}
   }
 }

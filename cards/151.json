@@ -6,7 +6,6 @@
     "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -38,19 +37,18 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:TRANSPARENCY}} and {{KW:THORNS}}."
+    "description": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}} and {{KW:TRANSPARENCY}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:TRANSPARENCY}} and {{KW:THORNS}}.",
-        "prev": "{{KW:MAGIC}}: Copy an enemy monster's current ATK, HP, {{KW:TAUNT}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:CANDY}} and {{KW:RANGED}}."
+        "now": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}} and {{KW:TRANSPARENCY}}.",
+        "prev": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:TRANSPARENCY}} and {{KW:THORNS}}."
       }
     }
   }

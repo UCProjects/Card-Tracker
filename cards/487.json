@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
+    "id": 487,
+    "fixedId": 487,
+    "typeCard": 1,
+    "name": "Royal Justice",
+    "image": "Royal_Justice",
+    "baseImage": "Royal_Justice",
+    "cost": 5,
+    "rarity": "GENERATED",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "ROYAL_INVENTION"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Your passive triggers an additional time."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

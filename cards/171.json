@@ -6,7 +6,6 @@
     "originalAttack": 0,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -38,14 +37,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Catch a monster. {{KW:DUST}}: Release the monster (no recursion). {{KW:TURN_END}}: Die."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {}
   }

@@ -6,18 +6,17 @@
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "id": 397,
     "fixedId": 397,
@@ -37,15 +36,31 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Add 2 other random {{KW:DISARMED}} monsters to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:TRANSPARENCY}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:TRANSPARENCY}}.",
+        "prev": "{{KW:DISARMED}}. {{KW:MAGIC}}: Add 2 other random {{KW:DISARMED}} monsters to your hand."
+      }
+    }
   }
 }

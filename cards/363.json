@@ -6,7 +6,6 @@
     "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,56 +38,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:DUST}}: Draw a monster and give it +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "name": {
-        "now": "Lost Papyrus",
-        "prev": "Lost Soul 4"
-      },
-      "image": {
-        "now": "Lost_Papyrus",
-        "prev": "Lost_Soul_4"
-      },
-      "baseImage": {
-        "now": "Lost_Papyrus",
-        "prev": "Lost_Soul_4"
-      },
-      "cost": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Draw a monster and give it +1/+1.",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add a copy of its killer to your hand and give it {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

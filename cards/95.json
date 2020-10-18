@@ -22,12 +22,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Deal {{DMG}} to all monsters equals to their {{ATK}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "imageExtension": "png"
+    },
     "changed": {}
   }
 }

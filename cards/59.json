@@ -5,8 +5,7 @@
     "maxHp": 1,
     "originalAttack": 1,
     "originalHp": 1,
-    "dodge": 5,
-    "thorns": 0,
+    "dodge": 3,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,23 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:DODGE}} (5). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand."
+    "description": "{{KW:DODGE}} (3).  {{KW:MAGIC}} and {{KW:TURN_START}}: Add a {{CARD:351|1}} to your hand with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "dodge": {
+        "now": 3,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:DODGE}} (3).  {{KW:MAGIC}} and {{KW:TURN_START}}: Add a {{CARD:351|1}} to your hand with -2 {{COST}}.",
+        "prev": "{{KW:DODGE}} (5). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand."
+      }
+    }
   }
 }

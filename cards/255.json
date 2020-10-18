@@ -22,12 +22,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Give all monsters in your hand and board that didn't start in your deck +1/+2."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "imageExtension": "png"
+    },
     "changed": {}
   }
 }

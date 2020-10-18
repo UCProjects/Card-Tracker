@@ -6,7 +6,6 @@
     "originalAttack": 2,
     "originalHp": 3,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -25,9 +24,9 @@
     "name": "Coffin",
     "image": "Coffin",
     "baseImage": "Coffin",
-    "cost": 4,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,19 +36,26 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile."
+    "description": "{{KW:MAGIC}}: Look at 2 others cheapest monsters with a {{COST}} lower than the elapsed turn count in your dustpile and choose one. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      },
       "description": {
-        "now": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile.",
-        "prev": "{{KW:DUST}}: Summon a dead ally monster that costs less than the elapsed turn count (except itself)."
+        "now": "{{KW:MAGIC}}: Look at 2 others cheapest monsters with a {{COST}} lower than the elapsed turn count in your dustpile and choose one. {{KW:DUST}}: Release it.",
+        "prev": "{{KW:DUST}}: Summon the cheapest dead ally monster (except itself) and remove it from your dustpile."
       }
     }
   }

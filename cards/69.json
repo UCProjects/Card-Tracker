@@ -23,12 +23,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Change the {{HP}} of all monsters to 1."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "imageExtension": "png"
+    },
     "changed": {}
   }
 }

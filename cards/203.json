@@ -6,7 +6,6 @@
     "originalAttack": 9,
     "originalHp": 11,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -38,20 +37,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random generated {{TRIBE:LOST_SOUL|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random generated {{TRIBE:LOST_SOUL|2}}.",
-        "prev": "{{KW:MAGIC}}: Summon a copy of a monster. {{KW:DUST}}: Fill your empty spaces with  {{TRIBE:LOST_SOUL|2}}."
-      }
-    }
+    "changed": {}
   }
 }

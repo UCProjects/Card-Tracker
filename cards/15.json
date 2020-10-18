@@ -6,7 +6,6 @@
     "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 1,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,19 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:THORNS}} (1)."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 1,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:THORNS}} (1)."
+      }
+    }
   }
 }

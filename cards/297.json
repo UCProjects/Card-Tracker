@@ -6,7 +6,6 @@
     "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,43 +36,18 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, give all monsters in your hand +1/+1."
+    "description": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": true,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 3
-      },
-      "hp": {
-        "now": 5,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 3
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
       "description": {
-        "now": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, give all monsters in your hand +1/+1.",
-        "prev": "{{KW:HASTE}}. {{KW:RANGED}}. Whenever this attacks and kills a monster, deal {{DMG:1}} to a random enemy monster."
+        "now": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards.",
+        "prev": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, give all monsters in your hand +1/+1."
       }
     }
   }

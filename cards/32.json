@@ -6,7 +6,6 @@
     "originalAttack": 6,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,48 +38,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Shuffle a random other non-DT card and a copy of it from your hand into your deck."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 3
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Shuffle a random other non-DT card and a copy of it from your hand into your deck.",
-        "prev": "{{KW:MAGIC}}: Put a random card in the enemy player's hand back into his deck."
-      }
-    }
+    "changed": {}
   }
 }

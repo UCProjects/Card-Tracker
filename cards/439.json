@@ -1,12 +1,11 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 3,
-    "originalHp": 3,
+    "attack": 4,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 4,
+    "originalHp": 7,
     "dodge": 0,
-    "thorns": 2,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -14,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -25,9 +24,9 @@
     "name": "Candle",
     "image": "Candle",
     "baseImage": "Candle",
-    "cost": 4,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,35 +36,50 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Look at 3 random non-DT {{KW:DUST}} monsters and choose one. Add it to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all allies."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 2,
+      "imageExtension": "png"
     },
     "changed": {
       "attack": {
-        "now": 3,
-        "prev": 1
+        "now": 4,
+        "prev": 3
       },
       "hp": {
-        "now": 3,
-        "prev": 6
+        "now": 7,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 6
+        "now": 7,
+        "prev": 3
       },
       "originalAttack": {
-        "now": 3,
-        "prev": 1
+        "now": 4,
+        "prev": 3
       },
       "originalHp": {
-        "now": 3,
-        "prev": 6
+        "now": 7,
+        "prev": 3
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all allies.",
+        "prev": "{{KW:THORNS}} (2). {{KW:MAGIC}}: Look at 3 random non-DT {{KW:DUST}} monsters and choose one. Add it to your hand."
       }
     }
   }

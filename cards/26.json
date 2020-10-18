@@ -1,12 +1,11 @@
 {
   "card": {
     "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 3,
-    "originalHp": 4,
+    "originalHp": 2,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -40,15 +39,31 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead."
+    "description": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 2,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it.",
+        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it's already paralyzed, deal 2 DMG to it instead."
+      }
+    }
   }
 }

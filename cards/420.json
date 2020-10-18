@@ -6,7 +6,6 @@
     "originalAttack": 0,
     "originalHp": 6,
     "dodge": 0,
-    "thorns": 4,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,19 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:TAUNT}}. {{KW:THORNS}} (4)."
+    "description": "{{KW:TAUNT}}. Whenever this gets damaged, gain +3 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 4,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. Whenever this gets damaged, gain +3 {{ATK}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:THORNS}} (4)."
+      }
+    }
   }
 }

@@ -20,12 +20,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Restore 7 {{HP}} to all allies."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "imageExtension": "png"
+    },
     "changed": {}
   }
 }

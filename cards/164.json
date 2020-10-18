@@ -6,7 +6,6 @@
     "originalAttack": 0,
     "originalHp": 2,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,19 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster (cost <= 3) or {{CARD:65|1}} with a low chance."
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random other monster ({{COST}} <= 2) or {{CARD:65|1}} with a low chance."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random other monster ({{COST}} <= 2) or {{CARD:65|1}} with a low chance.",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster (cost <= 3) or {{CARD:65|1}} with a low chance."
+      }
+    }
   }
 }

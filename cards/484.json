@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 7,
+      "name": "PERSEVERANCE"
+    },
+    "id": 484,
+    "fixedId": 484,
+    "typeCard": 1,
+    "name": "Royal Perseverance",
+    "image": "Royal_Perseverance",
+    "baseImage": "Royal_Perseverance",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "ROYAL_INVENTION"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "{{KW:PARALYZE}} all monsters under {{KR}}. Draw a card."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

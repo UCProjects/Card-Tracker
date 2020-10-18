@@ -6,7 +6,6 @@
     "originalAttack": 0,
     "originalHp": 2,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,44 +36,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:HASTE}}. When this deals {{DMG}} to a monster, restore that much {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "attack": {
-        "now": 0,
-        "prev": 1
-      },
-      "hp": {
-        "now": 2,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 0,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "cost": {
-        "now": 0,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 2
-      }
-    }
+    "changed": {}
   }
 }

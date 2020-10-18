@@ -6,7 +6,6 @@
     "originalAttack": 6,
     "originalHp": 6,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,19 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Look at 3 random monsters in your Dustpile. Add one to your deck with +1/+1."
+    "description": "{{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1.",
+        "prev": "{{KW:MAGIC}}: Look at 3 random monsters in your Dustpile. Add one to your deck with +1/+1."
+      }
+    }
   }
 }

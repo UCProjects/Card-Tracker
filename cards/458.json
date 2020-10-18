@@ -22,12 +22,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Spend all your {{GOLD}}. Summon a {{CARD:459|1}} and give it +1/+1/+1 for each {{GOLD}} spent."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "imageExtension": "png"
+    },
     "changed": {}
   }
 }

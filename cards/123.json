@@ -1,12 +1,11 @@
 {
   "card": {
-    "attack": 8,
+    "attack": 7,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 8,
+    "originalAttack": 7,
     "originalHp": 7,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -25,9 +24,9 @@
     "name": "Onion San",
     "image": "Onion_San",
     "baseImage": "Onion_San",
-    "cost": 11,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 11,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,15 +36,31 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Summon a {{CARD:353|1}} and a {{CARD:354|1}} next to this monster."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 8
+      },
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      }
+    }
   }
 }

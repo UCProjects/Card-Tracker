@@ -1,12 +1,11 @@
 {
   "card": {
     "attack": 0,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 0,
-    "originalHp": 2,
+    "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,31 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:DISARMED}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
+    "description": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}.",
+        "prev": "{{KW:DISARMED}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
+      }
+    }
   }
 }

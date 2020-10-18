@@ -22,21 +22,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Draw 2 cards, then reduce the {{COST}} of all cards in your hand by 2 (not below 2)."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 8
-      }
-    }
+    "removed": {
+      "imageExtension": "png"
+    },
+    "changed": {}
   }
 }

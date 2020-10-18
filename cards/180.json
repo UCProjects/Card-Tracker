@@ -10,9 +10,9 @@
     "name": "Inflation",
     "image": "Inflation",
     "baseImage": "Inflation",
-    "cost": 1,
+    "cost": 2,
     "rarity": "EPIC",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,12 +22,26 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "Increase the {{COST}} of all monsters in your hand by 2, and give them +2/+2."
+    "description": "Increase the cost of all monsters in your hand by 1, and give them +2/+1."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "imageExtension": "png"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Increase the cost of all monsters in your hand by 1, and give them +2/+1.",
+        "prev": "Increase the {{COST}} of all monsters in your hand by 2, and give them +2/+2."
+      }
+    }
   }
 }

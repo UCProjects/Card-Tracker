@@ -6,7 +6,6 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,48 +36,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Look at 3 cards at the bottom of the enemy deck. Choose one. Add a copy of it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 0
-      },
-      "hp": {
-        "now": 4,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 0
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 7
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 cards at the bottom of the enemy deck. Choose one. Add a copy of it to your hand.",
-        "prev": "{{KW:TURN_START}}: summon a random common, rare or epic monster."
-      }
-    }
+    "changed": {}
   }
 }

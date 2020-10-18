@@ -1,12 +1,11 @@
 {
   "card": {
     "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 5,
-    "originalHp": 6,
+    "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,48 +38,26 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false,
-      "target": "ALLY_MONSTER"
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 2
-      },
       "hp": {
-        "now": 6,
-        "prev": 1
+        "now": 4,
+        "prev": 6
       },
       "maxHp": {
-        "now": 6,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 2
+        "now": 4,
+        "prev": 6
       },
       "originalHp": {
-        "now": 6,
-        "prev": 1
-      },
-      "cost": {
-        "now": 6,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy.",
-        "prev": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster that costs 3 or less."
+        "now": 4,
+        "prev": 6
       }
     }
   }

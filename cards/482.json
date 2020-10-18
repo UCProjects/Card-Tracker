@@ -1,0 +1,37 @@
+{
+  "card": {
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
+    "id": 482,
+    "fixedId": 482,
+    "typeCard": 1,
+    "name": "Royal Bravery",
+    "image": "Royal_Bravery",
+    "baseImage": "Royal_Bravery",
+    "cost": 3,
+    "rarity": "GENERATED",
+    "originalCost": 3,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "ROYAL_INVENTION"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

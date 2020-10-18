@@ -6,7 +6,6 @@
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,23 +38,18 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}."
+    "description": "{{KW:MAGIC}}: If played on the right, gain {{KW:ARMOR}} (1). If on the left, gain +1/+1 and {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {
-      "tribes": {
-        "now": [
-          "PIECE"
-        ],
-        "prev": [
-          "CHESS_FIGURE"
-        ]
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the right, gain {{KW:ARMOR}} (1). If on the left, gain +1/+1 and {{KW:TAUNT}}.",
+        "prev": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}."
       }
     }
   }

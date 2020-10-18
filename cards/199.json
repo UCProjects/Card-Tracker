@@ -6,7 +6,6 @@
     "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -25,9 +24,9 @@
     "name": "Manticore",
     "image": "Manticore",
     "baseImage": "Manticore",
-    "cost": 7,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,15 +36,27 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Both players draw two cards."
+    "description": "{{KW:MAGIC}}: Both players draw up to 2 cards."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Both players draw up to 2 cards.",
+        "prev": "{{KW:MAGIC}}: Both players draw two cards."
+      }
+    }
   }
 }

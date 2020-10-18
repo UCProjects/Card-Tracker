@@ -1,12 +1,11 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 5,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 3,
+    "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -25,9 +24,9 @@
     "name": "Alphys",
     "image": "Alphys",
     "baseImage": "Alphys",
-    "cost": 5,
-    "rarity": "EPIC",
-    "originalCost": 5,
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,15 +36,39 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and it costs 1 less."
+    "description": "{{KW:MAGIC}}: Add a {{TRIBE:ROYAL_INVENTION}} of your soul to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 3
+      },
+      "cost": {
+        "now": 7,
+        "prev": 5
+      },
+      "rarity": {
+        "now": "LEGENDARY",
+        "prev": "EPIC"
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a {{TRIBE:ROYAL_INVENTION}} of your soul to your hand.",
+        "prev": "{{KW:MAGIC}}: Add a random {{TRIBE:AMALGAMATE|1}} to your hand and it costs 1 less."
+      }
+    }
   }
 }

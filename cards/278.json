@@ -6,7 +6,6 @@
     "originalAttack": 3,
     "originalHp": 6,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,20 +38,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}. If it is a {{TRIBE:PLANT|1}}, also gives it +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "description": {
-        "now": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}. If it is a {{TRIBE:PLANT|1}}, also gives it +1/+1.",
-        "prev": "{{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}."
-      }
-    }
+    "changed": {}
   }
 }

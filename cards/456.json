@@ -22,17 +22,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "Heal 4 {{HP}} randomly split among ally damaged monsters. Give 3 random monsters in your hand +1/+1."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {
-      "description": {
-        "now": "Heal 4 {{HP}} randomly split among ally damaged monsters. Give 3 random monsters in your hand +1/+1.",
-        "prev": "Restore 1 {{HP}} to ally monsters. Give 3 random monsters in your hand +1/+1."
-      }
-    }
+    "removed": {
+      "imageExtension": "png"
+    },
+    "changed": {}
   }
 }

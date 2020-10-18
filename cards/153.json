@@ -6,7 +6,6 @@
     "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -25,9 +24,9 @@
     "name": "Catty",
     "image": "Catty",
     "baseImage": "Catty",
-    "cost": 7,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,15 +36,27 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "Draw a card whenever you summon a monster."
+    "description": "Whenever you summon a monster when you have 5 or less cards in hand draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "Whenever you summon a monster when you have 5 or less cards in hand draw a card.",
+        "prev": "Draw a card whenever you summon a monster."
+      }
+    }
   }
 }

@@ -6,13 +6,12 @@
     "originalAttack": 0,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
     "taunt": false,
     "invulnerable": false,
@@ -37,15 +36,23 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "{{KW:DISARMED}}. At the start of every 3 turns your opponent will skip its next turn."
+    "description": "At the start of its every 3rd turn, your opponent skips their next turn."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "At the start of its every 3rd turn, your opponent skips their next turn.",
+        "prev": "{{KW:DISARMED}}. At the start of every 3 turns your opponent will skip its next turn."
+      }
+    }
   }
 }

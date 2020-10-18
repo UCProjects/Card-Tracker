@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 5,
+      "name": "KINDNESS"
+    },
+    "id": 481,
+    "fixedId": 481,
+    "typeCard": 1,
+    "name": "Royal Kindness",
+    "image": "Royal_Kindness",
+    "baseImage": "Royal_Kindness",
+    "cost": 2,
+    "rarity": "GENERATED",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "ROYAL_INVENTION"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "description": "Make all ally monsters {{KW:INVULNERABLE}} this turn."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

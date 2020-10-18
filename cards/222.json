@@ -6,7 +6,6 @@
     "originalAttack": 1,
     "originalHp": 1,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,20 +38,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Give {{KW:HASTE}} to all ally {{TRIBE:SNAIL|2}}. {{TRIBE:SNAIL|2}} which cost 1 or less gain {{KW:CHARGE}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give {{KW:HASTE}} to all ally {{TRIBE:SNAIL|2}}. {{TRIBE:SNAIL|2}} which cost 1 or less gain {{KW:CHARGE}} instead.",
-        "prev": "{{KW:MAGIC}}: Give {{KW:CHARGE}} to your other {{TRIBE:SNAIL|2}} in play."
-      }
-    }
+    "changed": {}
   }
 }

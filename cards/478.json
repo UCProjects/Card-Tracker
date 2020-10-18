@@ -6,7 +6,6 @@
     "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -39,14 +38,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Shuffle 2 {{CARD:115|2}} into your deck. {{KW:SYNERGY}}: Shuffle {{CARD:475|1}} and {{CARD:476|1}} into your deck instead."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
     "changed": {}
   }

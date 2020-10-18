@@ -6,7 +6,6 @@
     "originalAttack": 3,
     "originalHp": 5,
     "dodge": 0,
-    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -37,15 +36,19 @@
     "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
-    "imageExtension": "png",
-    "description": "Whenever it takes DMG, reduce the {{COST}} of a random card in your hand by 2."
+    "description": "Whenever it takes {{DMG}}, reduce the {{COST}} of a random card in your hand by 2."
   },
   "diffs": {
     "added": {},
     "removed": {
-      "ranged": false,
-      "anotherChance": false
+      "thorns": 0,
+      "imageExtension": "png"
     },
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever it takes {{DMG}}, reduce the {{COST}} of a random card in your hand by 2.",
+        "prev": "Whenever it takes DMG, reduce the {{COST}} of a random card in your hand by 2."
+      }
+    }
   }
 }

@@ -32,7 +32,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
       card.description = (lang[`card-${card.id}`] || '').trim();
       const path = `./cards/${card.id}.json`;
       return access(path, fs.constants.F_OK | fs.constants.W_OK)
-      .then(() => readFile(path))
+      .then(() => readFile(path).then(JSON.parse))
       .catch((e) => {
         if (e.code !== 'ENOENT') {
           throw new Error('Not writable'); // Shouldn't ever happen, really.

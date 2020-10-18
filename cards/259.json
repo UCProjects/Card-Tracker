@@ -14,12 +14,14 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Give +{{HP:2}} to an ally monster. Summon a {{CARD:353}} to his left and a {{CARD:354}} to his right."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

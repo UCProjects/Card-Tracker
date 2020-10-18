@@ -6,6 +6,7 @@
     "originalAttack": 1,
     "originalHp": 1,
     "dodge": 5,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,17 +32,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:DODGE}} (5). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DODGE}} (5). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand.",
-        "prev": "{{KW:DODGE}} (2). {{KW:TURN_START}}: and {{KW:MAGIC}}: Add a {{CARD:351|1}} to your hand."
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

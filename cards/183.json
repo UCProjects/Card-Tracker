@@ -14,17 +14,19 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max {{DMG:10}})."
+    "imageExtension": "png",
+    "description": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max 8 {{DMG}})."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
       "description": {
-        "now": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max {{DMG:10}}).",
-        "prev": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max 10 DMG)."
+        "now": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max 8 {{DMG}}).",
+        "prev": "Deal a monster under {{KR}}'s {{ATK}} to your opponent and remove the {{KR}} (max {{DMG:10}})."
       }
     }
-  },
-  "changes": 1
+  }
 }

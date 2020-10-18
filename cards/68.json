@@ -14,12 +14,14 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Give an enemy monster: \"{{KW:DUST}}: Summon this monster for your opponent with +1/+1\"."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

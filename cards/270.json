@@ -7,6 +7,7 @@
     "originalAttack": 3,
     "originalHp": 5,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,17 +33,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1.",
-        "prev": "This card has all monster tribes."
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "card": {
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": true,
+    "id": 431,
+    "fixedId": 431,
+    "typeCard": 0,
+    "name": "Cake",
+    "image": "Cake",
+    "cost": 10,
+    "rarity": "GENERATED",
+    "originalCost": 10,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "imageExtension": "png",
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}. {{KW:DUST}}: Restore 5 {{HP}} to all allies."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

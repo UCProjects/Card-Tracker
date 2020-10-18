@@ -6,6 +6,7 @@
     "originalAttack": 1,
     "originalHp": 2,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,12 +32,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

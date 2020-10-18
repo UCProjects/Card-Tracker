@@ -14,12 +14,14 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Set a monster's {{ATK}} to 3 and {{HP}} to 2."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

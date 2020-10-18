@@ -13,12 +13,14 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Add 1 copy of 2 of your dead monsters to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

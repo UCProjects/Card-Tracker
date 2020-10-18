@@ -6,6 +6,7 @@
     "originalAttack": 6,
     "originalHp": 6,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,17 +33,20 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Look at 3 other random monsters in your dustpile and choose one. Add a copy of it to your hand."
+    "imageExtension": "png",
+    "description": "{{KW:MAGIC}}: Look at 3 random monsters in your Dustpile. Add one to your deck with +1/+1."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 other random monsters in your dustpile and choose one. Add a copy of it to your hand.",
-        "prev": ""
+        "now": "{{KW:MAGIC}}: Look at 3 random monsters in your Dustpile. Add one to your deck with +1/+1.",
+        "prev": "{{KW:MAGIC}}: Look at 3 other random monsters in your dustpile and choose one. Add a copy of it to your hand."
       }
     }
-  },
-  "changes": 1
+  }
 }

@@ -6,6 +6,7 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,17 +32,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}.",
-        "prev": ""
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

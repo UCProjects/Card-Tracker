@@ -6,6 +6,7 @@
     "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,17 +33,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Look at 3 random monsters costing <= {{GOLD:3}} and choose one. Summon it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random monsters costing <= {{GOLD:3}} and choose one. Summon it.",
-        "prev": ""
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

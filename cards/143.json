@@ -6,6 +6,7 @@
     "originalAttack": 1,
     "originalHp": 8,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,12 +32,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:TURN_START}}: Deal {{DMG:3}} to enemy monsters played at least one turn ago and that didn't attack."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

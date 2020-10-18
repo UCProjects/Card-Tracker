@@ -6,6 +6,7 @@
     "originalAttack": 7,
     "originalHp": 8,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,12 +32,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Deal {{DMG:4}} to itself."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

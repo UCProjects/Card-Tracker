@@ -1,0 +1,45 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 3,
+    "originalHp": 1,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 421,
+    "fixedId": 421,
+    "typeCard": 0,
+    "name": "Asgore's Truck",
+    "image": "Asgore's_Truck",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "selectCards": [],
+    "imageExtension": "png",
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 2 {{CARD:375|2}} to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

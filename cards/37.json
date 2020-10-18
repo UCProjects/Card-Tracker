@@ -7,6 +7,7 @@
     "originalAttack": 4,
     "originalHp": 2,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,12 +33,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Deal 2-{{DMG:4}} to a random enemy monster. {{KW:DUST}}: Add a random other {{TRIBE:MOLD|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

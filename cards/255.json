@@ -14,12 +14,19 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Deal selected ally monster's {{ATK}} as {{DMG}} to the monster in front of it and extra {{DMG}} to its owner (max: 6)."
+    "imageExtension": "png",
+    "description": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {}
-  },
-  "changes": 0
+    "changed": {
+      "description": {
+        "now": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it.",
+        "prev": "Deal selected ally monster's {{ATK}} as {{DMG}} to the monster in front of it and extra {{DMG}} to its owner (max: 6)."
+      }
+    }
+  }
 }

@@ -6,25 +6,35 @@
     "typeCard": 1,
     "name": "Investment",
     "image": "Investment",
-    "cost": 2,
+    "cost": 1,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 1,
     "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Look at 3 random cards in your deck. Choose one and add its copy to your hand with -2 {{COST}}."
+    "imageExtension": "png",
+    "description": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
       "description": {
-        "now": "Look at 3 random cards in your deck. Choose one and add its copy to your hand with -2 {{COST}}.",
-        "prev": "Add a copy of a random card from your deck to your hand and it recude its {{COST}} by 2."
+        "now": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}.",
+        "prev": "Look at 3 random cards in your deck. Choose one and add its copy to your hand with -2 {{COST}}."
       }
     }
-  },
-  "changes": 1
+  }
 }

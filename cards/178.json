@@ -6,19 +6,34 @@
     "typeCard": 1,
     "name": "Acceleration",
     "image": "Acceleration",
-    "cost": 1,
+    "cost": 3,
     "rarity": "EPIC",
-    "originalCost": 1,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Put your hand into your deck, shuffle it then draw 4 cards."
+    "imageExtension": "png",
+    "description": "Shuffle your hand into your deck. Draw 4 cards. They cost 1 less."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {}
-  },
-  "changes": 0
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      },
+      "description": {
+        "now": "Shuffle your hand into your deck. Draw 4 cards. They cost 1 less.",
+        "prev": "Put your hand into your deck, shuffle it then draw 4 cards."
+      }
+    }
+  }
 }

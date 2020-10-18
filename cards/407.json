@@ -6,6 +6,7 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,17 +33,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Send a {{KW:TURBO}} monster in your hand back to the top of your deck and draw a card."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Send a {{KW:TURBO}} monster in your hand back to the top of your deck and draw a card.",
-        "prev": ""
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

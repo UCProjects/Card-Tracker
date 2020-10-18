@@ -6,20 +6,36 @@
     "typeCard": 1,
     "name": "Ice Replica",
     "image": "Ice_Replica",
-    "cost": 1,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Add a copy of a non DT paralysed monster to your deck. If used on ally monster, add it to the top of your deck."
+    "imageExtension": "png",
+    "description": "Add an {{CARD:10|1}}, {{CARD:9|1}} and {{CARD:31|1}} to your hand."
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "changes": 0
+    "added": {
+      "imageExtension": "png"
+    },
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Add an {{CARD:10|1}}, {{CARD:9|1}} and {{CARD:31|1}} to your hand.",
+        "prev": "Add a copy of a non DT paralysed monster to your deck. If used on ally monster, add it to the top of your deck."
+      }
+    }
+  }
 }

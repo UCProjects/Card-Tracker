@@ -6,6 +6,7 @@
     "originalAttack": 2,
     "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,17 +32,20 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with a base {{COST}} <= 4 and gain +2/+2 for each killed monster."
+    "imageExtension": "png",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with <= 2 {{HP}} and gain +2/+2 for each killed monster."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with a base {{COST}} <= 4 and gain +2/+2 for each killed monster.",
-        "prev": ""
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with <= 2 {{HP}} and gain +2/+2 for each killed monster.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with a base {{COST}} <= 4 and gain +2/+2 for each killed monster."
       }
     }
-  },
-  "changes": 1
+  }
 }

@@ -6,6 +6,7 @@
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,17 +32,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Silence all ally monsters."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Silence all ally monsters.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters. {{KW:DUST}}: {{KW:SILENCE}} all enemy monsters."
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

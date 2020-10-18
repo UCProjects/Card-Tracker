@@ -6,6 +6,7 @@
     "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -24,24 +25,31 @@
     "typeCard": 0,
     "name": "Goner Kid",
     "image": "Goner_Kid",
-    "cost": 3,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 3,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Copy and trigger your {{KW:FUTURE}} effects (cannot copy the same effect twice)."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Copy and trigger your {{KW:FUTURE}} effects (cannot copy the same effect twice).",
-        "prev": "{{KW:MAGIC}}: Copy and trigger {{KW:FUTURE}} effects (cannot copy the same effect twice)."
+      "cost": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 3
       }
     }
-  },
-  "changes": 1
+  }
 }

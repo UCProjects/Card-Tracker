@@ -1,11 +1,12 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -24,19 +25,39 @@
     "typeCard": 0,
     "name": "Berdly",
     "image": "Berdly",
-    "cost": 5,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:TURN_END}}: If you control no other monster, reduce the {{COST}} of a random spell in your hand by 3."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {}
-  },
-  "changes": 0
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      }
+    }
+  }
 }

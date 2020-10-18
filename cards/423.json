@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 6,
+    "originalHp": 8,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 423,
+    "fixedId": 423,
+    "typeCard": 0,
+    "name": "Ice Drink Wolf",
+    "image": "Ice_Drink_Wolf",
+    "cost": 8,
+    "rarity": "RARE",
+    "originalCost": 8,
+    "target": "RANGE",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "selectCards": [],
+    "imageExtension": "png",
+    "description": "{{KW:MAGIC}}: Choose between {{CARD:10|1}}, {{CARD:9|1}} or {{CARD:31|1}}. Add the chosen card to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

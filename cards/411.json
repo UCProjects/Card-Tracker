@@ -1,11 +1,12 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 6,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 6,
+    "originalHp": 8,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -24,24 +25,55 @@
     "typeCard": 0,
     "name": "Animals",
     "image": "Animals",
-    "cost": 7,
+    "cost": 9,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an exact copy of this monster."
+    "imageExtension": "png",
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4, then summon an exact copy of this."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 3
+      },
+      "hp": {
+        "now": 8,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 4
+      },
+      "cost": {
+        "now": 9,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 7
+      },
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an exact copy of this monster.",
-        "prev": ""
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right side of the board, gain -3/-4, then summon an exact copy of this.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an exact copy of this monster."
       }
     }
-  },
-  "changes": 1
+  }
 }

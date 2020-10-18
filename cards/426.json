@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 4,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 426,
+    "fixedId": 426,
+    "typeCard": 0,
+    "name": "Rabbick Hole",
+    "image": "Rabbick_Hole",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "target": "RANGE",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "selectCards": [],
+    "imageExtension": "png",
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 3 random 4-cost monsters and catch one. {{KW:DUST}}: Release it."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -6,6 +6,7 @@
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -31,17 +32,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Restore {{HP:2}} to yourself for each active {{KW:FUTURE}} effect."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Restore {{HP:2}} to yourself for each active {{KW:FUTURE}} effect.",
-        "prev": ""
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

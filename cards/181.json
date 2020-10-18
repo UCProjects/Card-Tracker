@@ -9,32 +9,28 @@
     "cost": 1,
     "rarity": "EPIC",
     "originalCost": 1,
-    "target": "MONSTER",
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Deal 1 {{DMG}}. If this killed a monster, add {{CARD:181|1}} into your hand."
+    "imageExtension": "png",
+    "description": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}."
   },
   "diffs": {
     "added": {
-      "target": "MONSTER"
+      "imageExtension": "png"
     },
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 5
+      "target": {
+        "now": "ALL",
+        "prev": "MONSTER"
       },
       "description": {
-        "now": "Deal 1 {{DMG}}. If this killed a monster, add {{CARD:181|1}} into your hand.",
-        "prev": "Your passive triggers an additional time each turn."
+        "now": "Deal 1 {{DMG}}. If it killed a monster, add a {{CARD:181|1}} to your hand. If it had >= 2 base {{HP}}, gain 1 {{GOLD}}.",
+        "prev": "Deal 1 {{DMG}}. If this killed a monster, add {{CARD:181|1}} into your hand."
       }
     }
-  },
-  "changes": 4
+  }
 }

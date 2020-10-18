@@ -6,6 +6,7 @@
     "originalAttack": 10,
     "originalHp": 10,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -24,24 +25,31 @@
     "typeCard": 0,
     "name": "Chara",
     "image": "Chara",
-    "cost": 20,
+    "cost": 17,
     "rarity": "DETERMINATION",
-    "originalCost": 20,
+    "originalCost": 17,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact.",
-        "prev": "{{KW:MAGIC}}: Add Genocide artifact. Set your {{HP}} and Max {{HP}} to 20."
+      "cost": {
+        "now": 17,
+        "prev": 20
+      },
+      "originalCost": {
+        "now": 17,
+        "prev": 20
       }
     }
-  },
-  "changes": 1
+  }
 }

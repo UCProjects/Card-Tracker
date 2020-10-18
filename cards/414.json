@@ -1,11 +1,12 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -24,24 +25,57 @@
     "typeCard": 0,
     "name": "Purple Mascot",
     "image": "Purple_Mascot",
-    "cost": 6,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 5,
+    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:TAUNT}}."
+    "imageExtension": "png",
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters in your deck and choose one. Give it {{KW:TAUNT}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "target": "RANGE",
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      },
       "description": {
-        "now": "{{KW:TAUNT}}.",
-        "prev": ""
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters in your deck and choose one. Give it {{KW:TAUNT}}.",
+        "prev": "{{KW:TAUNT}}."
       }
     }
-  },
-  "changes": 1
+  }
 }

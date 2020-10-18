@@ -7,6 +7,7 @@
     "originalAttack": 7,
     "originalHp": 10,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,12 +33,15 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:DUST}}: Give {{KW:TAUNT}} to ally {{TRIBE:ROYAL_GUARD|2}} (excluding {{CARD:38|1}})."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
     "changed": {}
-  },
-  "changes": 0
+  }
 }

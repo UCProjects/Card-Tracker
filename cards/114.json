@@ -1,18 +1,19 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 1,
-    "originalHp": 6,
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "ranged": false,
     "invulnerable": false,
     "haste": false,
@@ -24,20 +25,61 @@
     "typeCard": 0,
     "name": "Glad Dummy",
     "image": "Glad_Dummy",
-    "cost": 4,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give {{KW:TAUNT}} to an ally monster."
+    "imageExtension": "png",
+    "description": "{{KW:MAGIC}}: Give {{KW:TAUNT}} to all other monsters on the board."
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
-  },
-  "changes": 0
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 1
+      },
+      "hp": {
+        "now": 3,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 6
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give {{KW:TAUNT}} to all other monsters on the board.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give {{KW:TAUNT}} to an ally monster."
+      }
+    }
+  }
 }

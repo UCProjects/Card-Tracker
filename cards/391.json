@@ -6,6 +6,7 @@
     "originalAttack": 2,
     "originalHp": 3,
     "dodge": 0,
+    "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -32,17 +33,15 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "thorns": 0,
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead.",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG:1}} to an enemy monster. If the enemy monster isn't full HP, deal {{DMG:4}} instead."
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

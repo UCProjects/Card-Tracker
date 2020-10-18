@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 9,
+    "maxHp": 9,
+    "tribe": "PLANT",
+    "originalAttack": 3,
+    "originalHp": 9,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": true,
+    "charge": false,
+    "taunt": true,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 424,
+    "fixedId": 424,
+    "typeCard": 0,
+    "name": "Christmas Tree",
+    "image": "Christmas_Tree",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "imageExtension": "png",
+    "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}} on adjacent slots."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

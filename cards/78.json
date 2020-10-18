@@ -13,17 +13,14 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Give +1 {{ATK}} to 3 random different allies on your board."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give +1 {{ATK}} to 3 random different allies on your board.",
-        "prev": "Give +{{ATK:2}} to your monsters with 3 or less {{ATK}}."
-      }
-    }
-  },
-  "changes": 1
+    "changed": {}
+  }
 }

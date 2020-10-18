@@ -13,25 +13,14 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
+    "imageExtension": "png",
     "description": "Deal {{DMG:8}} to a monster."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "imageExtension": "png"
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
-      "description": {
-        "now": "Deal {{DMG:8}} to a monster.",
-        "prev": "Deal {{DMG:8}} to a monster or 5 to a player."
-      }
-    }
-  },
-  "changes": 3
+    "changed": {}
+  }
 }

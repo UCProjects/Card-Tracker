@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}} and {{KW:TURN_START}}: Add a {{CARD:398|1}} to your hand. {{KW:TURN_END}}: Remove all {{CARD:398|99}} from your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:TURN_START}}: Add a {{CARD:398|1}} to your hand. {{KW:TURN_END}}: Remove all {{CARD:398|99}} from your hand.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

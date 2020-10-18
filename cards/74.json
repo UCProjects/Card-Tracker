@@ -16,11 +16,9 @@
     "description": "Deal {{DMG:1}} to all enemy monsters. If paralyzed, deal {{DMG:3}} instead."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

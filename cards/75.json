@@ -16,11 +16,9 @@
     "description": "Kill all paralyzed monsters in play."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

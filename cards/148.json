@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Halve the {{ATK}} of the monster in front of this (rounded up)."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

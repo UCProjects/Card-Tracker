@@ -12,7 +12,7 @@
     "kr": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "ranged": false,
     "invulnerable": false,
     "haste": false,
@@ -32,20 +32,21 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain {{KW:TAUNT}} if used on an enemy monster."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Silence a monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain {{KW:TAUNT}} if used on an enemy monster.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain taunt if used on an enemy monster."
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Silence a monster.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain {{KW:TAUNT}} if used on an enemy monster."
       }
     }
   },
-  "changes": 3
+  "changes": 2
 }

@@ -16,11 +16,9 @@
     "description": "If your opponent has more monsters on his board than you, summon 3 {{CARD:2|3}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

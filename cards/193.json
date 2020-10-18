@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Change the spells in your hand into other random spells, they {{COST}} 1 less."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

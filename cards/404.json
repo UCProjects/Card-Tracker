@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: Earn {{GOLD:1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Earn {{GOLD:1}}.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

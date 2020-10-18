@@ -34,33 +34,9 @@
     "description": "{{KW:CANDY}}. {{KW:TURN_END}}: Heal you by this monster's current {{HP}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "cost": {
-        "now": 9,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
-  "changes": 7
+  "changes": 0
 }

@@ -17,11 +17,9 @@
     "description": "Give +{{HP:3}} to a monster."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

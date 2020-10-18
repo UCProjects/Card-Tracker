@@ -34,12 +34,9 @@
     "description": "{{KW:DUST}}: Summon a random {{TRIBE:DOG|1}}. If its {{COST}} is <= 3, add a {{CARD:195|1}} to your deck."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

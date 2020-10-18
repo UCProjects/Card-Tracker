@@ -17,11 +17,9 @@
     "description": "Kill a monster under {{KR}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

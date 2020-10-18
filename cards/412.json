@@ -32,14 +32,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 3 random monsters with a tribe costing <= {{GOLD:10}} and choose one. Add it to your hand with all tribes."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random monsters with a tribe costing <= {{GOLD:10}} and choose one. Add it to your hand with all tribes.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: If you have another {{CARD:295|1}}, combine them and add its {{ATK}} and {{HP}} to this monster's base stats."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

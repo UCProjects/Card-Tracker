@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to enemy monsters at the rightmost and leftmost side."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

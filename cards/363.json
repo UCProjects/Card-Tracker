@@ -35,12 +35,9 @@
     "description": "{{KW:DUST}}: Give {{KW:HASTE}} to 2 random monsters in your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

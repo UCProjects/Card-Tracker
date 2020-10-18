@@ -32,14 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{KW:TAUNT}} monsters and choose one. Add it to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{KW:TAUNT}} monsters and choose one. Add it to your hand.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

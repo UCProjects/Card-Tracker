@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Earn {{GOLD:9}} and {{KW:TURN_END}}: Give your opponent {{GOLD:4}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

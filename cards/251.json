@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Give a random effect to all monsters in play: {{KW:TAUNT}}, {{KW:RANGED}}, {{KW:PARALYZE}}d, {{KW:CHARGE}}, {{KW:CANDY}}, {{KR}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

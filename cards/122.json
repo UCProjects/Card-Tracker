@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Give +{{ATK:1}} to monsters at its right and +{{HP:1}} at its left."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

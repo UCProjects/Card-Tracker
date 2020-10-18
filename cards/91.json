@@ -17,11 +17,9 @@
     "description": "Heal {{HP:3}} and remove negative effects. Draw a card if there is no negative effect."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

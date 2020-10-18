@@ -34,12 +34,9 @@
     "description": "{{KW:SUPPORT}}: Give +{{ATK:1}} to the attacking monster if its {{ATK}} is 3 or greater."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

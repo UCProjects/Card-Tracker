@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Draw a card. If it was an {{TRIBE:AMALGAMATE|1}} , give it +{{HP:2}} and {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

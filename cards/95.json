@@ -16,11 +16,9 @@
     "description": "Deal {{DMG}} to all monsters equals to their {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

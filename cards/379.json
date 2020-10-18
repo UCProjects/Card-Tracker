@@ -15,11 +15,9 @@
     "description": "Turn an ally {{CARD:378|1}} into {{CARD:380|1}}. If there's none, draw a card."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

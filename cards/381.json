@@ -34,12 +34,9 @@
     "description": "Whenever you summon a monster, deal {{DMG:1}} to a random enemy monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

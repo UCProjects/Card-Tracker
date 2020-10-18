@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Summon 2 different dead ally {{KW:DUST}} monsters costing 7 or less that died this game on adjacent slots."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

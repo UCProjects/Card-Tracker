@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Shuffle both players' hands into their deck and they draw the same number of cards."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

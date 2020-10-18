@@ -34,12 +34,9 @@
     "description": "Can only be damaged by a {{DMG}} of 4 or greater."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

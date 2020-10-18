@@ -35,25 +35,9 @@
     "description": "{{KW:MAGIC}}: Restore {{HP:4}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
-  "changes": 5
+  "changes": 0
 }

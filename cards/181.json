@@ -6,21 +6,35 @@
     "typeCard": 1,
     "name": "Multi Shot",
     "image": "Multi_Shot",
-    "cost": 5,
+    "cost": 1,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 1,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Your passive triggers an additional time each turn."
+    "description": "Deal 1 {{DMG}}. If this killed a monster, add {{CARD:181|1}} into your hand."
   },
   "diffs": {
     "added": {
-      "selectCards": []
+      "target": "MONSTER"
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 5
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}}. If this killed a monster, add {{CARD:181|1}} into your hand.",
+        "prev": "Your passive triggers an additional time each turn."
+      }
+    }
   },
-  "changes": 1
+  "changes": 4
 }

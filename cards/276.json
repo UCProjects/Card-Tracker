@@ -34,12 +34,9 @@
     "description": "Gain {{GOLD:1}} whenever you summon a monster costing 2 or more."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

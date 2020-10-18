@@ -15,11 +15,9 @@
     "description": "{{KW:TURBO}}: Deal {{DMG:3}} to you and draw a card."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

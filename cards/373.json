@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:HASTE}}. When this deals DMG, restore that much {{HP}} to you."
+    "description": "{{KW:HASTE}}. When this deals {{DMG}}, restore that much {{HP}} to you."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. When this deals {{DMG}}, restore that much {{HP}} to you.",
+        "prev": "{{KW:HASTE}}. When this deals DMG, restore that much {{HP}} to you."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

@@ -35,12 +35,9 @@
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Draw a card and gain +{{HP:1}}. Trigger this effect again for each ally {{CARD:188|1}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

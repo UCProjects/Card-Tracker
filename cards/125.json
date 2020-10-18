@@ -34,12 +34,9 @@
     "description": "Whenever an enemy monster is summoned, deal {{DMG:1}} to it."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

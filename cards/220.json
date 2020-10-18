@@ -34,12 +34,9 @@
     "description": "{{KW:DISARMED}}. At the start of every 3 turns your opponent will skip its next turn."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

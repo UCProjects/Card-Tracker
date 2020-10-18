@@ -34,12 +34,9 @@
     "description": "Ignore {{KW:TAUNT}} effects. {{KW:MAGIC}}: Gain {{KW:CHARGE}} if your enemy has a {{KW:TAUNT}} or {{KW:ARMOR}} monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

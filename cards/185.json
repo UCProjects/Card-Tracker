@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it and draw 2 cards."
+    "description": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it, draw 2 cards and reduce their cost by 1."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it, draw 2 cards and reduce their cost by 1.",
+        "prev": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it and draw 2 cards."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

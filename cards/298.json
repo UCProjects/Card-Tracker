@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:TURBO}} and {{KW:DUST}}: Summon a {{CARD:374|1}}."
+    "description": "{{KW:TURBO}}: Add a {{CARD:374}}\r\n to your hand. {{KW:DUST}}: Summon a {{CARD:374}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Add a {{CARD:374}}\r\n to your hand. {{KW:DUST}}: Summon a {{CARD:374}}.",
+        "prev": "{{KW:TURBO}} and {{KW:DUST}}: Summon a {{CARD:374|1}}."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

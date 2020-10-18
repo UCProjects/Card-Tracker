@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters. {{KW:DUST}}: {{KW:SILENCE}} all enemy monsters."
+    "description": "{{KW:MAGIC}}: Silence all ally monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Silence all ally monsters.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters. {{KW:DUST}}: {{KW:SILENCE}} all enemy monsters."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

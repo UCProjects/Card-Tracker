@@ -34,12 +34,9 @@
     "description": "{{KW:RANGED}}. {{KW:TURN_END}}: Ally {{KW:RANGED}} monsters attack the monster in front of them."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

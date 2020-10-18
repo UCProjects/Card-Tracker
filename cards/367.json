@@ -15,11 +15,9 @@
     "description": "{{KW:TURBO}}: Deal {{DMG:4}} to you, 2 to a random ally monster and draw a card."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

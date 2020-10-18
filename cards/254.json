@@ -34,12 +34,9 @@
     "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a copy of the dead monster to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

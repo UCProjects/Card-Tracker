@@ -16,11 +16,9 @@
     "description": "Give {{KW:CHARGE}} to your monsters."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

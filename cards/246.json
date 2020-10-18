@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Return the most expensive card from your hand to your deck. It costs 4 less."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

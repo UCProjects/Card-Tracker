@@ -35,12 +35,9 @@
     "description": "{{KW:CANDY}}. {{KW:SUPPORT}}: Give the attacking monster {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -27,19 +27,24 @@
     "cost": 3,
     "rarity": "BASE",
     "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} the monster in front of it."
+    "description": "{{KW:MAGIC}}: Silence a monster."
   },
   "diffs": {
     "added": {
-      "dodge": 0,
-      "selectCards": []
+      "target": "MONSTER"
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Silence a monster.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} the monster in front of it."
+      }
+    }
   },
   "changes": 2
 }

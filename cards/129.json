@@ -17,11 +17,9 @@
     "description": "Kill an enemy monster. Deal dead monster's {{COST}} as {{DMG}} to yourself."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

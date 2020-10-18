@@ -32,15 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|1}} in your hand by 2 (excluding {{CARD:39|1}})."
+    "description": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|2}} in your hand by 2 (excluding {{CARD:39|1}})."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|2}} in your hand by 2 (excluding {{CARD:39|1}}).",
+        "prev": "{{KW:DUST}}: Reduce the {{COST}} of the {{TRIBE:ROYAL_GUARD|1}} in your hand by 2 (excluding {{CARD:39|1}})."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

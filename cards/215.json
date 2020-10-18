@@ -34,12 +34,9 @@
     "description": "{{KW:DUST}}: Summon a dead ally monster that costs less than the elapsed turn count (except itself)."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

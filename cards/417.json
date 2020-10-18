@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "Whenever you cast a spell, draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever you cast a spell, draw a card.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

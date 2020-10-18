@@ -34,12 +34,9 @@
     "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Add 2 other random {{KW:DISARMED}} monsters to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

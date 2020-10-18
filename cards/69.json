@@ -16,11 +16,9 @@
     "description": "Change the {{HP}} of all monsters to 1."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

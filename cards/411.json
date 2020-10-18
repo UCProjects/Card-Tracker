@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an exact copy of this monster."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an exact copy of this monster.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

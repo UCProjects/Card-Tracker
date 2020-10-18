@@ -34,12 +34,9 @@
     "description": "{{KW:SUPPORT}}: Give {{KW:RANGED}} to the attacking monster. {{KW:DUST}}: Remove {{KW:RANGED}} from your monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

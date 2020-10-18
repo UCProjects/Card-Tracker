@@ -15,11 +15,9 @@
     "description": "{{KW:TURBO}}: Deal {{DMG:6}} to you and {{DMG:2}} to your monsters and draw a card."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

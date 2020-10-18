@@ -34,12 +34,9 @@
     "description": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

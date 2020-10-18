@@ -15,11 +15,9 @@
     "description": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

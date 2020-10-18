@@ -32,15 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand."
+    "description": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand and reduce its {{COST}} by 2."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand and reduce its {{COST}} by 2.",
+        "prev": "{{KW:MAGIC}}: Return a random enemy monster to the enemy player's hand."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

@@ -31,28 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:DUST}}: Earn {{GOLD:2}}."
+    "description": "{{KW:DUST}}: Draw 2 cards."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 1,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 1,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 1,
-        "prev": 3
+      "description": {
+        "now": "{{KW:DUST}}: Draw 2 cards.",
+        "prev": "{{KW:DUST}}: Earn {{GOLD:2}}."
       }
     }
   },
-  "changes": 5
+  "changes": 1
 }

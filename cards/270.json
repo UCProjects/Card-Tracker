@@ -32,15 +32,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "This card has all monster tribes."
+    "description": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1.",
+        "prev": "This card has all monster tribes."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

@@ -32,14 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 3 other random monsters in your dustpile and choose one. Add a copy of it to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 other random monsters in your dustpile and choose one. Add a copy of it to your hand.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

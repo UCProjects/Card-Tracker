@@ -17,11 +17,9 @@
     "description": "Return an allied monster to your hand and you get 20% of its {{COST}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

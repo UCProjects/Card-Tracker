@@ -34,25 +34,9 @@
     "description": "{{KW:SILENCE}} every monster damaged by this monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
-  "changes": 5
+  "changes": 0
 }

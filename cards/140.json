@@ -34,12 +34,9 @@
     "description": "Gain +{{ATK:1}} if your opponent summons a monster or +{{HP:1}} if you summon a monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

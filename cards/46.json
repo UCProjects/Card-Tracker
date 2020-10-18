@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: If {{CARD:47|1}} is on your board, gain +{{ATK:3}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

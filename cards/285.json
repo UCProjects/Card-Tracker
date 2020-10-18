@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Add 1 starter card to your hand. It costs 1 less."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

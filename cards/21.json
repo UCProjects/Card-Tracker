@@ -34,12 +34,9 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: Deal {{DMG:1}} to all enemy monsters and {{DMG:3}} to the opponent."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

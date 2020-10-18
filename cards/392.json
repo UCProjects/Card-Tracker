@@ -35,12 +35,9 @@
     "description": "Whenever an ally {{TRIBE:PLANT|1}} is summoned, gain +1/+1."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

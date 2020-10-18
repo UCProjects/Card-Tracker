@@ -34,12 +34,9 @@
     "description": "Your other monsters take 1 less {{DMG}} (not stackable)"
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

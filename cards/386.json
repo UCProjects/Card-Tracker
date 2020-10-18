@@ -34,12 +34,9 @@
     "description": "{{KW:SUPPORT}}: Add a 1/1 copy of the attacking monster to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

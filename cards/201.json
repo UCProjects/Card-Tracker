@@ -34,12 +34,9 @@
     "description": "{{KW:HASTE}}. Restore {{HP:3}} to its owner and summon a {{CARD:359|1}} whenever this attacks and kills a monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

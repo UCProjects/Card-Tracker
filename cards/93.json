@@ -17,11 +17,9 @@
     "description": "Fully heal a monster. Give +{{HP:1}} for each restored {{HP}}. Give {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

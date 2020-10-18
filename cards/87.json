@@ -17,11 +17,9 @@
     "description": "Give {{KR}} to a monster and add a {{CARD:87}} to your deck. Draw a card."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

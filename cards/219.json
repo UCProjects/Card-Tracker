@@ -34,21 +34,9 @@
     "description": "{{KW:ARMOR}} (2). {{KW:MAGIC}}: Add a random different Gerson's artifact."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
-  "changes": 4
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:HASTE}}. If played on the right, gain {{KW:TRANSPARENCY}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

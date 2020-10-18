@@ -34,12 +34,9 @@
     "description": "Kill every summoned enemy monster ({{COST}}<= 2) and restore its {{HP}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

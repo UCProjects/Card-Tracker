@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Increase the {{COST}} of 4 random cards in the enemy's hand by 1."
+    "description": "{{KW:MAGIC}}: Increase the {{COST}} of all spells in opponent's hand by 1."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Increase the {{COST}} of all spells in opponent's hand by 1.",
+        "prev": "{{KW:MAGIC}}: Increase the {{COST}} of 4 random cards in the enemy's hand by 1."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

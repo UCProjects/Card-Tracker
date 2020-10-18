@@ -34,12 +34,9 @@
     "description": "{{KW:TURN_END}}: Deal {{DMG:3}} to the enemy player."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

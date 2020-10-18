@@ -34,21 +34,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 1
-      }
-    }
+    "changed": {}
   },
-  "changes": 4
+  "changes": 0
 }

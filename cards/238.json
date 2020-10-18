@@ -35,12 +35,9 @@
     "description": "{{KW:TURN_START}}: Sacrifice this to draw 2 cards. If you draw a {{TRIBE:BOMB|1}}, reduce its {{COST}} by 2."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

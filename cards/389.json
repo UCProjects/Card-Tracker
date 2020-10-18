@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes DMG, deal as much {{DMG}} to a random enemy monster."
+    "description": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes {{DMG}}, deal as much {{DMG}} to a random enemy monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes {{DMG}}, deal as much {{DMG}} to a random enemy monster.",
+        "prev": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes DMG, deal as much {{DMG}} to a random enemy monster."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

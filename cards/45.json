@@ -36,12 +36,9 @@
     "description": "{{KW:MAGIC}}: Put an ally monster back to your hand. If it's a {{TRIBE:DOG|1}}, reduce its {{COST}} by 2."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

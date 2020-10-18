@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Put a random card in the enemy player's hand back into his deck."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

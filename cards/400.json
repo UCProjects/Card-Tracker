@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: Shuffle the cheapest card in your hand into your deck and draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Shuffle the cheapest card in your hand into your deck and draw a card.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

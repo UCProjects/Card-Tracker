@@ -16,11 +16,9 @@
     "description": "Increase the {{COST}} of all monsters in your hand by 2, and give them +2/+2."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

@@ -36,12 +36,9 @@
     "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster. If it was already paralyzed, deal {{DMG:2}} to it."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -17,11 +17,9 @@
     "description": "Set a monster's {{ATK}} to 3 and {{HP}} to 2."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

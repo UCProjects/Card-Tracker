@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

@@ -34,21 +34,9 @@
     "description": "{{KW:MAGIC}}: Summon a random monster from your deck that costs less than this monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
-  "changes": 4
+  "changes": 0
 }

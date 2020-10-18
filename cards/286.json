@@ -34,12 +34,9 @@
     "description": "When an ally monster costing 3 or more dies, restore {{HP:3}} to you."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

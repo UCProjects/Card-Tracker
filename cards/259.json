@@ -17,11 +17,9 @@
     "description": "Give +{{HP:2}} to an ally monster. Summon a {{CARD:353}} to his left and a {{CARD:354}} to his right."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

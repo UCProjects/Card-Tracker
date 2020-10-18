@@ -32,14 +32,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Choose a monster in your hand. Shuffle it into your deck with +2/+2 and {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose a monster in your hand. Shuffle it into your deck with +2/+2 and {{KW:CANDY}}.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

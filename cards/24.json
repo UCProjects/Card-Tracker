@@ -32,24 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Give +1/+1/+1 to all {{CARD:2|2}} and {{CARD:196|2}} you own."
+    "description": "{{KW:MAGIC}}: Give +1/+1/+1 to all ally {{TRIBE:FROGGIT|99}} (except {{CARD:24}}) wherever they are."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
+      "description": {
+        "now": "{{KW:MAGIC}}: Give +1/+1/+1 to all ally {{TRIBE:FROGGIT|99}} (except {{CARD:24}}) wherever they are.",
+        "prev": "{{KW:MAGIC}}: Give +1/+1/+1 to all {{CARD:2|2}} and {{CARD:196|2}} you own."
       }
     }
   },
-  "changes": 4
+  "changes": 1
 }

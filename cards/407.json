@@ -32,14 +32,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Send a {{KW:TURBO}} monster in your hand back to the top of your deck and draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send a {{KW:TURBO}} monster in your hand back to the top of your deck and draw a card.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

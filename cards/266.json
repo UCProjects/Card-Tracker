@@ -35,21 +35,9 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG:3}}, draw 3 cards and restore {{HP:3}} to yourself."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 9
-      }
-    }
+    "changed": {}
   },
-  "changes": 4
+  "changes": 0
 }

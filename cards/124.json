@@ -35,12 +35,9 @@
     "description": "{{KW:TURN_END}}: Put in your hand all allied monsters that died during your turn."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

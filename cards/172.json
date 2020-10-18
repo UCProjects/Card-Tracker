@@ -32,15 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Whenever {{CARD:50|1}} or {{CARD:356|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
+    "description": "Whenever {{CARD:50|1}}, {{CARD:356|1}} or {{CARD:200|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever {{CARD:50|1}}, {{CARD:356|1}} or {{CARD:200|1}} is summoned, deal {{DMG:1}} to all enemy monsters.",
+        "prev": "Whenever {{CARD:50|1}} or {{CARD:356|1}} is summoned, deal {{DMG:1}} to all enemy monsters."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

@@ -36,12 +36,9 @@
     "description": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster that costs 3 or less."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

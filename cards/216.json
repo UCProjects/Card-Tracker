@@ -34,12 +34,9 @@
     "description": "{{KW:TURN_END}}: Deal {{DMG}} equals to the number of turns this card remained on the board to the opponent."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

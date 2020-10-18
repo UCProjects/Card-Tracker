@@ -17,11 +17,9 @@
     "description": "Send an ally monster back to your deck with +{{ATK:4}} and +{{HP:4}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:HASTE}}. Deal the difference of {{DMG}} dealt to an enemy monster to the enemy player."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

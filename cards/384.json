@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Add a copy of an ally {{KW:TURBO}} monster to the top of your deck."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

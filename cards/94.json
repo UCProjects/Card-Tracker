@@ -16,11 +16,9 @@
     "description": "Give +{{HP:3}} to your monsters. If they have {{HP:3}} or lower, give +{{HP:4}} instead."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

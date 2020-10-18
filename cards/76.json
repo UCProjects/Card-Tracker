@@ -17,11 +17,9 @@
     "description": "Give +{{ATK:2}} to a monster. If your opponent has more monsters on his board, give +{{ATK:3}} instead."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

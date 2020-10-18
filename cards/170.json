@@ -34,12 +34,9 @@
     "description": "Whenever a monster dies, deal {{DMG:1}} to the enemy player."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

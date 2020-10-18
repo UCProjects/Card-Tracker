@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Restore {{HP:2}} to yourself for each active {{KW:FUTURE}} effect."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Restore {{HP:2}} to yourself for each active {{KW:FUTURE}} effect.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

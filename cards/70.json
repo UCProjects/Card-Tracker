@@ -16,11 +16,9 @@
     "description": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

@@ -34,25 +34,9 @@
     "description": "Can only lose {{HP:1}} at a time when damaged."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
-  "changes": 5
+  "changes": 0
 }

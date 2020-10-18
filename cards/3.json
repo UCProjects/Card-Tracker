@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Gain +{{ATK:1}} for each other ally monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -17,11 +17,9 @@
     "description": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equals to the amount spent. Convert extra {{DMG}} into {{GOLD}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

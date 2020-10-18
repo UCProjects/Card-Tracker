@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining gold."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

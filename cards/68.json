@@ -17,11 +17,9 @@
     "description": "Give an enemy monster: \"{{KW:DUST}}: Summon this monster for your opponent with +1/+1\"."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

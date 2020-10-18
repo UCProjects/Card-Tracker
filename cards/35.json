@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: If you have 5 or more cards in your hand, get {{KW:HASTE}} and {{KW:TAUNT}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

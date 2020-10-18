@@ -31,14 +31,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with a base {{COST}} <= 4 and gain +2/+2 for each killed monster."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Kill all monsters with a base {{COST}} <= 4 and gain +2/+2 for each killed monster.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

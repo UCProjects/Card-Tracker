@@ -34,12 +34,9 @@
     "description": "{{KW:TURN_START}}: Deal {{DMG:3}} to enemy monsters played at least one turn ago and that didn't attack."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:TAUNT}}. {{KW:DISARMED}}. Heal you by the amount of {{DMG}} taken by this card."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:HASTE}}. Whenever a {{CARD:115|1}} or a {{CARD:103|1}} is summoned, gain +2/+1. {{KW:MAGIC}}: Put 3 {{CARD:115|3}} in both decks."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

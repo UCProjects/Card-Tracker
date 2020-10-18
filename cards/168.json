@@ -34,21 +34,9 @@
     "description": "{{KW:DODGE}} (1)."
   },
   "diffs": {
-    "added": {
-      "dodge": 1,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
-  "changes": 4
+  "changes": 0
 }

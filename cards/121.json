@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Copy and trigger {{KW:FUTURE}} effects (cannot copy the same effect twice)."
+    "description": "{{KW:MAGIC}}: Copy and trigger your {{KW:FUTURE}} effects (cannot copy the same effect twice)."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Copy and trigger your {{KW:FUTURE}} effects (cannot copy the same effect twice).",
+        "prev": "{{KW:MAGIC}}: Copy and trigger {{KW:FUTURE}} effects (cannot copy the same effect twice)."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

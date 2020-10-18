@@ -16,11 +16,9 @@
     "description": "Restore {{HP:2}} for each monster under {{KR}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

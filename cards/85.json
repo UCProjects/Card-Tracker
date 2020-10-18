@@ -17,11 +17,9 @@
     "description": "Add an exact copy of an allied monster to your hand."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

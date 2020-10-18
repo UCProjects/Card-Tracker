@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Add 2 random {{TRIBE:PLANT|2}} to your hand, then remove all negative effects from your {{TRIBE:PLANT|2}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

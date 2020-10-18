@@ -31,15 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Give +{{HP:2}} to a random ally monster."
+    "description": "{{KW:MAGIC}}: Give +1 {{HP}} to a random ally monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give +1 {{HP}} to a random ally monster.",
+        "prev": "{{KW:MAGIC}}: Give +{{HP:2}} to a random ally monster."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

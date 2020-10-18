@@ -34,12 +34,9 @@
     "description": "Summon another {{CARD:137|1}} if this monster is still alive after being damaged (keep {{ATK}} buffs)."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

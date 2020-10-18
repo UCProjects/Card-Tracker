@@ -34,12 +34,9 @@
     "description": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, can attack another monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

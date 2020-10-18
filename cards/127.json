@@ -34,21 +34,9 @@
     "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 different 1 costing spells to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
-  "changes": 4
+  "changes": 0
 }

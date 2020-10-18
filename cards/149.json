@@ -34,12 +34,9 @@
     "description": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Add a random {{TRIBE:DOG|1}} to your hand. Add another one if you have a {{TRIBE:DOG|1}} on your board."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -16,11 +16,9 @@
     "description": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

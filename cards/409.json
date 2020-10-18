@@ -32,14 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Silence a non DT ally monster and add a silenced copy of it to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Silence a non DT ally monster and add a silenced copy of it to your hand.",
+        "prev": ""
+      }
+    }
   },
   "changes": 1
 }

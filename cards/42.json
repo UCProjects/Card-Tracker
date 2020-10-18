@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Add 2 {{CARD:350|2}} to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

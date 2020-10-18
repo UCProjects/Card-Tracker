@@ -15,11 +15,9 @@
     "description": "Deal {{DMG:3}} to a random enemy monster. Return this card to your hand if it killed."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

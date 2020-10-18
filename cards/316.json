@@ -35,12 +35,9 @@
     "description": "{{KW:DUST}}: Give {{KW:RANGED}} to all {{TRIBE:ROYAL_GUARD|2}} on your board (excluding {{CARD:316|1}})."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

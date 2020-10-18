@@ -34,12 +34,9 @@
     "description": "{{KW:TURN_END}}: Restore {{HP:2}} to ally monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to your opponent's hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

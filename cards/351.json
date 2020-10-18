@@ -5,27 +5,33 @@
     "typeCard": 1,
     "name": "G. Blaster",
     "image": "G._Blaster",
-    "cost": 7,
+    "cost": 6,
     "rarity": "GENERATED",
-    "originalCost": 7,
+    "originalCost": 6,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Deal {{DMG:8}} to a monster or 5 to a player."
+    "description": "Deal {{DMG:8}} to a monster."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "target": {
-        "now": "MONSTER",
-        "prev": "ALL"
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "Deal {{DMG:8}} to a monster.",
+        "prev": "Deal {{DMG:8}} to a monster or 5 to a player."
       }
     }
   },
-  "changes": 2
+  "changes": 3
 }

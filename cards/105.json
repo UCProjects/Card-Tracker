@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Copy a card of your opponent's hand to your hand and reduce its {{COST}} by 1."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

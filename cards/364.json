@@ -35,12 +35,9 @@
     "description": "{{KW:DUST}}: Deal {{DMG:4}} randomly split among all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

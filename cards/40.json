@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Add a {{CARD:349|1}} to the enemy's hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

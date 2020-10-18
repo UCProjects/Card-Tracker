@@ -34,12 +34,9 @@
     "description": "{{KW:TURN_END}}: Deal {{DMG:2}} to a random enemy monster if this card didn't attack this turn."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

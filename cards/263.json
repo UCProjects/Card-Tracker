@@ -34,12 +34,9 @@
     "description": "{{KW:SUPPORT}}: Give the attacking monster +1/+1 (MAX +2/+2) for each other monster you control."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

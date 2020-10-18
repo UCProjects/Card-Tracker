@@ -35,12 +35,9 @@
     "description": "{{KW:DUST}}: Restore {{HP:5}} to its owner."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Deal its {{ATK}} as {{DMG}} to a random enemy."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

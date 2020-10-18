@@ -34,12 +34,9 @@
     "description": "Whenever this attacks heal itself by its amount of {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

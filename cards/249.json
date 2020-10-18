@@ -34,12 +34,9 @@
     "description": "{{KW:ARMOR}} (98). {{KW:TURN_START}}: {{KW:SILENCE}} itself."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

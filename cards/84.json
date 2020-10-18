@@ -17,11 +17,9 @@
     "description": "Put an enemy monster back into its owner's hand."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

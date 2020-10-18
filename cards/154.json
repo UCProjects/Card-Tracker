@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Both players draw cards until they have 6 in their hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

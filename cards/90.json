@@ -16,20 +16,9 @@
     "description": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
-  "changes": 3
+  "changes": 0
 }

@@ -32,15 +32,17 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "selectCards": [],
-    "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to an enemy monster. If the enemy monster isn't full HP, deal {{DMG:4}} instead."
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead.",
+        "prev": "{{KW:MAGIC}}: Deal {{DMG:1}} to an enemy monster. If the enemy monster isn't full HP, deal {{DMG:4}} instead."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

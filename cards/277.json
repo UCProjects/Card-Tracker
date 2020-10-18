@@ -34,12 +34,9 @@
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 2 random 1-cost monsters from your deck to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

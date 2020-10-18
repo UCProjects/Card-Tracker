@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Remove 2 random monsters from your dustpile and add them to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -34,12 +34,9 @@
     "description": "{{KW:DUST}}: Return this monster to your hand and add a {{CARD:379|1}} to your deck."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

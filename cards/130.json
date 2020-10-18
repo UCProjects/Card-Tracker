@@ -14,15 +14,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Add a copy of a random card from your deck to your hand and it recude its {{COST}} by 2."
+    "description": "Look at 3 random cards in your deck. Choose one and add its copy to your hand with -2 {{COST}}."
   },
   "diffs": {
-    "added": {
-      "target": "RANGE",
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 3 random cards in your deck. Choose one and add its copy to your hand with -2 {{COST}}.",
+        "prev": "Add a copy of a random card from your deck to your hand and it recude its {{COST}} by 2."
+      }
+    }
   },
-  "changes": 2
+  "changes": 1
 }

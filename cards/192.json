@@ -35,12 +35,9 @@
     "description": "{{KW:TURN_START}}: Kill all monsters on the board. {{KW:DUST}}: Kill its killer."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

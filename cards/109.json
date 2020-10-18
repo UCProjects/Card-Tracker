@@ -35,12 +35,9 @@
     "description": "Can't be damaged during your turn. {{KW:MAGIC}}: Give +1/+1 to another random ally {{TRIBE:AMALGAMATE|1}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

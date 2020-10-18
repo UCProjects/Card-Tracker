@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Reduce opponent's {{GOLD}} by 2."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

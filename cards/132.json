@@ -17,11 +17,9 @@
     "description": "Make an ally monster immune to {{DMG}} this turn and give it {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

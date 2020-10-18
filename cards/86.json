@@ -17,11 +17,9 @@
     "description": "Deal {{DMG:2}} to a monster. If under {{KR}}, deal {{DMG:5}} instead and the extra {{DMG}} to your opponent."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

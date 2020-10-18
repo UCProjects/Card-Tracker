@@ -34,12 +34,9 @@
     "description": "{{KW:DUST}}: Summon 2 {{CARD:370|2}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

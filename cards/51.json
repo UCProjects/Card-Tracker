@@ -34,12 +34,9 @@
     "description": "{{KW:DUST}}: Give +1/+1 to adjacents monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

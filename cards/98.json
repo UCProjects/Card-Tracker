@@ -16,11 +16,9 @@
     "description": "Deal {{DMG:5}} randomly split among all enemy monsters."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

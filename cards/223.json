@@ -35,12 +35,9 @@
     "description": "{{KW:MAGIC}}: Give +{{HP:1}} to your other {{TRIBE:SNAIL|2}} in play."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

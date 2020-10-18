@@ -35,12 +35,9 @@
     "description": "{{KW:DUST}}: Add a random {{TRIBE:PLANT|1}} to your hand."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

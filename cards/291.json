@@ -34,12 +34,9 @@
     "description": "{{KW:TURBO}}: If you have 2 or more cards with {{KW:DISARMED}} in your hand gain {{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

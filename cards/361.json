@@ -35,12 +35,9 @@
     "description": "{{KW:DUST}}: Kill a random damaged enemy monster."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

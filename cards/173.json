@@ -34,12 +34,9 @@
     "description": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give +1/+1 to the summoned {{TRIBE:TEMMIE|1}}. If it has {{KW:HASTE}}, give it +2/+2 instead."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

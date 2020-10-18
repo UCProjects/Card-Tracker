@@ -34,12 +34,9 @@
     "description": "{{KW:MAGIC}}: Remove all negative effects from your other monsters and {{KW:TURN_END}}: Heal them by {{HP:2}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 2
+  "changes": 0
 }

@@ -16,11 +16,9 @@
     "description": "Put your hand into your deck, shuffle it then draw 4 cards."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

@@ -32,37 +32,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "Whenever you summon a monster, give it a {{KW:CANDY}}."
+    "description": "{{KW:MAGIC}}: Give a monster {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "target": "MONSTER",
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 1
-      },
-      "hp": {
-        "now": 3,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 6
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a monster {{KW:CANDY}}.",
+        "prev": "Whenever you summon a monster, give it a {{KW:CANDY}}."
       }
     }
   },
-  "changes": 8
+  "changes": 1
 }

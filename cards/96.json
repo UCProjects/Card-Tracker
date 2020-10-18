@@ -17,11 +17,9 @@
     "description": "Deal {{DMG:3}}. If your opponent has more {{HP}} than you, deal {{DMG:4}} instead."
   },
   "diffs": {
-    "added": {
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
-  "changes": 1
+  "changes": 0
 }

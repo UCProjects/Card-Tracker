@@ -31,32 +31,17 @@
     "quantity": 1,
     "extension": "BASE",
     "selectCards": [],
-    "description": "{{KW:DISARMED}}. At the start of your every 3rd turn, fully heal your other monsters and give them +{{ATK:3}}."
+    "description": "{{KW:DISARMED}}. {{KW:MAGIC}}: Give your monsters +1 {{HP}}. At the start of its 3rd turn, die and give +2/+1 to your monsters."
   },
   "diffs": {
-    "added": {
-      "dodge": 0,
-      "selectCards": []
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
-      },
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
+      "description": {
+        "now": "{{KW:DISARMED}}. {{KW:MAGIC}}: Give your monsters +1 {{HP}}. At the start of its 3rd turn, die and give +2/+1 to your monsters.",
+        "prev": "{{KW:DISARMED}}. At the start of your every 3rd turn, fully heal your other monsters and give them +{{ATK:3}}."
       }
     }
   },
-  "changes": 6
+  "changes": 1
 }

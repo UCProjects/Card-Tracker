@@ -6,15 +6,30 @@
     "typeCard": 1,
     "name": "Contamination",
     "image": "Contamination",
-    "cost": 8,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 8,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 8
+      }
+    }
+  },
+  "changes": 3
 }

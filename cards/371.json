@@ -11,9 +11,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "selectCards": [],
     "description": "Deal {{DMG:3}} to a random enemy monster. Return this card to your hand if it killed."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
 }

@@ -5,6 +5,7 @@
     "maxHp": 8,
     "originalAttack": 1,
     "originalHp": 8,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:TURN_START}}: Deal {{DMG:3}} to enemy monsters played at least one turn ago and that didn't attack."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

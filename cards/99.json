@@ -13,9 +13,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Deal {{DMG:4}} to a monster. If this kills the monster, deal {{DMG:3}} to adjacent monsters."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
 }

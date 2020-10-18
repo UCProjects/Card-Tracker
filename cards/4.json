@@ -6,6 +6,7 @@
     "tribe": "MOLD",
     "originalAttack": 3,
     "originalHp": 2,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": ""
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

@@ -13,9 +13,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
 }

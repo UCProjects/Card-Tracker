@@ -1,0 +1,44 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 1,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 404,
+    "fixedId": 404,
+    "typeCard": 0,
+    "name": "Shrine Mascot",
+    "image": "Shrine_Mascot",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
+}

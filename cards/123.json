@@ -5,6 +5,7 @@
     "maxHp": 7,
     "originalAttack": 8,
     "originalHp": 7,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:MAGIC}}: Summon a {{CARD:353|1}} and a {{CARD:354|1}} next to this monster."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

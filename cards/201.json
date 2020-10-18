@@ -5,6 +5,7 @@
     "maxHp": 6,
     "originalAttack": 3,
     "originalHp": 6,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:HASTE}}. Restore {{HP:3}} to its owner and summon a {{CARD:359|1}} whenever this attacks and kills a monster."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

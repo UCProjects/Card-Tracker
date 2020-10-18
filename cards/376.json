@@ -11,9 +11,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "selectCards": [],
     "description": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
 }

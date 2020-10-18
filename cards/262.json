@@ -5,6 +5,7 @@
     "maxHp": 3,
     "originalAttack": 4,
     "originalHp": 3,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

@@ -5,6 +5,7 @@
     "maxHp": 4,
     "originalAttack": 3,
     "originalHp": 4,
+    "dodge": 0,
     "armor": 2,
     "paralyzed": 0,
     "silence": false,
@@ -23,15 +24,31 @@
     "typeCard": 0,
     "name": "Gerson",
     "image": "Gerson",
-    "cost": 8,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 8,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:ARMOR}} (2). {{KW:MAGIC}}: Add a random different Gerson's artifact."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
+      }
+    }
+  },
+  "changes": 4
 }

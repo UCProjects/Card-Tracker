@@ -9,12 +9,20 @@
     "cost": 2,
     "rarity": "COMMON",
     "originalCost": 2,
+    "target": "RANGE",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Add a copy of a random card from your deck to your hand and it recude its {{COST}} by 2."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "target": "RANGE",
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

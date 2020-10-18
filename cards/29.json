@@ -6,6 +6,7 @@
     "tribe": "BOMB",
     "originalAttack": 1,
     "originalHp": 5,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:TURN_START}}: Sacrifice this to deal {{DMG:3}} to all enemies."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

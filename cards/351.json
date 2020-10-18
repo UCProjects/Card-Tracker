@@ -8,13 +8,24 @@
     "cost": 7,
     "rarity": "GENERATED",
     "originalCost": 7,
-    "target": "ALL",
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Deal {{DMG:8}} to a monster or 5 to a player."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALL"
+      }
+    }
+  },
+  "changes": 2
 }

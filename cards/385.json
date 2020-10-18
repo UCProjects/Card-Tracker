@@ -5,6 +5,7 @@
     "maxHp": 3,
     "originalAttack": 3,
     "originalHp": 3,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "selectCards": [],
     "description": "{{KW:TURBO}}: Show a random card from the enemy's hand. {{KW:MAGIC}}: Rise a random card's {{COST}} in the enemy's hand by 2."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

@@ -5,6 +5,7 @@
     "maxHp": 1,
     "originalAttack": 1,
     "originalHp": 1,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -23,15 +24,31 @@
     "typeCard": 0,
     "name": "Clean Rabbick",
     "image": "Clean_Rabbick",
-    "cost": 1,
+    "cost": 0,
     "rarity": "GENERATED",
-    "originalCost": 1,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "selectCards": [],
     "description": ""
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
+  },
+  "changes": 4
 }

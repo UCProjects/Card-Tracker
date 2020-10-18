@@ -1,0 +1,26 @@
+{
+  "card": {
+    "id": 398,
+    "fixedId": 398,
+    "typeCard": 1,
+    "name": "Scope",
+    "image": "Scope",
+    "cost": 0,
+    "rarity": "GENERATED",
+    "originalCost": 0,
+    "target": "RANGE",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "selectCards": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
+}

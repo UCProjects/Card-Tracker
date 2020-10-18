@@ -13,9 +13,15 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Deal selected ally monster's {{ATK}} as {{DMG}} to the monster in front of it and extra {{DMG}} to its owner (max: 6)."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 1
 }

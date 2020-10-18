@@ -5,6 +5,7 @@
     "maxHp": 3,
     "originalAttack": 3,
     "originalHp": 3,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Gain +{{HP:3}} for each other monster. {{KW:DUST}}: Add {{CARD:65|1}} to your deck."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

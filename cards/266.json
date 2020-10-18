@@ -5,6 +5,7 @@
     "maxHp": 3,
     "originalAttack": 3,
     "originalHp": 3,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -23,16 +24,32 @@
     "typeCard": 0,
     "name": "Clover",
     "image": "Clover",
-    "cost": 9,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 9,
+    "originalCost": 10,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "selectCards": [],
     "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG:3}}, draw 3 cards and restore {{HP:3}} to yourself."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 9
+      }
+    }
+  },
+  "changes": 4
 }

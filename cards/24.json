@@ -1,11 +1,12 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 5,
     "hp": 6,
     "maxHp": 6,
     "tribe": "FROGGIT",
-    "originalAttack": 6,
+    "originalAttack": 5,
     "originalHp": 6,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,25 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:MAGIC}}: Give +1/+1/+1 to all {{CARD:2|2}} and {{CARD:196|2}} you own."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      }
+    }
+  },
+  "changes": 4
 }

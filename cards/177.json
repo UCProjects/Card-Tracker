@@ -6,6 +6,7 @@
     "tribe": "G_FOLLOWER",
     "originalAttack": 3,
     "originalHp": 5,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:FUTURE}} (4): Add a {{TRIBE:G_FOLLOWER|1}} into your deck for each active {{KW:FUTURE}} effect."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

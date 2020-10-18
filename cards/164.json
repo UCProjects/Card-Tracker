@@ -5,6 +5,7 @@
     "maxHp": 2,
     "originalAttack": 0,
     "originalHp": 2,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -23,15 +24,31 @@
     "typeCard": 0,
     "name": "Lamp",
     "image": "Lamp",
-    "cost": 3,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster (cost <= 3) or {{CARD:65|1}} with a low chance."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
+  },
+  "changes": 4
 }

@@ -5,6 +5,7 @@
     "maxHp": 6,
     "originalAttack": 5,
     "originalHp": 6,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,21 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain taunt if used on an enemy monster."
+    "selectCards": [],
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain {{KW:TAUNT}} if used on an enemy monster."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain {{KW:TAUNT}} if used on an enemy monster.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Gain taunt if used on an enemy monster."
+      }
+    }
+  },
+  "changes": 3
 }

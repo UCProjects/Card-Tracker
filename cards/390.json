@@ -5,6 +5,7 @@
     "maxHp": 4,
     "originalAttack": 3,
     "originalHp": 4,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
+    "selectCards": [],
     "description": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters. {{KW:DUST}}: {{KW:SILENCE}} all enemy monsters."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

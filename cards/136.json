@@ -1,11 +1,12 @@
 {
   "card": {
     "attack": 0,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 5,
+    "maxHp": 5,
     "tribe": "PLANT",
     "originalAttack": 0,
-    "originalHp": 7,
+    "originalHp": 5,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -30,9 +31,29 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Kill every monster damaged by this monster."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 7
+      }
+    }
+  },
+  "changes": 5
 }

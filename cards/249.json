@@ -5,6 +5,7 @@
     "maxHp": 8,
     "originalAttack": 9,
     "originalHp": 8,
+    "dodge": 0,
     "armor": 98,
     "paralyzed": 0,
     "silence": false,
@@ -29,9 +30,16 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:ARMOR}} (98). {{KW:TURN_START}}: {{KW:SILENCE}} itself."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "changes": 2
 }

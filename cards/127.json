@@ -5,6 +5,7 @@
     "maxHp": 5,
     "originalAttack": 4,
     "originalHp": 5,
+    "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
@@ -23,15 +24,31 @@
     "typeCard": 0,
     "name": "Garbage",
     "image": "Garbage",
-    "cost": 7,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 different 1 costing spells to your hand."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "dodge": 0,
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
+  },
+  "changes": 4
 }

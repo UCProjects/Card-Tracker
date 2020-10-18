@@ -6,15 +6,30 @@
     "typeCard": 1,
     "name": "Aaron's Secret",
     "image": "Aaron's_Secret",
-    "cost": 5,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
+    "selectCards": [],
     "description": "Give +{{ATK:2}} to your monsters with 3 or less {{ATK}}."
   },
-  "diffs": [
-    "New"
-  ]
+  "diffs": {
+    "added": {
+      "selectCards": []
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 5
+      }
+    }
+  },
+  "changes": 3
 }

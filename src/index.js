@@ -15,21 +15,19 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
   const language = lang.startsWith('https://') ? needle(lang).then(res => res.body) : readFile(lang).then(JSON.parse);''
   const allCards = from.startsWith('https://') ? needle(from).then(res => res.body) : readFile(from).then(JSON.parse);
   allCards.then(({cards} = {}) => {
-    if (typeof cards === 'string') {
-      // TODO: compare hash from latest.json, only process if new things
-      const now = hash(cards);
-      console.log(now);
-      return JSON.parse(cards);
-    }
-    if (Array.isArray(cards)) {
-      console.log('Existing Array');
-      return cards;
-    }
+    // TODO: compare hash from latest.json, only process if new things
+    // const now = hash(cards);
+    // console.log(now);
+    if (typeof cards === 'string') return JSON.parse(cards);
+    if (Array.isArray(cards)) return cards;
   }).then((cards) => language.then((lang) => ({cards, lang})).catch(() => ({cards}))).then(({
     cards = [],
     lang = {},
   } = {}) => {
-    if (!cards.length) return;
+    if (!cards.length) {
+      console.log('Cards not found');
+      return;
+    }
     // TODO: get descriptions for description diffs?
     const promises = cards.map((card) => {
       card.description = (lang[`card-${card.id}`] || '').trim();
@@ -41,7 +39,7 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           throw new Error('Not writable'); // Shouldn't ever happen, really.
         }
         return false;
-      }).then((old) => {
+      }).then(({card: old} = {}) => {
         const diffs = [];
         if (old) {
           Object.keys(card).forEach((key) => {
@@ -68,6 +66,8 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
 
     return Promise.all(promises).then((data) => {
       const diffs = data.reduce((cur, {card, diffs}) => (cur[card.id] = diffs, cur), {});
+      const count = data.reduce((cur, {diffs}) => cur + diffs.length, 0);
+      console.log(count, 'changes.');
       return writeFile('latestDiffs.json', JSON.stringify(diffs, undefined, 2));
     });
   }).catch(console.error);

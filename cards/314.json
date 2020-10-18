@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Fan Rudinn",
     "image": "Fan_Rudinn",
+    "baseImage": "Fan_Rudinn",
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,48 +45,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Fan_Rudinn",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "hp": {
-        "now": 2,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 1
-      },
-      "ranged": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a monster +1/+2.",
-        "prev": "{{KW:RANGED}}. {{KW:MAGIC}}: Give an ally monster +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

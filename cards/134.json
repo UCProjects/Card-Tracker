@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Spider Web",
     "image": "Spider_Web",
+    "baseImage": "Spider_Web",
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,23 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 7,
-        "name": "PERSEVERANCE"
-      },
-      "target": "MONSTER",
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Spider_Web",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "PERSEVERANCE"
-    },
-    "changed": {
-      "description": {
-        "now": "Give a monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead.",
-        "prev": "{{KW:PARALYZE}} all enemy monsters under {{KR}}. Draw a card."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

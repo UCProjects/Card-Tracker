@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 461,
+    "fixedId": 461,
+    "typeCard": 1,
+    "name": "Instant Noodles",
+    "image": "Instant_Noodles",
+    "baseImage": "Instant_Noodles",
+    "cost": 4,
+    "rarity": "GENERATED",
+    "originalCost": 4,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Give a monster +4/+4."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

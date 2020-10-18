@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Expulsion",
     "image": "Expulsion",
+    "baseImage": "Expulsion",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,17 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Expulsion",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "INTEGRITY"
-    },
+    "removed": {},
     "changed": {}
   }
 }

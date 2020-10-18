@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Groom",
     "image": "Groom",
+    "baseImage": "Groom",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,16 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Groom",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining {{GOLD}} or less if no target.",
-        "prev": "{{KW:MAGIC}}: Draw a card from your deck with a {{COST}} equal to your remaining gold."
-      }
-    }
+    "changed": {}
   }
 }

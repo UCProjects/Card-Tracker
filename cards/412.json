@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Evil Blueprints",
     "image": "Evil_Blueprints",
+    "baseImage": "Evil_Blueprints",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -34,20 +36,24 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Look at 3 random monsters with a tribe costing <= {{GOLD:10}} and choose one. Add it to your hand with all tribes."
+    "description": "{{KW:MAGIC}}: Look at 3 random monsters with a {{COST}} <= 10 and choose one. Add it to your hand with all tribes."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Evil_Blueprints",
+      "playedTurn": 0
     },
-    "removed": {
-      "target": "RANGE"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random monsters with a {{COST}} <= 10 and choose one. Add it to your hand with all tribes.",
+        "prev": "{{KW:MAGIC}}: Look at 3 random monsters with a tribe costing <= {{GOLD:10}} and choose one. Add it to your hand with all tribes."
+      }
+    }
   }
 }

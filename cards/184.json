@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Soothing",
     "image": "Soothing",
+    "baseImage": "Soothing",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,17 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 5,
-        "name": "KINDNESS"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Soothing",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "KINDNESS"
-    },
+    "removed": {},
     "changed": {}
   }
 }

@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": true,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "School Tem",
     "image": "School_Tem",
+    "baseImage": "School_Tem",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "TEMMIE"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "School_Tem",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "TEMMIE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

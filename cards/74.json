@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Defrosting",
     "image": "Defrosting",
+    "baseImage": "Defrosting",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,17 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 6,
-        "name": "PATIENCE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Defrosting",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "PATIENCE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

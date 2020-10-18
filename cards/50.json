@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": true,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Temmie",
     "image": "Temmie",
+    "baseImage": "Temmie",
     "cost": 2,
     "rarity": "RARE",
     "originalCost": 2,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "TEMMIE"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Temmie",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "TEMMIE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

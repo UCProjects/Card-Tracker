@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Red Flower",
     "image": "Red_Flower",
+    "baseImage": "Red_Flower",
     "cost": 5,
     "rarity": "GENERATED",
     "originalCost": 5,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "PLANT"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Red_Flower",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "PLANT"
-    },
+    "removed": {},
     "changed": {}
   }
 }

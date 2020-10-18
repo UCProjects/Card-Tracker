@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Trader Temmie",
     "image": "Trader_Temmie",
+    "baseImage": "Trader_Temmie",
     "cost": 5,
     "rarity": "EPIC",
     "originalCost": 5,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "TEMMIE"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Trader_Temmie",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "TEMMIE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

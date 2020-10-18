@@ -1,22 +1,23 @@
 {
   "card": {
     "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 5,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
     "ranged": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "anotherChance": false,
     "candy": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "G Follower 2",
     "image": "G_Follower_2",
+    "baseImage": "G_Follower_2",
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
@@ -36,22 +38,40 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:FUTURE}} (3): Earn {{GOLD:3}}."
+    "description": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "G_FOLLOWER"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "G_Follower_2",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "G_FOLLOWER"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}.",
+        "prev": "{{KW:FUTURE}} (3): Earn {{GOLD:3}}."
+      }
+    }
   }
 }

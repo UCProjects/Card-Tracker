@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Reaper Bird",
     "image": "Reaper_Bird",
+    "baseImage": "Reaper_Bird",
     "cost": 5,
     "rarity": "COMMON",
     "originalCost": 5,
@@ -37,23 +39,24 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Draw a card. If it was an {{TRIBE:AMALGAMATE|1}} , give it +{{HP:2}} and {{KW:CANDY}}."
+    "description": "{{KW:MAGIC}}: Draw a card. If it's an {{TRIBE:AMALGAMATE|1}} or a {{TRIBE:FROGGIT|1}}, give it +2 {{HP}} and {{KW:CANDY}}."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "FROGGIT",
-        "AMALGAMATE"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Reaper_Bird",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "AMALGAMATE"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a card. If it's an {{TRIBE:AMALGAMATE|1}} or a {{TRIBE:FROGGIT|1}}, give it +2 {{HP}} and {{KW:CANDY}}.",
+        "prev": "{{KW:MAGIC}}: Draw a card. If it was an {{TRIBE:AMALGAMATE|1}} , give it +{{HP:2}} and {{KW:CANDY}}."
+      }
+    }
   }
 }

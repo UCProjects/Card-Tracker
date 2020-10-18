@@ -11,20 +11,22 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
     "ranged": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "anotherChance": false,
-    "candy": false,
+    "candy": true,
     "id": 380,
     "fixedId": 380,
     "typeCard": 0,
     "name": "K-Round",
     "image": "K-Round",
+    "baseImage": "K-Round",
     "cost": 5,
     "rarity": "GENERATED",
     "originalCost": 5,
@@ -34,18 +36,32 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:CANDY}}."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "K-Round",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "candy": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:CANDY}}.",
+        "prev": ""
+      }
+    }
   }
 }

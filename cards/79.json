@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Penetration",
     "image": "Penetration",
+    "baseImage": "Penetration",
     "cost": 2,
     "rarity": "RARE",
     "originalCost": 2,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,31 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 1,
-        "name": "BRAVERY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Penetration",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "BRAVERY",
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 1
-      },
-      "description": {
-        "now": "{{KW:SILENCE}} all enemy monsters.",
-        "prev": "{{KW:SILENCE}} an enemy {{KW:TAUNT}} monster. If used on a non {{KW:TAUNT}} monster, draw a card instead."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

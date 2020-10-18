@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Omega Flowey",
     "image": "Omega_Flowey",
+    "baseImage": "Omega_Flowey",
     "cost": 16,
     "rarity": "DETERMINATION",
     "originalCost": 16,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "PLANT"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Omega_Flowey",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "PLANT"
-    },
+    "removed": {},
     "changed": {}
   }
 }

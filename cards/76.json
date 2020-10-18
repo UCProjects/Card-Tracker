@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Strength",
     "image": "Strength",
+    "baseImage": "Strength",
     "cost": 2,
     "rarity": "BASE",
     "originalCost": 2,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,23 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 1,
-        "name": "BRAVERY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Strength",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "BRAVERY",
-      "target": "MONSTER"
-    },
-    "changed": {
-      "description": {
-        "now": "Give 2 random ally monsters +1/+1.",
-        "prev": "Give +{{ATK:2}} to a monster. If your opponent has more monsters on his board, give +{{ATK:3}} instead."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

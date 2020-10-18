@@ -10,6 +10,7 @@
     "typeCard": 1,
     "name": "Will to Fight",
     "image": "Will_to_Fight",
+    "baseImage": "Will_to_Fight",
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
@@ -20,6 +21,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -27,18 +29,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "lives": 1,
-        "id": 2,
-        "name": "DETERMINATION"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Will_to_Fight",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "DETERMINATION"
-    },
+    "removed": {},
     "changed": {}
   }
 }

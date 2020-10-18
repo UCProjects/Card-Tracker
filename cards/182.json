@@ -9,33 +9,41 @@
     "typeCard": 1,
     "name": "Brain Freeze",
     "image": "Brain_Freeze",
-    "cost": 8,
+    "baseImage": "Brain_Freeze",
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 8,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Both players skip their next turn."
+    "description": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 6,
-        "name": "PATIENCE"
+      "baseImage": "Brain_Freeze",
+      "playedTurn": 0
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 8
       },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
-    },
-    "removed": {
-      "classe": "PATIENCE"
-    },
-    "changed": {}
+      "originalCost": {
+        "now": 6,
+        "prev": 8
+      },
+      "description": {
+        "now": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn.",
+        "prev": "Both players skip their next turn."
+      }
+    }
   }
 }

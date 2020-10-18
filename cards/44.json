@@ -1,16 +1,17 @@
 {
   "card": {
     "attack": 5,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 8,
+    "maxHp": 8,
     "originalAttack": 5,
-    "originalHp": 7,
+    "originalHp": 8,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": true,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Gyftrot",
     "image": "Gyftrot",
+    "baseImage": "Gyftrot",
     "cost": 8,
     "rarity": "RARE",
     "originalCost": 8,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,11 +44,24 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Gyftrot",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 8,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

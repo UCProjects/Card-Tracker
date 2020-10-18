@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Ralsei",
     "image": "Ralsei",
+    "baseImage": "Ralsei",
     "cost": 7,
     "rarity": "LEGENDARY",
     "originalCost": 7,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,9 +44,9 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Ralsei",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {}

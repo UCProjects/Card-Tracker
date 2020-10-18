@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Ice Replica",
     "image": "Ice_Replica",
+    "baseImage": "Ice_Replica",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,26 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 6,
-        "name": "PATIENCE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Ice_Replica",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "PATIENCE"
-    },
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

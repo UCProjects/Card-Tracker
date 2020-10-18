@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Royal Guard 3",
     "image": "Royal_Guard_3",
+    "baseImage": "Royal_Guard_3",
     "cost": 9,
     "rarity": "COMMON",
     "originalCost": 9,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "ROYAL_GUARD"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Royal_Guard_3",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "ROYAL_GUARD"
-    },
+    "removed": {},
     "changed": {}
   }
 }

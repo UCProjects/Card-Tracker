@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": true,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Garbage",
     "image": "Garbage",
+    "baseImage": "Garbage",
     "cost": 6,
     "rarity": "RARE",
     "originalCost": 6,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,16 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Garbage",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand.",
-        "prev": "{{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand."
-      }
-    }
+    "changed": {}
   }
 }

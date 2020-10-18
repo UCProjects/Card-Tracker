@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Recruitment",
     "image": "Recruitment",
+    "baseImage": "Recruitment",
     "cost": 0,
     "rarity": "GENERATED",
     "originalCost": 0,
@@ -18,16 +19,23 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Look at 3 random monsters with a {{COST}} of 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
+    "description": "Look at 5 random monsters costing 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
   },
   "diffs": {
     "added": {
-      "new": true
+      "baseImage": "Recruitment",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 5 random monsters costing 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}.",
+        "prev": "Look at 3 random monsters with a {{COST}} of 4 or 5 (<= {{RARITY:EPIC}}) and choose one. Add it to your hand with +1 {{HP}}."
+      }
+    }
   }
 }

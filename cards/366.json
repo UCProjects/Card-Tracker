@@ -5,15 +5,17 @@
     "typeCard": 1,
     "name": "Little Mine",
     "image": "Little_Mine",
-    "cost": 1,
+    "baseImage": "Little_Mine",
+    "cost": 0,
     "rarity": "GENERATED",
-    "originalCost": 1,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -21,11 +23,19 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Little_Mine",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

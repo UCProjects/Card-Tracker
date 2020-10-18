@@ -10,6 +10,7 @@
     "typeCard": 1,
     "name": "Another Chance",
     "image": "Another_Chance",
+    "baseImage": "Another_Chance",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -20,6 +21,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -27,18 +29,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "lives": 1,
-        "id": 2,
-        "name": "DETERMINATION"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Another_Chance",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "DETERMINATION"
-    },
+    "removed": {},
     "changed": {}
   }
 }

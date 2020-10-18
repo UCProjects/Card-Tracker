@@ -5,15 +5,17 @@
     "typeCard": 1,
     "name": "Big Mine",
     "image": "Big_Mine",
-    "cost": 6,
+    "baseImage": "Big_Mine",
+    "cost": 0,
     "rarity": "GENERATED",
-    "originalCost": 6,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -21,15 +23,18 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Big_Mine",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card.",
-        "prev": "{{KW:TURBO}}: Deal 5 {{DMG}} to you, 2 {{DMG}} to 2 random ally monsters and draw a card."
+      "cost": {
+        "now": 0,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 6
       }
     }
   }

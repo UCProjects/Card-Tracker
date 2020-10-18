@@ -1,16 +1,17 @@
 {
   "card": {
-    "attack": 0,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 0,
-    "originalHp": 7,
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,9 +26,10 @@
     "typeCard": 0,
     "name": "Golden Flowers",
     "image": "Golden_Flowers",
-    "cost": 4,
+    "baseImage": "Golden_Flowers",
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,22 +38,52 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURN_END}}: Put in your hand all allied monsters that died during your turn."
+    "description": "{{KW:MAGIC}}: Look at 2 random different spells costing <=10 {{GOLD}} that you've cast this game. Choose one to add to your hand."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "PLANT"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Golden_Flowers",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "PLANT"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 0
+      },
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 0
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 2 random different spells costing <=10 {{GOLD}} that you've cast this game. Choose one to add to your hand.",
+        "prev": "{{KW:TURN_END}}: Put in your hand all allied monsters that died during your turn."
+      }
+    }
   }
 }

@@ -9,33 +9,41 @@
     "typeCard": 1,
     "name": "Contamination",
     "image": "Contamination",
-    "cost": 10,
+    "baseImage": "Contamination",
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
+    "description": "Kill all monsters under {{KR}}."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 7,
-        "name": "PERSEVERANCE"
+      "baseImage": "Contamination",
+      "playedTurn": 0
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 10
       },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
-    },
-    "removed": {
-      "classe": "PERSEVERANCE"
-    },
-    "changed": {}
+      "originalCost": {
+        "now": 8,
+        "prev": 10
+      },
+      "description": {
+        "now": "Kill all monsters under {{KR}}.",
+        "prev": "Kill all monsters under {{KR}}. Add another random spell of your soul to your hand."
+      }
+    }
   }
 }

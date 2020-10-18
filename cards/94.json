@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Feast",
     "image": "Feast",
+    "baseImage": "Feast",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -18,24 +19,23 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Give +{{HP:3}} to your monsters. If they have {{HP:3}} or lower, give +{{HP:4}} instead."
+    "description": "Give +2 {{HP}} to your monsters. If they have <= 3 {{HP}}, give them an extra +1/+1."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 5,
-        "name": "KINDNESS"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Feast",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "KINDNESS"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "Give +2 {{HP}} to your monsters. If they have <= 3 {{HP}}, give them an extra +1/+1.",
+        "prev": "Give +{{HP:3}} to your monsters. If they have {{HP:3}} or lower, give +{{HP:4}} instead."
+      }
+    }
   }
 }

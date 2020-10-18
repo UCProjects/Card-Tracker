@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Clover Head",
     "image": "Clover_Head",
+    "baseImage": "Clover_Head",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,9 +45,9 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Clover_Head",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {}

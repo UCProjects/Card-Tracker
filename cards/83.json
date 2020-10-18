@@ -9,33 +9,41 @@
     "typeCard": 1,
     "name": "Shopping",
     "image": "Shopping",
-    "cost": 0,
+    "baseImage": "Shopping",
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 0,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Spend all of your {{GOLD}}. Summon a copy of a monster from your deck costing your {{GOLD}} or less if no target."
+    "description": "Draw cards until their {{COST}} is 10 or higher (up to 7 cards in hand)"
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
+      "baseImage": "Shopping",
+      "playedTurn": 0
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 0
       },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
-    },
-    "removed": {
-      "classe": "INTEGRITY"
-    },
-    "changed": {}
+      "originalCost": {
+        "now": 4,
+        "prev": 0
+      },
+      "description": {
+        "now": "Draw cards until their {{COST}} is 10 or higher (up to 7 cards in hand)",
+        "prev": "Spend all of your {{GOLD}}. Summon a copy of a monster from your deck costing your {{GOLD}} or less if no target."
+      }
+    }
   }
 }

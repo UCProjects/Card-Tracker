@@ -10,6 +10,7 @@
     "typeCard": 1,
     "name": "Resurrection",
     "image": "Resurrection",
+    "baseImage": "Resurrection",
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,18 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "lives": 1,
-        "id": 2,
-        "name": "DETERMINATION"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Resurrection",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "DETERMINATION"
-    },
+    "removed": {},
     "changed": {}
   }
 }

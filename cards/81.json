@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Fortune",
     "image": "Fortune",
+    "baseImage": "Fortune",
     "cost": 6,
     "rarity": "BASE",
     "originalCost": 6,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,17 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Fortune",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "INTEGRITY"
-    },
+    "removed": {},
     "changed": {}
   }
 }

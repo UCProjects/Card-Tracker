@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Protection",
     "image": "Protection",
+    "baseImage": "Protection",
     "cost": 1,
     "rarity": "BASE",
     "originalCost": 1,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,26 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 6,
-        "name": "PATIENCE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Protection",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "PATIENCE"
-    },
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 0
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

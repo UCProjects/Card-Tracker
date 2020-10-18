@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Angel of Death",
     "image": "Angel_of_Death",
+    "baseImage": "Angel_of_Death",
     "cost": 17,
     "rarity": "DETERMINATION",
     "originalCost": 17,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,20 +45,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Angel_of_Death",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 17,
-        "prev": 20
-      },
-      "originalCost": {
-        "now": 17,
-        "prev": 20
-      }
-    }
+    "changed": {}
   }
 }

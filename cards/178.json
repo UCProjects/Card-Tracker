@@ -9,9 +9,10 @@
     "typeCard": 1,
     "name": "Overheat",
     "image": "Overheat",
-    "cost": 5,
+    "baseImage": "Overheat",
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,38 +28,18 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 1,
-        "name": "BRAVERY"
-      },
-      "target": "ALLY_MONSTER",
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Overheat",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "BRAVERY"
-    },
+    "removed": {},
     "changed": {
-      "name": {
-        "now": "Overheat",
-        "prev": "Acceleration"
-      },
-      "image": {
-        "now": "Overheat",
-        "prev": "Acceleration"
-      },
       "cost": {
-        "now": 5,
-        "prev": 3
+        "now": 4,
+        "prev": 5
       },
       "originalCost": {
-        "now": 5,
-        "prev": 3
-      },
-      "description": {
-        "now": "Kill an ally monster. Deal its {{ATK}} as {{DMG}} to all enemy monsters.",
-        "prev": "Shuffle your hand into your deck. Draw 4 cards. They cost 1 less."
+        "now": 4,
+        "prev": 5
       }
     }
   }

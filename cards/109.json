@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Everyman",
     "image": "Everyman",
+    "baseImage": "Everyman",
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
@@ -37,6 +39,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -44,29 +47,11 @@
   },
   "diffs": {
     "added": {
-      "target": "ALLY_MONSTER",
-      "tribes": [
-        "AMALGAMATE"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Everyman",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "AMALGAMATE"
-    },
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand.",
-        "prev": "Can't be damaged during your turn. {{KW:MAGIC}}: Give +1/+1 to another random ally {{TRIBE:AMALGAMATE|1}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

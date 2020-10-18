@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,31 +26,41 @@
     "typeCard": 0,
     "name": "Lancer Painting",
     "image": "Lancer_Painting",
-    "cost": 2,
+    "baseImage": "Lancer_Painting",
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Add a {{CARD:309|1}} to your hand."
+    "description": "{{KW:DUST}}: Add a {{CARD:371|1}} to your hand."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Lancer_Painting",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
       "description": {
-        "now": "{{KW:DUST}}: Add a {{CARD:309|1}} to your hand.",
-        "prev": "{{KW:DUST}}: Add a {{CARD:309|1}} in your hand."
+        "now": "{{KW:DUST}}: Add a {{CARD:371|1}} to your hand.",
+        "prev": "{{KW:DUST}}: Add a {{CARD:309|1}} to your hand."
       }
     }
   }

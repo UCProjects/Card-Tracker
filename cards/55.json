@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,27 +26,42 @@
     "typeCard": 0,
     "name": "Muffet",
     "image": "Muffet",
+    "baseImage": "Muffet",
     "cost": 9,
     "rarity": "LEGENDARY",
     "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "ARACHNID"
+    ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:HASTE}}. Whenever a {{CARD:115|1}} or a {{CARD:103|1}} is summoned, gain +2/+1. {{KW:MAGIC}}: Put 3 {{CARD:115|3}} in both decks."
+    "description": "{{KW:HASTE}}. Whenever you play an {{TRIBE:ARACHNID|1}}, gain +2/+1. {{KW:MAGIC}}: Shuffle 3 {{CARD:115|3}} into both players decks."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Muffet",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "ARACHNID"
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever you play an {{TRIBE:ARACHNID|1}}, gain +2/+1. {{KW:MAGIC}}: Shuffle 3 {{CARD:115|3}} into both players decks.",
+        "prev": "{{KW:HASTE}}. Whenever a {{CARD:115|1}} or a {{CARD:103|1}} is summoned, gain +2/+1. {{KW:MAGIC}}: Put 3 {{CARD:115|3}} in both decks."
+      }
+    }
   }
 }

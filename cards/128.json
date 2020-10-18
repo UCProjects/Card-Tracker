@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Froggit Trio",
     "image": "Froggit_Trio",
+    "baseImage": "Froggit_Trio",
     "cost": 2,
     "rarity": "COMMON",
     "originalCost": 2,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,30 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 1,
-        "name": "BRAVERY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Froggit_Trio",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "BRAVERY"
-    },
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand.",
-        "prev": "If your opponent has more monsters on his board than you, summon 3 {{CARD:2|3}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

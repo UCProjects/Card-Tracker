@@ -1,0 +1,35 @@
+{
+  "card": {
+    "soul": {
+      "id": 6,
+      "name": "PATIENCE"
+    },
+    "id": 457,
+    "fixedId": 457,
+    "typeCard": 1,
+    "name": "Exploration",
+    "image": "Exploration",
+    "baseImage": "Exploration",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Look at your deck and choose a card to draw. If it's <= {{RARITY:EPIC}}, reduce its {{COST}} by 1."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

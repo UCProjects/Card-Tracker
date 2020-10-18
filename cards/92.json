@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Force of Nature",
     "image": "Force_of_Nature",
+    "baseImage": "Force_of_Nature",
     "cost": 1,
     "rarity": "BASE",
     "originalCost": 1,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,17 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 5,
-        "name": "KINDNESS"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Force_of_Nature",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "KINDNESS"
-    },
+    "removed": {},
     "changed": {}
   }
 }

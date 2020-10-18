@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 3,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 4,
+    "originalAttack": 3,
     "originalHp": 6,
     "dodge": 0,
     "thorns": 0,
@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Smolder Cake",
     "image": "Smolder_Cake",
+    "baseImage": "Smolder_Cake",
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,38 +44,18 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Smolder_Cake",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {
       "attack": {
-        "now": 4,
-        "prev": 2
-      },
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "cost": {
-        "now": 6,
+        "now": 3,
         "prev": 4
       },
-      "originalCost": {
-        "now": 6,
+      "originalAttack": {
+        "now": 3,
         "prev": 4
       }
     }

@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Annoying Dog",
     "image": "Annoying_Dog",
+    "baseImage": "Annoying_Dog",
     "cost": 2,
     "rarity": "RARE",
     "originalCost": 2,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,15 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "DOG"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Annoying_Dog",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "DOG"
-    },
+    "removed": {},
     "changed": {}
   }
 }

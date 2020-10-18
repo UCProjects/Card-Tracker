@@ -1,16 +1,17 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 4,
-    "originalHp": 3,
+    "attack": 5,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 5,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Business Dude",
     "image": "Business_Dude",
+    "baseImage": "Business_Dude",
     "cost": 6,
     "rarity": "RARE",
     "originalCost": 6,
@@ -34,18 +36,44 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Summon a 1/1 copy of a monster from your deck."
+    "description": "{{KW:MAGIC}}: Summon a 1/1 copy of a random other non-DT monster from your deck."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Business_Dude",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a 1/1 copy of a random other non-DT monster from your deck.",
+        "prev": "{{KW:MAGIC}}: Summon a 1/1 copy of a monster from your deck."
+      }
+    }
   }
 }

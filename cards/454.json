@@ -1,0 +1,35 @@
+{
+  "card": {
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
+    "id": 454,
+    "fixedId": 454,
+    "typeCard": 1,
+    "name": "Acceleration",
+    "image": "Acceleration",
+    "baseImage": "Acceleration",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Choose a card from your hand. Burn it and draw 3 cards."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Octofriend",
     "image": "Octofriend",
+    "baseImage": "Octofriend",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,22 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 5,
-        "name": "KINDNESS"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Octofriend",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "KINDNESS"
-    },
-    "changed": {
-      "description": {
-        "now": "Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right.",
-        "prev": "{{KW:MAGIC}}: Give +1/+1 to an ally monster. Summon a {{CARD:353|1}} on its left and a {{CARD:354|1}} on its right."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

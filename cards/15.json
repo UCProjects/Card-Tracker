@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Aaron",
     "image": "Aaron",
+    "baseImage": "Aaron",
     "cost": 5,
     "rarity": "BASE",
     "originalCost": 5,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,20 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Aaron",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "thorns": {
-        "now": 1,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:THORNS}} (1).",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

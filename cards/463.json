@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 463,
+    "fixedId": 463,
+    "typeCard": 1,
+    "name": "Trick Question",
+    "image": "Trick_Question",
+    "baseImage": "Trick_Question",
+    "cost": 5,
+    "rarity": "GENERATED",
+    "originalCost": 5,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Deal 5 {{DMG}} to a monster."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,16 +1,17 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 6,
-    "originalHp": 6,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,9 +26,10 @@
     "typeCard": 0,
     "name": "Shambling Mass",
     "image": "Shambling_Mass",
-    "cost": 7,
+    "baseImage": "Shambling_Mass",
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 5,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,11 +45,40 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Shambling_Mass",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 6
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 5,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 7
+      }
+    }
   }
 }

@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Overgrowth",
     "image": "Overgrowth",
+    "baseImage": "Overgrowth",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,31 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 1,
-        "name": "BRAVERY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Overgrowth",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "BRAVERY",
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "name": {
-        "now": "Overgrowth",
-        "prev": "Rage"
-      },
-      "image": {
-        "now": "Overgrowth",
-        "prev": "Rage"
-      },
-      "description": {
-        "now": "Give all monsters in your hand and board that didn't start in your deck +1/+2.",
-        "prev": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

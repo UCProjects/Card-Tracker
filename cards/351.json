@@ -5,6 +5,7 @@
     "typeCard": 1,
     "name": "Gaster Blaster",
     "image": "Gaster_Blaster",
+    "baseImage": "Gaster_Blaster",
     "cost": 6,
     "rarity": "GENERATED",
     "originalCost": 6,
@@ -15,6 +16,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -22,20 +24,10 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Gaster_Blaster",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Gaster Blaster",
-        "prev": "G. Blaster"
-      },
-      "image": {
-        "now": "Gaster_Blaster",
-        "prev": "G._Blaster"
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,0 +1,52 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 3,
+    "originalHp": 2,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 469,
+    "fixedId": 469,
+    "typeCard": 0,
+    "name": "Blockler B",
+    "image": "Blockler_B",
+    "baseImage": "Blockler_B",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Summon {{CARD:470|1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

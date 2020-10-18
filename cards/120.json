@@ -1,16 +1,17 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,9 +26,10 @@
     "typeCard": 0,
     "name": "G Follower 3",
     "image": "G_Follower_3",
-    "cost": 8,
+    "baseImage": "G_Follower_3",
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 8,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,22 +38,52 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:FUTURE}} (4): Kill a random enemy monster."
+    "description": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "G_FOLLOWER"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "G_Follower_3",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "G_FOLLOWER"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 5
+      },
+      "hp": {
+        "now": 2,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 6
+      },
+      "cost": {
+        "now": 2,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 8
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 2 other random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand with -1 {{COST}}. {{KW:SYNERGY}}: Add both instead.",
+        "prev": "{{KW:FUTURE}} (4): Kill a random enemy monster."
+      }
+    }
   }
 }

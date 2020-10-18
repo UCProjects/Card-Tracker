@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Undyne's Spears",
     "image": "Undynes_Spears",
+    "baseImage": "Undynes_Spears",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,22 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 4,
-        "name": "JUSTICE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Undynes_Spears",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "JUSTICE"
-    },
-    "changed": {
-      "image": {
-        "now": "Undynes_Spears",
-        "prev": "Undyne's_Spears"
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

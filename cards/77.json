@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Assault",
     "image": "Assault",
+    "baseImage": "Assault",
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
@@ -19,29 +20,22 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}."
+    "description": "If your opponent has equal or more monsters than you, give an ally monster +1 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 1,
-        "name": "BRAVERY"
-      },
-      "target": "ALLY_MONSTER",
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Assault",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "BRAVERY"
-    },
+    "removed": {},
     "changed": {
       "description": {
-        "now": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}.",
-        "prev": "Add 3 random monsters costing 3 to your deck with +1/+1. Draw a card."
+        "now": "If your opponent has equal or more monsters than you, give an ally monster +1 {{ATK}} and {{KW:HASTE}}.",
+        "prev": "If your opponent has as much or more monsters than you on the board, give a monster {{KW:HASTE}}."
       }
     }
   }

@@ -5,6 +5,7 @@
     "typeCard": 1,
     "name": "Scope",
     "image": "Scope",
+    "baseImage": "Scope",
     "cost": 0,
     "rarity": "GENERATED",
     "originalCost": 0,
@@ -14,6 +15,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -21,13 +23,10 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Scope",
+      "playedTurn": 0
     },
-    "removed": {
-      "target": "RANGE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

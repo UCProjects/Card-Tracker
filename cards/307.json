@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Bloody Tree",
     "image": "Bloody_Tree",
+    "baseImage": "Bloody_Tree",
     "cost": 2,
     "rarity": "COMMON",
     "originalCost": 2,
@@ -37,6 +39,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -44,15 +47,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "PLANT"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Bloody_Tree",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "PLANT"
-    },
+    "removed": {},
     "changed": {}
   }
 }

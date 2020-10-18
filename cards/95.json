@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Test of Will",
     "image": "Test_of_Will",
+    "baseImage": "Test_of_Will",
     "cost": 8,
     "rarity": "EPIC",
     "originalCost": 8,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,17 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 5,
-        "name": "KINDNESS"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Test_of_Will",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "KINDNESS"
-    },
+    "removed": {},
     "changed": {}
   }
 }

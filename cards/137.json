@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Big Bob",
     "image": "Big_Bob",
+    "baseImage": "Big_Bob",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
@@ -34,18 +36,24 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Summon another {{CARD:137|1}} if this monster is still alive after being damaged (keep {{ATK}} buffs)."
+    "description": "Whenever this takes damage and survives, summon a {{CARD:137|1}}."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Big_Bob",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever this takes damage and survives, summon a {{CARD:137|1}}.",
+        "prev": "Summon another {{CARD:137|1}} if this monster is still alive after being damaged (keep {{ATK}} buffs)."
+      }
+    }
   }
 }

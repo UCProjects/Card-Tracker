@@ -10,6 +10,7 @@
     "typeCard": 1,
     "name": "Hyper Goner",
     "image": "Hyper_Goner",
+    "baseImage": "Hyper_Goner",
     "cost": 38,
     "rarity": "EPIC",
     "originalCost": 38,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,23 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "lives": 1,
-        "id": 2,
-        "name": "DETERMINATION"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Hyper_Goner",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "DETERMINATION"
-    },
-    "changed": {
-      "description": {
-        "now": "Kill all monsters. Reduce its {{COST}} by your missing {{HP}} (max: 30).",
-        "prev": "Kill all monsters. {{KW:TURN_START}}:  Reduce its {{COST}} by your missing {{HP}} (min: 8)."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

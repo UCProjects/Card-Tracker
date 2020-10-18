@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Red Bush",
     "image": "Red_Bush",
+    "baseImage": "Red_Bush",
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
@@ -36,38 +38,23 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TRANSPARENCY}}. Your other monsters have +1 {{ATK}}."
+    "description": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "PLANT"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Red_Bush",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "PLANT"
-    },
+    "removed": {},
     "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 2
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
       "description": {
-        "now": "{{KW:TRANSPARENCY}}. Your other monsters have +1 {{ATK}}.",
-        "prev": "{{KW:MAGIC}}: Give {{KW:TRANSPARENCY}} to adjacent monsters costing 2 or less."
+        "now": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}.",
+        "prev": "{{KW:TRANSPARENCY}}. Your other monsters have +1 {{ATK}}."
       }
     }
   }

@@ -1,22 +1,23 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 8,
-    "maxHp": 8,
-    "originalAttack": 1,
-    "originalHp": 8,
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
     "ranged": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "anotherChance": false,
     "candy": false,
@@ -25,27 +26,70 @@
     "typeCard": 0,
     "name": "Gaster",
     "image": "Gaster",
-    "cost": 4,
-    "rarity": "EPIC",
-    "originalCost": 4,
+    "baseImage": "Gaster",
+    "cost": 14,
+    "rarity": "LEGENDARY",
+    "originalCost": 14,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TURN_END}}: Add a {{CARD:351|1}} to your deck."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Gaster",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 1
+      },
+      "hp": {
+        "now": 7,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 14,
+        "prev": 4
+      },
+      "rarity": {
+        "now": "LEGENDARY",
+        "prev": "EPIC"
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game.",
+        "prev": "{{KW:TURN_END}}: Add a {{CARD:351|1}} to your deck."
+      }
+    }
   }
 }

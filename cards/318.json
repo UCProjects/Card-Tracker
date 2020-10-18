@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Father Alvin",
     "image": "Father_Alvin",
+    "baseImage": "Father_Alvin",
     "cost": 7,
     "rarity": "EPIC",
     "originalCost": 7,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,28 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Father_Alvin",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random different non-dt monsters in your dustpile. Send one to your hand.",
-        "prev": "{{KW:MAGIC}}: Remove 2 random other monsters from your Dustpile and add them to your hand."
-      }
-    }
+    "changed": {}
   }
 }

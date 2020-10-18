@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Golden Hit",
     "image": "Golden_Hit",
+    "baseImage": "Golden_Hit",
     "cost": 0,
     "rarity": "RARE",
     "originalCost": 0,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,17 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Golden_Hit",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "INTEGRITY"
-    },
+    "removed": {},
     "changed": {}
   }
 }

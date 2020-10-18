@@ -7,36 +7,53 @@
     "id": 258,
     "fixedId": 258,
     "typeCard": 1,
-    "name": "Fast Sanction",
-    "image": "Fast_Sanction",
-    "cost": 4,
+    "name": "Blitz Quiz",
+    "image": "Blitz_Quiz",
+    "baseImage": "Blitz_Quiz",
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
-    "target": "MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Deal 2-{{DMG:5}} to a monster. If result was 3 or lower, send back this card to your hand."
+    "description": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 4,
-        "name": "JUSTICE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Blitz_Quiz",
+      "playedTurn": 0
     },
     "removed": {
-      "classe": "JUSTICE"
+      "target": "MONSTER"
     },
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Blitz Quiz",
+        "prev": "Fast Sanction"
+      },
+      "image": {
+        "now": "Blitz_Quiz",
+        "prev": "Fast_Sanction"
+      },
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Add {{CARD:463|1}} and {{CARD:464|1}} to your hand.",
+        "prev": "Deal 2-{{DMG:5}} to a monster. If result was 3 or lower, send back this card to your hand."
+      }
+    }
   }
 }

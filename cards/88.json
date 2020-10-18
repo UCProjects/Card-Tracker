@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Termination",
     "image": "Termination",
+    "baseImage": "Termination",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -19,24 +20,23 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Kill a monster under {{KR}}."
+    "description": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 7,
-        "name": "PERSEVERANCE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Termination",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "PERSEVERANCE"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead.",
+        "prev": "Kill a monster under {{KR}}."
+      }
+    }
   }
 }

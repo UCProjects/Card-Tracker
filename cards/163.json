@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": true,
     "charge": false,
     "taunt": true,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "MTT Fountain",
     "image": "MTT_Fountain",
+    "baseImage": "MTT_Fountain",
     "cost": 5,
     "rarity": "COMMON",
     "originalCost": 5,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,9 +44,9 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "MTT_Fountain",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {}

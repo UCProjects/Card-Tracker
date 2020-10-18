@@ -9,34 +9,43 @@
     "typeCard": 1,
     "name": "Cloning",
     "image": "Cloning",
-    "cost": 3,
+    "baseImage": "Cloning",
+    "cost": 1,
     "rarity": "EPIC",
-    "originalCost": 3,
-    "target": "ALLY_MONSTER",
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Add an exact copy of an allied monster to your hand."
+    "description": "Choose a monster from your hand. Add an exact copy of it to your hand."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Cloning",
+      "playedTurn": 0
     },
     "removed": {
-      "classe": "INTEGRITY"
+      "target": "ALLY_MONSTER"
     },
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 3
+      },
+      "description": {
+        "now": "Choose a monster from your hand. Add an exact copy of it to your hand.",
+        "prev": "Add an exact copy of an allied monster to your hand."
+      }
+    }
   }
 }

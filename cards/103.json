@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,15 +26,19 @@
     "typeCard": 0,
     "name": "Muffet's Pet",
     "image": "Muffets_Pet",
+    "baseImage": "Muffets_Pet",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "ARACHNID"
+    ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,15 +46,17 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Muffets_Pet",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {
-      "image": {
-        "now": "Muffets_Pet",
-        "prev": "Muffet's_Pet"
+      "tribes": {
+        "now": [
+          "ARACHNID"
+        ],
+        "prev": []
       }
     }
   }

@@ -5,6 +5,7 @@
     "typeCard": 1,
     "name": "Devilsknife",
     "image": "Devilsknife",
+    "baseImage": "Devilsknife",
     "cost": 0,
     "rarity": "GENERATED",
     "originalCost": 0,
@@ -16,6 +17,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -23,15 +25,10 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "CHAOS_WEAPON"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Devilsknife",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "CHAOS_WEAPON"
-    },
+    "removed": {},
     "changed": {}
   }
 }

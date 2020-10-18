@@ -9,33 +9,41 @@
     "typeCard": 1,
     "name": "Pollutant Gas",
     "image": "Pollutant_Gas",
-    "cost": 4,
+    "baseImage": "Pollutant_Gas",
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "Deal {{DMG:1}} to all enemy monsters. If under {{KR}}, deal {{DMG:3}} instead."
+    "description": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}."
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 7,
-        "name": "PERSEVERANCE"
+      "baseImage": "Pollutant_Gas",
+      "playedTurn": 0
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
       },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
-    },
-    "removed": {
-      "classe": "PERSEVERANCE"
-    },
-    "changed": {}
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}.",
+        "prev": "Deal {{DMG:1}} to all enemy monsters. If under {{KR}}, deal {{DMG:3}} instead."
+      }
+    }
   }
 }

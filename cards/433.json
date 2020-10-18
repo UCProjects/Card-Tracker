@@ -11,12 +11,13 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
     "ranged": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "anotherChance": false,
     "candy": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Butterflies",
     "image": "Butterflies",
+    "baseImage": "Butterflies",
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
@@ -34,18 +36,28 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:DUST}}: Add a random <= {{GOLD:3}} spell to your hand."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a random <= 3 {{GOLD}} spell to your hand."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Butterflies",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a random <= 3 {{GOLD}} spell to your hand.",
+        "prev": "{{KW:DUST}}: Add a random <= {{GOLD:3}} spell to your hand."
+      }
+    }
   }
 }

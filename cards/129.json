@@ -10,9 +10,10 @@
     "typeCard": 1,
     "name": "Knife",
     "image": "Knife",
-    "cost": 3,
+    "baseImage": "Knife",
+    "cost": 4,
     "rarity": "BASE",
-    "originalCost": 3,
+    "originalCost": 4,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -20,6 +21,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -27,18 +29,19 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "lives": 1,
-        "id": 2,
-        "name": "DETERMINATION"
+      "baseImage": "Knife",
+      "playedTurn": 0
+    },
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
       },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
-    },
-    "removed": {
-      "classe": "DETERMINATION"
-    },
-    "changed": {}
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

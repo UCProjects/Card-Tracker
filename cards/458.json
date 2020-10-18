@@ -1,0 +1,35 @@
+{
+  "card": {
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
+    "id": 458,
+    "fixedId": 458,
+    "typeCard": 1,
+    "name": "Cooking Practice",
+    "image": "Cooking_Practice",
+    "baseImage": "Cooking_Practice",
+    "cost": 0,
+    "rarity": "COMMON",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Spend all your {{GOLD}}. Summon a {{CARD:459|1}} and give it +1/+1/+1 for each {{GOLD}} spent."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

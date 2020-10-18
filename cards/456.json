@@ -1,0 +1,35 @@
+{
+  "card": {
+    "soul": {
+      "id": 5,
+      "name": "KINDNESS"
+    },
+    "id": 456,
+    "fixedId": 456,
+    "typeCard": 1,
+    "name": "Campfire",
+    "image": "Campfire",
+    "baseImage": "Campfire",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Restore 1 {{HP}} to ally monsters. Give 3 random monsters in your hand +1/+1."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

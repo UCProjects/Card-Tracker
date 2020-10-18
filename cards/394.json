@@ -1,19 +1,20 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 2,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "ranged": false,
     "invulnerable": false,
     "haste": false,
@@ -25,31 +26,73 @@
     "typeCard": 0,
     "name": "Mister Elegance",
     "image": "Mister_Elegance",
-    "cost": 4,
+    "baseImage": "Mister_Elegance",
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "CHESS_FIGURE"
+    ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn."
+    "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Mister_Elegance",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      },
+      "tribes": {
+        "now": [
+          "CHESS_FIGURE"
+        ],
+        "prev": []
+      },
       "description": {
-        "now": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn.",
-        "prev": "{{KW:TAUNT}}. {{KW:TURN_START}}: Gain -{{ATK:2}}. {{KW:TURN_END}}: Gain +{{ATK:2}}."
+        "now": "{{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}, +1 {{KW:THORNS}} and +1 {{ATK}}. If played on the right, gain +1 {{KW:ARMOR}}.",
+        "prev": "{{KW:TAUNT}}. Has +2 {{ATK}} during opponent's turn."
       }
     }
   }

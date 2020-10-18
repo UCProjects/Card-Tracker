@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,9 +26,10 @@
     "typeCard": 0,
     "name": "Hot Dog Vulkin",
     "image": "Hot_Dog_Vulkin",
-    "cost": 7,
+    "baseImage": "Hot_Dog_Vulkin",
+    "cost": 8,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 8,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,11 +45,20 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Hot_Dog_Vulkin",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

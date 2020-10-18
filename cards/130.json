@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Investment",
     "image": "Investment",
+    "baseImage": "Investment",
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
@@ -18,6 +19,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -25,18 +27,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Investment",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "INTEGRITY",
-      "target": "RANGE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Scarf Mouse",
     "image": "Scarf_Mouse",
+    "baseImage": "Scarf_Mouse",
     "cost": 3,
     "rarity": "BASE",
     "originalCost": 3,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,20 +45,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Scarf_Mouse",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ENEMY_MONSTER",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster.",
-        "prev": "{{KW:MAGIC}}: Silence a monster."
-      }
-    }
+    "changed": {}
   }
 }

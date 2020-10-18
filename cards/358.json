@@ -5,6 +5,7 @@
     "typeCard": 1,
     "name": "Load",
     "image": "Load",
+    "baseImage": "Load",
     "cost": 17,
     "rarity": "GENERATED",
     "originalCost": 17,
@@ -14,6 +15,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -21,9 +23,8 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Load",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {}

@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Knight Knight",
     "image": "Knight_Knight",
+    "baseImage": "Knight_Knight",
     "cost": 9,
     "rarity": "COMMON",
     "originalCost": 9,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,28 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Knight_Knight",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 9,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 8
-      },
-      "description": {
-        "now": "After this attacks, heal itself by the amount of {{DMG}} dealt.",
-        "prev": "Whenever this attacks heal itself by its amount of {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

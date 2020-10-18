@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Sand Dog",
     "image": "Sand_Dog",
+    "baseImage": "Sand_Dog",
     "cost": 11,
     "rarity": "EPIC",
     "originalCost": 11,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,32 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "DOG"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Sand_Dog",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "DOG"
-    },
-    "changed": {
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 11,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 10
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a copy of this with -4/-7 and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon a 0/1 copy of this and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

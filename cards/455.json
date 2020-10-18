@@ -1,0 +1,35 @@
+{
+  "card": {
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
+    "id": 455,
+    "fixedId": 455,
+    "typeCard": 1,
+    "name": "Powerhouse",
+    "image": "Powerhouse",
+    "baseImage": "Powerhouse",
+    "cost": 8,
+    "rarity": "COMMON",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": "Draw 2 cards, then reduce the {{COST}} of all cards in your hand by 2 (not below 2)."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

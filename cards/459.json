@@ -1,0 +1,52 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 0,
+    "originalHp": 1,
+    "dodge": 0,
+    "thorns": 0,
+    "armor": 0,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "ranged": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "anotherChance": false,
+    "candy": false,
+    "id": 459,
+    "fixedId": 459,
+    "typeCard": 0,
+    "name": "Spincake",
+    "image": "Spincake",
+    "baseImage": "Spincake",
+    "cost": 1,
+    "rarity": "GENERATED",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "creatorFixedId": 0,
+    "imageExtension": "png",
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

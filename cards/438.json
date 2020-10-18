@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,31 +26,41 @@
     "typeCard": 0,
     "name": "Battleflies",
     "image": "Battleflies",
-    "cost": 3,
+    "baseImage": "Battleflies",
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:HASTE}}. Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}."
+    "description": "{{KW:HASTE}}. Whenever you cast a spell, this has +4 {{ATK}} until the start of your next turn."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Battleflies",
+      "playedTurn": 0
     },
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
       "description": {
-        "now": "{{KW:HASTE}}. Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}.",
-        "prev": "Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}."
+        "now": "{{KW:HASTE}}. Whenever you cast a spell, this has +4 {{ATK}} until the start of your next turn.",
+        "prev": "{{KW:HASTE}}. Whenever you cast a Spell, set this card's {{ATK}} to 4. {{KW:TURN_START}}: gain -3 {{ATK}}."
       }
     }
   }

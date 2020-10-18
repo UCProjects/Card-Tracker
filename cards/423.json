@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Ice Drink Wolf",
     "image": "Ice_Drink_Wolf",
+    "baseImage": "Ice_Drink_Wolf",
     "cost": 8,
     "rarity": "RARE",
     "originalCost": 8,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,13 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Ice_Drink_Wolf",
+      "playedTurn": 0
     },
-    "removed": {
-      "target": "RANGE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

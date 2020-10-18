@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Migosp",
     "image": "Migosp",
+    "baseImage": "Migosp",
     "cost": 2,
     "rarity": "BASE",
     "originalCost": 2,
@@ -34,6 +36,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,18 +44,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Migosp",
+      "playedTurn": 0
     },
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give adjacent monsters +1 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Give +1 {{HP}} to an ally monster."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -1,16 +1,17 @@
 {
   "card": {
     "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 5,
+    "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,9 +26,11 @@
     "typeCard": 0,
     "name": "Redacted",
     "image": "Redacted",
-    "cost": 4,
+    "baseImage": "Redacted",
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,22 +39,45 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:FUTURE}} (4): Add a {{TRIBE:G_FOLLOWER|1}} into your deck for each active {{KW:FUTURE}} effect."
+    "description": "{{KW:MAGIC}}: Give an enemy monster -2/-2. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "G_FOLLOWER"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Redacted",
+      "target": "ENEMY_MONSTER",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "G_FOLLOWER"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an enemy monster -2/-2. {{KW:SYNERGY}}: Gain {{KW:HASTE}}.",
+        "prev": "{{KW:FUTURE}} (4): Add a {{TRIBE:G_FOLLOWER|1}} into your deck for each active {{KW:FUTURE}} effect."
+      }
+    }
   }
 }

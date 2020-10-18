@@ -1,16 +1,17 @@
 {
   "card": {
     "attack": 6,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 6,
-    "originalHp": 5,
+    "originalHp": 7,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,27 +26,54 @@
     "typeCard": 0,
     "name": "Mettaton Ex",
     "image": "Mettaton_Ex",
-    "cost": 6,
+    "baseImage": "Mettaton_Ex",
+    "cost": 9,
     "rarity": "LEGENDARY",
-    "originalCost": 6,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:MAGIC}}: Decrease your and opponent's {{GOLD}} amount by your remaining {{GOLD}} amount."
+    "description": "All cards cost 2 more."
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Mettaton_Ex",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 5
+      },
+      "cost": {
+        "now": 9,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 6
+      },
+      "description": {
+        "now": "All cards cost 2 more.",
+        "prev": "{{KW:MAGIC}}: Decrease your and opponent's {{GOLD}} amount by your remaining {{GOLD}} amount."
+      }
+    }
   }
 }

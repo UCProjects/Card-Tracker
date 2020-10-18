@@ -9,6 +9,7 @@
     "typeCard": 1,
     "name": "Slowing",
     "image": "Slowing",
+    "baseImage": "Slowing",
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
@@ -19,6 +20,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -26,17 +28,10 @@
   },
   "diffs": {
     "added": {
-      "soul": {
-        "id": 6,
-        "name": "PATIENCE"
-      },
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "baseImage": "Slowing",
+      "playedTurn": 0
     },
-    "removed": {
-      "classe": "PATIENCE"
-    },
+    "removed": {},
     "changed": {}
   }
 }

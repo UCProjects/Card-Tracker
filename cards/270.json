@@ -1,22 +1,23 @@
 {
   "card": {
     "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 5,
+    "originalHp": 3,
     "dodge": 0,
     "thorns": 0,
     "armor": 0,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
     "ranged": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "anotherChance": false,
     "candy": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Thrashing M",
     "image": "Thrashing_M",
+    "baseImage": "Thrashing_M",
     "cost": 4,
     "rarity": "EPIC",
     "originalCost": 4,
@@ -36,22 +38,40 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
+    "description": "{{KW:HASTE}}. This card has all monster tribes."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "ALL"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Thrashing_M",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "ALL"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. This card has all monster tribes.",
+        "prev": "This card has all monster tribes. {{KW:DUST}}: Give a random ally monster with a tribe +1/+1."
+      }
+    }
   }
 }

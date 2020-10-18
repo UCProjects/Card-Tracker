@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Dogaressa",
     "image": "Dogaressa",
+    "baseImage": "Dogaressa",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
@@ -36,6 +38,7 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -43,20 +46,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "DOG"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Dogaressa",
+      "playedTurn": 0
     },
-    "removed": {
-      "tribe": "DOG"
-    },
-    "changed": {
-      "description": {
-        "now": "Has +2 {{HP}} while you have {{CARD:46|1}} in your hand.",
-        "prev": "{{KW:MAGIC}}: If {{CARD:46|1}} is on your board, gain +{{HP:3}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

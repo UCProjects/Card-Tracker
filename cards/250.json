@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,6 +26,7 @@
     "typeCard": 0,
     "name": "Hot Dog Harpy",
     "image": "Hot_Dog_Harpy",
+    "baseImage": "Hot_Dog_Harpy",
     "cost": 6,
     "rarity": "EPIC",
     "originalCost": 6,
@@ -35,6 +37,7 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -42,16 +45,11 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Hot_Dog_Harpy",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster. If it was already silenced, kill it instead.",
-        "prev": "{{KW:MAGIC}}: Kill a silenced enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

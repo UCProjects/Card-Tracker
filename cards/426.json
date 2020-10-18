@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,34 +26,40 @@
     "typeCard": 0,
     "name": "Rabbick Hole",
     "image": "Rabbick_Hole",
+    "baseImage": "Rabbick_Hole",
     "cost": 7,
     "rarity": "EPIC",
     "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [
-      "PLANT"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 3 random 4-cost monsters and catch one. {{KW:DUST}}: Release it."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Summon a {{CARD:298|1}}."
   },
   "diffs": {
     "added": {
-      "tribes": [
-        "PLANT"
-      ],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Rabbick_Hole",
+      "playedTurn": 0
     },
-    "removed": {
-      "target": "RANGE",
-      "tribe": "PLANT"
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "tribes": {
+        "now": [],
+        "prev": [
+          "PLANT"
+        ]
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Summon a {{CARD:298|1}}.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 3 random 4-cost monsters and catch one. {{KW:DUST}}: Release it."
+      }
+    }
   }
 }

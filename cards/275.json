@@ -11,6 +11,7 @@
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
+    "burn": 0,
     "cantAttack": false,
     "charge": false,
     "taunt": false,
@@ -25,15 +26,19 @@
     "typeCard": 0,
     "name": "Mister Society",
     "image": "Mister_Society",
+    "baseImage": "Mister_Society",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "CHESS_FIGURE"
+    ],
     "selectCards": [],
     "typeSkin": 0,
+    "playedTurn": 0,
     "ownerId": 0,
     "creatorFixedId": 0,
     "imageExtension": "png",
@@ -41,11 +46,18 @@
   },
   "diffs": {
     "added": {
-      "tribes": [],
-      "typeSkin": 0,
-      "creatorFixedId": 0
+      "burn": 0,
+      "baseImage": "Mister_Society",
+      "playedTurn": 0
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "CHESS_FIGURE"
+        ],
+        "prev": []
+      }
+    }
   }
 }

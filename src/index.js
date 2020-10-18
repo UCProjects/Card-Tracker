@@ -66,14 +66,19 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
           },
           changes: diffs.length,
         };
-      }).then((data) => commit ? writeFile(path, JSON.stringify(data, undefined, 2)).then(() => data) : data);
+      }).then((data) => commit ? writeFile(path, JSON.stringify(data, replacer, 2)).then(() => data) : data);
     });
 
     return Promise.all(promises).then((data) => {
       const diffs = data.reduce((cur, {card, diffs}) => (cur[card.id] = diffs, cur), {});
       const count = data.reduce((cur, {changes}) => cur + changes, 0);
       console.log(count, 'changes.');
-      return writeFile('latestDiffs.json', JSON.stringify(diffs, undefined, 2));
+      return writeFile('latestDiffs.json', JSON.stringify(diffs, replacer, 2));
     });
   }).catch(console.error);
+}
+
+function replacer(key, value) {
+  if (key === 'changes') return undefined;
+  return value;
 }

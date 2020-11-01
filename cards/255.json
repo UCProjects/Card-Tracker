@@ -25,14 +25,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2.",
-        "prev": "Give all monsters in your hand and board that didn't start in your deck +1/+2."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

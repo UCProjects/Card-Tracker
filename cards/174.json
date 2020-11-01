@@ -1,12 +1,12 @@
 {
   "card": {
     "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 2,
-    "originalHp": 2,
+    "originalHp": 4,
     "dodge": 0,
-    "armor": 2,
+    "armor": 1,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -35,13 +35,32 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:ARMOR}} (2)."
+    "description": "{{KW:ARMOR}} (1). {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "armor": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:ARMOR}} (1). {{KW:TAUNT}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:ARMOR}} (2)."
+      }
+    }
   }
 }

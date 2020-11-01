@@ -24,9 +24,9 @@
     "name": "The Vessel",
     "image": "The_Vessel",
     "baseImage": "The_Vessel",
-    "cost": 12,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "originalCost": 10,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -36,13 +36,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add four exact copies of an ally monster (except itself) to your deck and one to your hand."
+    "description": "{{KW:MAGIC}}: Add two exact copies of an ally monster (except itself) to your deck and one to your hand."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 12
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add two exact copies of an ally monster (except itself) to your deck and one to your hand.",
+        "prev": "{{KW:MAGIC}}: Add four exact copies of an ally monster (except itself) to your deck and one to your hand."
+      }
+    }
   }
 }

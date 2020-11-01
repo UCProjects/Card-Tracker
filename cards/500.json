@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
     "armor": 0,
@@ -35,13 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to your hand and deck."
+    "description": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to the top of your deck."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to the top of your deck.",
+        "prev": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to your hand and deck."
+      }
+    }
   }
 }

@@ -37,13 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 2 random different spells costing <=10 {{GOLD}} that you've cast this game. Choose one to add to your hand."
+    "description": "{{KW:MAGIC}}: Look at 2 random different non-{{RARITY:TOKEN}} spells you played this game and choose one to add to your hand."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 2 random different non-{{RARITY:TOKEN}} spells you played this game and choose one to add to your hand.",
+        "prev": "{{KW:MAGIC}}: Look at 2 random different spells costing <=10 {{GOLD}} that you've cast this game. Choose one to add to your hand."
+      }
+    }
   }
 }

@@ -39,42 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at all non-{{RARITY:DETERMINATION}} monsters in your hand and choose one. Summon a 3/3 copy of it.",
-        "prev": "{{KW:MAGIC}}: Choose a non-DT monster from your hand. Summon it. {{KW:TURN_START}}: Return it to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

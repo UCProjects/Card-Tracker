@@ -10,9 +10,10 @@
     "name": "Penetration",
     "image": "Penetration",
     "baseImage": "Penetration",
-    "cost": 2,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 1,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,13 +22,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} all enemy monsters."
+    "description": "{{KW:SILENCE}} a monster."
   },
   "diffs": {
-    "added": {},
-    "removed": {
-      "creatorFixedId": 0
+    "added": {
+      "target": "MONSTER"
     },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:SILENCE}} a monster.",
+        "prev": "{{KW:SILENCE}} all enemy monsters."
+      }
+    }
   }
 }

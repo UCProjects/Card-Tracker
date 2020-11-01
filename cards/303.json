@@ -41,26 +41,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. Has {{ATK}} equal to number of other ally {{TRIBE:PLANT|2}} on board.",
-        "prev": "{{KW:TRANSPARENCY}}: Your other monsters have +1 {{ATK}} while this has {{KW:TRANSPARENCY}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

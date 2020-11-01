@@ -26,14 +26,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "Summon a 1/1 copy of 3 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less.",
-        "prev": "Summon a 1/1 copy of 3 random different non-{{RARITY:GENERATED}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -39,14 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|1}} to your hand.",
-        "prev": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random generated {{TRIBE:LOST_SOUL|1}} to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

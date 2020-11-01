@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 2,
-    "originalHp": 6,
+    "originalHp": 5,
     "dodge": 0,
     "armor": 1,
     "paralyzed": 0,
@@ -35,13 +35,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:ARMOR}} (1), Has +4 {{ATK}} when damaged."
+    "description": "{{KW:ARMOR}} (1). {{KW:HASTE}}. Has +3 {{ATK}} while damaged."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:ARMOR}} (1). {{KW:HASTE}}. Has +3 {{ATK}} while damaged.",
+        "prev": "{{KW:HASTE}}. {{KW:ARMOR}} (1), Has +4 {{ATK}} when damaged."
+      }
+    }
   }
 }

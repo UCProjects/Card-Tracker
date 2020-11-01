@@ -20,9 +20,7 @@
     "description": "Look at your hand and choose a card. Return it to your deck and draw 2 cards."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 5,
     "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
@@ -35,17 +35,27 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}."
+    "description": "{{KW:MAGIC}}: Send a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
+    "removed": {},
     "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
       "description": {
-        "now": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: Send a copy of all cards in your hand (except this) which didn't start in your deck to your deck with -1 {{COST}}."
+        "now": "{{KW:MAGIC}}: Send a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}."
       }
     }
   }

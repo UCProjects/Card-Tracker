@@ -35,13 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it, draw 2 cards and reduce their cost by 1."
+    "description": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} duplicates, add 3 random cards to your deck and draw 2 cards with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} duplicates, add 3 random cards to your deck and draw 2 cards with -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: If your deck has no duplicate, put 3 random cards in it, draw 2 cards and reduce their cost by 1."
+      }
+    }
   }
 }

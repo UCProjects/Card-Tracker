@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 0,
+    "attack": 1,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 0,
+    "originalAttack": 1,
     "originalHp": 6,
     "dodge": 0,
     "armor": 0,
@@ -35,13 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. Whenever this gets damaged, gain +3 {{ATK}}."
+    "description": "{{KW:TAUNT}}. Whenever this gets damaged, gain +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. Whenever this gets damaged, gain +2 {{ATK}}.",
+        "prev": "{{KW:TAUNT}}. Whenever this gets damaged, gain +3 {{ATK}}."
+      }
+    }
   }
 }

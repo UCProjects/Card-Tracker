@@ -22,13 +22,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "If your opponent has equal or more monsters than you, give an ally monster +1 {{ATK}} and {{KW:HASTE}}."
+    "description": "Give an ally monster +1 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "Give an ally monster +1 {{ATK}} and {{KW:HASTE}}.",
+        "prev": "If your opponent has equal or more monsters than you, give an ally monster +1 {{ATK}} and {{KW:HASTE}}."
+      }
+    }
   }
 }

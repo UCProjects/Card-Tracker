@@ -37,13 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add this monster to your deck with +{{ATK:2}} and without {{KW:HASTE}} (keep {{ATK}} buffs)."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Return a Silenced copy of this to your deck with +2 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Return a Silenced copy of this to your deck with +2 {{ATK}} and {{KW:HASTE}}.",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add this monster to your deck with +{{ATK:2}} and without {{KW:HASTE}} (keep {{ATK}} buffs)."
+      }
+    }
   }
 }

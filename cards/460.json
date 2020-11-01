@@ -21,13 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1."
+    "description": "Summon 2 {{CARD:373|2}} and give all ally {{CARD:373|2}} +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "Summon 2 {{CARD:373|2}} and give all ally {{CARD:373|2}} +2 {{ATK}}.",
+        "prev": "Summon 2 {{CARD:373|2}}, then give all ally {{CARD:373|2}} +2/+1."
+      }
+    }
   }
 }

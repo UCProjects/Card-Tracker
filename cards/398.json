@@ -17,17 +17,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at the 2 cards at the top of your opponent's deck and choose one. Send it to the bottom of their deck."
+    "description": "Look at 2 random cards in your deck and choose one to send to the top."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
+    "removed": {},
     "changed": {
-      "rarity": {
-        "now": "TOKEN",
-        "prev": "GENERATED"
+      "description": {
+        "now": "Look at 2 random cards in your deck and choose one to send to the top.",
+        "prev": "Look at the 2 cards at the top of your opponent's deck and choose one. Send it to the bottom of their deck."
       }
     }
   }

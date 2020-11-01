@@ -39,26 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 8
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 8
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set all other monsters stats to 3/3.",
-        "prev": "{{KW:TURN_START}}: Attack a random enemy."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

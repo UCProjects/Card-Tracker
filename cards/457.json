@@ -10,9 +10,9 @@
     "name": "Exploration",
     "image": "Exploration",
     "baseImage": "Exploration",
-    "cost": 3,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -21,13 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at your deck and choose a card to draw. If it's <= {{RARITY:EPIC}}, reduce its {{COST}} by 1."
+    "description": "Look at 5 cards at the top of your deck and choose one to draw."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "description": {
+        "now": "Look at 5 cards at the top of your deck and choose one to draw.",
+        "prev": "Look at your deck and choose a card to draw. If it's <= {{RARITY:EPIC}}, reduce its {{COST}} by 1."
+      }
+    }
   }
 }

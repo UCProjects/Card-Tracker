@@ -40,14 +40,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|2}}.",
-        "prev": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random generated {{TRIBE:LOST_SOUL|2}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

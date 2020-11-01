@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 0,
+    "attack": 1,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 0,
+    "originalAttack": 1,
     "originalHp": 6,
     "dodge": 0,
     "armor": 0,
@@ -24,9 +24,9 @@
     "name": "Fire Trap",
     "image": "Fire_Trap",
     "baseImage": "Fire_Trap",
-    "cost": 4,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -39,9 +39,24 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

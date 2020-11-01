@@ -39,14 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-5 {{GOLD}} and set its base stats to 2/2.",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a random monster costing 3-6 {{GOLD}} (or {{CARD:65|1}} with a low chance) and set its stats to 2/2."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

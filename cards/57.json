@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 57,
@@ -24,9 +24,9 @@
     "name": "Gaster",
     "image": "Gaster",
     "baseImage": "Gaster",
-    "cost": 14,
+    "cost": 12,
     "rarity": "LEGENDARY",
-    "originalCost": 14,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,13 +35,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game."
+    "description": "{{KW:MAGIC}}: Trigger every {{KW:SYNERGY}} effect triggered this game. Cannot trigger the same twice."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 12,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 14
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Trigger every {{KW:SYNERGY}} effect triggered this game. Cannot trigger the same twice.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all other {{KW:SYNERGY}} effects you triggered this game."
+      }
+    }
   }
 }

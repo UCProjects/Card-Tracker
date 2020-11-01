@@ -39,14 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:SHOCK}}: If it's not a {{RARITY:TOKEN}} spell, add {{CARD:516|1}} to your hand.",
-        "prev": "{{KW:SHOCK}}: If it's not a {{RARITY:GENERATED}} spell, add {{CARD:516|1}} to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -39,14 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "rarity": {
-        "now": "TOKEN",
-        "prev": "GENERATED"
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

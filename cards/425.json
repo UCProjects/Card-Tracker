@@ -39,14 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a {{KW:GENERATED}} card from your deck.",
-        "prev": "{{KW:MAGIC}}: Draw a card that didn't start in your deck."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

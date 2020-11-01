@@ -35,13 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After this attacks replace this by a random monster.Set its base stats to 4/4 and give it {{KW:HASTE}}."
+    "description": "After this attacks, replace this with a random monster. Set its base stats to 4/5."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "creatorFixedId": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "description": {
+        "now": "After this attacks, replace this with a random monster. Set its base stats to 4/5.",
+        "prev": "After this attacks replace this by a random monster.Set its base stats to 4/4 and give it {{KW:HASTE}}."
+      }
+    }
   }
 }

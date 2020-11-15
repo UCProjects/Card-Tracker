@@ -10,9 +10,9 @@
     "name": "Royal Justice",
     "image": "Royal_Justice",
     "baseImage": "Royal_Justice",
-    "cost": 5,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,6 +28,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

@@ -22,11 +22,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Heal {{HP:3}} and remove negative effects. Draw a card if there is no negative effect."
+    "description": "Heal 3 {{HP}}. If this targeted you, draw a card. If this targeted a monster, remove negative effects from it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Heal 3 {{HP}}. If this targeted you, draw a card. If this targeted a monster, remove negative effects from it.",
+        "prev": "Heal {{HP:3}} and remove negative effects. Draw a card if there is no negative effect."
+      }
+    }
   }
 }

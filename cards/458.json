@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Spend up to 6 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to the {{GOLD}} spent.",
-        "prev": "Spend all your {{GOLD}}. Summon a {{CARD:459|1}} and give it +1/+1/+1 for each {{GOLD}} spent."
-      }
-    }
+    "changed": {}
   }
 }

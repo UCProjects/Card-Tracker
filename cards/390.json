@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} ally monsters. {{KW:DUST}}: {{KW:SILENCE}} a random enemy monster."
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} ally monsters. {{KW:DUST}}: {{KW:SILENCE}} a random enemy monster."
+      }
+    }
   }
 }

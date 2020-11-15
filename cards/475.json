@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}. {{KW:DUST}}: Restore 3 {{HP}} to you."
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this.",
+        "prev": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}. {{KW:DUST}}: Restore 3 {{HP}} to you."
+      }
+    }
   }
 }

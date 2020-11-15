@@ -43,27 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "target": {
-        "now": "MONSTER",
-        "prev": "ENEMY_MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was already paralyzed, deal 2 {{DMG}} to it.",
-        "prev": "{{KW:MAGIC}}: If played on the left, {{KW:PARALYZE}} an enemy monster. If played on the right, {{KW:SILENCE}} it."
-      }
-    }
+    "changed": {}
   }
 }

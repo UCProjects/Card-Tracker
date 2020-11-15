@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Remove all negative effects from your other monsters. {{KW:DELAY}}: Heal them by 2 {{HP}}."
+    "description": "{{KW:MAGIC}}: Remove all negative effects from all ally monsters. {{KW:DELAY}}: Heal 2 {{HP}} to all allies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Remove all negative effects from all ally monsters. {{KW:DELAY}}: Heal 2 {{HP}} to all allies.",
+        "prev": "{{KW:MAGIC}}: Remove all negative effects from your other monsters. {{KW:DELAY}}: Heal them by 2 {{HP}}."
+      }
+    }
   }
 }

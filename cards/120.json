@@ -37,15 +37,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand. {{KW:SYNERGY}}: It costs 2 less."
+    "description": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}} and choose one to add to your hand. {{KW:SYNERGY}}: Add it to your hand with -2 {{COST}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand. {{KW:SYNERGY}}: It costs 2 less.",
-        "prev": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one one to add to your hand. {{KW:SYNERGY}}: Add both instead."
+        "now": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}} and choose one to add to your hand. {{KW:SYNERGY}}: Add it to your hand with -2 {{COST}} instead.",
+        "prev": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:G_FOLLOWER|2}}. Choose one to add to your hand. {{KW:SYNERGY}}: It costs 2 less."
       }
     }
   }

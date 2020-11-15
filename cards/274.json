@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have atleast 3 spells in your hand, reduce this card's {{COST}} by 3."
+    "description": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have 3 or more spells in your hand, reduce this card's {{COST}} by 2."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have 3 or more spells in your hand, reduce this card's {{COST}} by 2.",
+        "prev": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have atleast 3 spells in your hand, reduce this card's {{COST}} by 3."
+      }
+    }
   }
 }

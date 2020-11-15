@@ -13,7 +13,7 @@
     "cost": 1,
     "rarity": "BASE",
     "originalCost": 1,
-    "target": "MONSTER",
+    "target": "ALLY",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give +{{HP:3}} to a monster."
+    "description": "Give an ally monster +3 {{HP}} or raise your max {{HP}} by 2 and heal 2 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ALLY",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "Give an ally monster +3 {{HP}} or raise your max {{HP}} by 2 and heal 2 {{HP}} to you.",
+        "prev": "Give +{{HP:3}} to a monster."
+      }
+    }
   }
 }

@@ -11,9 +11,10 @@
     "name": "Another Chance",
     "image": "Another_Chance",
     "baseImage": "Another_Chance",
-    "cost": 5,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 2,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +23,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Kill all monsters and replace them with random {{TRIBE:LOST_SOUL|2}}."
+    "description": "Kill an ally monster. Heal 3 {{HP}} to you and summon the next {{TRIBE:LOST_SOUL|1}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 5
+      },
+      "description": {
+        "now": "Kill an ally monster. Heal 3 {{HP}} to you and summon the next {{TRIBE:LOST_SOUL|1}}.",
+        "prev": "Kill all monsters and replace them with random {{TRIBE:LOST_SOUL|2}}."
+      }
+    }
   }
 }

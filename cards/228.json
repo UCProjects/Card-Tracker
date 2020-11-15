@@ -11,7 +11,7 @@
     "silence": false,
     "kr": 0,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
     "taunt": false,
     "invulnerable": false,
@@ -37,11 +37,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DISARMED}}. {{KW:SYNERGY}}: {{KW:SILENCE}} itself."
+    "description": "{{KW:MAGIC}}: Deal 4 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 4 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this.",
+        "prev": "{{KW:DISARMED}}. {{KW:SYNERGY}}: {{KW:SILENCE}} itself."
+      }
+    }
   }
 }

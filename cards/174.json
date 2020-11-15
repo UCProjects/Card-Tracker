@@ -40,27 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "armor": {
-        "now": 1,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:ARMOR}} (1). {{KW:TAUNT}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:ARMOR}} (2)."
-      }
-    }
+    "changed": {}
   }
 }

@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give an ally monster +1 {{ATK}} and {{KW:HASTE}}.",
-        "prev": "If your opponent has equal or more monsters than you, give an ally monster +1 {{ATK}} and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,0 +1,30 @@
+{
+  "card": {
+    "id": 537,
+    "fixedId": 537,
+    "typeCard": 1,
+    "name": "Real Knife",
+    "image": "Real_Knife",
+    "baseImage": "Real_Knife",
+    "cost": 3,
+    "rarity": "TOKEN",
+    "originalCost": 3,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:SILENCE}} and kill a monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

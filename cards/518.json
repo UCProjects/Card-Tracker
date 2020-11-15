@@ -41,19 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 12
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Add two exact copies of an ally monster (except itself) to your deck and one to your hand.",
-        "prev": "{{KW:MAGIC}}: Add four exact copies of an ally monster (except itself) to your deck and one to your hand."
-      }
-    }
+    "changed": {}
   }
 }

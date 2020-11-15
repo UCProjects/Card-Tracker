@@ -40,23 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Send a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -1 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: Send a copy of all {{KW:GENERATED}} cards in your hand (except this) to your deck with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -40,13 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [],
-        "prev": [
-          "PLANT"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

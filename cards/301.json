@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 2
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TURN_START}} and {{KW:TURN_END}}: Swap its {{ATK}} and {{HP}}.",
-        "prev": "{{KW:TURN_START}}: Gain +1 {{HP}}. {{KW:TURN_END}}: Gain +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

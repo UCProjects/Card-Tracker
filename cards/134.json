@@ -27,15 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ENEMY_MONSTER",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "Give an enemy monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead.",
-        "prev": "Give a monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead."
-      }
-    }
+    "changed": {}
   }
 }

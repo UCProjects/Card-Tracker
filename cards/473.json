@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": 0,
     "paralyzed": 0,
@@ -37,27 +37,27 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your hand and to your deck."
+    "description": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "hp": {
-        "now": 2,
-        "prev": 3
+        "now": 3,
+        "prev": 2
       },
       "maxHp": {
-        "now": 2,
-        "prev": 3
+        "now": 3,
+        "prev": 2
       },
       "originalHp": {
-        "now": 2,
-        "prev": 3
+        "now": 3,
+        "prev": 2
       },
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your hand and to your deck.",
-        "prev": "{{KW:HASTE}}. {{KW:TURBO}}: Shuffle 2 {{CARD:115|2}} into your deck."
+        "now": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your deck.",
+        "prev": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your hand and to your deck."
       }
     }
   }

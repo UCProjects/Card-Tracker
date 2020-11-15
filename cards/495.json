@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. Whenever this attacks the opponent, deal 1 {{DMG}} to the monster in front of this."
+    "description": "{{KW:CHARGE}}. {{KW:TURN_END}}: If this didn't attack this turn, deal 2 {{DMG}} to the monster in front of it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:TURN_END}}: If this didn't attack this turn, deal 2 {{DMG}} to the monster in front of it.",
+        "prev": "{{KW:CHARGE}}. Whenever this attacks the opponent, deal 1 {{DMG}} to the monster in front of this."
+      }
+    }
   }
 }

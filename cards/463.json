@@ -18,11 +18,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 2 {{DMG}} to a monster. Draw 1 card."
+    "description": "Deal 2 {{DMG}} to a monster and draw a random monster from your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 2 {{DMG}} to a monster and draw a random monster from your deck.",
+        "prev": "Deal 2 {{DMG}} to a monster. Draw 1 card."
+      }
+    }
   }
 }

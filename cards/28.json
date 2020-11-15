@@ -24,9 +24,9 @@
     "name": "Chara",
     "image": "Chara",
     "baseImage": "Chara",
-    "cost": 17,
+    "cost": 14,
     "rarity": "DETERMINATION",
-    "originalCost": 17,
+    "originalCost": 14,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact."
+    "description": "{{KW:MAGIC}}: Add the {{ARTIFACT:25}} artifact. Its counter starts at 0."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 14,
+        "prev": 17
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 17
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add the {{ARTIFACT:25}} artifact. Its counter starts at 0.",
+        "prev": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact."
+      }
+    }
   }
 }

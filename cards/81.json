@@ -10,9 +10,9 @@
     "name": "Fortune",
     "image": "Fortune",
     "baseImage": "Fortune",
-    "cost": 6,
+    "cost": 2,
     "rarity": "BASE",
-    "originalCost": 6,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Earn {{GOLD:6}}. If you have at least 1 monster on the board, earn {{GOLD:7}} instead."
+    "description": "Spend all your {{GOLD}}. {{KW:DELAY}}: Regain it all and gain +3 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 6
+      },
+      "description": {
+        "now": "Spend all your {{GOLD}}. {{KW:DELAY}}: Regain it all and gain +3 {{GOLD}}.",
+        "prev": "Earn {{GOLD:6}}. If you have at least 1 monster on the board, earn {{GOLD:7}} instead."
+      }
+    }
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} spells, look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2).",
-        "prev": "{{KW:MAGIC}}: If your deck has no spell, look at all spells of your soul. Choose one to add to your hand, it costs 3 less (not below 2)."
-      }
-    }
+    "changed": {}
   }
 }

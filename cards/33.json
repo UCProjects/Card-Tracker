@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -45,15 +45,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "DOG"
-        ]
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

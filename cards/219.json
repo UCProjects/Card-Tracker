@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
     "dodge": 0,
-    "armor": 1,
+    "armor": true,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -35,11 +35,40 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:ARMOR}} (1). {{KW:MAGIC}}: Add a random different {{CARD:219|1}}'s artifact."
+    "description": "{{KW:ARMOR}}. {{KW:MAGIC}}: Add a random different {{CARD:219|1}}'s artifact."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "armor": {
+        "now": true,
+        "prev": 1
+      },
+      "description": {
+        "now": "{{KW:ARMOR}}. {{KW:MAGIC}}: Add a random different {{CARD:219|1}}'s artifact.",
+        "prev": "{{KW:ARMOR}} (1). {{KW:MAGIC}}: Add a random different {{CARD:219|1}}'s artifact."
+      }
+    }
   }
 }

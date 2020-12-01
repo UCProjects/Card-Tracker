@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
-    "armor": 1,
+    "armor": true,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:ARMOR}} (1). {{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}. If played on the right, gain {{KW:HASTE}}."
+    "description": "{{KW:ARMOR}}. {{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}. If played on the right, gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "armor": {
+        "now": true,
+        "prev": 1
+      },
+      "description": {
+        "now": "{{KW:ARMOR}}. {{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}. If played on the right, gain {{KW:HASTE}}.",
+        "prev": "{{KW:ARMOR}} (1). {{KW:MAGIC}}: If played on the left, gain {{KW:TAUNT}}. If played on the right, gain {{KW:HASTE}}."
+      }
+    }
   }
 }

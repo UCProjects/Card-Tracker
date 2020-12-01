@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 1,
-    "originalHp": 6,
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -35,11 +35,40 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} every monster damaged by this monster."
+    "description": "Whenever this attacks a monster, {{KW:SILENCE}} it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "description": {
+        "now": "Whenever this attacks a monster, {{KW:SILENCE}} it.",
+        "prev": "{{KW:SILENCE}} every monster damaged by this monster."
+      }
+    }
   }
 }

@@ -6,7 +6,7 @@
     "originalAttack": 2,
     "originalHp": 3,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If you played a card with a {{COST}} of 7 or more this turn, gain +1/+1 and {{KW:HASTE}}."
+    "description": "{{KW:MAGIC}}: If you played a card with a {{COST}} of 6 or more this turn, gain +1/+1 and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If you played a card with a {{COST}} of 6 or more this turn, gain +1/+1 and {{KW:HASTE}}.",
+        "prev": "{{KW:MAGIC}}: If you played a card with a {{COST}} of 7 or more this turn, gain +1/+1 and {{KW:HASTE}}."
+      }
+    }
   }
 }

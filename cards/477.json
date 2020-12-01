@@ -6,7 +6,7 @@
     "originalAttack": 2,
     "originalHp": 2,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -44,19 +44,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID",
-          "PLANT"
-        ],
-        "prev": [
-          "PLANT",
-          "ARACHNID"
-        ]
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a {{CARD:375|1}}. {{KW:SYNERGY}}: Summon a {{CARD:451|1}} instead.",
-        "prev": "{{KW:MAGIC}}: Summon a {{CARD:375|1}}. {{KW:SYNERGY}}: Give the summoned {{CARD:375|1}} +2/+2 as base stats."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

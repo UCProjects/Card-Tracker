@@ -26,19 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "Shuffle 2 random monsters from your dustpile into your deck with +1 {{HP}} and draw up to 2 cards.",
-        "prev": "Gain +10 max {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

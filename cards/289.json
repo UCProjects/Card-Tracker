@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 2,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -36,11 +36,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Release it."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Return it to your deck with +3/+3."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Return it to your deck with +3/+3.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Release it."
+      }
+    }
   }
 }

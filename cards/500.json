@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 5,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -24,9 +24,9 @@
     "name": "Ice E Mascot",
     "image": "Ice_E_Mascot",
     "baseImage": "Ice_E_Mascot",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,11 +35,52 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to the top of your deck."
+    "description": "{{KW:MAGIC}}: Add a random {{RARITY:RARE}} monster from your dustpile to your hand. If there is none, draw a {{RARITY:RARE}} monster from your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "rarity": {
+        "now": "COMMON",
+        "prev": "RARE"
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a random {{RARITY:RARE}} monster from your dustpile to your hand. If there is none, draw a {{RARITY:RARE}} monster from your deck.",
+        "prev": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to the top of your deck."
+      }
+    }
   }
 }

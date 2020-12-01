@@ -6,14 +6,14 @@
     "originalAttack": 0,
     "originalHp": 5,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "burn": 0,
-    "cantAttack": false,
+    "cantAttack": true,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -24,9 +24,9 @@
     "name": "Snow Poff",
     "image": "Snow_Poff",
     "baseImage": "Snow_Poff",
-    "cost": 2,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{TRIBE:DOG|3}} and choose one to catch. {{KW:DUST}}: Release it to your hand."
+    "description": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "cantAttack": {
+        "now": true,
+        "prev": false
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{TRIBE:DOG|3}} and choose one to catch. {{KW:DUST}}: Release it to your hand."
+      }
+    }
   }
 }

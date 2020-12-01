@@ -6,7 +6,7 @@
     "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards."
+    "description": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards.",
+        "prev": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards."
+      }
+    }
   }
 }

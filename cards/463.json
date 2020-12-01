@@ -23,11 +23,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 2 {{DMG}} to a monster and draw a random monster from your deck.",
-        "prev": "Deal 2 {{DMG}} to a monster. Draw 1 card."
-      }
-    }
+    "changed": {}
   }
 }

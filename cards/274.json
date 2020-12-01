@@ -1,18 +1,18 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 3,
-    "originalHp": 2,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -25,7 +25,7 @@
     "image": "Starwalker",
     "baseImage": "Starwalker",
     "cost": 4,
-    "rarity": "RARE",
+    "rarity": "COMMON",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
@@ -35,15 +35,47 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have 3 or more spells in your hand, reduce this card's {{COST}} by 2."
+    "description": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} cards, choose a card in your hand. Send it to your deck with -4 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 4,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "charge": {
+        "now": false,
+        "prev": true
+      },
+      "rarity": {
+        "now": "COMMON",
+        "prev": "RARE"
+      },
       "description": {
-        "now": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have 3 or more spells in your hand, reduce this card's {{COST}} by 2.",
-        "prev": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have atleast 3 spells in your hand, reduce this card's {{COST}} by 3."
+        "now": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} cards, choose a card in your hand. Send it to your deck with -4 {{COST}}.",
+        "prev": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have 3 or more spells in your hand, reduce this card's {{COST}} by 2."
       }
     }
   }

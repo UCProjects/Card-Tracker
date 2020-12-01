@@ -6,7 +6,7 @@
     "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} all ally monsters.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} ally monsters. {{KW:DUST}}: {{KW:SILENCE}} a random enemy monster."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

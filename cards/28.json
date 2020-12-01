@@ -6,7 +6,7 @@
     "originalAttack": 10,
     "originalHp": 10,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,17 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 14,
-        "prev": 17
-      },
-      "originalCost": {
-        "now": 14,
-        "prev": 17
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Add the {{ARTIFACT:25}} artifact. Its counter starts at 0.",
-        "prev": "{{KW:MAGIC}}: Add {{ARTIFACT:25}} artifact."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

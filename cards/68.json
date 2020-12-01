@@ -26,23 +26,8 @@
     "description": "Kill an ally monster. Heal 3 {{HP}} to you and summon the next {{TRIBE:LOST_SOUL|1}}."
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 5
-      },
-      "description": {
-        "now": "Kill an ally monster. Heal 3 {{HP}} to you and summon the next {{TRIBE:LOST_SOUL|1}}.",
-        "prev": "Kill all monsters and replace them with random {{TRIBE:LOST_SOUL|2}}."
-      }
-    }
+    "changed": {}
   }
 }

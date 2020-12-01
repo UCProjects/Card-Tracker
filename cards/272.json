@@ -6,7 +6,7 @@
     "originalAttack": 3,
     "originalHp": 6,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,21 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:DELAY}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:451|1}} instead.",
-        "prev": "{{KW:TURN_END}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:375|1}} instead."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

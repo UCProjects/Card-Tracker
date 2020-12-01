@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "id": 35,
@@ -31,18 +31,41 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "MOLD",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "MOLD"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Gain {{KW:TAUNT}}. If you have 5 or more cards in your hand, gain {{KW:HASTE}} instead."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:AMALGAMATE|1}} or {{TRIBE:MOLD|1}} on the board, gain {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "tribes": {
+        "now": [
+          "AMALGAMATE",
+          "MOLD"
+        ],
+        "prev": [
+          "MOLD",
+          "AMALGAMATE"
+        ]
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:AMALGAMATE|1}} or {{TRIBE:MOLD|1}} on the board, gain {{KW:TAUNT}}.",
+        "prev": "{{KW:MAGIC}}: Gain {{KW:TAUNT}}. If you have 5 or more cards in your hand, gain {{KW:HASTE}} instead."
+      }
+    }
   }
 }

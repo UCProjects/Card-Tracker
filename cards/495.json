@@ -6,7 +6,7 @@
     "originalAttack": 2,
     "originalHp": 2,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:TURN_END}}: If this didn't attack this turn, deal 2 {{DMG}} to the monster in front of it.",
-        "prev": "{{KW:CHARGE}}. Whenever this attacks the opponent, deal 1 {{DMG}} to the monster in front of this."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

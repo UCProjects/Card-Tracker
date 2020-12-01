@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
-    "dodge": 0,
-    "armor": 0,
+    "attack": 3,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 3,
+    "originalHp": 1,
+    "dodge": 1,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -24,9 +24,9 @@
     "name": "Ranger Rudinn",
     "image": "Ranger_Rudinn",
     "baseImage": "Ranger_Rudinn",
-    "cost": 4,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,11 +35,52 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, choose a card in your hand. Return it to your deck with -4 {{COST}}."
+    "description": "{{KW:DODGE}} (1)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 1,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 1,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 1,
+        "prev": 4
+      },
+      "dodge": {
+        "now": 1,
+        "prev": 0
+      },
+      "armor": {
+        "now": false,
+        "prev": 0
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:DODGE}} (1).",
+        "prev": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, choose a card in your hand. Return it to your deck with -4 {{COST}}."
+      }
+    }
   }
 }

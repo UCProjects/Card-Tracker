@@ -6,7 +6,7 @@
     "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,21 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

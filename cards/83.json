@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Draw 3 cards costing 5 or less from your deck.",
-        "prev": "Draw cards until their {{COST}} is 10 or higher (up to 7 cards in hand)"
-      }
-    }
+    "changed": {}
   }
 }

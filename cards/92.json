@@ -22,19 +22,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give an ally monster +3 {{HP}} or raise your max {{HP}} by 2 and heal 2 {{HP}} to you."
+    "description": "Give an ally +3 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "target": {
-        "now": "ALLY",
-        "prev": "MONSTER"
-      },
       "description": {
-        "now": "Give an ally monster +3 {{HP}} or raise your max {{HP}} by 2 and heal 2 {{HP}} to you.",
-        "prev": "Give +{{HP:3}} to a monster."
+        "now": "Give an ally +3 {{HP}}.",
+        "prev": "Give an ally monster +3 {{HP}} or raise your max {{HP}} by 2 and heal 2 {{HP}} to you."
       }
     }
   }

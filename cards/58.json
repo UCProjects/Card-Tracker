@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Remove all negative effects from all ally monsters. {{KW:DELAY}}: Heal 2 {{HP}} to all allies.",
-        "prev": "{{KW:MAGIC}}: Remove all negative effects from your other monsters. {{KW:DELAY}}: Heal them by 2 {{HP}}."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

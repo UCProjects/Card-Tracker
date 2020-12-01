@@ -6,7 +6,7 @@
     "originalAttack": 3,
     "originalHp": 6,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Kill a random enemy monster costing 2 or less and heal 2 {{HP}} to you.",
-        "prev": "{{KW:TURN_START}}: and {{KW:TURN_END}}: Kill a random <= 2 {{GOLD}} monster and restore its {{HP}}."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

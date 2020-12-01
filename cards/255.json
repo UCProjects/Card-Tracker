@@ -10,9 +10,9 @@
     "name": "Overgrowth",
     "image": "Overgrowth",
     "baseImage": "Overgrowth",
-    "cost": 4,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2."
+    "description": "Give all {{KW:GENERATED}} monsters in your hand, board, and deck +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "Give all {{KW:GENERATED}} monsters in your hand, board, and deck +1/+1.",
+        "prev": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2."
+      }
+    }
   }
 }

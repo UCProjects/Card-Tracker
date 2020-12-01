@@ -21,11 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Spend up to 6 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to the {{GOLD}} spent."
+    "description": "Spend up to 10 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to {{GOLD}} spent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Spend up to 10 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to {{GOLD}} spent.",
+        "prev": "Spend up to 6 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to the {{GOLD}} spent."
+      }
+    }
   }
 }

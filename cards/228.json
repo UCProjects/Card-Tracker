@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -37,19 +37,19 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal 4 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this."
+    "description": "{{KW:MAGIC}}: Deal 2 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "cantAttack": {
+      "armor": {
         "now": false,
-        "prev": true
+        "prev": 0
       },
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 4 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this.",
-        "prev": "{{KW:DISARMED}}. {{KW:SYNERGY}}: {{KW:SILENCE}} itself."
+        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this.",
+        "prev": "{{KW:MAGIC}}: Deal 4 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this."
       }
     }
   }

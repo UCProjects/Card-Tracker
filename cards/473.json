@@ -6,7 +6,7 @@
     "originalAttack": 4,
     "originalHp": 3,
     "dodge": 0,
-    "armor": 0,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
@@ -43,21 +43,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your deck.",
-        "prev": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your hand and to your deck."
+      "armor": {
+        "now": false,
+        "prev": 0
       }
     }
   }

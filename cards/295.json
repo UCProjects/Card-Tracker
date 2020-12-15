@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If you have another {{CARD:295|1}}, combine them and add its {{ATK}} and {{HP}} to this monster's base stats."
+    "description": "Whenever you play another {{CARD:295|1}}, remove it and add its {{ATK}} and {{HP}} to this monsters base stats."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
+      "description": {
+        "now": "Whenever you play another {{CARD:295|1}}, remove it and add its {{ATK}} and {{HP}} to this monsters base stats.",
+        "prev": "{{KW:MAGIC}}: If you have another {{CARD:295|1}}, combine them and add its {{ATK}} and {{HP}} to this monster's base stats."
       }
     }
   }

@@ -25,7 +25,7 @@
     "image": "Charles",
     "baseImage": "Charles",
     "cost": 3,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -41,13 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": true,
-        "prev": 1
-      },
-      "description": {
-        "now": "{{KW:ARMOR}}.",
-        "prev": "{{KW:ARMOR}} (1)."
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
       }
     }
   }

@@ -25,7 +25,7 @@
     "image": "Jerry",
     "baseImage": "Jerry",
     "cost": 5,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
       }
     }
   }

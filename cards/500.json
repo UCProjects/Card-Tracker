@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 4,
-    "originalHp": 3,
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -42,44 +42,24 @@
     "removed": {},
     "changed": {
       "attack": {
-        "now": 4,
-        "prev": 5
+        "now": 3,
+        "prev": 4
       },
       "hp": {
-        "now": 3,
-        "prev": 4
+        "now": 5,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 4
+        "now": 5,
+        "prev": 3
       },
       "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
         "now": 3,
         "prev": 4
       },
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "rarity": {
-        "now": "COMMON",
-        "prev": "RARE"
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Add a random {{RARITY:RARE}} monster from your dustpile to your hand. If there is none, draw a {{RARITY:RARE}} monster from your deck.",
-        "prev": "{{KW:MAGIC}}: Add a random other monster from your dustpile with a {{COST}} equal to this card's {{COST}} to the top of your deck."
+      "originalHp": {
+        "now": 5,
+        "prev": 3
       }
     }
   }

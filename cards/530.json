@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "dodge": {
-        "now": 1,
-        "prev": 2
-      },
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DODGE}} (1). Whenever this attacks and kills a monster, deal 1 {{DMG}} to a random enemy monster.",
-        "prev": "{{KW:HASTE}}. {{KW:DODGE}} (2). Whenever this attacks and kills a monster, deal 1 {{DMG}} to a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

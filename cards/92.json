@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give an ally +3 {{HP}}.",
-        "prev": "Give an ally monster +3 {{HP}} or raise your max {{HP}} by 2 and heal 2 {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

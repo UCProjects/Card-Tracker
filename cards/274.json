@@ -40,43 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "charge": {
-        "now": false,
-        "prev": true
-      },
-      "rarity": {
-        "now": "COMMON",
-        "prev": "RARE"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} cards, choose a card in your hand. Send it to your deck with -4 {{COST}}.",
-        "prev": "{{KW:CHARGE}}. {{KW:TURBO}}: If you have 3 or more spells in your hand, reduce this card's {{COST}} by 2."
-      }
-    }
+    "changed": {}
   }
 }

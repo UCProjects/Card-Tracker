@@ -41,11 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

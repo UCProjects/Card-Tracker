@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 98
-      },
-      "description": {
-        "now": "Can only be damaged by a {{DMG}} of 98 or greater. {{KW:TURN_START}}: {{KW:SILENCE}} this.",
-        "prev": "{{KW:ARMOR}} (98). {{KW:TURN_START}}: {{KW:SILENCE}} itself."
-      }
-    }
+    "changed": {}
   }
 }

@@ -42,15 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this.",
-        "prev": "{{KW:MAGIC}}: Deal 4 {{DMG}} to this. {{KW:SYNERGY}}: Fully heal this."
-      }
-    }
+    "changed": {}
   }
 }

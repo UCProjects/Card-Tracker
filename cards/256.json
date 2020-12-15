@@ -27,19 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 0
-      },
-      "description": {
-        "now": "Choose a card from your hand. Burn it and trigger its {{KW:DUST}} effect if it's a {{TRIBE:LOST_SOUL|1}}. Draw 2 cards.",
-        "prev": "Deal 2 {{DMG}} to yourself and draw a card."
-      }
-    }
+    "changed": {}
   }
 }

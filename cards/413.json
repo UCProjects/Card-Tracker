@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, draw a card and add {{CARD:413|1}} to your deck.",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, shuffle {{CARD:413|1}} into your deck. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

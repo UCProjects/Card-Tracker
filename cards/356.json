@@ -12,10 +12,10 @@
     "kr": 0,
     "burn": 0,
     "cantAttack": false,
-    "charge": false,
+    "charge": true,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 356,
@@ -37,15 +37,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}."
+    "description": "{{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
+      "charge": {
+        "now": true,
+        "prev": false
+      },
+      "haste": {
         "now": false,
-        "prev": 0
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:CHARGE}}.",
+        "prev": "{{KW:HASTE}}."
       }
     }
   }

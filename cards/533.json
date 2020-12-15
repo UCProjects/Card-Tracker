@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} duplicates, summon a random card costing 5-7 from your dustpile.",
-        "prev": "{{KW:MAGIC}}: If your deck has no duplicate, summon a random card costing 4-7 from your dustpile."
-      }
-    }
+    "changed": {}
   }
 }

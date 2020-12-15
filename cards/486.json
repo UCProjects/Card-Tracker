@@ -10,9 +10,9 @@
     "name": "Royal Integrity",
     "image": "Royal_Integrity",
     "baseImage": "Royal_Integrity",
-    "cost": 3,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 2,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

@@ -10,9 +10,9 @@
     "name": "Campfire",
     "image": "Campfire",
     "baseImage": "Campfire",
-    "cost": 2,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Heal 3 {{HP}} randomly split among your monsters. Give 3 random monsters in your hand +1/+1."
+    "description": "Heal 4 {{HP}} randomly split among your monsters. Give 3 random monsters in your hand +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Heal 4 {{HP}} randomly split among your monsters. Give 3 random monsters in your hand +1/+1.",
+        "prev": "Heal 3 {{HP}} randomly split among your monsters. Give 3 random monsters in your hand +1/+1."
+      }
+    }
   }
 }

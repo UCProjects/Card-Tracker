@@ -25,7 +25,7 @@
     "image": "Fishing_Rod",
     "baseImage": "Fishing_Rod",
     "cost": 3,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
       }
     }
   }

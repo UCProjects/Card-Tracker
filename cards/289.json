@@ -24,9 +24,9 @@
     "name": "Red Wagon",
     "image": "Red_Wagon",
     "baseImage": "Red_Wagon",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -42,13 +42,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
+      "cost": {
+        "now": 4,
+        "prev": 5
       },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Return it to your deck with +3/+3.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Release it."
+      "originalCost": {
+        "now": 4,
+        "prev": 5
       }
     }
   }

@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "cantAttack": {
-        "now": true,
-        "prev": false
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{TRIBE:DOG|3}} and choose one to catch. {{KW:DUST}}: Release it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -26,19 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "Give all {{KW:GENERATED}} monsters in your hand, board, and deck +1/+1.",
-        "prev": "Give all {{KW:GENERATED}} monsters in your hand and board +1/+2."
-      }
-    }
+    "changed": {}
   }
 }

@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Add a {{CARD:511|1}} to your hand. If you have less {{HP}} than the opponent, give it -1 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: Add a {{CARD:511|1}} to your hand, or your opponent's hand if they have lower {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

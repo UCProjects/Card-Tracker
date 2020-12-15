@@ -12,10 +12,10 @@
     "kr": 0,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "id": 50,
@@ -37,15 +37,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
+      "charge": {
         "now": false,
-        "prev": 0
+        "prev": true
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand.",
+        "prev": "{{KW:CHARGE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
       }
     }
   }

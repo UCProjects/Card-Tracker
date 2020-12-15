@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a copy of the dead monster to your hand."
+    "description": "{{KW:HASTE}}. Whenever this attacks and kills a non-{{RARITY:DETERMINATION}} monster, add a 5/5/5 copy of the dead monster to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever this attacks and kills a non-{{RARITY:DETERMINATION}} monster, add a 5/5/5 copy of the dead monster to your hand.",
+        "prev": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a copy of the dead monster to your hand."
       }
     }
   }

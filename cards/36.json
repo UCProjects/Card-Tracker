@@ -42,43 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an {{TRIBE:AMALGAMATE|1}} in your hand +2/+2. {{KW:SYNERGY}}: Give it +3/+3 instead.",
-        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} 2 random enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

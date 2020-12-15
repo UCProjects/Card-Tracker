@@ -42,19 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "candy": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this and its owner.",
-        "prev": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this."
-      }
-    }
+    "changed": {}
   }
 }

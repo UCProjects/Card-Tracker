@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 6,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 4,
+    "originalAttack": 6,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -12,10 +12,10 @@
     "kr": 0,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "id": 528,
@@ -37,15 +37,31 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
+      "attack": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 4
+      },
+      "charge": {
         "now": false,
-        "prev": 0
+        "prev": true
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it.",
+        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it."
       }
     }
   }

@@ -40,47 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 1,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 1,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 1,
-        "prev": 4
-      },
-      "dodge": {
-        "now": 1,
-        "prev": 0
-      },
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:DODGE}} (1).",
-        "prev": "{{KW:MAGIC}}: If your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} card, choose a card in your hand. Return it to your deck with -4 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

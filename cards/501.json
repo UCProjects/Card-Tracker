@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 2,
-    "originalHp": 6,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -16,7 +16,7 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "id": 501,
     "fixedId": 501,
@@ -35,15 +35,31 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "The first time this monster attacks a monster each turn, it can attack another monster."
+    "description": "{{KW:TRANSPARENCY}}. The first time this monster attacks a monster each turn, it can attack another monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. The first time this monster attacks a monster each turn, it can attack another monster.",
+        "prev": "The first time this monster attacks a monster each turn, it can attack another monster."
       }
     }
   }

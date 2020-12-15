@@ -40,35 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "armor": {
-        "now": true,
-        "prev": 1
-      },
-      "description": {
-        "now": "{{KW:ARMOR}}. {{KW:MAGIC}}: Add a random different {{CARD:219|1}}'s artifact.",
-        "prev": "{{KW:ARMOR}} (1). {{KW:MAGIC}}: Add a random different {{CARD:219|1}}'s artifact."
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,8 +31,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "FROGGIT"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -44,18 +44,14 @@
     "added": {},
     "removed": {},
     "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
       "tribes": {
         "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "FROGGIT"
+        ],
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
         ]
       }
     }

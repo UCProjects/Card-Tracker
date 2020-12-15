@@ -43,29 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": 0
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:AMALGAMATE|1}} or {{TRIBE:MOLD|1}} on the board, gain {{KW:TAUNT}}.",
-        "prev": "{{KW:MAGIC}}: Gain {{KW:TAUNT}}. If you have 5 or more cards in your hand, gain {{KW:HASTE}} instead."
-      }
-    }
+    "changed": {}
   }
 }

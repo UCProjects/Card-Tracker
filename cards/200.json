@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a copy of every other different {{TRIBE:TEMMIE|1}} from your dustpile to your hand. (from lowest to highest cost)",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add every other non-{{RARITY:TOKEN}} {{TRIBE:TEMMIE|1}} to your hand (from lowest to highest {{COST}})."
-      }
-    }
+    "changed": {}
   }
 }

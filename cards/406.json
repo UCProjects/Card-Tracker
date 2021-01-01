@@ -24,9 +24,9 @@
     "name": "Sugar Pot",
     "image": "Sugar_Pot",
     "baseImage": "Sugar_Pot",
-    "cost": 3,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give a monster in your hand +1/+1."
+    "description": "{{KW:MAGIC}}: Give a monster in your hand +2/+2."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a monster in your hand +2/+2.",
+        "prev": "{{KW:MAGIC}}: Give a monster in your hand +1/+1."
+      }
+    }
   }
 }

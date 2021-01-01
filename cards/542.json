@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 6,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 3,
+    "originalAttack": 6,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -18,33 +18,30 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 520,
-    "fixedId": 520,
+    "id": 542,
+    "fixedId": 542,
     "typeCard": 0,
-    "name": "Abstract Art",
-    "image": "Abstract_Art",
-    "baseImage": "Abstract_Art",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Trash Ball",
+    "image": "Trash_Ball",
+    "baseImage": "Trash_Ball",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+    "description": "Whenever you play a monster, deal 1 {{DMG}} to this."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "EPIC"
-      }
-    }
+    "changed": {}
   }
 }

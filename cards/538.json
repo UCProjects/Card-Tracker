@@ -18,15 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 520,
-    "fixedId": 520,
+    "id": 538,
+    "fixedId": 538,
     "typeCard": 0,
-    "name": "Abstract Art",
-    "image": "Abstract_Art",
-    "baseImage": "Abstract_Art",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Wobbly Thing",
+    "image": "Wobbly_Thing",
+    "baseImage": "Wobbly_Thing",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,16 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+    "description": "{{KW:MAGIC}}: Kill this and summon an exact copy of it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "EPIC"
-      }
-    }
+    "changed": {}
   }
 }

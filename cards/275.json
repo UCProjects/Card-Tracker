@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 4,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -37,11 +37,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:HASTE}}. If played on the right, gain {{KW:TRANSPARENCY}}."
+    "description": "{{KW:MAGIC}}: If played on the left, gain +1 {{HP}} and {{KW:HASTE}}. Otherwise, gain +1 {{ATK}} and {{KW:TRANSPARENCY}}. If you have an ally {{CARD:480|1}}, do both."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, gain +1 {{HP}} and {{KW:HASTE}}. Otherwise, gain +1 {{ATK}} and {{KW:TRANSPARENCY}}. If you have an ally {{CARD:480|1}}, do both.",
+        "prev": "{{KW:MAGIC}}: If played on the left, gain {{KW:HASTE}}. If played on the right, gain {{KW:TRANSPARENCY}}."
+      }
+    }
   }
 }

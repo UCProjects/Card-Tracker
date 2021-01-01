@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -18,33 +18,31 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 520,
-    "fixedId": 520,
+    "id": 541,
+    "fixedId": 541,
     "typeCard": 0,
-    "name": "Abstract Art",
-    "image": "Abstract_Art",
-    "baseImage": "Abstract_Art",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Painting",
+    "image": "Painting",
+    "baseImage": "Painting",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+    "description": "{{KW:MAGIC}}: Add a 1/1 copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "EPIC"
-      }
-    }
+    "changed": {}
   }
 }

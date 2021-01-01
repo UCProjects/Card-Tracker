@@ -10,9 +10,9 @@
     "name": "Poison",
     "image": "Poison",
     "baseImage": "Poison",
-    "cost": 1,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 1,
+    "originalCost": 2,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -27,6 +27,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      }
+    }
   }
 }

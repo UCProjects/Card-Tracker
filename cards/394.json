@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If played on the right, gain {{KW:ARMOR}}. If on the left, gain +1/+1 and {{KW:TAUNT}}."
+    "description": "{{KW:MAGIC}}: If played on the left, gain +1/+1 and {{KW:TAUNT}}. Otherwise, gain {{KW:ARMOR}}. If you have an ally {{CARD:480|1}}, do both."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, gain +1/+1 and {{KW:TAUNT}}. Otherwise, gain {{KW:ARMOR}}. If you have an ally {{CARD:480|1}}, do both.",
+        "prev": "{{KW:MAGIC}}: If played on the right, gain {{KW:ARMOR}}. If on the left, gain +1/+1 and {{KW:TAUNT}}."
+      }
+    }
   }
 }

@@ -1,0 +1,30 @@
+{
+  "card": {
+    "id": 544,
+    "fixedId": 544,
+    "typeCard": 1,
+    "name": "Popato Chisps",
+    "image": "Popato_Chisps",
+    "baseImage": "Popato_Chisps",
+    "cost": 3,
+    "rarity": "TOKEN",
+    "originalCost": 3,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "Add a copy of a monster with a tribe to your hand and give it +1/+1."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

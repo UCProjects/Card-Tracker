@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} spells, restore 6 {{HP}} to yourself."
+    "description": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Restore 6 {{HP}} to yourself."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Restore 6 {{HP}} to yourself.",
+        "prev": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} spells, restore 6 {{HP}} to yourself."
+      }
+    }
   }
 }

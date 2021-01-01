@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,16 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 52,
-    "fixedId": 52,
+    "id": 547,
+    "fixedId": 547,
     "typeCard": 0,
-    "name": "Alphys",
-    "image": "Alphys",
-    "baseImage": "Alphys",
-    "cost": 7,
-    "rarity": "LEGENDARY",
-    "originalCost": 7,
+    "name": "Magic Lantern",
+    "image": "Magic_Lantern",
+    "baseImage": "Magic_Lantern",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,10 +36,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add a {{TRIBE:ROYAL_INVENTION}} of your soul to your hand."
+    "description": "{{KW:MAGIC}}: If you have 5 or more cards in your dustpile, remove 5 random cards from it and deal 3 {{DMG}} to a monster."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

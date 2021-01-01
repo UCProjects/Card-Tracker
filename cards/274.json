@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} cards, choose a card in your hand. Send it to your deck with -4 {{COST}}."
+    "description": "{{KW:NEED}}: Your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Choose a card in your hand. Send it to your deck with -4 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Choose a card in your hand. Send it to your deck with -4 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} cards, choose a card in your hand. Send it to your deck with -4 {{COST}}."
+      }
+    }
   }
 }

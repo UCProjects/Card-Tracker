@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,27 +18,31 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 52,
-    "fixedId": 52,
+    "id": 550,
+    "fixedId": 550,
     "typeCard": 0,
-    "name": "Alphys",
-    "image": "Alphys",
-    "baseImage": "Alphys",
+    "name": "Demon Flowey",
+    "image": "Demon_Flowey",
+    "baseImage": "Demon_Flowey",
     "cost": 7,
-    "rarity": "LEGENDARY",
+    "rarity": "EPIC",
     "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add a {{TRIBE:ROYAL_INVENTION}} of your soul to your hand."
+    "description": "{{KW:MAGIC}}: Choose a card in your dustpile to catch. {{KW:DUST}}: Return it and turn all other cards there into {{CARD:550|1}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

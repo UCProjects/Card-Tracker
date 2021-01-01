@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever you play another {{CARD:295|1}}, remove it and add its {{ATK}} and {{HP}} to this monsters base stats.",
-        "prev": "{{KW:MAGIC}}: If you have another {{CARD:295|1}}, combine them and add its {{ATK}} and {{HP}} to this monster's base stats."
-      }
-    }
+    "changed": {}
   }
 }

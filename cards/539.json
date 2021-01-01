@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 2,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 3,
+    "originalAttack": 2,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -18,33 +18,30 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 520,
-    "fixedId": 520,
+    "id": 539,
+    "fixedId": 539,
     "typeCard": 0,
-    "name": "Abstract Art",
-    "image": "Abstract_Art",
-    "baseImage": "Abstract_Art",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Bone Drawer",
+    "image": "Bone_Drawer",
+    "baseImage": "Bone_Drawer",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+    "description": "{{KW:DUST}}: Add a {{CARD:540|1}} into your dustpile instead of this. If this is still alive, turn into {{CARD:540|1}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "EPIC"
-      }
-    }
+    "changed": {}
   }
 }

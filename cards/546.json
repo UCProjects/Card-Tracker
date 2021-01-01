@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 4,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 520,
-    "fixedId": 520,
+    "id": 546,
+    "fixedId": 546,
     "typeCard": 0,
-    "name": "Abstract Art",
-    "image": "Abstract_Art",
-    "baseImage": "Abstract_Art",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Sadmobile",
+    "image": "Sadmobile",
+    "baseImage": "Sadmobile",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,16 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+    "description": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "EPIC"
-      }
-    }
+    "changed": {}
   }
 }

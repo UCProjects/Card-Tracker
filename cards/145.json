@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Your other non-{{KW:ARMOR}} monsters take 1 less {{DMG}}. (Not stackable)."
+    "description": "{{KW:TAUNT}}. All other non-{{KW:ARMOR}} ally monsters take 1 less {{DMG}} (Can't stack)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. All other non-{{KW:ARMOR}} ally monsters take 1 less {{DMG}} (Can't stack).",
+        "prev": "Your other non-{{KW:ARMOR}} monsters take 1 less {{DMG}}. (Not stackable)."
+      }
+    }
   }
 }

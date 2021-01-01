@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} and non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots.",
-        "prev": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots."
-      }
-    }
+    "changed": {}
   }
 }

@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a {{CARD:479|1}}, {{KW:SILENCE}} this and gain {{KW:CHARGE}}."
+    "description": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a silenced copy of this with {{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a silenced copy of this with {{KW:CHARGE}}.",
+        "prev": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a {{CARD:479|1}}, {{KW:SILENCE}} this and gain {{KW:CHARGE}}."
+      }
+    }
   }
 }

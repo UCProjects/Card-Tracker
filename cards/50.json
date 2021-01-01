@@ -42,19 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "charge": {
-        "now": false,
-        "prev": true
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand.",
-        "prev": "{{KW:CHARGE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

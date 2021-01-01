@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 3,
-    "originalHp": 3,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -37,11 +37,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an {{TRIBE:AMALGAMATE|1}} in your hand +2/+2. {{KW:SYNERGY}}: Give it +3/+3 instead."
+    "description": "{{KW:MAGIC}}: Give an {{TRIBE:AMALGAMATE|1}} in your hand +1/+1. {{KW:SYNERGY}}: Give it +2/+2 instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an {{TRIBE:AMALGAMATE|1}} in your hand +1/+1. {{KW:SYNERGY}}: Give it +2/+2 instead.",
+        "prev": "{{KW:MAGIC}}: Give an {{TRIBE:AMALGAMATE|1}} in your hand +2/+2. {{KW:SYNERGY}}: Give it +3/+3 instead."
+      }
+    }
   }
 }

@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. This takes 1 less {{DMG}} from monsters costing 4 or less."
+    "description": "{{KW:TAUNT}}. Has +1 {{ATK}} while in front of an enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
+      "description": {
+        "now": "{{KW:TAUNT}}. Has +1 {{ATK}} while in front of an enemy monster.",
+        "prev": "{{KW:TAUNT}}. This takes 1 less {{DMG}} from monsters costing 4 or less."
       }
     }
   }

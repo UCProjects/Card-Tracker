@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,33 +18,30 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 520,
-    "fixedId": 520,
+    "id": 543,
+    "fixedId": 543,
     "typeCard": 0,
-    "name": "Abstract Art",
-    "image": "Abstract_Art",
-    "baseImage": "Abstract_Art",
+    "name": "Vending Machine",
+    "image": "Vending_Machine",
+    "baseImage": "Vending_Machine",
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+    "description": "{{KW:DELAY}}: Add a {{CARD:544|1}} to your hand. Give it -1 {{COST}} for every ally tribe."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "EPIC"
-      }
-    }
+    "changed": {}
   }
 }

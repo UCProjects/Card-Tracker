@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. If played on the right, gain +1 {{ATK}} and {{KW:HASTE}}."
+    "description": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. Otherwise, gain +1 {{ATK}} and {{KW:HASTE}}. If you have an ally {{CARD:480|1}}, do both."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. Otherwise, gain +1 {{ATK}} and {{KW:HASTE}}. If you have an ally {{CARD:480|1}}, do both.",
+        "prev": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. If played on the right, gain +1 {{ATK}} and {{KW:HASTE}}."
+      }
+    }
   }
 }

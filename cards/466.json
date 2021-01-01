@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} spells, look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2)."
+    "description": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2).",
+        "prev": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} spells, look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2)."
+      }
+    }
   }
 }

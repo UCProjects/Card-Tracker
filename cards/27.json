@@ -40,23 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a random monster in your hand +1/+1. Repeat this for each other ally monster.",
-        "prev": "{{KW:MAGIC}}: Gain +1/+1 for each other ally monster."
-      }
-    }
+    "changed": {}
   }
 }

@@ -39,9 +39,7 @@
     "description": "{{KW:MAGIC}}: If you have 5 or more cards in your dustpile, remove 5 random cards from it and deal 3 {{DMG}} to a monster."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

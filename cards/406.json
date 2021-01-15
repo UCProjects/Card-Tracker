@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a monster in your hand +2/+2.",
-        "prev": "{{KW:MAGIC}}: Give a monster in your hand +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

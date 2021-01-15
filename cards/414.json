@@ -40,27 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Turn a card in your hand into a copy of a random {{RARITY:EPIC}} monster in your deck or dustpile.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters in your deck and choose one. Give it {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

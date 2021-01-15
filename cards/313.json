@@ -41,42 +41,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "hp": {
-        "now": 2,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "rarity": {
-        "now": "EPIC",
-        "prev": "COMMON"
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: If played on the left, give all other ally {{TRIBE:PIECE|2}} +2 {{ATK}}. Otherwise, give them +2 {{HP}} instead.",
-        "prev": "{{KW:SYNERGY}}: Give +2 {{ATK}} and {{KW:HASTE}} to {{TRIBE:PIECE|2}} at its right and +2 {{HP}} and {{KW:TAUNT}} to {{TRIBE:PIECE|2}} at its left."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

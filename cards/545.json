@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: If your board is filled with 6-{{COST}} monsters, add 6 random 6-{{COST}} monsters to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SHOCK}}: Return 25% of the spell's {{COST}} (rounded up)."
+    "description": "{{KW:SHOCK}}: If the spell wasn't {{KW:GENERATED}}, add a copy of it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: If the spell wasn't {{KW:GENERATED}}, add a copy of it to your hand.",
+        "prev": "{{KW:SHOCK}}: Return 25% of the spell's {{COST}} (rounded up)."
+      }
+    }
   }
 }

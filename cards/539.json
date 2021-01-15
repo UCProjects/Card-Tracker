@@ -38,9 +38,7 @@
     "description": "{{KW:DUST}}: Add a {{CARD:540|1}} into your dustpile instead of this. If this is still alive, turn into {{CARD:540|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

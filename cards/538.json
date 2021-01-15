@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Kill this and summon an exact copy of it."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -24,9 +24,9 @@
     "name": "Long Sink",
     "image": "Long_Sink",
     "baseImage": "Long_Sink",
-    "cost": 4,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_START}}: Restore 2 {{HP}} to itself and its owner. {{KW:SILENCE}} this."
+    "description": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a silenced 2/2 {{CARD:509|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      },
+      "description": {
+        "now": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a silenced 2/2 {{CARD:509|1}}.",
+        "prev": "{{KW:TURN_START}}: Restore 2 {{HP}} to itself and its owner. {{KW:SILENCE}} this."
+      }
+    }
   }
 }

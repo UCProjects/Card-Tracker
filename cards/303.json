@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TRANSPARENCY}}. Has {{ATK}} equal to number of other ally {{TRIBE:PLANT|2}} on board."
+    "description": "{{KW:TRANSPARENCY}}. This has +1 {{ATK}} for every other ally {{TRIBE:PLANT|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. This has +1 {{ATK}} for every other ally {{TRIBE:PLANT|1}}.",
+        "prev": "{{KW:TRANSPARENCY}}. Has {{ATK}} equal to number of other ally {{TRIBE:PLANT|2}} on board."
+      }
+    }
   }
 }

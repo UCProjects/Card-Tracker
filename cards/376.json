@@ -9,6 +9,7 @@
     "cost": 3,
     "rarity": "TOKEN",
     "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -17,11 +18,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
+    "description": "{{KW:SILENCE}} a monster."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SILENCE}} a monster.",
+        "prev": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
+      }
+    }
   }
 }

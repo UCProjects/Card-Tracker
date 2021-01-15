@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Restore 6 {{HP}} to yourself.",
-        "prev": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} spells, restore 6 {{HP}} to yourself."
-      }
-    }
+    "changed": {}
   }
 }

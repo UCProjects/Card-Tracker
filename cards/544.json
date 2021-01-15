@@ -21,9 +21,7 @@
     "description": "Add a copy of a monster with a tribe to your hand and give it +1/+1."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

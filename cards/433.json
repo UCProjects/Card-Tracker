@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand.",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add a random <= 3 {{GOLD}} spell to your hand."
-      }
-    }
+    "changed": {}
   }
 }

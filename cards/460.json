@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Summon 2 {{CARD:373|2}} with +2 {{ATK}}.",
-        "prev": "Summon 2 {{CARD:373|2}} and give all ally {{CARD:373|2}} +2 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -24,9 +24,9 @@
     "name": "Omega Flowey",
     "image": "Omega_Flowey",
     "baseImage": "Omega_Flowey",
-    "cost": 16,
+    "cost": 15,
     "rarity": "DETERMINATION",
-    "originalCost": 16,
+    "originalCost": 15,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 15,
+        "prev": 16
+      },
+      "originalCost": {
+        "now": 15,
+        "prev": 16
+      }
+    }
   }
 }

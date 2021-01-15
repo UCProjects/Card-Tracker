@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_END}}: Give 2 random monsters in your hand +1/+1."
+    "description": "{{KW:TURN_END}}: Give a random monster in your hand +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:TURN_END}}: Give a random monster in your hand +1/+1.",
+        "prev": "{{KW:TURN_END}}: Give 2 random monsters in your hand +1/+1."
+      }
+    }
   }
 }

@@ -24,9 +24,9 @@
     "name": "Robot 98",
     "image": "Robot_98",
     "baseImage": "Robot_98",
-    "cost": 11,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 11,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Can only be damaged by a {{DMG}} of 98 or greater. {{KW:TURN_START}}: {{KW:SILENCE}} this."
+    "description": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has.",
+        "prev": "Can only be damaged by a {{DMG}} of 98 or greater. {{KW:TURN_START}}: {{KW:SILENCE}} this."
+      }
+    }
   }
 }

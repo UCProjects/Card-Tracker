@@ -40,9 +40,7 @@
     "description": "{{KW:MAGIC}}: Choose a card in your dustpile to catch. {{KW:DUST}}: Return it and turn all other cards there into {{CARD:550|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

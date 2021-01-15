@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 7,
     "dodge": 0,
     "armor": false,
@@ -13,10 +13,10 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "id": 507,
     "fixedId": 507,
@@ -24,9 +24,9 @@
     "name": "Fireplace",
     "image": "Fireplace",
     "baseImage": "Fireplace",
-    "cost": 6,
+    "cost": 7,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,40 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
+    "description": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this.",
+        "prev": "{{KW:TAUNT}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
+      }
+    }
   }
 }

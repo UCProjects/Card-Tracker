@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a silenced copy of this with {{KW:CHARGE}}.",
-        "prev": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a {{CARD:479|1}}, {{KW:SILENCE}} this and gain {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

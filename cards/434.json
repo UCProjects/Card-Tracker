@@ -42,35 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 5
-      },
-      "rarity": {
-        "now": "COMMON",
-        "prev": "RARE"
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, give the next {{TRIBE:PIECE|1}} in your deck +1/+1. Otherwise, draw a {{TRIBE:PIECE|1}}. If you have an ally {{CARD:480|1}}, do both.",
-        "prev": "{{KW:MAGIC}}: and {{KW:SYNERGY}}: If played on the left, deal 2 {{DMG}} to a random enemy monster. If played on the right, draw a card."
-      }
-    }
+    "changed": {}
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: Your deck has no {{RARITY:RARE}} or {{RARITY:EPIC}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Draw 3 cards.",
-        "prev": "{{KW:MAGIC}}: If your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} card, draw 3 cards."
-      }
-    }
+    "changed": {}
   }
 }

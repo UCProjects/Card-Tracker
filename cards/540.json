@@ -38,9 +38,7 @@
     "description": "{{KW:ARMOR}}"
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

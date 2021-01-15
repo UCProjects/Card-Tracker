@@ -24,9 +24,9 @@
     "name": "Magic Crystal",
     "image": "Magic_Crystal",
     "baseImage": "Magic_Crystal",
-    "cost": 12,
+    "cost": 9,
     "rarity": "RARE",
-    "originalCost": 12,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,13 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Your spells cost 1 less. This costs 2 less {{GOLD}} for every different spell costing 1 or less {{GOLD}} you played this game."
+    "description": "Your spells cost 1 less. This costs 1 less {{GOLD}} for every different spell costing 1 or less {{GOLD}} you played this game (max: -6)."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 12
+      },
+      "description": {
+        "now": "Your spells cost 1 less. This costs 1 less {{GOLD}} for every different spell costing 1 or less {{GOLD}} you played this game (max: -6).",
+        "prev": "Your spells cost 1 less. This costs 2 less {{GOLD}} for every different spell costing 1 or less {{GOLD}} you played this game."
+      }
+    }
   }
 }

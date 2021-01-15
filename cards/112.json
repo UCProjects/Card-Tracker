@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURBO}}: {{KW:PARALYZE}} a random enemy monster. {{KW:DUST}}: Summon an enemy {{CARD:10|1}}."
+    "description": "{{KW:TURBO}}: Gain +1 {{HP}}. {{KW:DUST}}: Summon an enemy {{CARD:10}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Gain +1 {{HP}}. {{KW:DUST}}: Summon an enemy {{CARD:10}}.",
+        "prev": "{{KW:TURBO}}: {{KW:PARALYZE}} a random enemy monster. {{KW:DUST}}: Summon an enemy {{CARD:10|1}}."
+      }
+    }
   }
 }

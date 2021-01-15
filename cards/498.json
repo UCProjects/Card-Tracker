@@ -37,23 +37,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever you summon a {{TRIBE:SNAIL|1}}, trigger its {{KW:MAGIC}} effect."
+    "description": "Whenever you summon a {{TRIBE:SNAIL|1}} with a base {{COST}} of 2 or less, trigger its {{KW:MAGIC}} effect."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
+      "description": {
+        "now": "Whenever you summon a {{TRIBE:SNAIL|1}} with a base {{COST}} of 2 or less, trigger its {{KW:MAGIC}} effect.",
+        "prev": "Whenever you summon a {{TRIBE:SNAIL|1}}, trigger its {{KW:MAGIC}} effect."
       }
     }
   }

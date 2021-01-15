@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, gain +1/+1 and {{KW:TAUNT}}. Otherwise, gain {{KW:ARMOR}}. If you have an ally {{CARD:480|1}}, do both.",
-        "prev": "{{KW:MAGIC}}: If played on the right, gain {{KW:ARMOR}}. If on the left, gain +1/+1 and {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

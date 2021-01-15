@@ -35,13 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. Whenever this attacks a monster, deal half its {{ATK}} as {{DMG}} to adjacent monsters (rounded down)."
+    "description": "{{KW:CHARGE}}. Whenever this attacks a monster, deal 2 {{DMG}} to the target's adjacent monsters."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. Whenever this attacks a monster, deal 2 {{DMG}} to the target's adjacent monsters.",
+        "prev": "{{KW:CHARGE}}. Whenever this attacks a monster, deal half its {{ATK}} as {{DMG}} to adjacent monsters (rounded down)."
+      }
+    }
   }
 }

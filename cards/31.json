@@ -39,42 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 1
-      },
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Add this to your hand with -1/-1/-1 base stats.",
-        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster if your opponent has as much or more monsters than you on the board."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

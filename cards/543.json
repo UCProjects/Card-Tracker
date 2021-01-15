@@ -38,9 +38,7 @@
     "description": "{{KW:DELAY}}: Add a {{CARD:544|1}} to your hand. Give it -1 {{COST}} for every ally tribe."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

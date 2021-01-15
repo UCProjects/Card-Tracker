@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

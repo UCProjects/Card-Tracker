@@ -40,43 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 2
-      },
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:TOKEN}} {{TRIBE:DOG|3}} and choose one to catch. {{KW:DUST}}: Release it to your hand.",
-        "prev": "{{KW:DUST}}: Summon a random {{TRIBE:DOG|1}}. If its {{COST}} is <= 3, add a {{CARD:195|1}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

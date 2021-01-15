@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 2 random 1-cost monsters from your deck to your hand."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Draw 2 cards costing 1 or less {{GOLD}} from your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Draw 2 cards costing 1 or less {{GOLD}} from your deck.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 2 random 1-cost monsters from your deck to your hand."
+      }
+    }
   }
 }

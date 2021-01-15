@@ -6,9 +6,9 @@
     "name": "Load",
     "image": "Load",
     "baseImage": "Load",
-    "cost": 17,
+    "cost": 18,
     "rarity": "TOKEN",
-    "originalCost": 17,
+    "originalCost": 18,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,6 +22,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 18,
+        "prev": 17
+      },
+      "originalCost": {
+        "now": 18,
+        "prev": 17
+      }
+    }
   }
 }

@@ -25,7 +25,7 @@
     "image": "Gyftrot",
     "baseImage": "Gyftrot",
     "cost": 8,
-    "rarity": "RARE",
+    "rarity": "BASE",
     "originalCost": 8,
     "shiny": false,
     "quantity": 1,
@@ -40,6 +40,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "RARE"
+      }
+    }
   }
 }

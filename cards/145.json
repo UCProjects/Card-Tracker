@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. All other non-{{KW:ARMOR}} ally monsters take 1 less {{DMG}} (Can't stack).",
-        "prev": "Your other non-{{KW:ARMOR}} monsters take 1 less {{DMG}}. (Not stackable)."
-      }
-    }
+    "changed": {}
   }
 }

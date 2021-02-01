@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 7,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 6,
+    "originalAttack": 7,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} itself. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. They {{COST}} 0."
+    "description": "{{KW:MAGIC}}: Silence this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -4 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Silence this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -4 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} itself. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. They {{COST}} 0."
+      }
+    }
   }
 }

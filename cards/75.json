@@ -7,12 +7,13 @@
     "id": 75,
     "fixedId": 75,
     "typeCard": 1,
-    "name": "Snow Storm",
-    "image": "Snow_Storm",
-    "baseImage": "Snow_Storm",
-    "cost": 7,
+    "name": "Self Reflection",
+    "image": "Self_Reflection",
+    "baseImage": "Self_Reflection",
+    "cost": 3,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 3,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,38 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Kill all paralyzed monsters in play."
+    "description": "{{KW:PARALYZE}} an enemy monster. {{KW:DELAY}}: Add {{CARD:551|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Self Reflection",
+        "prev": "Snow Storm"
+      },
+      "image": {
+        "now": "Self_Reflection",
+        "prev": "Snow_Storm"
+      },
+      "baseImage": {
+        "now": "Self_Reflection",
+        "prev": "Snow_Storm"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:PARALYZE}} an enemy monster. {{KW:DELAY}}: Add {{CARD:551|1}} to your hand.",
+        "prev": "Kill all paralyzed monsters in play."
+      }
+    }
   }
 }

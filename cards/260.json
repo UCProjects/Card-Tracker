@@ -13,6 +13,7 @@
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Add an {{CARD:10|1}}, {{CARD:9|1}} and {{CARD:31|1}} to your hand."
+    "description": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster.",
+        "prev": "Add an {{CARD:10|1}}, {{CARD:9|1}} and {{CARD:31|1}} to your hand."
+      }
+    }
   }
 }

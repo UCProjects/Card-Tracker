@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 0,
+    "attack": 1,
     "hp": 1,
     "maxHp": 1,
-    "originalAttack": 0,
+    "originalAttack": 1,
     "originalHp": 1,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,9 @@
     "name": "Spincake",
     "image": "Spincake",
     "baseImage": "Spincake",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

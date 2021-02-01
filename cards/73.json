@@ -10,10 +10,9 @@
     "name": "Cold Winter",
     "image": "Cold_Winter",
     "baseImage": "Cold_Winter",
-    "cost": 4,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +21,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead."
+    "description": "Look at {{CARD:9|1}}, {{CARD:10|1}} and {{CARD:31|1}} and choose one to burn. Add the others to your hand."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Look at {{CARD:9|1}}, {{CARD:10|1}} and {{CARD:31|1}} and choose one to burn. Add the others to your hand.",
+        "prev": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead."
+      }
+    }
   }
 }

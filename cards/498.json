@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever you summon a {{TRIBE:SNAIL|1}} with a base {{COST}} of 2 or less, trigger its {{KW:MAGIC}} effect.",
-        "prev": "Whenever you summon a {{TRIBE:SNAIL|1}}, trigger its {{KW:MAGIC}} effect."
-      }
-    }
+    "changed": {}
   }
 }

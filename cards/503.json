@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Send a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -1 {{COST}}."
+    "description": "{{KW:MAGIC}}: Add a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -2 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Send a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -1 {{COST}}."
+      }
+    }
   }
 }

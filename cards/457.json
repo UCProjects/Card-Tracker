@@ -10,9 +10,9 @@
     "name": "Exploration",
     "image": "Exploration",
     "baseImage": "Exploration",
-    "cost": 2,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at 5 cards at the top of your deck and choose one to draw."
+    "description": "Draw a card from the bottom of your deck. {{KW:DELAY}}: Draw 2 cards from the bottom of your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Draw a card from the bottom of your deck. {{KW:DELAY}}: Draw 2 cards from the bottom of your deck.",
+        "prev": "Look at 5 cards at the top of your deck and choose one to draw."
+      }
+    }
   }
 }

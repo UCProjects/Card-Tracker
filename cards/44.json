@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "RARE"
-      }
-    }
+    "changed": {}
   }
 }

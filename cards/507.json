@@ -40,35 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this.",
-        "prev": "{{KW:TAUNT}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
-      }
-    }
+    "changed": {}
   }
 }

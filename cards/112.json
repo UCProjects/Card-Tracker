@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Gain +1 {{HP}}. {{KW:DUST}}: Summon an enemy {{CARD:10}}.",
-        "prev": "{{KW:TURBO}}: {{KW:PARALYZE}} a random enemy monster. {{KW:DUST}}: Summon an enemy {{CARD:10|1}}."
-      }
-    }
+    "changed": {}
   }
 }

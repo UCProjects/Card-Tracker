@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "Whenever you play a monster, deal 1 {{DMG}} to it.",
-        "prev": "Whenever you play a monster, deal 1 {{DMG}} to this."
-      }
-    }
+    "changed": {}
   }
 }

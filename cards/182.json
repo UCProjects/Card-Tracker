@@ -7,12 +7,13 @@
     "id": 182,
     "fixedId": 182,
     "typeCard": 1,
-    "name": "Brain Freeze",
-    "image": "Brain_Freeze",
-    "baseImage": "Brain_Freeze",
-    "cost": 6,
+    "name": "Ice Prison",
+    "image": "Ice_Prison",
+    "baseImage": "Ice_Prison",
+    "cost": 3,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,38 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn."
+    "description": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Ice Prison",
+        "prev": "Brain Freeze"
+      },
+      "image": {
+        "now": "Ice_Prison",
+        "prev": "Brain_Freeze"
+      },
+      "baseImage": {
+        "now": "Ice_Prison",
+        "prev": "Brain_Freeze"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck.",
+        "prev": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn."
+      }
+    }
   }
 }

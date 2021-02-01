@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "armor": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      },
-      "description": {
-        "now": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 2 {{DMG}} to your opponent.",
-        "prev": "{{KW:ARMOR}}. Whenever this takes {{DMG}}, shuffle a {{CARD:367|1}} into the opponent's deck."
-      }
-    }
+    "changed": {}
   }
 }

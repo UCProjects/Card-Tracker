@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 11
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has.",
-        "prev": "Can only be damaged by a {{DMG}} of 98 or greater. {{KW:TURN_START}}: {{KW:SILENCE}} this."
-      }
-    }
+    "changed": {}
   }
 }

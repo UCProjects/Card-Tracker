@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DISARMED}}. Whenever an enemy monster attacks, deal 1 {{DMG}} to this. {{KW:MAGIC}}: Catch a {{CARD:48|1}}. {{KW:DUST}}: Release it.",
-        "prev": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
-      }
-    }
+    "changed": {}
   }
 }

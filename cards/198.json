@@ -36,11 +36,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Turn a monster into a random monster of the same {{COST}}."
+    "description": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}. If there are none, do nothing."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}. If there are none, do nothing.",
+        "prev": "{{KW:MAGIC}}: Turn a monster into a random monster of the same {{COST}}."
+      }
+    }
   }
 }

@@ -24,9 +24,9 @@
     "name": "Tombstone",
     "image": "Tombstone",
     "baseImage": "Tombstone",
-    "cost": 13,
+    "cost": 14,
     "rarity": "EPIC",
-    "originalCost": 13,
+    "originalCost": 14,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 14,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 13
+      }
+    }
   }
 }

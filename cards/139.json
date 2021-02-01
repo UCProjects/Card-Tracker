@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 3,
-    "originalHp": 6,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -16,7 +16,7 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "id": 139,
     "fixedId": 139,
@@ -24,9 +24,9 @@
     "name": "Trader Temmie",
     "image": "Trader_Temmie",
     "baseImage": "Trader_Temmie",
-    "cost": 5,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,11 +37,48 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1."
+    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: Add a random spell costing 1 or less {{GOLD}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: Add a random spell costing 1 or less {{GOLD}} to your hand.",
+        "prev": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1."
+      }
+    }
   }
 }

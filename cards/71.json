@@ -7,13 +7,13 @@
     "id": 71,
     "fixedId": 71,
     "typeCard": 1,
-    "name": "Protection",
-    "image": "Protection",
-    "baseImage": "Protection",
-    "cost": 1,
-    "rarity": "BASE",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "name": "Frozen Energy",
+    "image": "Frozen_Energy",
+    "baseImage": "Frozen_Energy",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give {{KW:TAUNT}} to an ally monster. Draw a card."
+    "description": "Give a monster +2/+2 and {{KW:HASTE}}. {{KW:DELAY}}: If its {{COST}} is the same as its base {{COST}}, {{KW:PARALYZE}} it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Frozen Energy",
+        "prev": "Protection"
+      },
+      "image": {
+        "now": "Frozen_Energy",
+        "prev": "Protection"
+      },
+      "baseImage": {
+        "now": "Frozen_Energy",
+        "prev": "Protection"
+      },
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALLY_MONSTER"
+      },
+      "description": {
+        "now": "Give a monster +2/+2 and {{KW:HASTE}}. {{KW:DELAY}}: If its {{COST}} is the same as its base {{COST}}, {{KW:PARALYZE}} it.",
+        "prev": "Give {{KW:TAUNT}} to an ally monster. Draw a card."
+      }
+    }
   }
 }

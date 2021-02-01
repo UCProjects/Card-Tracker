@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:TURN_END}}: Give a random monster in your hand +1/+1.",
-        "prev": "{{KW:TURN_END}}: Give 2 random monsters in your hand +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

@@ -24,9 +24,9 @@
     "name": "Blockler O",
     "image": "Blockler_O",
     "baseImage": "Blockler_O",
-    "cost": 5,
+    "cost": 3,
     "rarity": "TOKEN",
-    "originalCost": 5,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
   }
 }

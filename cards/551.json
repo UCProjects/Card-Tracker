@@ -1,0 +1,33 @@
+{
+  "card": {
+    "soul": {
+      "id": 6,
+      "name": "PATIENCE"
+    },
+    "id": 551,
+    "fixedId": 551,
+    "typeCard": 1,
+    "name": "True Self",
+    "image": "True_Self",
+    "baseImage": "True_Self",
+    "cost": 6,
+    "rarity": "TOKEN",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "Kill all non-paralyzed monsters."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

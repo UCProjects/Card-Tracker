@@ -1,0 +1,33 @@
+{
+  "card": {
+    "soul": {
+      "id": 6,
+      "name": "PATIENCE"
+    },
+    "id": 552,
+    "fixedId": 552,
+    "typeCard": 1,
+    "name": "Change of Winds",
+    "image": "Change_of_Winds",
+    "baseImage": "Change_of_Winds",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "Look at the next 2 cards in your deck and choose one. Send it to the bottom of your deck and give it -1 cost. Draw a card."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -40,23 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a 1/2 base stats {{CARD:306|1}}. Spend up to 2 {{GOLD}} and give it +1/+1 for each {{GOLD}} spent.",
-        "prev": "{{KW:DUST}}: Summon a 2/2 {{CARD:306|1}}."
-      }
-    }
+    "changed": {}
   }
 }

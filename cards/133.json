@@ -10,10 +10,9 @@
     "name": "Fridge",
     "image": "Fridge",
     "baseImage": "Fridge",
-    "cost": 1,
-    "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "cost": 2,
+    "rarity": "BASE",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +21,30 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
+    "description": "Look at {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}}. Choose one to add to your hand with +2/+2."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Look at {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}}. Choose one to add to your hand with +2/+2.",
+        "prev": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
+      }
+    }
   }
 }

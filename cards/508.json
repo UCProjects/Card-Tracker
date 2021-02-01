@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SHOCK}}: If the spell wasn't {{KW:GENERATED}}, add a copy of it to your hand.",
-        "prev": "{{KW:SHOCK}}: Return 25% of the spell's {{COST}} (rounded up)."
-      }
-    }
+    "changed": {}
   }
 }

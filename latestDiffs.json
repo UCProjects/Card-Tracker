@@ -162,34 +162,12 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "DOG"
-        ]
-      }
-    }
+    "changed": {}
   },
   "34": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "FROGGIT"
-        ]
-      }
-    }
+    "changed": {}
   },
   "35": {
     "added": {},
@@ -209,22 +187,12 @@
   "38": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      }
-    }
+    "changed": {}
   },
   "39": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      }
-    }
+    "changed": {}
   },
   "40": {
     "added": {},
@@ -249,12 +217,7 @@
   "44": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "RARE"
-      }
-    }
+    "changed": {}
   },
   "45": {
     "added": {},
@@ -284,7 +247,20 @@
   "50": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "charge": {
+        "now": true,
+        "prev": false
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:DELAY}}: Add a {{CARD:356|1}} to your hand.",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{CARD:356|1}} to your hand."
+      }
+    }
   },
   "51": {
     "added": {},
@@ -389,27 +365,128 @@
   "71": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Frozen Energy",
+        "prev": "Protection"
+      },
+      "image": {
+        "now": "Frozen_Energy",
+        "prev": "Protection"
+      },
+      "baseImage": {
+        "now": "Frozen_Energy",
+        "prev": "Protection"
+      },
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALLY_MONSTER"
+      },
+      "description": {
+        "now": "Give a monster +2/+2 and {{KW:HASTE}}. {{KW:DELAY}}: If its {{COST}} is the same as its base {{COST}}, {{KW:PARALYZE}} it.",
+        "prev": "Give {{KW:TAUNT}} to an ally monster. Draw a card."
+      }
+    }
   },
   "72": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Melt",
+        "prev": "Slowing"
+      },
+      "image": {
+        "now": "Melt",
+        "prev": "Slowing"
+      },
+      "baseImage": {
+        "now": "Melt",
+        "prev": "Slowing"
+      },
+      "target": {
+        "now": "ALLY_MONSTER",
+        "prev": "ENEMY_MONSTER"
+      },
+      "description": {
+        "now": "Deal an ally monster's {{HP}} as {{DMG}} to the monster in front of it.",
+        "prev": "Send a paralyzed enemy monster to your opponent's deck."
+      }
+    }
   },
   "73": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Look at {{CARD:9|1}}, {{CARD:10|1}} and {{CARD:31|1}} and choose one to burn. Add the others to your hand.",
+        "prev": "{{KW:PARALYZE}} an enemy monster and the one on its left. If already paralyzed, deal 2 {{DMG}} to it instead."
+      }
+    }
   },
   "74": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 3 {{DMG}} to all damaged monsters. {{KW:DELAY}}: Deal 1 {{DMG}} to all monsters.",
+        "prev": "Deal {{DMG:1}} to all enemy monsters. If paralyzed, deal {{DMG:3}} instead."
+      }
+    }
   },
   "75": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Self Reflection",
+        "prev": "Snow Storm"
+      },
+      "image": {
+        "now": "Self_Reflection",
+        "prev": "Snow_Storm"
+      },
+      "baseImage": {
+        "now": "Self_Reflection",
+        "prev": "Snow_Storm"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:PARALYZE}} an enemy monster. {{KW:DELAY}}: Add {{CARD:551|1}} to your hand.",
+        "prev": "Kill all paralyzed monsters in play."
+      }
+    }
   },
   "76": {
     "added": {},
@@ -449,16 +526,7 @@
   "83": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "84": {
     "added": {},
@@ -583,16 +651,7 @@
   "108": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "109": {
     "added": {},
@@ -612,12 +671,7 @@
   "112": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Gain +1 {{HP}}. {{KW:DUST}}: Summon an enemy {{CARD:10}}.",
-        "prev": "{{KW:TURBO}}: {{KW:PARALYZE}} a random enemy monster. {{KW:DUST}}: Summon an enemy {{CARD:10|1}}."
-      }
-    }
+    "changed": {}
   },
   "113": {
     "added": {},
@@ -642,16 +696,7 @@
   "117": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 15,
-        "prev": 16
-      },
-      "originalCost": {
-        "now": 15,
-        "prev": 16
-      }
-    }
+    "changed": {}
   },
   "118": {
     "added": {},
@@ -681,16 +726,7 @@
   "123": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "124": {
     "added": {},
@@ -739,8 +775,27 @@
   },
   "133": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Look at {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}}. Choose one to add to your hand with +2/+2.",
+        "prev": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
+      }
+    }
   },
   "134": {
     "added": {},
@@ -770,7 +825,44 @@
   "139": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: Add a random spell costing 1 or less {{GOLD}} to your hand.",
+        "prev": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1."
+      }
+    }
   },
   "140": {
     "added": {},
@@ -835,7 +927,40 @@
   "152": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 5
+      },
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 5,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1.",
+        "prev": "{{KW:MAGIC}}: Increase the {{COST}} of all spells in opponent's hand by 1."
+      }
+    }
   },
   "153": {
     "added": {},
@@ -850,12 +975,7 @@
   "160": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DISARMED}}. Whenever an enemy monster attacks, deal 1 {{DMG}} to this. {{KW:MAGIC}}: Catch a {{CARD:48|1}}. {{KW:DUST}}: Release it.",
-        "prev": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this takes 1 {{DMG}}. {{KW:DUST}}: Summon a {{CARD:48|1}}."
-      }
-    }
+    "changed": {}
   },
   "161": {
     "added": {},
@@ -917,27 +1037,48 @@
     "removed": {},
     "changed": {
       "hp": {
-        "now": 3,
-        "prev": 2
+        "now": 4,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 2
+        "now": 4,
+        "prev": 3
       },
       "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "Whenever you play a {{TRIBE:TEMMIE|1}}, deal 1 {{DMG}} to this and all enemy monsters.",
-        "prev": "Whenever you summon a {{TRIBE:TEMMIE|1}} (Except {{CARD:172|1}}), deal 1 {{DMG}} to all enemy monsters."
+        "now": 4,
+        "prev": 3
       }
     }
   },
   "173": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      },
+      "description": {
+        "now": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +2 {{ATK}}.",
+        "prev": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give +1/+1 to the summoned {{TRIBE:TEMMIE|1}}. If it has {{KW:HASTE}}, give it +2/+2 instead."
+      }
+    }
   },
   "174": {
     "added": {},
@@ -980,9 +1121,36 @@
     "changed": {}
   },
   "182": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Ice Prison",
+        "prev": "Brain Freeze"
+      },
+      "image": {
+        "now": "Ice_Prison",
+        "prev": "Brain_Freeze"
+      },
+      "baseImage": {
+        "now": "Ice_Prison",
+        "prev": "Brain_Freeze"
+      },
+      "cost": {
+        "now": 3,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck.",
+        "prev": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn."
+      }
+    }
   },
   "183": {
     "added": {},
@@ -1052,7 +1220,12 @@
   "198": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}. If there are none, do nothing.",
+        "prev": "{{KW:MAGIC}}: Turn a monster into a random monster of the same {{COST}}."
+      }
+    }
   },
   "199": {
     "added": {},
@@ -1162,12 +1335,7 @@
   "235": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
-      }
-    }
+    "changed": {}
   },
   "236": {
     "added": {},
@@ -1237,20 +1405,7 @@
   "249": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 11
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has.",
-        "prev": "Can only be damaged by a {{DMG}} of 98 or greater. {{KW:TURN_START}}: {{KW:SILENCE}} this."
-      }
-    }
+    "changed": {}
   },
   "250": {
     "added": {},
@@ -1303,9 +1458,16 @@
     "changed": {}
   },
   "260": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster.",
+        "prev": "Add an {{CARD:10|1}}, {{CARD:9|1}} and {{CARD:31|1}} to your hand."
+      }
+    }
   },
   "261": {
     "added": {},
@@ -1315,20 +1477,7 @@
   "262": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "263": {
     "added": {},
@@ -1353,7 +1502,16 @@
   "267": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 14,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 13
+      }
+    }
   },
   "270": {
     "added": {},
@@ -1393,12 +1551,7 @@
   "277": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Draw 2 cards costing 1 or less {{GOLD}} from your deck.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 2 random 1-cost monsters from your deck to your hand."
-      }
-    }
+    "changed": {}
   },
   "278": {
     "added": {},
@@ -1418,7 +1571,12 @@
   "281": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain {{ATK}} and {{HP}} equal to its {{COST}}.",
+        "prev": "{{KW:CHARGE}}. When you summon a monster with more {{ATK}} than this, gain +1/+1."
+      }
+    }
   },
   "282": {
     "added": {},
@@ -1463,24 +1621,7 @@
   "292": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 9,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 8
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 5 {{DMG}} to this.",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG:4}} to itself."
-      }
-    }
+    "changed": {}
   },
   "293": {
     "added": {},
@@ -1530,38 +1671,12 @@
   "302": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "303": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. This has +1 {{ATK}} for every other ally {{TRIBE:PLANT|1}}.",
-        "prev": "{{KW:TRANSPARENCY}}. Has {{ATK}} equal to number of other ally {{TRIBE:PLANT|2}} on board."
-      }
-    }
+    "changed": {}
   },
   "306": {
     "added": {},
@@ -1666,7 +1781,20 @@
   "356": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "charge": {
+        "now": false,
+        "prev": true
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:HASTE}}.",
+        "prev": "{{KW:CHARGE}}."
+      }
+    }
   },
   "357": {
     "added": {},
@@ -1678,12 +1806,12 @@
     "removed": {},
     "changed": {
       "cost": {
-        "now": 18,
-        "prev": 17
+        "now": 16,
+        "prev": 18
       },
       "originalCost": {
-        "now": 18,
-        "prev": 17
+        "now": 16,
+        "prev": 18
       }
     }
   },
@@ -1773,21 +1901,27 @@
     "changed": {}
   },
   "376": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SILENCE}} a monster.",
-        "prev": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
-      }
-    }
+    "changed": {}
   },
   "377": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 2,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 1
+      }
+    }
   },
   "378": {
     "added": {},
@@ -1822,24 +1956,7 @@
   "386": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. This has +1 {{ATK}} for every other {{CARD:386|2}} you played this game.",
-        "prev": "{{KW:HASTE}}. Has +1/+1 for each {{CARD:386|1}} you've played this game."
-      }
-    }
+    "changed": {}
   },
   "389": {
     "added": {},
@@ -1854,7 +1971,12 @@
   "391": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's damaged, deal 4 {{DMG}} instead.",
+        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead."
+      }
+    }
   },
   "392": {
     "added": {},
@@ -1939,20 +2061,7 @@
   "408": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "{{KW:TURN_END}}: Give a random monster in your hand +1/+1.",
-        "prev": "{{KW:TURN_END}}: Give 2 random monsters in your hand +1/+1."
-      }
-    }
+    "changed": {}
   },
   "409": {
     "added": {},
@@ -2002,7 +2111,40 @@
   "418": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 5
+      },
+      "hp": {
+        "now": 7,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 4
+      },
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose a card in your hand to send to your deck.",
+        "prev": "{{KW:MAGIC}}: Choose a monster in your hand. Shuffle it into your deck with +2/+2 and {{KW:CANDY}}."
+      }
+    }
   },
   "419": {
     "added": {},
@@ -2102,7 +2244,20 @@
   "438": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 0
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever you cast a spell, this gets +2 {{ATK}} until the start of your next turn.",
+        "prev": "{{KW:HASTE}}. Whenever you cast a spell, this has +4 {{ATK}} until the start of your next turn."
+      }
+    }
   },
   "439": {
     "added": {},
@@ -2197,7 +2352,20 @@
   "457": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Draw a card from the bottom of your deck. {{KW:DELAY}}: Draw 2 cards from the bottom of your deck.",
+        "prev": "Look at 5 cards at the top of your deck and choose one to draw."
+      }
+    }
   },
   "458": {
     "added": {},
@@ -2207,7 +2375,24 @@
   "459": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   },
   "460": {
     "added": {},
@@ -2237,7 +2422,20 @@
   "465": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   },
   "466": {
     "added": {},
@@ -2247,24 +2445,7 @@
   "467": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a 1/2 base stats {{CARD:306|1}}. Spend up to 2 {{GOLD}} and give it +1/+1 for each {{GOLD}} spent.",
-        "prev": "{{KW:DUST}}: Summon a 2/2 {{CARD:306|1}}."
-      }
-    }
+    "changed": {}
   },
   "468": {
     "added": {},
@@ -2279,7 +2460,16 @@
   "470": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
   },
   "471": {
     "added": {},
@@ -2314,7 +2504,18 @@
   "477": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "ARACHNID",
+          "PLANT"
+        ],
+        "prev": [
+          "PLANT",
+          "ARACHNID"
+        ]
+      }
+    }
   },
   "478": {
     "added": {},
@@ -2419,12 +2620,7 @@
   "498": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever you summon a {{TRIBE:SNAIL|1}} with a base {{COST}} of 2 or less, trigger its {{KW:MAGIC}} effect.",
-        "prev": "Whenever you summon a {{TRIBE:SNAIL|1}}, trigger its {{KW:MAGIC}} effect."
-      }
-    }
+    "changed": {}
   },
   "499": {
     "added": {},
@@ -2444,12 +2640,30 @@
   "502": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Silence this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -4 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} itself. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. They {{COST}} 0."
+      }
+    }
   },
   "503": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -2 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Send a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -1 {{COST}}."
+      }
+    }
   },
   "504": {
     "added": {},
@@ -2469,64 +2683,17 @@
   "507": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this.",
-        "prev": "{{KW:TAUNT}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
-      }
-    }
+    "changed": {}
   },
   "508": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SHOCK}}: If the spell wasn't {{KW:GENERATED}}, add a copy of it to your hand.",
-        "prev": "{{KW:SHOCK}}: Return 25% of the spell's {{COST}} (rounded up)."
-      }
-    }
+    "changed": {}
   },
   "509": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 4
-      },
-      "description": {
-        "now": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a silenced 2/2 {{CARD:509|1}}.",
-        "prev": "{{KW:TURN_START}}: Restore 2 {{HP}} to itself and its owner. {{KW:SILENCE}} this."
-      }
-    }
+    "changed": {}
   },
   "510": {
     "added": {},
@@ -2581,36 +2748,7 @@
   "520": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "521": {
     "added": {},
@@ -2640,32 +2778,7 @@
   "526": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "armor": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      },
-      "description": {
-        "now": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 2 {{DMG}} to your opponent.",
-        "prev": "{{KW:ARMOR}}. Whenever this takes {{DMG}}, shuffle a {{CARD:367|1}} into the opponent's deck."
-      }
-    }
+    "changed": {}
   },
   "527": {
     "added": {},
@@ -2745,20 +2858,7 @@
   "542": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "Whenever you play a monster, deal 1 {{DMG}} to it.",
-        "prev": "Whenever you play a monster, deal 1 {{DMG}} to this."
-      }
-    }
+    "changed": {}
   },
   "543": {
     "added": {},
@@ -2788,33 +2888,29 @@
   "548": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 12
-      },
-      "description": {
-        "now": "Your spells cost 1 less. This costs 1 less {{GOLD}} for every different spell costing 1 or less {{GOLD}} you played this game (max: -6).",
-        "prev": "Your spells cost 1 less. This costs 2 less {{GOLD}} for every different spell costing 1 or less {{GOLD}} you played this game."
-      }
-    }
+    "changed": {}
   },
   "549": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. Whenever this attacks a monster, deal 2 {{DMG}} to the target's adjacent monsters.",
-        "prev": "{{KW:CHARGE}}. Whenever this attacks a monster, deal half its {{ATK}} as {{DMG}} to adjacent monsters (rounded down)."
-      }
-    }
+    "changed": {}
   },
   "550": {
     "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "551": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "552": {
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

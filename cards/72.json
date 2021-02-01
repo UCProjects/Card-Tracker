@@ -7,13 +7,13 @@
     "id": 72,
     "fixedId": 72,
     "typeCard": 1,
-    "name": "Slowing",
-    "image": "Slowing",
-    "baseImage": "Slowing",
+    "name": "Melt",
+    "image": "Melt",
+    "baseImage": "Melt",
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
-    "target": "ENEMY_MONSTER",
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,32 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Send a paralyzed enemy monster to your opponent's deck."
+    "description": "Deal an ally monster's {{HP}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Melt",
+        "prev": "Slowing"
+      },
+      "image": {
+        "now": "Melt",
+        "prev": "Slowing"
+      },
+      "baseImage": {
+        "now": "Melt",
+        "prev": "Slowing"
+      },
+      "target": {
+        "now": "ALLY_MONSTER",
+        "prev": "ENEMY_MONSTER"
+      },
+      "description": {
+        "now": "Deal an ally monster's {{HP}} as {{DMG}} to the monster in front of it.",
+        "prev": "Send a paralyzed enemy monster to your opponent's deck."
+      }
+    }
   }
 }

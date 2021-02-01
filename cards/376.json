@@ -21,15 +21,8 @@
     "description": "{{KW:SILENCE}} a monster."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SILENCE}} a monster.",
-        "prev": "{{KW:SILENCE}} all enemy {{CARD:287|1}}."
-      }
-    }
+    "changed": {}
   }
 }

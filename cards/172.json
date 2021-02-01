@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 2,
-    "originalHp": 3,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -44,20 +44,16 @@
     "removed": {},
     "changed": {
       "hp": {
-        "now": 3,
-        "prev": 2
+        "now": 4,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 2
+        "now": 4,
+        "prev": 3
       },
       "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "Whenever you play a {{TRIBE:TEMMIE|1}}, deal 1 {{DMG}} to this and all enemy monsters.",
-        "prev": "Whenever you summon a {{TRIBE:TEMMIE|1}} (Except {{CARD:172|1}}), deal 1 {{DMG}} to all enemy monsters."
+        "now": 4,
+        "prev": 3
       }
     }
   }

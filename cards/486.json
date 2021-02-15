@@ -10,9 +10,9 @@
     "name": "Royal Integrity",
     "image": "Royal_Integrity",
     "baseImage": "Royal_Integrity",
-    "cost": 2,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 2,
+    "originalCost": 0,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -24,11 +24,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Add an exact copy of an ally monster to your hand (Except {{CARD:52|1}})."
+    "description": "Add an exact copy of an ally monster to your hand with +2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 2
+      },
+      "description": {
+        "now": "Add an exact copy of an ally monster to your hand with +2 {{COST}}.",
+        "prev": "Add an exact copy of an ally monster to your hand (Except {{CARD:52|1}})."
+      }
+    }
   }
 }

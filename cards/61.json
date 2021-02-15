@@ -24,9 +24,9 @@
     "name": "Asgore",
     "image": "Asgore",
     "baseImage": "Asgore",
-    "cost": 14,
+    "cost": 12,
     "rarity": "LEGENDARY",
-    "originalCost": 14,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 14
+      }
+    }
   }
 }

@@ -24,9 +24,7 @@
     "description": "Look at the next 2 cards in your deck and choose one. Send it to the bottom of your deck and give it -1 cost. Draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

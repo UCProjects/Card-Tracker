@@ -22,37 +22,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck."
+    "description": "{{KW:SILENCE}} an enemy monster. {{KW:PARALYZE}} it."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "name": {
-        "now": "Ice Prison",
-        "prev": "Brain Freeze"
-      },
-      "image": {
-        "now": "Ice_Prison",
-        "prev": "Brain_Freeze"
-      },
-      "baseImage": {
-        "now": "Ice_Prison",
-        "prev": "Brain_Freeze"
-      },
-      "cost": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 6
-      },
       "description": {
-        "now": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck.",
-        "prev": "Trigger all ally {{KW:TURN_START}} and {{KW:TURN_END}} effects. Draw a card. End your turn."
+        "now": "{{KW:SILENCE}} an enemy monster. {{KW:PARALYZE}} it.",
+        "prev": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck."
       }
     }
   }

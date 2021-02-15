@@ -23,11 +23,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Your passive triggers an additional time."
+    "description": "Add the {{ARTIFACT:37}} artifact."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add the {{ARTIFACT:37}} artifact.",
+        "prev": "Your passive triggers an additional time."
+      }
+    }
   }
 }

@@ -42,19 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "charge": {
-        "now": false,
-        "prev": true
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:HASTE}}.",
-        "prev": "{{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

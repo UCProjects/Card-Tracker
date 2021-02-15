@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 10,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 10,
-    "originalHp": 10,
+    "attack": 9,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 9,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "The Heroine",
     "image": "The_Heroine",
     "baseImage": "The_Heroine",
-    "cost": 16,
+    "cost": 13,
     "rarity": "DETERMINATION",
-    "originalCost": 16,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Instead of dying, return to its base state with -2/-2."
+    "description": "Instead of dying, return to its base stats with -3/-3."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 9,
+        "prev": 10
+      },
+      "hp": {
+        "now": 9,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalAttack": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "cost": {
+        "now": 13,
+        "prev": 16
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 16
+      },
+      "description": {
+        "now": "Instead of dying, return to its base stats with -3/-3.",
+        "prev": "Instead of dying, return to its base state with -2/-2."
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Bookshelf",
     "image": "Bookshelf",
     "baseImage": "Bookshelf",
-    "cost": 7,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2)."
+    "description": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} Spells. {{KW:MAGIC}}: Look at all spells of your Soul and choose one to add to your hand. Give it -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 5
+      },
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} Spells. {{KW:MAGIC}}: Look at all spells of your Soul and choose one to add to your hand. Give it -2 {{COST}}.",
+        "prev": "{{KW:NEED}}: Your deck has no spells (except {{KW:GENERATED}} spells). {{KW:MAGIC}}: Look at all spells of your Soul. Choose one to add to your hand with -3 {{COST}} (not below 2)."
+      }
+    }
   }
 }

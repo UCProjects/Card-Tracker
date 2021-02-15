@@ -10,9 +10,10 @@
     "name": "Royal Perseverance",
     "image": "Royal_Perseverance",
     "baseImage": "Royal_Perseverance",
-    "cost": 3,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 2,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,11 +24,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:PARALYZE}} all monsters under {{KR}}. Draw a card."
+    "description": "Deal 3 {{DMG}} to a monster and give it {{KR}}. If it already has {{KR}}, deal 6 {{DMG}} instead and deal excess {{DMG}} to the opponent."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "description": {
+        "now": "Deal 3 {{DMG}} to a monster and give it {{KR}}. If it already has {{KR}}, deal 6 {{DMG}} instead and deal excess {{DMG}} to the opponent.",
+        "prev": "{{KW:PARALYZE}} all monsters under {{KR}}. Draw a card."
+      }
+    }
   }
 }

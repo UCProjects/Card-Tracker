@@ -25,15 +25,8 @@
     "description": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster.",
-        "prev": "Add an {{CARD:10|1}}, {{CARD:9|1}} and {{CARD:31|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

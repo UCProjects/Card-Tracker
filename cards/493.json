@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Summon 2 random different 1-{{COST}} {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}} effects."
+    "description": "{{KW:DUST}}: Summon a {{CARD:224|1}} and a {{CARD:223|1}}. Randomly trigger one of their {{KW:MAGIC}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Summon a {{CARD:224|1}} and a {{CARD:223|1}}. Randomly trigger one of their {{KW:MAGIC}}.",
+        "prev": "{{KW:DUST}}: Summon 2 random different 1-{{COST}} {{TRIBE:SNAIL|2}} and trigger their {{KW:MAGIC}} effects."
+      }
+    }
   }
 }

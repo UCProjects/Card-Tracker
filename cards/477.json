@@ -31,8 +31,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "ARACHNID",
-      "PLANT"
+      "PLANT",
+      "ARACHNID"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -46,12 +46,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "ARACHNID",
-          "PLANT"
-        ],
-        "prev": [
           "PLANT",
           "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
         ]
       }
     }

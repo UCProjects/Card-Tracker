@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 7,
-    "hp": 9,
-    "maxHp": 9,
+    "hp": 8,
+    "maxHp": 8,
     "originalAttack": 7,
-    "originalHp": 9,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Undyne",
     "image": "Undyne",
     "baseImage": "Undyne",
-    "cost": 14,
+    "cost": 13,
     "rarity": "LEGENDARY",
-    "originalCost": 14,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,6 +42,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 8,
+        "prev": 9
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 9
+      },
+      "cost": {
+        "now": 13,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 14
+      }
+    }
   }
 }

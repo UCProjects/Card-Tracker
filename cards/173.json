@@ -35,35 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +2 {{ATK}}."
+    "description": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "cost": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 5
-      },
       "description": {
-        "now": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +2 {{ATK}}.",
-        "prev": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give +1/+1 to the summoned {{TRIBE:TEMMIE|1}}. If it has {{KW:HASTE}}, give it +2/+2 instead."
+        "now": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +1/+1.",
+        "prev": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +2 {{ATK}}."
       }
     }
   }

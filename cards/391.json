@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 3,
-    "originalHp": 3,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Scissor Dancer",
     "image": "Scissor_Dancer",
     "baseImage": "Scissor_Dancer",
-    "cost": 4,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 5,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -42,9 +42,25 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's damaged, deal 4 {{DMG}} instead.",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's at a central slot and not full {{HP}}, deal 4 {{DMG}} instead."
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
       }
     }
   }

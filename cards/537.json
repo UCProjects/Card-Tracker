@@ -9,7 +9,7 @@
     "cost": 3,
     "rarity": "TOKEN",
     "originalCost": 3,
-    "target": "MONSTER",
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -18,11 +18,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} and kill a monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter."
+    "description": "Kill an enemy monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ENEMY_MONSTER",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "Kill an enemy monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter.",
+        "prev": "{{KW:SILENCE}} and kill a monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter."
+      }
+    }
   }
 }

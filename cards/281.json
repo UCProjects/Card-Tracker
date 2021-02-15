@@ -37,15 +37,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain {{ATK}} and {{HP}} equal to its {{COST}}."
+    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain +2/+2."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain {{ATK}} and {{HP}} equal to its {{COST}}.",
-        "prev": "{{KW:CHARGE}}. When you summon a monster with more {{ATK}} than this, gain +1/+1."
+        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain +2/+2.",
+        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain {{ATK}} and {{HP}} equal to its {{COST}}."
       }
     }
   }

@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Silence this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -4 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} itself. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. They {{COST}} 0."
-      }
-    }
+    "changed": {}
   }
 }

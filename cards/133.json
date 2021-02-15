@@ -21,29 +21,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}}. Choose one to add to your hand with +2/+2."
+    "description": "Look at {{CARD:428|1}}, {{CARD:429|1}}, and {{CARD:430|1}}. Choose one to add to the top of your deck with +2/+2. Draw a card from the bottom of your deck."
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
+    "removed": {},
     "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 1
-      },
-      "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 1
-      },
       "description": {
-        "now": "Look at {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}}. Choose one to add to your hand with +2/+2.",
-        "prev": "{{KW:PARALYZE}} and give +{{HP:4}} to a monster."
+        "now": "Look at {{CARD:428|1}}, {{CARD:429|1}}, and {{CARD:430|1}}. Choose one to add to the top of your deck with +2/+2. Draw a card from the bottom of your deck.",
+        "prev": "Look at {{CARD:428|1}}, {{CARD:429|1}} and {{CARD:430|1}}. Choose one to add to your hand with +2/+2."
       }
     }
   }

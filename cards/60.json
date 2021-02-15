@@ -12,10 +12,10 @@
     "kr": 0,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "id": 60,
@@ -24,9 +24,9 @@
     "name": "Papyrus",
     "image": "Papyrus",
     "baseImage": "Papyrus",
-    "cost": 13,
+    "cost": 12,
     "rarity": "LEGENDARY",
-    "originalCost": 13,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,32 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, can attack another monster."
+    "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, it can attack another monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "charge": {
+        "now": false,
+        "prev": true
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 12,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 13
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever this attacks and kills a monster, it can attack another monster.",
+        "prev": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, can attack another monster."
+      }
+    }
   }
 }

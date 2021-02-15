@@ -25,35 +25,8 @@
     "description": "{{KW:PARALYZE}} an enemy monster. {{KW:DELAY}}: Add {{CARD:551|1}} to your hand."
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Self Reflection",
-        "prev": "Snow Storm"
-      },
-      "image": {
-        "now": "Self_Reflection",
-        "prev": "Snow_Storm"
-      },
-      "baseImage": {
-        "now": "Self_Reflection",
-        "prev": "Snow_Storm"
-      },
-      "cost": {
-        "now": 3,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:PARALYZE}} an enemy monster. {{KW:DELAY}}: Add {{CARD:551|1}} to your hand.",
-        "prev": "Kill all paralyzed monsters in play."
-      }
-    }
+    "changed": {}
   }
 }

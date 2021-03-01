@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 8,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 8,
-        "prev": 7
-      },
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      },
-      "description": {
-        "now": "{{KW:DUST}}: If you have 7 or more {{GOLD}}, spend 7 {{GOLD}} to summon a {{CARD:64|1}}.",
-        "prev": "{{KW:DUST}}: If you have 15 or more {{GOLD}}, summon {{CARD:64|1}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 2 random {{TRIBE:LOST_SOUL|2}} and choose one to catch. {{KW:DUST}}: Release a 1/1 copy of it.",
-        "prev": "{{KW:MAGIC}}: Look at 3 random {{KW:DUST}} monsters costing <= 8 {{GOLD}} and catch one. {{KW:DUST}}: Release a 1/1 copy of it."
-      }
-    }
+    "changed": {}
   }
 }

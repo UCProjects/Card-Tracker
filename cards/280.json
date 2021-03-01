@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Set the stats of all other ally monsters and the monster in front of this to 3/3.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set all other monsters stats to 3/3."
-      }
-    }
+    "changed": {}
   }
 }

@@ -6,9 +6,9 @@
     "name": "Spade",
     "image": "Spade",
     "baseImage": "Spade",
-    "cost": 3,
+    "cost": 5,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -17,11 +17,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal {{DMG:3}} to a random enemy monster. Return this card to your hand if it killed."
+    "description": "Deal 3 {{DMG}} to an enemy monster. If it dies, deal 3 {{DMG}} to a random other enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 3
+      },
+      "description": {
+        "now": "Deal 3 {{DMG}} to an enemy monster. If it dies, deal 3 {{DMG}} to a random other enemy monster.",
+        "prev": "Deal {{DMG:3}} to a random enemy monster. Return this card to your hand if it killed."
+      }
+    }
   }
 }

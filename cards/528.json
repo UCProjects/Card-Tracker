@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 6,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 4,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Rope Dog",
     "image": "Rope_Dog",
     "baseImage": "Rope_Dog",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,11 +37,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+2. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 6
+      },
+      "hp": {
+        "now": 2,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 4
+      },
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+2. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats and {{KW:HASTE}}.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it."
+      }
+    }
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +1/+1.",
-        "prev": "Whenever you summon a {{TRIBE:TEMMIE|1}}, give it +2 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

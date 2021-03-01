@@ -40,39 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 9,
-        "prev": 10
-      },
-      "hp": {
-        "now": 9,
-        "prev": 10
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalAttack": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 10
-      },
-      "cost": {
-        "now": 13,
-        "prev": 16
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 16
-      },
-      "description": {
-        "now": "Instead of dying, return to its base stats with -3/-3.",
-        "prev": "Instead of dying, return to its base state with -2/-2."
-      }
-    }
+    "changed": {}
   }
 }

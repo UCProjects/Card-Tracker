@@ -30,16 +30,29 @@
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "DOG"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add an exact copy of an ally {{TRIBE:DOG|1}} from your hand to your hand."
+    "description": "All ally {{TRIBE:DOG|2}} have +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "DOG"
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "All ally {{TRIBE:DOG|2}} have +1/+1.",
+        "prev": "{{KW:MAGIC}}: Add an exact copy of an ally {{TRIBE:DOG|1}} from your hand to your hand."
+      }
+    }
   }
 }

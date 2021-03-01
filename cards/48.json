@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 4,
-    "originalHp": 6,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -37,11 +37,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. This has +3 {{HP}} while you have a {{TRIBE:DOG|1}} in your hand."
+    "description": "{{KW:TAUNT}}. This has +2 {{HP}} while you have a {{TRIBE:DOG|1}} in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. This has +2 {{HP}} while you have a {{TRIBE:DOG|1}} in your hand.",
+        "prev": "{{KW:TAUNT}}. This has +3 {{HP}} while you have a {{TRIBE:DOG|1}} in your hand."
+      }
+    }
   }
 }

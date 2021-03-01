@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -37,11 +37,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Has +2 {{ATK}} while you have {{CARD:47|1}} in your hand."
+    "description": "{{KW:DUST}}: Give +4 {{ATK}} randomly split among all {{TRIBE:DOG|2}} in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Give +4 {{ATK}} randomly split among all {{TRIBE:DOG|2}} in your hand.",
+        "prev": "Has +2 {{ATK}} while you have {{CARD:47|1}} in your hand."
+      }
+    }
   }
 }

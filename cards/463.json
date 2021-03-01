@@ -1,14 +1,18 @@
 {
   "card": {
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
     "id": 463,
     "fixedId": 463,
     "typeCard": 1,
     "name": "Trick Question",
     "image": "Trick_Question",
     "baseImage": "Trick_Question",
-    "cost": 2,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 2,
+    "originalCost": 1,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -18,11 +22,29 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 2 {{DMG}} to a monster and draw a random monster from your deck."
+    "description": "Deal 2 {{DMG}} to a monster and draw a monster from your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "soul": {
+        "id": 4,
+        "name": "JUSTICE"
+      }
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Deal 2 {{DMG}} to a monster and draw a monster from your deck.",
+        "prev": "Deal 2 {{DMG}} to a monster and draw a random monster from your deck."
+      }
+    }
   }
 }

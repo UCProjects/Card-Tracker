@@ -27,22 +27,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 3
-      },
-      "description": {
-        "now": "Shuffle your hand back into your deck. Then, draw 4 cards and give them -1 {{COST}}.",
-        "prev": "Give an ally monster +1/+1, then deal its {{ATK}} as {{DMG}} to the monster in front of it."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Add the {{ARTIFACT:37}} artifact.",
-        "prev": "Your passive triggers an additional time."
-      }
-    }
+    "changed": {}
   }
 }

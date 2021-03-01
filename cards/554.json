@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 9,
-    "maxHp": 9,
-    "originalAttack": 5,
-    "originalHp": 9,
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,18 +15,18 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 60,
-    "fixedId": 60,
+    "id": 554,
+    "fixedId": 554,
     "typeCard": 0,
-    "name": "Papyrus",
-    "image": "Papyrus",
-    "baseImage": "Papyrus",
-    "cost": 12,
-    "rarity": "LEGENDARY",
-    "originalCost": 12,
+    "name": "Snow Frisk",
+    "image": "Snow_Frisk",
+    "baseImage": "Snow_Frisk",
+    "cost": 2,
+    "rarity": "TOKEN",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, it can attack another monster."
+    "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

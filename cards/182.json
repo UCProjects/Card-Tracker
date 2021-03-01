@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SILENCE}} an enemy monster. {{KW:PARALYZE}} it.",
-        "prev": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it. Draw a card from the bottom of your deck."
-      }
-    }
+    "changed": {}
   }
 }

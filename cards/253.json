@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give +1/+1 to your ally {{TRIBE:DOG|2}} in your hand."
+    "description": "{{KW:MAGIC}}: Look at 3 random {{TRIBE:DOG|2}} in your dustpile and choose one to burn. Add the other 2 to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random {{TRIBE:DOG|2}} in your dustpile and choose one to burn. Add the other 2 to your hand.",
+        "prev": "{{KW:MAGIC}}: Give +1/+1 to your ally {{TRIBE:DOG|2}} in your hand."
+      }
+    }
   }
 }

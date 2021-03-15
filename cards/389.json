@@ -40,43 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 1
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "cantAttack": {
-        "now": false,
-        "prev": true
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. {{KW:DUST}}: Summon a 3/3 copy of its killer.",
-        "prev": "{{KW:TAUNT}}. {{KW:DISARMED}}. Whenever this takes {{DMG}}, deal as much {{DMG}} to a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

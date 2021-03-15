@@ -40,23 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -5 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: Silence this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -4 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

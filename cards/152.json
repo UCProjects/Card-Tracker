@@ -35,31 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it."
+    "description": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      },
       "description": {
-        "now": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it.",
-        "prev": "{{KW:TURN_START}}: Add a random spell of your soul to your hand and reduce its {{COST}} by 1."
+        "now": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it with -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it."
       }
     }
   }

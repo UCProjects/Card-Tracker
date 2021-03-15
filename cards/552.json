@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "extension": {
-        "now": "BASE",
-        "prev": "DELTARUNE"
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 4,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -43,41 +43,17 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
       "hp": {
-        "now": 4,
-        "prev": 3
+        "now": 3,
+        "prev": 4
       },
       "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
         "now": 3,
-        "prev": 2
+        "prev": 4
       },
       "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{CARD:349|1}} to your hand.",
-        "prev": "{{KW:MAGIC}}: Add a {{CARD:349|1}} to the enemy's hand."
+        "now": 3,
+        "prev": 4
       }
     }
   }

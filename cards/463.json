@@ -25,26 +25,8 @@
     "description": "Deal 2 {{DMG}} to a monster and draw a monster from your deck."
   },
   "diffs": {
-    "added": {
-      "soul": {
-        "id": 4,
-        "name": "JUSTICE"
-      }
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      },
-      "description": {
-        "now": "Deal 2 {{DMG}} to a monster and draw a monster from your deck.",
-        "prev": "Deal 2 {{DMG}} to a monster and draw a random monster from your deck."
-      }
-    }
+    "changed": {}
   }
 }

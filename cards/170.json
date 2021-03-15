@@ -25,7 +25,7 @@
     "image": "Loren",
     "baseImage": "Loren",
     "cost": 5,
-    "rarity": "COMMON",
+    "rarity": "EPIC",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
@@ -40,6 +40,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "EPIC",
+        "prev": "COMMON"
+      }
+    }
   }
 }

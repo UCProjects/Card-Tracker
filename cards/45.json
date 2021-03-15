@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,7 +27,6 @@
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -38,43 +37,37 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand (except {{CARD:45|1}}). Add an exact copy of it to your hand."
+    "description": "All ally {{TRIBE:DOG|2}} have +1/+1."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
     "changed": {
       "attack": {
-        "now": 3,
-        "prev": 4
+        "now": 2,
+        "prev": 3
       },
       "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 3,
+        "now": 5,
         "prev": 4
       },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 3
+      },
       "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
+        "now": 5,
+        "prev": 4
       },
       "description": {
-        "now": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand (except {{CARD:45|1}}). Add an exact copy of it to your hand.",
-        "prev": "{{KW:MAGIC}}: Send an ally monster to your hand."
+        "now": "All ally {{TRIBE:DOG|2}} have +1/+1.",
+        "prev": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand (except {{CARD:45|1}}). Add an exact copy of it to your hand."
       }
     }
   }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Add a {{CARD:544|1}} to your hand. Give it -1 {{COST}} for each ally monster with a tribe.",
-        "prev": "{{KW:DELAY}}: Add a {{CARD:544|1}} to your hand. Give it -1 {{COST}} for every ally tribe."
-      }
-    }
+    "changed": {}
   }
 }

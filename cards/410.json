@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 3 random monsters costing <= {{GOLD:3}} and choose one. Summon it."
+    "description": "{{KW:MAGIC}}: Look at 3 random monsters costing 3 or less {{GOLD}} in your dustpile and choose one. Summon it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random monsters costing 3 or less {{GOLD}} in your dustpile and choose one. Summon it.",
+        "prev": "{{KW:MAGIC}}: Look at 3 random monsters costing <= {{GOLD:3}} and choose one. Summon it."
+      }
+    }
   }
 }

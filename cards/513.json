@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Deal 1 {{DMG}} to a random enemy."
+    "description": "{{KW:DUST}}: Deal 1 {{DMG}} to a random enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Deal 1 {{DMG}} to a random enemy.",
-        "prev": "{{KW:DUST}}: Deal 1 {{DMG}} to 2 random enemies."
+        "now": "{{KW:DUST}}: Deal 1 {{DMG}} to a random enemy monster.",
+        "prev": "{{KW:DUST}}: Deal 1 {{DMG}} to a random enemy."
       }
     }
   }

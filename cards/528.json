@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 528,
@@ -37,43 +37,31 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+2. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats and {{KW:HASTE}}."
+    "description": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+1. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 6
-      },
       "hp": {
-        "now": 2,
-        "prev": 4
+        "now": 3,
+        "prev": 2
       },
       "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 6
+        "now": 3,
+        "prev": 2
       },
       "originalHp": {
-        "now": 2,
-        "prev": 4
+        "now": 3,
+        "prev": 2
       },
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
+      "haste": {
+        "now": false,
+        "prev": true
       },
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+2. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats and {{KW:HASTE}}.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon an enemy {{CARD:217|1}}. {{KW:DELAY}}: Kill it."
+        "now": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+1. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+2. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats and {{KW:HASTE}}."
       }
     }
   }

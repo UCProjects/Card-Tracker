@@ -41,35 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 0
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 0
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "target": {
-        "now": "ENEMY_MONSTER",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Catch an enemy monster. {{KW:DUST}}: Release it.",
-        "prev": "{{KW:MAGIC}}: Catch a monster. {{KW:DUST}}: Release the monster (no recursion). {{KW:TURN_END}}: Die."
-      }
-    }
+    "changed": {}
   }
 }

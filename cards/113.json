@@ -39,35 +39,8 @@
     "description": "{{KW:MAGIC}}: Return an ally monster to your hand."
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Return an ally monster to your hand.",
-        "prev": "{{KW:MAGIC}}: Look at 3 cards at the bottom of the enemy deck. Choose one. Add a copy of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

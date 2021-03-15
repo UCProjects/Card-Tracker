@@ -1,19 +1,19 @@
 {
   "card": {
-    "attack": 0,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 0,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 3,
+    "originalHp": 1,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -24,9 +24,9 @@
     "name": "Snow Poff",
     "image": "Snow_Poff",
     "baseImage": "Snow_Poff",
-    "cost": 4,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,52 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DISARMED}}. Whenever an enemy monster attacks, deal 1 {{DMG}} to this. {{KW:MAGIC}}: Catch a {{CARD:48|1}}. {{KW:DUST}}: Release it."
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 0
+      },
+      "hp": {
+        "now": 1,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 1,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 0
+      },
+      "originalHp": {
+        "now": 1,
+        "prev": 5
+      },
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Draw a card.",
+        "prev": "{{KW:DISARMED}}. Whenever an enemy monster attacks, deal 1 {{DMG}} to this. {{KW:MAGIC}}: Catch a {{CARD:48|1}}. {{KW:DUST}}: Release it."
+      }
+    }
   }
 }

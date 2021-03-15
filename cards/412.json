@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 2,
-    "originalHp": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -41,37 +41,17 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
       "hp": {
-        "now": 2,
-        "prev": 4
+        "now": 3,
+        "prev": 2
       },
       "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
+        "now": 3,
+        "prev": 2
       },
       "originalHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:DELAY}}: Add a {{CARD:270|1}} to your hand.",
-        "prev": "{{KW:MAGIC}}: Look at 3 random monsters with a {{COST}} <= 10 and choose one. Add it to your hand with all tribes."
+        "now": 3,
+        "prev": 2
       }
     }
   }

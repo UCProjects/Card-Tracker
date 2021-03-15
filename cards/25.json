@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 5,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 3,
+    "originalAttack": 5,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,10 @@
     "name": "Astigmatism",
     "image": "Astigmatism",
     "baseImage": "Astigmatism",
-    "cost": 6,
+    "cost": 7,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 7,
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +36,34 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_START}}: Kill the monster in front of it. If there is none, add a {{CARD:7|1}} to your hand."
+    "description": "Whenever this kills a monster, add a {{CARD:7|1}} to your hand. {{KW:MAGIC}}: Deal 2 {{DMG}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALL"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 3
+      },
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      },
+      "description": {
+        "now": "Whenever this kills a monster, add a {{CARD:7|1}} to your hand. {{KW:MAGIC}}: Deal 2 {{DMG}}.",
+        "prev": "{{KW:TURN_START}}: Kill the monster in front of it. If there is none, add a {{CARD:7|1}} to your hand."
+      }
+    }
   }
 }

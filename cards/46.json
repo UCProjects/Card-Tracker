@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 4,
-    "originalHp": 6,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -37,23 +37,27 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Give +4 {{ATK}} randomly split among all {{TRIBE:DOG|2}} in your hand."
+    "description": "{{KW:DUST}}: Give +2 {{ATK}} to 2 random {{TRIBE:DOG|2}} in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
+      "hp": {
+        "now": 5,
+        "prev": 6
       },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
       },
       "description": {
-        "now": "{{KW:DUST}}: Give +4 {{ATK}} randomly split among all {{TRIBE:DOG|2}} in your hand.",
-        "prev": "Has +2 {{ATK}} while you have {{CARD:47|1}} in your hand."
+        "now": "{{KW:DUST}}: Give +2 {{ATK}} to 2 random {{TRIBE:DOG|2}} in your hand.",
+        "prev": "{{KW:DUST}}: Give +4 {{ATK}} randomly split among all {{TRIBE:DOG|2}} in your hand."
       }
     }
   }

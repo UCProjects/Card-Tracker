@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, gain {{KW:TRANSPARENCY}}."
+    "description": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, add a random 2-{{COST}} card to your hand with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, add a random 2-{{COST}} card to your hand with -1 {{COST}}.",
+        "prev": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, gain {{KW:TRANSPARENCY}}."
+      }
+    }
   }
 }

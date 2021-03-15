@@ -24,9 +24,9 @@
     "name": "Allergic Temmie",
     "image": "Allergic_Temmie",
     "baseImage": "Allergic_Temmie",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,6 +42,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

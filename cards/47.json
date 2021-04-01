@@ -42,19 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Give +2 {{HP}} to 2 random {{TRIBE:DOG|2}} in your hand.",
-        "prev": "{{KW:DUST}}: Give +4 {{HP}} randomly split among all {{TRIBE:DOG|2}} in your hand."
-      }
-    }
+    "changed": {}
   }
 }

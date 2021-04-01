@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 4,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 5,
+    "originalAttack": 4,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,9 @@
     "name": "Alphys",
     "image": "Alphys",
     "baseImage": "Alphys",
-    "cost": 7,
+    "cost": 6,
     "rarity": "LEGENDARY",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

@@ -42,27 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+1. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+2. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

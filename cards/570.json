@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 570,
+    "fixedId": 570,
+    "typeCard": 0,
+    "name": "First Starwalker",
+    "image": "First_Starwalker",
+    "baseImage": "First_Starwalker",
+    "cost": 7,
+    "rarity": "RARE",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:NEED}}: Your deck has no {{RARITY:COMMON}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Give all monsters in your hand +1/+1."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

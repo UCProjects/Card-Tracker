@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "candy": false,
+    "id": 560,
+    "fixedId": 560,
+    "typeCard": 0,
+    "name": "Mom Slime",
+    "image": "Mom_Slime",
+    "baseImage": "Mom_Slime",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, trigger its {{KW:DUST}} effect. {{KW:DUST}}: Summon a {{CARD:370|1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

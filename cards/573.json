@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 12,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 12,
+    "originalHp": 9,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 573,
+    "fixedId": 573,
+    "typeCard": 0,
+    "name": "Elimination Duck",
+    "image": "Elimination_Duck",
+    "baseImage": "Elimination_Duck",
+    "cost": 13,
+    "rarity": "EPIC",
+    "originalCost": 13,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Turn all other monsters on the board into random other monsters of the same {{COST}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

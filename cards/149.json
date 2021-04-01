@@ -40,37 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "tribes": {
-        "now": [],
-        "prev": [
-          "DOG"
-        ]
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Add an exact copy of it to the top of your deck.",
-        "prev": "All ally {{TRIBE:DOG|2}} have +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

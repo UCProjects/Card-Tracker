@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 5,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 5,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Teacher Toriel",
     "image": "Teacher_Toriel",
     "baseImage": "Teacher_Toriel",
-    "cost": 10,
+    "cost": 8,
     "rarity": "LEGENDARY",
-    "originalCost": 10,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,11 +35,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} of each card in your hand. Gain +1/+1 for each {{KW:TURBO}} effect triggered."
+    "description": "{{KW:MAGIC}}: If played on the left, remove all cards costing 4 or less {{GOLD}} from your deck. Otherwise, remove all cards costing 5 or more {{GOLD}} from your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 9,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 5
+      },
+      "cost": {
+        "now": 8,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 10
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, remove all cards costing 4 or less {{GOLD}} from your deck. Otherwise, remove all cards costing 5 or more {{GOLD}} from your deck.",
+        "prev": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} of each card in your hand. Gain +1/+1 for each {{KW:TURBO}} effect triggered."
+      }
+    }
   }
 }

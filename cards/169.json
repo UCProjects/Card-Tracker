@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 2,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 3,
+    "originalAttack": 2,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,9 @@
     "name": "Bunbun",
     "image": "Bunbun",
     "baseImage": "Bunbun",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 3
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

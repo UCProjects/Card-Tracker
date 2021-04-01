@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 5,
+    "originalHp": 9,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 571,
+    "fixedId": 571,
+    "typeCard": 0,
+    "name": "Sad Dummy",
+    "image": "Sad_Dummy",
+    "baseImage": "Sad_Dummy",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "WAITING FOR A NEW EFFECT"
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

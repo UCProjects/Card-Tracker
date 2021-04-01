@@ -42,23 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Give +2 {{ATK}} to 2 random {{TRIBE:DOG|2}} in your hand.",
-        "prev": "{{KW:DUST}}: Give +4 {{ATK}} randomly split among all {{TRIBE:DOG|2}} in your hand."
-      }
-    }
+    "changed": {}
   }
 }

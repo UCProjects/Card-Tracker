@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 1,
+    "originalHp": 7,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 572,
+    "fixedId": 572,
+    "typeCard": 0,
+    "name": "Pink Laser",
+    "image": "Pink_Laser",
+    "baseImage": "Pink_Laser",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:MAGIC}}: Gain +1 base {{ATK}} for every monster you played this game with a base {{HP}} of 7."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

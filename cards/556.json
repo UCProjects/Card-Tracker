@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 6,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 556,
+    "fixedId": 556,
+    "typeCard": 0,
+    "name": "Baron",
+    "image": "Baron",
+    "baseImage": "Baron",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:MAGIC}}: Give all other ally monsters +2 {{ATK}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

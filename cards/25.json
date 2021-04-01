@@ -39,31 +39,8 @@
     "description": "Whenever this kills a monster, add a {{CARD:7|1}} to your hand. {{KW:MAGIC}}: Deal 2 {{DMG}}."
   },
   "diffs": {
-    "added": {
-      "target": "ALL"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 3
-      },
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "Whenever this kills a monster, add a {{CARD:7|1}} to your hand. {{KW:MAGIC}}: Deal 2 {{DMG}}.",
-        "prev": "{{KW:TURN_START}}: Kill the monster in front of it. If there is none, add a {{CARD:7|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

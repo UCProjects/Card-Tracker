@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 558,
+    "fixedId": 558,
+    "typeCard": 0,
+    "name": "Sushipants",
+    "image": "Sushipants",
+    "baseImage": "Sushipants",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:NEED}}: Your deck has no {{KW:HASTE}} or {{KW:CHARGE}} monsters (except {{KW:GENERATED}} monsters). {{KW:MAGIC}}: {{KW:PARALYZE}} the monster in front of this."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

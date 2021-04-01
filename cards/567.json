@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 567,
+    "fixedId": 567,
+    "typeCard": 0,
+    "name": "Blowing Rabbick",
+    "image": "Blowing_Rabbick",
+    "baseImage": "Blowing_Rabbick",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "Whenever you cast a spell, return this to your hand with +1/+1 (keep {{ATK}} buffs)."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

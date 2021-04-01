@@ -42,23 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:SUPPORT}}: Give the attacker +1 {{HP}}. If its a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well.",
-        "prev": "{{KW:SUPPORT}}: Restore 2 {{HP}} to the attacker. If it was a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well."
-      }
-    }
+    "changed": {}
   }
 }

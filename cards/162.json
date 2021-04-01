@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, add a random 2-{{COST}} card to your hand with -1 {{COST}}.",
-        "prev": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, gain {{KW:TRANSPARENCY}}."
-      }
-    }
+    "changed": {}
   }
 }

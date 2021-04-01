@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 2,
+    "originalHp": 3,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 561,
+    "fixedId": 561,
+    "typeCard": 0,
+    "name": "Royal Loox",
+    "image": "Royal_Loox",
+    "baseImage": "Royal_Loox",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If you have an ally monster costing 9 or more {{GOLD}}, also deal 1 {{DMG}} to all enemies."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -22,11 +22,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} an enemy monster. {{KW:PARALYZE}} it."
+    "description": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SILENCE}} a monster. {{KW:PARALYZE}} it.",
+        "prev": "{{KW:SILENCE}} an enemy monster. {{KW:PARALYZE}} it."
+      }
+    }
   }
 }

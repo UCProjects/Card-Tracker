@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add a random {{RARITY:RARE}} monster from your dustpile to your hand. If there is none, draw a {{RARITY:RARE}} monster from your deck."
+    "description": "Whenever an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this.",
+        "prev": "{{KW:MAGIC}}: Add a random {{RARITY:RARE}} monster from your dustpile to your hand. If there is none, draw a {{RARITY:RARE}} monster from your deck."
+      }
+    }
   }
 }

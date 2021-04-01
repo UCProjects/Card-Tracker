@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Mister Elegance",
     "image": "Mister_Elegance",
     "baseImage": "Mister_Elegance",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -37,11 +37,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If played on the left, gain +1/+1 and {{KW:TAUNT}}. Otherwise, gain {{KW:ARMOR}}. If you have an ally {{CARD:480|1}}, do both."
+    "description": "{{KW:MAGIC}}: If played on the left, gain {{KW:ARMOR}}. Otherwise, gain +1 {{HP}} and {{KW:TAUNT}}. If you have an ally {{CARD:480|1}}, do both."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, gain {{KW:ARMOR}}. Otherwise, gain +1 {{HP}} and {{KW:TAUNT}}. If you have an ally {{CARD:480|1}}, do both.",
+        "prev": "{{KW:MAGIC}}: If played on the left, gain +1/+1 and {{KW:TAUNT}}. Otherwise, gain {{KW:ARMOR}}. If you have an ally {{CARD:480|1}}, do both."
+      }
+    }
   }
 }

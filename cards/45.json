@@ -41,34 +41,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "All ally {{TRIBE:DOG|2}} have +1/+1.",
-        "prev": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand (except {{CARD:45|1}}). Add an exact copy of it to your hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

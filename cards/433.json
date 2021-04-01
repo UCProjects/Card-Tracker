@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 1,
-    "maxHp": 1,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 1,
-    "originalHp": 1,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,9 +13,9 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 433,
@@ -35,11 +35,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 2,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand."
+      }
+    }
   }
 }

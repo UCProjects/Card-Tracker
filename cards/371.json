@@ -21,19 +21,8 @@
     "description": "Deal 3 {{DMG}} to an enemy monster. If it dies, deal 3 {{DMG}} to a random other enemy monster."
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

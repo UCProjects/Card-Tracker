@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Give +4 {{ATK}} to all ally {{CARD:169|2}}."
+    "description": "{{KW:DUST}}: Give all ally {{CARD:169|2}} +3 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give all ally {{CARD:169|2}} +3 {{ATK}}.",
+        "prev": "{{KW:DUST}}: Give +4 {{ATK}} to all ally {{CARD:169|2}}."
+      }
+    }
   }
 }

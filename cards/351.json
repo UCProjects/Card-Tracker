@@ -9,7 +9,7 @@
     "cost": 6,
     "rarity": "TOKEN",
     "originalCost": 6,
-    "target": "MONSTER",
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -18,11 +18,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal {{DMG:8}} to a monster."
+    "description": "Deal 8 {{DMG}} to a monster or the player."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ALL",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "Deal 8 {{DMG}} to a monster or the player.",
+        "prev": "Deal {{DMG:8}} to a monster."
+      }
+    }
   }
 }

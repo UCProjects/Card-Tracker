@@ -25,7 +25,7 @@
     "image": "Anime_Sword",
     "baseImage": "Anime_Sword",
     "cost": 3,
-    "rarity": "RARE",
+    "rarity": "COMMON",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -40,6 +40,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "RARE"
+      }
+    }
   }
 }

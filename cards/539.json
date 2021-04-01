@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 2
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Add a {{CARD:540|1}} to your dustpile instead of this.",
-        "prev": "{{KW:DUST}}: Add a {{CARD:540|1}} into your dustpile instead of this. If this is still alive, turn into {{CARD:540|1}}."
-      }
-    }
+    "changed": {}
   }
 }

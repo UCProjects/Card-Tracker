@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If played on the left, give the next {{TRIBE:PIECE|1}} in your deck +1/+1. Otherwise, draw a {{TRIBE:PIECE|1}}. If you have an ally {{CARD:480|1}}, do both."
+    "description": "{{KW:MAGIC}}: If played on the left, give a random {{TRIBE:PIECE|1}} in your hand +1/+1. Otherwise, draw a {{TRIBE:PIECE|1}}. If you have an ally {{CARD:480|1}}, do both."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If played on the left, give a random {{TRIBE:PIECE|1}} in your hand +1/+1. Otherwise, draw a {{TRIBE:PIECE|1}}. If you have an ally {{CARD:480|1}}, do both.",
+        "prev": "{{KW:MAGIC}}: If played on the left, give the next {{TRIBE:PIECE|1}} in your deck +1/+1. Otherwise, draw a {{TRIBE:PIECE|1}}. If you have an ally {{CARD:480|1}}, do both."
+      }
+    }
   }
 }

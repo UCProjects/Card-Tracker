@@ -38,9 +38,7 @@
     "description": "After this takes {{DMG}} during your turn, it gains {{KW:DODGE}} (1) and can attack a monster."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

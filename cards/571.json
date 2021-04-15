@@ -38,9 +38,7 @@
     "description": "WAITING FOR A NEW EFFECT"
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If you have 6 or more 6-{{COST}} monsters in your dustpile, remove them and add 6 random 6-{{COST}} monsters to your hand.",
-        "prev": "{{KW:MAGIC}}: If your board is filled with 6-{{COST}} monsters, add 6 random 6-{{COST}} monsters to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -36,11 +36,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add 1 exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into the {{CARD:553|1}}."
+    "description": "{{KW:MAGIC}}: Add 1 exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into the {{CARD:553|1}} (Keep buffs)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add 1 exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into the {{CARD:553|1}} (Keep buffs).",
+        "prev": "{{KW:MAGIC}}: Add 1 exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into the {{CARD:553|1}}."
+      }
+    }
   }
 }

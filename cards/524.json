@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|1}}. {{KW:DELAY}}: {{KW:SILENCE}} all {{CARD:525|1}} in your hand."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|2}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|1}}. {{KW:DELAY}}: {{KW:SILENCE}} all {{CARD:525|1}} in your hand."
+      }
+    }
   }
 }

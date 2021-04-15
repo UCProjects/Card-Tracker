@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give all ally {{CARD:169|2}} +3 {{ATK}}.",
-        "prev": "{{KW:DUST}}: Give +4 {{ATK}} to all ally {{CARD:169|2}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -18,19 +18,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 8 {{DMG}} to a monster or the player."
+    "description": "Deal 8 {{DMG}} to a monster or you."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "target": {
-        "now": "ALL",
-        "prev": "MONSTER"
-      },
       "description": {
-        "now": "Deal 8 {{DMG}} to a monster or the player.",
-        "prev": "Deal {{DMG:8}} to a monster."
+        "now": "Deal 8 {{DMG}} to a monster or you.",
+        "prev": "Deal 8 {{DMG}} to a monster or the player."
       }
     }
   }

@@ -25,7 +25,7 @@
     "image": "Royal_Loox",
     "baseImage": "Royal_Loox",
     "cost": 3,
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "originalCost": 3,
     "target": "ALL",
     "shiny": false,
@@ -39,10 +39,13 @@
     "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If you have an ally monster costing 9 or more {{GOLD}}, also deal 1 {{DMG}} to all enemies."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "RARE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

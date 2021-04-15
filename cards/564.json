@@ -39,9 +39,7 @@
     "description": "{{KW:MAGIC}}: Kill a damaged monster and deal its {{ATK}} as {{DMG}} to the opponent."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

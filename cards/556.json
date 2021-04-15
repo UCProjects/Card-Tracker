@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Give all other ally monsters +2 {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

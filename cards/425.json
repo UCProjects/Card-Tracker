@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 3,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 4,
+    "originalAttack": 3,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,9 @@
     "name": "Dark Throne",
     "image": "Dark_Throne",
     "baseImage": "Dark_Throne",
-    "cost": 5,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

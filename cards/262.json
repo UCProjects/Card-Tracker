@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -24,10 +24,10 @@
     "name": "Mad Mew Mew",
     "image": "Mad_Mew_Mew",
     "baseImage": "Mad_Mew_Mew",
-    "cost": 5,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 5,
-    "target": "ALLY_MONSTER",
+    "originalCost": 7,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,11 +36,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
+    "description": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "cost": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 5
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALLY_MONSTER"
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}.",
+        "prev": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
+      }
+    }
   }
 }

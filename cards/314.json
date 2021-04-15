@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 3,
     "hp": 2,
     "maxHp": 2,
-    "originalAttack": 2,
+    "originalAttack": 3,
     "originalHp": 2,
     "dodge": 0,
     "armor": false,
@@ -36,11 +36,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give a monster +1/+2."
+    "description": "{{KW:MAGIC}}: Give an ally monster +1/+2."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an ally monster +1/+2.",
+        "prev": "{{KW:MAGIC}}: Give a monster +1/+2."
+      }
+    }
   }
 }

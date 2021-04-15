@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 3,
-    "originalHp": 4,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -35,11 +35,32 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. After this is attacked, gain {{KW:DODGE}} (1) and attack a random enemy monster."
+    "description": "{{KW:MAGIC}}: If you have 6 {{CARD:517|6}} in your dustpile, burn them all and give all monsters in your hand and deck +3/+3."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have 6 {{CARD:517|6}} in your dustpile, burn them all and give all monsters in your hand and deck +3/+3.",
+        "prev": "{{KW:TAUNT}}. After this is attacked, gain {{KW:DODGE}} (1) and attack a random enemy monster."
+      }
+    }
   }
 }

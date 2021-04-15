@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 1,
-    "maxHp": 1,
-    "originalAttack": 6,
-    "originalHp": 1,
+    "attack": 7,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 7,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Mad Dummy",
     "image": "Mad_Dummy",
     "baseImage": "Mad_Dummy",
-    "cost": 6,
-    "rarity": "RARE",
-    "originalCost": 6,
+    "cost": 13,
+    "rarity": "LEGENDARY",
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,48 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Can only be damaged by a {{DMG}} of 4 or greater."
+    "description": "Can only be damaged by 4 or more {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and players. Excess {{DMG}} dealt is healed as {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 6
+      },
+      "hp": {
+        "now": 4,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 1
+      },
+      "cost": {
+        "now": 13,
+        "prev": 6
+      },
+      "rarity": {
+        "now": "LEGENDARY",
+        "prev": "RARE"
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 6
+      },
+      "description": {
+        "now": "Can only be damaged by 4 or more {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and players. Excess {{DMG}} dealt is healed as {{HP}} to you.",
+        "prev": "Can only be damaged by a {{DMG}} of 4 or greater."
+      }
+    }
   }
 }

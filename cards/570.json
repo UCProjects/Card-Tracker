@@ -38,9 +38,7 @@
     "description": "{{KW:NEED}}: Your deck has no {{RARITY:COMMON}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Give all monsters in your hand +1/+1."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

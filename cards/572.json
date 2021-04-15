@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Gain +1 base {{ATK}} for every monster you played this game with a base {{HP}} of 7."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

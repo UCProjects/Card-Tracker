@@ -38,9 +38,7 @@
     "description": "{{KW:DUST}}: If it's the enemy turn, summon a {{CARD:5|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Summon an {{CARD:563|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

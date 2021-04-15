@@ -10,9 +10,9 @@
     "name": "Powerhouse",
     "image": "Powerhouse",
     "baseImage": "Powerhouse",
-    "cost": 9,
+    "cost": 8,
     "rarity": "COMMON",
-    "originalCost": 9,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -26,6 +26,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   }
 }

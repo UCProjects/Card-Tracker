@@ -38,9 +38,7 @@
     "description": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, trigger its {{KW:DUST}} effect. {{KW:DUST}}: Summon a {{CARD:370|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

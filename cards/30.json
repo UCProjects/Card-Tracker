@@ -40,43 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 2
-      },
-      "hp": {
-        "now": 5,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 2
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: The current turn player earns 1 {{GOLD}}.",
-        "prev": "{{KW:MAGIC}}: Earn 9 {{GOLD}}. {{KW:DELAY}}: Give your opponent 4 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

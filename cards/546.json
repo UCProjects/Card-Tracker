@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card."
+    "description": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card. If 3 or more ally monsters died this turn, draw two cards with -1 {{COST}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card. If 3 or more ally monsters died this turn, draw two cards with -1 {{COST}} instead.",
+        "prev": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card."
+      }
+    }
   }
 }

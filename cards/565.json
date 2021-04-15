@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Give 2 random monsters in your hand +1 {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

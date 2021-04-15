@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 13,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 12
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -37,11 +37,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SYNERGY}}: Gain +1 {{ATK}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "",
+        "prev": "{{KW:SYNERGY}}: Gain +1 {{ATK}}."
+      }
+    }
   }
 }

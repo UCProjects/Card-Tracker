@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:DUST}}: Return a Silenced copy of this to your deck with +2 {{ATK}} and {{KW:HASTE}}."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a Silenced {{CARD:54|1}} with +3/+3/+3 with {{KW:HASTE}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a Silenced {{CARD:54|1}} with +3/+3/+3 with {{KW:HASTE}} to your deck.",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Return a Silenced copy of this to your deck with +2 {{ATK}} and {{KW:HASTE}}."
+      }
+    }
   }
 }

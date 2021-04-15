@@ -38,9 +38,7 @@
     "description": "Whenever you cast a spell, return this to your hand with +1/+1 (keep {{ATK}} buffs)."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

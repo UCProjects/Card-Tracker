@@ -39,34 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "hp": {
-        "now": 6,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give a monster {{KW:CANDY}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

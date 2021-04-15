@@ -38,9 +38,7 @@
     "description": "{{KW:NEED}}: Your deck has no {{KW:HASTE}} or {{KW:CHARGE}} monsters (except {{KW:GENERATED}} monsters). {{KW:MAGIC}}: {{KW:PARALYZE}} the monster in front of this."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

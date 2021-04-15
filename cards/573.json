@@ -38,9 +38,7 @@
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Turn all other monsters on the board into random other monsters of the same {{COST}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

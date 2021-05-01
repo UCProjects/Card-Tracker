@@ -62,33 +62,17 @@
   "13": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "14": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. When you have no other ally monsters, this takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}.",
+        "prev": "{{KW:TAUNT}}. Has +1 {{ATK}} while in front of an enemy monster."
+      }
+    }
   },
   "15": {
     "added": {},
@@ -138,7 +122,28 @@
   "24": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   },
   "25": {
     "added": {},
@@ -186,12 +191,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
           "DOG",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "DOG"
         ]
       }
     }
@@ -199,7 +204,20 @@
   "34": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   },
   "35": {
     "added": {},
@@ -235,41 +253,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 6
-      },
-      "hp": {
-        "now": 4,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 1
-      },
       "cost": {
-        "now": 13,
-        "prev": 6
-      },
-      "rarity": {
-        "now": "LEGENDARY",
-        "prev": "RARE"
+        "now": 12,
+        "prev": 13
       },
       "originalCost": {
-        "now": 13,
-        "prev": 6
-      },
-      "description": {
-        "now": "Can only be damaged by 4 or more {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and players. Excess {{DMG}} dealt is healed as {{HP}} to you.",
-        "prev": "Can only be damaged by a {{DMG}} of 4 or greater."
+        "now": 12,
+        "prev": 13
       }
     }
   },
@@ -336,12 +326,7 @@
   "54": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a Silenced {{CARD:54|1}} with +3/+3/+3 with {{KW:HASTE}} to your deck.",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Return a Silenced copy of this to your deck with +2 {{ATK}} and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   },
   "55": {
     "added": {},
@@ -366,20 +351,7 @@
   "59": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 1,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 1,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "60": {
     "added": {},
@@ -394,12 +366,46 @@
   "62": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 8 {{DMG}} randomly split among all enemy monsters. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt.",
+        "prev": "{{KW:MAGIC}}: Deal {{DMG:8}} randomly split among all enemy monsters."
+      }
+    }
   },
   "63": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 11,
+        "prev": 10
+      },
+      "hp": {
+        "now": 9,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalAttack": {
+        "now": 11,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "cost": {
+        "now": 17,
+        "prev": 18
+      },
+      "originalCost": {
+        "now": 17,
+        "prev": 18
+      }
+    }
   },
   "64": {
     "added": {},
@@ -419,7 +425,20 @@
   "67": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "description": {
+        "now": "Add a copy of a random non-{{RARITY:TOKEN}} dead ally monster to your hand twice. If you have 15 or less {{HP}}, give them -1 {{COST}}.",
+        "prev": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+      }
+    }
   },
   "68": {
     "added": {},
@@ -427,14 +446,54 @@
     "changed": {}
   },
   "69": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Faded Memory",
+        "prev": "Same Fate"
+      },
+      "image": {
+        "now": "Faded_Memory",
+        "prev": "Same_Fate"
+      },
+      "baseImage": {
+        "now": "Faded_Memory",
+        "prev": "Same_Fate"
+      },
+      "cost": {
+        "now": 1,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 7
+      },
+      "description": {
+        "now": "Set an ally monster's {{HP}} to 1. Give it +1 {{ATK}} and {{KW:DODGE}} (1).",
+        "prev": "Change the {{HP}} of all monsters to 1."
+      }
+    }
   },
   "70": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 23
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 23
+      },
+      "description": {
+        "now": "If you have more than 10 {{HP}}, choose a card in your hand to burn. Kill all monsters.",
+        "prev": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}})."
+      }
+    }
   },
   "71": {
     "added": {},
@@ -444,7 +503,16 @@
   "72": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   },
   "73": {
     "added": {},
@@ -509,7 +577,16 @@
   "85": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   },
   "86": {
     "added": {},
@@ -549,16 +626,7 @@
   "93": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "94": {
     "added": {},
@@ -568,16 +636,7 @@
   "95": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "96": {
     "added": {},
@@ -592,12 +651,44 @@
   "98": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 5 {{DMG}} randomly split among all enemy monsters. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt.",
+        "prev": "Deal {{DMG:5}} randomly split among all enemy monsters."
+      }
+    }
   },
   "99": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "Reload",
+        "prev": "Explosion"
+      },
+      "image": {
+        "now": "Reload",
+        "prev": "Explosion"
+      },
+      "baseImage": {
+        "now": "Reload",
+        "prev": "Explosion"
+      },
+      "cost": {
+        "now": 1,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 6
+      },
+      "description": {
+        "now": "Burn all other spells in your hand. For each spell burned, draw a monster. Give them -1 {{COST}}.",
+        "prev": "Deal {{DMG:4}} to a monster. If this kills the monster, deal {{DMG:3}} to adjacent monsters."
+      }
+    }
   },
   "100": {
     "added": {},
@@ -617,7 +708,28 @@
   "103": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   },
   "104": {
     "added": {},
@@ -632,7 +744,42 @@
   "106": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 8,
+        "prev": 9
+      },
+      "hp": {
+        "now": 8,
+        "prev": 9
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalAttack": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 9
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "tribes": {
+        "now": [
+          "ROYAL_GUARD"
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. Instead of dying, return with -2/-2 base stats and lose {{KW:TAUNT}}. Gain {{KW:ARMOR}} at 6/6 or {{KW:TRANSPARENCY}} at 4/4.",
+        "prev": "Instead of dying, return to its base stats with -3/-3."
+      }
+    }
   },
   "107": {
     "added": {},
@@ -687,7 +834,42 @@
   "117": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 12,
+        "prev": 11
+      },
+      "hp": {
+        "now": 12,
+        "prev": 11
+      },
+      "maxHp": {
+        "now": 12,
+        "prev": 11
+      },
+      "originalAttack": {
+        "now": 12,
+        "prev": 11
+      },
+      "originalHp": {
+        "now": 12,
+        "prev": 11
+      },
+      "cost": {
+        "now": 14,
+        "prev": 15
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 15
+      },
+      "tribes": {
+        "now": [
+          "PLANT"
+        ],
+        "prev": []
+      }
+    }
   },
   "118": {
     "added": {},
@@ -717,20 +899,7 @@
   "123": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 8,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "124": {
     "added": {},
@@ -770,7 +939,12 @@
   "131": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 1 {{DMG}} to all monsters. If it killed a monster, trigger this again.",
+        "prev": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
+      }
+    }
   },
   "132": {
     "added": {},
@@ -800,7 +974,24 @@
   "137": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:DELAY}}: If this is damaged, draw 2 cards.",
+        "prev": "Whenever this survives {{DMG}}, summon another {{CARD:137|1}} (keep {{ATK}} buffs)."
+      }
+    }
   },
   "138": {
     "added": {},
@@ -985,7 +1176,20 @@
   "179": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 4
+      },
+      "description": {
+        "now": "In hand, this has +1 {{COST}} for each different {{TRIBE:LOST_SOUL|1}} in your dustpile. Trigger the {{KW:DUST}} effects of each.",
+        "prev": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give them +7/+7 instead."
+      }
+    }
   },
   "180": {
     "added": {},
@@ -993,9 +1197,24 @@
     "changed": {}
   },
   "181": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}}, add 2 {{CARD:181|2}} to your hand.",
+        "prev": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less."
+      }
+    }
   },
   "182": {
     "added": {},
@@ -1283,9 +1502,24 @@
     "changed": {}
   },
   "256": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Deal 3 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:256|1}}, add a 2-{{COST}} {{CARD:256|1}} to your hand. {{KW:DELAY}}: Burn it to heal 3 {{HP}} to you.",
+        "prev": "Choose a card from your hand. Burn it and trigger its {{KW:DUST}} effect if it's a {{TRIBE:LOST_SOUL|1}}. Draw 2 cards."
+      }
+    }
   },
   "257": {
     "added": {},
@@ -1315,32 +1549,7 @@
   "262": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      },
-      "target": {
-        "now": "MONSTER",
-        "prev": "ALLY_MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}.",
-        "prev": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
-      }
-    }
+    "changed": {}
   },
   "263": {
     "added": {},
@@ -1370,20 +1579,7 @@
   "270": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "",
-        "prev": "{{KW:SYNERGY}}: Gain +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   },
   "271": {
     "added": {},
@@ -1433,28 +1629,7 @@
   "280": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set the stats of all other ally monsters and the monster in front of this to 3/3.",
-        "prev": "{{KW:MAGIC}}: Set the stats of all other ally monsters and the monster in front of this to 3/3."
-      }
-    }
+    "changed": {}
   },
   "281": {
     "added": {},
@@ -1604,20 +1779,7 @@
   "314": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an ally monster +1/+2.",
-        "prev": "{{KW:MAGIC}}: Give a monster +1/+2."
-      }
-    }
+    "changed": {}
   },
   "315": {
     "added": {},
@@ -1652,12 +1814,7 @@
   "351": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 8 {{DMG}} to a monster or you.",
-        "prev": "Deal 8 {{DMG}} to a monster or the player."
-      }
-    }
+    "changed": {}
   },
   "352": {
     "added": {},
@@ -1727,7 +1884,12 @@
   "365": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give the highest {{COST}} card in your hand -2 {{COST}}.",
+        "prev": "{{KW:DUST}}: Give 2 random monsters in your hand +1/+1."
+      }
+    }
   },
   "366": {
     "added": {},
@@ -1752,7 +1914,20 @@
   "370": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 2,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 1
+      }
+    }
   },
   "371": {
     "added": {},
@@ -1822,24 +1997,7 @@
   "386": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. This has +1/+1 for each other {{CARD:386|1}} you played this game.",
-        "prev": "{{KW:HASTE}}. This has +1 {{ATK}} for every other {{CARD:386|2}} you played this game."
-      }
-    }
+    "changed": {}
   },
   "389": {
     "added": {},
@@ -1939,12 +2097,7 @@
   "408": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DELAY}} and {{KW:TURN_END}}: Give a random monster in your hand +1/+1.",
-        "prev": "{{KW:TURN_END}}: Give a random monster in your hand +1/+1."
-      }
-    }
+    "changed": {}
   },
   "409": {
     "added": {},
@@ -2029,24 +2182,7 @@
   "425": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "426": {
     "added": {},
@@ -2186,7 +2322,20 @@
   "453": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      },
+      "description": {
+        "now": "Summon 1/1 copies of 2 random non-{{RARITY:TOKEN}} {{KW:DUST}} monsters costing 3 or less {{GOLD}} from your dustpile.",
+        "prev": "Summon a 1/1 copy of 3 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
+      }
+    }
   },
   "454": {
     "added": {},
@@ -2196,16 +2345,7 @@
   "455": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 9
-      }
-    }
+    "changed": {}
   },
   "456": {
     "added": {},
@@ -2260,7 +2400,20 @@
   "466": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   },
   "467": {
     "added": {},
@@ -2290,7 +2443,36 @@
   "472": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 6,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 8
+      }
+    }
   },
   "473": {
     "added": {},
@@ -2345,7 +2527,20 @@
   "483": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "Burn your Dustpile. For every 7 burned monsters, summon the next {{TRIBE:LOST_SOUL|1}} with +1/+1, {{KW:TAUNT}}, and {{KW:HASTE}}.",
+        "prev": "Gain an extra life."
+      }
+    }
   },
   "484": {
     "added": {},
@@ -2475,7 +2670,28 @@
   "509": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   },
   "510": {
     "added": {},
@@ -2515,38 +2731,12 @@
   "517": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If you have 6 {{CARD:517|6}} in your dustpile, burn them all and give all monsters in your hand and deck +3/+3.",
-        "prev": "{{KW:TAUNT}}. After this is attacked, gain {{KW:DODGE}} (1) and attack a random enemy monster."
-      }
-    }
+    "changed": {}
   },
   "518": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Add 1 exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into the {{CARD:553|1}} (Keep buffs).",
-        "prev": "{{KW:MAGIC}}: Add 1 exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into the {{CARD:553|1}}."
-      }
-    }
+    "changed": {}
   },
   "519": {
     "added": {},
@@ -2576,39 +2766,30 @@
   "524": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|2}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|1}}. {{KW:DELAY}}: {{KW:SILENCE}} all {{CARD:525|1}} in your hand."
-      }
-    }
+    "changed": {}
   },
   "525": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If you don't have any {{CARD:525|1}} in your hand, fill your hand with Silenced {{CARD:525|2}}.",
-        "prev": "{{KW:MAGIC}}: Fill your hand with {{CARD:525|1}}."
-      }
-    }
+    "changed": {}
   },
   "526": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent.",
+        "prev": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 2 {{DMG}} to your opponent."
+      }
+    }
   },
   "527": {
     "added": {},
@@ -2708,12 +2889,7 @@
   "546": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card. If 3 or more ally monsters died this turn, draw two cards with -1 {{COST}} instead.",
-        "prev": "{{KW:MAGIC}}: If an ally monster died this turn, draw a card."
-      }
-    }
+    "changed": {}
   },
   "547": {
     "added": {},
@@ -2743,12 +2919,7 @@
   "552": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at the next 2 cards of your deck. Give them -1 {{COST}}. Choose one to draw. Send the other to the bottom of your deck.",
-        "prev": "Look at the next 2 cards in your deck and choose one. Send it to the bottom of your deck and give it -1 cost. Draw a card."
-      }
-    }
+    "changed": {}
   },
   "553": {
     "added": {},
@@ -2793,12 +2964,7 @@
   "561": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "COMMON"
-      }
-    }
+    "changed": {}
   },
   "562": {
     "added": {},
@@ -2812,8 +2978,23 @@
   },
   "564": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 10
+      },
+      "description": {
+        "now": "{{KW:NEED}}: More cards in your dustpile than your deck. {{KW:MAGIC}}: Summon a 5/5 {{CARD:431}} and two 3/3 {{CARD:459|2}}.",
+        "prev": "{{KW:MAGIC}}: Kill a damaged monster and deal its {{ATK}} as {{DMG}} to the opponent."
+      }
+    }
   },
   "565": {
     "added": {},
@@ -2857,6 +3038,13 @@
   },
   "573": {
     "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "574": {
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

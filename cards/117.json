@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 11,
-    "hp": 11,
-    "maxHp": 11,
-    "originalAttack": 11,
-    "originalHp": 11,
+    "attack": 12,
+    "hp": 12,
+    "maxHp": 12,
+    "originalAttack": 12,
+    "originalHp": 12,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,13 +24,15 @@
     "name": "Omega Flowey",
     "image": "Omega_Flowey",
     "baseImage": "Omega_Flowey",
-    "cost": 15,
+    "cost": 14,
     "rarity": "DETERMINATION",
-    "originalCost": 15,
+    "originalCost": 14,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -40,6 +42,41 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 12,
+        "prev": 11
+      },
+      "hp": {
+        "now": 12,
+        "prev": 11
+      },
+      "maxHp": {
+        "now": 12,
+        "prev": 11
+      },
+      "originalAttack": {
+        "now": 12,
+        "prev": 11
+      },
+      "originalHp": {
+        "now": 12,
+        "prev": 11
+      },
+      "cost": {
+        "now": 14,
+        "prev": 15
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 15
+      },
+      "tribes": {
+        "now": [
+          "PLANT"
+        ],
+        "prev": []
+      }
+    }
   }
 }

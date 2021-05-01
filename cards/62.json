@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal {{DMG:8}} randomly split among all enemy monsters."
+    "description": "{{KW:MAGIC}}: Deal 8 {{DMG}} randomly split among all enemy monsters. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 8 {{DMG}} randomly split among all enemy monsters. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt.",
+        "prev": "{{KW:MAGIC}}: Deal {{DMG:8}} randomly split among all enemy monsters."
+      }
+    }
   }
 }

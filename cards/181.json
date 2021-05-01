@@ -10,9 +10,10 @@
     "name": "Multi Shot",
     "image": "Multi_Shot",
     "baseImage": "Multi_Shot",
-    "cost": 2,
+    "cost": 1,
     "rarity": "EPIC",
-    "originalCost": 2,
+    "originalCost": 1,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less."
+    "description": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}}, add 2 {{CARD:181|2}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}}, add 2 {{CARD:181|2}} to your hand.",
+        "prev": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less."
+      }
+    }
   }
 }

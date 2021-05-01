@@ -24,9 +24,9 @@
     "name": "Mad Dummy",
     "image": "Mad_Dummy",
     "baseImage": "Mad_Dummy",
-    "cost": 13,
+    "cost": 12,
     "rarity": "LEGENDARY",
-    "originalCost": 13,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -41,41 +41,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 6
-      },
-      "hp": {
-        "now": 4,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 1
-      },
       "cost": {
-        "now": 13,
-        "prev": 6
-      },
-      "rarity": {
-        "now": "LEGENDARY",
-        "prev": "RARE"
+        "now": 12,
+        "prev": 13
       },
       "originalCost": {
-        "now": 13,
-        "prev": 6
-      },
-      "description": {
-        "now": "Can only be damaged by 4 or more {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and players. Excess {{DMG}} dealt is healed as {{HP}} to you.",
-        "prev": "Can only be damaged by a {{DMG}} of 4 or greater."
+        "now": 12,
+        "prev": 13
       }
     }
   }

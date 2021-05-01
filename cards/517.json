@@ -40,27 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If you have 6 {{CARD:517|6}} in your dustpile, burn them all and give all monsters in your hand and deck +3/+3.",
-        "prev": "{{KW:TAUNT}}. After this is attacked, gain {{KW:DODGE}} (1) and attack a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

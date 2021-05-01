@@ -11,9 +11,9 @@
     "name": "Royal Determination",
     "image": "Royal_Determination",
     "baseImage": "Royal_Determination",
-    "cost": 3,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,11 +24,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Gain an extra life."
+    "description": "Burn your Dustpile. For every 7 burned monsters, summon the next {{TRIBE:LOST_SOUL|1}} with +1/+1, {{KW:TAUNT}}, and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      },
+      "description": {
+        "now": "Burn your Dustpile. For every 7 burned monsters, summon the next {{TRIBE:LOST_SOUL|1}} with +1/+1, {{KW:TAUNT}}, and {{KW:HASTE}}.",
+        "prev": "Gain an extra life."
+      }
+    }
   }
 }

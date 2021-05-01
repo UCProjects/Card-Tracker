@@ -11,9 +11,9 @@
     "name": "Resurrection",
     "image": "Resurrection",
     "baseImage": "Resurrection",
-    "cost": 3,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+    "description": "Add a copy of a random non-{{RARITY:TOKEN}} dead ally monster to your hand twice. If you have 15 or less {{HP}}, give them -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "description": {
+        "now": "Add a copy of a random non-{{RARITY:TOKEN}} dead ally monster to your hand twice. If you have 15 or less {{HP}}, give them -1 {{COST}}.",
+        "prev": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+      }
+    }
   }
 }

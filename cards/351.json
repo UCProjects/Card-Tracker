@@ -23,11 +23,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 8 {{DMG}} to a monster or you.",
-        "prev": "Deal 8 {{DMG}} to a monster or the player."
-      }
-    }
+    "changed": {}
   }
 }

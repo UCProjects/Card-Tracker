@@ -24,10 +24,9 @@
     "name": "Grilling King",
     "image": "Grilling_King",
     "baseImage": "Grilling_King",
-    "cost": 10,
+    "cost": 13,
     "rarity": "LEGENDARY",
-    "originalCost": 10,
-    "target": "MONSTER",
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,11 +35,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Kill a damaged monster and deal its {{ATK}} as {{DMG}} to the opponent."
+    "description": "{{KW:NEED}}: More cards in your dustpile than your deck. {{KW:MAGIC}}: Summon a 5/5 {{CARD:431}} and two 3/3 {{CARD:459|2}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 10
+      },
+      "description": {
+        "now": "{{KW:NEED}}: More cards in your dustpile than your deck. {{KW:MAGIC}}: Summon a 5/5 {{CARD:431}} and two 3/3 {{CARD:459|2}}.",
+        "prev": "{{KW:MAGIC}}: Kill a damaged monster and deal its {{ATK}} as {{DMG}} to the opponent."
+      }
+    }
   }
 }

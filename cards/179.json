@@ -11,9 +11,9 @@
     "name": "Last Dream",
     "image": "Last_Dream",
     "baseImage": "Last_Dream",
-    "cost": 4,
+    "cost": 0,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give them +7/+7 instead."
+    "description": "In hand, this has +1 {{COST}} for each different {{TRIBE:LOST_SOUL|1}} in your dustpile. Trigger the {{KW:DUST}} effects of each."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 4
+      },
+      "description": {
+        "now": "In hand, this has +1 {{COST}} for each different {{TRIBE:LOST_SOUL|1}} in your dustpile. Trigger the {{KW:DUST}} effects of each.",
+        "prev": "Give all ally monsters +1/+1. If you have 1 {{HP}}, give them +7/+7 instead."
+      }
+    }
   }
 }

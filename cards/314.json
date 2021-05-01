@@ -41,19 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an ally monster +1/+2.",
-        "prev": "{{KW:MAGIC}}: Give a monster +1/+2."
-      }
-    }
+    "changed": {}
   }
 }

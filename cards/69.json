@@ -8,12 +8,13 @@
     "id": 69,
     "fixedId": 69,
     "typeCard": 1,
-    "name": "Same Fate",
-    "image": "Same_Fate",
-    "baseImage": "Same_Fate",
-    "cost": 7,
+    "name": "Faded Memory",
+    "image": "Faded_Memory",
+    "baseImage": "Faded_Memory",
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +23,38 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Change the {{HP}} of all monsters to 1."
+    "description": "Set an ally monster's {{HP}} to 1. Give it +1 {{ATK}} and {{KW:DODGE}} (1)."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Faded Memory",
+        "prev": "Same Fate"
+      },
+      "image": {
+        "now": "Faded_Memory",
+        "prev": "Same_Fate"
+      },
+      "baseImage": {
+        "now": "Faded_Memory",
+        "prev": "Same_Fate"
+      },
+      "cost": {
+        "now": 1,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 7
+      },
+      "description": {
+        "now": "Set an ally monster's {{HP}} to 1. Give it +1 {{ATK}} and {{KW:DODGE}} (1).",
+        "prev": "Change the {{HP}} of all monsters to 1."
+      }
+    }
   }
 }

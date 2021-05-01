@@ -11,9 +11,10 @@
     "name": "Soul Drain",
     "image": "Soul_Drain",
     "baseImage": "Soul_Drain",
-    "cost": 2,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +23,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Choose a card from your hand. Burn it and trigger its {{KW:DUST}} effect if it's a {{TRIBE:LOST_SOUL|1}}. Draw 2 cards."
+    "description": "Deal 3 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:256|1}}, add a 2-{{COST}} {{CARD:256|1}} to your hand. {{KW:DELAY}}: Burn it to heal 3 {{HP}} to you."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Deal 3 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:256|1}}, add a 2-{{COST}} {{CARD:256|1}} to your hand. {{KW:DELAY}}: Burn it to heal 3 {{HP}} to you.",
+        "prev": "Choose a card from your hand. Burn it and trigger its {{KW:DUST}} effect if it's a {{TRIBE:LOST_SOUL|1}}. Draw 2 cards."
+      }
+    }
   }
 }

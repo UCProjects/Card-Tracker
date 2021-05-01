@@ -11,9 +11,9 @@
     "name": "Hyper Goner",
     "image": "Hyper_Goner",
     "baseImage": "Hyper_Goner",
-    "cost": 23,
+    "cost": 12,
     "rarity": "EPIC",
-    "originalCost": 23,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}})."
+    "description": "If you have more than 10 {{HP}}, choose a card in your hand to burn. Kill all monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 23
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 23
+      },
+      "description": {
+        "now": "If you have more than 10 {{HP}}, choose a card in your hand to burn. Kill all monsters.",
+        "prev": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}})."
+      }
+    }
   }
 }

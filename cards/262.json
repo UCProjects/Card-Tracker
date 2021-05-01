@@ -41,31 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      },
-      "target": {
-        "now": "MONSTER",
-        "prev": "ALLY_MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}.",
-        "prev": "{{KW:MAGIC}}: Summon a copy of a non DT ally monster in board and halve both monster's stats (rounded up)."
-      }
-    }
+    "changed": {}
   }
 }

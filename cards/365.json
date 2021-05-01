@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Give 2 random monsters in your hand +1/+1."
+    "description": "{{KW:DUST}}: Give the highest {{COST}} card in your hand -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give the highest {{COST}} card in your hand -2 {{COST}}.",
+        "prev": "{{KW:DUST}}: Give 2 random monsters in your hand +1/+1."
+      }
+    }
   }
 }

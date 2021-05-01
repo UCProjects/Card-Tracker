@@ -40,23 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. This has +1/+1 for each other {{CARD:386|1}} you played this game.",
-        "prev": "{{KW:HASTE}}. This has +1 {{ATK}} for every other {{CARD:386|2}} you played this game."
-      }
-    }
+    "changed": {}
   }
 }

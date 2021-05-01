@@ -41,11 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "RARE",
-        "prev": "COMMON"
-      }
-    }
+    "changed": {}
   }
 }

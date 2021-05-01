@@ -21,11 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
+    "description": "Deal 1 {{DMG}} to all monsters. If it killed a monster, trigger this again."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 1 {{DMG}} to all monsters. If it killed a monster, trigger this again.",
+        "prev": "Deal {{DMG:1}} to all monsters. If it killed an enemy monster, trigger this effect again."
+      }
+    }
   }
 }

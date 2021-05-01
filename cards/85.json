@@ -10,9 +10,9 @@
     "name": "Cloning",
     "image": "Cloning",
     "baseImage": "Cloning",
-    "cost": 5,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -27,6 +27,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

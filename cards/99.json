@@ -7,13 +7,12 @@
     "id": 99,
     "fixedId": 99,
     "typeCard": 1,
-    "name": "Explosion",
-    "image": "Explosion",
-    "baseImage": "Explosion",
-    "cost": 6,
+    "name": "Reload",
+    "image": "Reload",
+    "baseImage": "Reload",
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 6,
-    "target": "MONSTER",
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +21,38 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal {{DMG:4}} to a monster. If this kills the monster, deal {{DMG:3}} to adjacent monsters."
+    "description": "Burn all other spells in your hand. For each spell burned, draw a monster. Give them -1 {{COST}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "Reload",
+        "prev": "Explosion"
+      },
+      "image": {
+        "now": "Reload",
+        "prev": "Explosion"
+      },
+      "baseImage": {
+        "now": "Reload",
+        "prev": "Explosion"
+      },
+      "cost": {
+        "now": 1,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 6
+      },
+      "description": {
+        "now": "Burn all other spells in your hand. For each spell burned, draw a monster. Give them -1 {{COST}}.",
+        "prev": "Deal {{DMG:4}} to a monster. If this kills the monster, deal {{DMG:3}} to adjacent monsters."
+      }
+    }
   }
 }

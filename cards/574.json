@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 4,
-    "originalHp": 3,
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 13,
-    "fixedId": 13,
+    "id": 574,
+    "fixedId": 574,
     "typeCard": 0,
-    "name": "Woshua",
-    "image": "Woshua",
-    "baseImage": "Woshua",
-    "cost": 5,
-    "rarity": "BASE",
-    "originalCost": 5,
+    "name": "Spear",
+    "image": "Spear",
+    "baseImage": "Spear",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal {{DMG:1}} to all enemy monsters."
+    "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

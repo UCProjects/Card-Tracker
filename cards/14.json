@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. Has +1 {{ATK}} while in front of an enemy monster."
+    "description": "{{KW:TAUNT}}. When you have no other ally monsters, this takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. When you have no other ally monsters, this takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}.",
+        "prev": "{{KW:TAUNT}}. Has +1 {{ATK}} while in front of an enemy monster."
+      }
+    }
   }
 }

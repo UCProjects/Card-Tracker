@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 10,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 10,
-    "originalHp": 10,
+    "attack": 11,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 11,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Asriel Dreemurr",
     "image": "Asriel_Dreemurr",
     "baseImage": "Asriel_Dreemurr",
-    "cost": 18,
+    "cost": 17,
     "rarity": "LEGENDARY",
-    "originalCost": 18,
+    "originalCost": 17,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 11,
+        "prev": 10
+      },
+      "hp": {
+        "now": 9,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalAttack": {
+        "now": 11,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "cost": {
+        "now": 17,
+        "prev": 18
+      },
+      "originalCost": {
+        "now": 17,
+        "prev": 18
+      }
+    }
   }
 }

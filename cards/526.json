@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
-      "description": {
-        "now": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent.",
-        "prev": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 2 {{DMG}} to your opponent."
-      }
-    }
+    "changed": {}
   }
 }

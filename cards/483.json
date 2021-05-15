@@ -29,19 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      },
-      "description": {
-        "now": "Burn your Dustpile. For every 7 burned monsters, summon the next {{TRIBE:LOST_SOUL|1}} with +1/+1, {{KW:TAUNT}}, and {{KW:HASTE}}.",
-        "prev": "Gain an extra life."
-      }
-    }
+    "changed": {}
   }
 }

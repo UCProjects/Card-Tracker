@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 4,
-    "originalHp": 10,
+    "attack": 8,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 8,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Muffet",
     "image": "Muffet",
     "baseImage": "Muffet",
-    "cost": 9,
+    "cost": 10,
     "rarity": "LEGENDARY",
-    "originalCost": 9,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,6 +42,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 8,
+        "prev": 4
+      },
+      "hp": {
+        "now": 8,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 10
+      },
+      "originalAttack": {
+        "now": 8,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 10
+      },
+      "cost": {
+        "now": 10,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 9
+      }
+    }
   }
 }

@@ -42,41 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 8,
-        "prev": 9
-      },
-      "hp": {
-        "now": 8,
-        "prev": 9
-      },
-      "maxHp": {
-        "now": 8,
-        "prev": 9
-      },
-      "originalAttack": {
-        "now": 8,
-        "prev": 9
-      },
-      "originalHp": {
-        "now": 8,
-        "prev": 9
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "tribes": {
-        "now": [
-          "ROYAL_GUARD"
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. Instead of dying, return with -2/-2 base stats and lose {{KW:TAUNT}}. Gain {{KW:ARMOR}} at 6/6 or {{KW:TRANSPARENCY}} at 4/4.",
-        "prev": "Instead of dying, return to its base stats with -3/-3."
-      }
-    }
+    "changed": {}
   }
 }

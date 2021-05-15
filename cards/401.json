@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 2,
-    "originalHp": 4,
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Certificate",
     "image": "Certificate",
     "baseImage": "Certificate",
-    "cost": 4,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{KW:TAUNT}} monsters and choose one. Add it to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} {{KW:TAUNT}} monsters and choose one. Add it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 2
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} {{KW:TAUNT}} monsters and choose one. Add it to your hand.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random {{KW:TAUNT}} monsters and choose one. Add it to your hand."
+      }
+    }
   }
 }

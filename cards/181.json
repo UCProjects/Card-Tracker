@@ -22,25 +22,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}}, add 2 {{CARD:181|2}} to your hand."
+    "description": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:181|1}}, add 2 {{CARD:181|2}} to your hand."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      },
       "description": {
-        "now": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}}, add 2 {{CARD:181|2}} to your hand.",
-        "prev": "Add a random Justice spell costing 3 or more to your hand. It costs 3 less."
+        "now": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:181|1}}, add 2 {{CARD:181|2}} to your hand.",
+        "prev": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}}, add 2 {{CARD:181|2}} to your hand."
       }
     }
   }

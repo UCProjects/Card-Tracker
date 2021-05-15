@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 5,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 6,
+    "originalAttack": 5,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,9 @@
     "name": "Jukebox",
     "image": "Jukebox",
     "baseImage": "Jukebox",
-    "cost": 7,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

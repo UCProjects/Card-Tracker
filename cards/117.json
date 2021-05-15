@@ -42,41 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 12,
-        "prev": 11
-      },
-      "hp": {
-        "now": 12,
-        "prev": 11
-      },
-      "maxHp": {
-        "now": 12,
-        "prev": 11
-      },
-      "originalAttack": {
-        "now": 12,
-        "prev": 11
-      },
-      "originalHp": {
-        "now": 12,
-        "prev": 11
-      },
-      "cost": {
-        "now": 14,
-        "prev": 15
-      },
-      "originalCost": {
-        "now": 14,
-        "prev": 15
-      },
-      "tribes": {
-        "now": [
-          "PLANT"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

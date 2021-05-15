@@ -11,9 +11,9 @@
     "name": "Resurrection",
     "image": "Resurrection",
     "baseImage": "Resurrection",
-    "cost": 2,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,16 +29,12 @@
     "removed": {},
     "changed": {
       "cost": {
-        "now": 2,
-        "prev": 3
+        "now": 4,
+        "prev": 2
       },
       "originalCost": {
-        "now": 2,
-        "prev": 3
-      },
-      "description": {
-        "now": "Add a copy of a random non-{{RARITY:TOKEN}} dead ally monster to your hand twice. If you have 15 or less {{HP}}, give them -1 {{COST}}.",
-        "prev": "Add a copy of 2 non {{RARITY:TOKEN}} ally dead monsters to your hand. If you have < 15 {{HP}}, add the next {{TRIBE:LOST_SOUL|1}} too."
+        "now": 4,
+        "prev": 2
       }
     }
   }

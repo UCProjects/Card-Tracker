@@ -39,22 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "cost": {
-        "now": 13,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 10
-      },
-      "description": {
-        "now": "{{KW:NEED}}: More cards in your dustpile than your deck. {{KW:MAGIC}}: Summon a 5/5 {{CARD:431}} and two 3/3 {{CARD:459|2}}.",
-        "prev": "{{KW:MAGIC}}: Kill a damaged monster and deal its {{ATK}} as {{DMG}} to the opponent."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

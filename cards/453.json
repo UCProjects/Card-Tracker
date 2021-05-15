@@ -27,19 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "Summon 1/1 copies of 2 random non-{{RARITY:TOKEN}} {{KW:DUST}} monsters costing 3 or less {{GOLD}} from your dustpile.",
-        "prev": "Summon a 1/1 copy of 3 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile with a {{COST}} of 3 or less."
-      }
-    }
+    "changed": {}
   }
 }

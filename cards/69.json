@@ -26,35 +26,8 @@
     "description": "Set an ally monster's {{HP}} to 1. Give it +1 {{ATK}} and {{KW:DODGE}} (1)."
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Faded Memory",
-        "prev": "Same Fate"
-      },
-      "image": {
-        "now": "Faded_Memory",
-        "prev": "Same_Fate"
-      },
-      "baseImage": {
-        "now": "Faded_Memory",
-        "prev": "Same_Fate"
-      },
-      "cost": {
-        "now": 1,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 7
-      },
-      "description": {
-        "now": "Set an ally monster's {{HP}} to 1. Give it +1 {{ATK}} and {{KW:DODGE}} (1).",
-        "prev": "Change the {{HP}} of all monsters to 1."
-      }
-    }
+    "changed": {}
   }
 }

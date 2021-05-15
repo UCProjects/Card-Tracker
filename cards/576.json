@@ -1,0 +1,30 @@
+{
+  "card": {
+    "id": 576,
+    "fixedId": 576,
+    "typeCard": 1,
+    "name": "Shield",
+    "image": "Shield",
+    "baseImage": "Shield",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "Give an ally monster +1/+1 and draw a card."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

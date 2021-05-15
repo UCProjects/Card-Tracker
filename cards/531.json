@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 5,
-    "hp": 9,
-    "maxHp": 9,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 5,
-    "originalHp": 9,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Teacher Toriel",
     "image": "Teacher_Toriel",
     "baseImage": "Teacher_Toriel",
-    "cost": 8,
+    "cost": 5,
     "rarity": "LEGENDARY",
-    "originalCost": 8,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 9
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 9
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 9
+      },
+      "cost": {
+        "now": 5,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 8
+      }
+    }
   }
 }

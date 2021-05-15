@@ -27,19 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 23
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 23
-      },
-      "description": {
-        "now": "If you have more than 10 {{HP}}, choose a card in your hand to burn. Kill all monsters.",
-        "prev": "Kill all monsters. This costs 1 less for every 2 {{HP}} you're missing (max: -15 {{COST}})."
-      }
-    }
+    "changed": {}
   }
 }

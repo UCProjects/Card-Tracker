@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Summon a random card costing 5-7 from your dustpile."
+    "description": "{{KW:MAGIC}}: {{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Summon a random other monster costing 5-7 {{GOLD}} from your dustpile."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Summon a random other monster costing 5-7 {{GOLD}} from your dustpile.",
+        "prev": "{{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Summon a random card costing 5-7 from your dustpile."
+      }
+    }
   }
 }

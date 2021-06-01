@@ -18,19 +18,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Heal 4 {{HP}}. If this targeted a monster, also give it +1/+1."
+    "description": "Heal 3 {{HP}}. If this targeted a monster, also give it +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
+      "description": {
+        "now": "Heal 3 {{HP}}. If this targeted a monster, also give it +1/+1.",
+        "prev": "Heal 4 {{HP}}. If this targeted a monster, also give it +1/+1."
       }
     }
   }

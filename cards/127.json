@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 4,
-    "originalHp": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -35,11 +35,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add 2 random {{RARITY:BASE}} spells to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Add 2 random {{RARITY:BASE}} spells to your hand.",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add 3 random <= 3 {{GOLD}} spells to your hand."
+      }
+    }
   }
 }

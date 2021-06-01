@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 1,
+    "maxHp": 1,
     "originalAttack": 3,
-    "originalHp": 2,
+    "originalHp": 1,
     "dodge": 0,
     "armor": true,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Charles",
     "image": "Charles",
     "baseImage": "Charles",
-    "cost": 3,
+    "cost": 2,
     "rarity": "BASE",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 1,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 1,
+        "prev": 2
+      },
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

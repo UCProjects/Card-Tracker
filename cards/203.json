@@ -24,9 +24,9 @@
     "name": "Angel of Death",
     "image": "Angel_of_Death",
     "baseImage": "Angel_of_Death",
-    "cost": 17,
+    "cost": 16,
     "rarity": "DETERMINATION",
-    "originalCost": 17,
+    "originalCost": 16,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -41,6 +41,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 16,
+        "prev": 17
+      },
+      "originalCost": {
+        "now": 16,
+        "prev": 17
+      }
+    }
   }
 }

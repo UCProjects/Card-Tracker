@@ -6,9 +6,9 @@
     "name": "Create a Machine",
     "image": "Create_a_Machine",
     "baseImage": "Create_a_Machine",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 0,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -23,6 +23,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

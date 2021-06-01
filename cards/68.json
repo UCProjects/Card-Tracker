@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}}.",
-        "prev": "Kill an ally monster. Heal 3 {{HP}} to you and summon the next {{TRIBE:LOST_SOUL|1}}."
-      }
-    }
+    "changed": {}
   }
 }

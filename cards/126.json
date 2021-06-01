@@ -1,21 +1,21 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 1,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": 0,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "id": 126,
@@ -24,9 +24,9 @@
     "name": "Papyrus Statue",
     "image": "Papyrus_Statue",
     "baseImage": "Papyrus_Statue",
-    "cost": 6,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,52 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DISARMED}}. Increase {{DMG}} dealt to all enemy monsters by 1."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have 5 or more cards in your hand, gain {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 1
+      },
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have 5 or more cards in your hand, gain {{KW:TAUNT}}.",
+        "prev": "{{KW:DISARMED}}. Increase {{DMG}} dealt to all enemy monsters by 1."
+      }
+    }
   }
 }

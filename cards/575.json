@@ -20,9 +20,7 @@
     "description": "Choose a monster in your hand. Shuffle it into your deck and draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

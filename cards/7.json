@@ -36,11 +36,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal {{DMG:1}}."
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain {{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain {{KW:CHARGE}}.",
+        "prev": "{{KW:MAGIC}}: Deal {{DMG:1}}."
+      }
+    }
   }
 }

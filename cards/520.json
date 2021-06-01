@@ -24,9 +24,9 @@
     "name": "Abstract Art",
     "image": "Abstract_Art",
     "baseImage": "Abstract_Art",
-    "cost": 3,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 2,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -39,42 +39,16 @@
     "description": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster costing 3 or less {{GOLD}}."
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "hp": {
-        "now": 2,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 5
-      },
       "cost": {
-        "now": 3,
-        "prev": 5
+        "now": 2,
+        "prev": 3
       },
       "originalCost": {
-        "now": 3,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster costing 3 or less {{GOLD}}.",
-        "prev": "After you summon a monster that costs less than this, trigger its {{KW:DUST}} effect."
+        "now": 2,
+        "prev": 3
       }
     }
   }

@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_END}}: Deal 2 {{DMG}} to a random enemy monster."
+    "description": "{{KW:TURN_END}}: If this didn't attack this turn, deal 3 {{DMG}} to a random enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: If this didn't attack this turn, deal 3 {{DMG}} to a random enemy monster.",
+        "prev": "{{KW:TURN_END}}: Deal 2 {{DMG}} to a random enemy monster."
+      }
+    }
   }
 }

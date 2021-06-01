@@ -1,15 +1,15 @@
 {
   "card": {
-    "id": 576,
-    "fixedId": 576,
+    "id": 578,
+    "fixedId": 578,
     "typeCard": 1,
-    "name": "Shield",
-    "image": "Shield",
-    "baseImage": "Shield",
-    "cost": 1,
+    "name": "Crystal Shard",
+    "image": "Crystal_Shard",
+    "baseImage": "Crystal_Shard",
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "originalCost": 2,
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -18,10 +18,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give an ally monster +1/+1 and draw a card."
+    "description": "Deal 3 {{DMG}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

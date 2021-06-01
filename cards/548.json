@@ -24,9 +24,9 @@
     "name": "Magic Crystal",
     "image": "Magic_Crystal",
     "baseImage": "Magic_Crystal",
-    "cost": 13,
+    "cost": 19,
     "rarity": "RARE",
-    "originalCost": 13,
+    "originalCost": 19,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Your spells have -1 {{COST}}. In your hand, this has -2 {{COST}} for every different spell costing 1 or less {{GOLD}} you cast this game (max: -10 {{COST}})."
+    "description": "In your hand, this has -1 {{COST}} for every {{GOLD}} you spent on spells this game (max: -15 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:578|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 19,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 19,
+        "prev": 13
+      },
+      "description": {
+        "now": "In your hand, this has -1 {{COST}} for every {{GOLD}} you spent on spells this game (max: -15 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:578|1}} to your hand.",
+        "prev": "Your spells have -1 {{COST}}. In your hand, this has -2 {{COST}} for every different spell costing 1 or less {{GOLD}} you cast this game (max: -10 {{COST}})."
+      }
+    }
   }
 }

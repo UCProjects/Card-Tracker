@@ -39,15 +39,8 @@
     "description": "{{KW:TURBO}}: Reveal a random card in the opponent's hand. {{KW:MAGIC}}: Deal 1 {{DMG}}. If it killed a monster, heal 2 {{HP}} to you."
   },
   "diffs": {
-    "added": {
-      "target": "ALL"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Reveal a random card in the opponent's hand. {{KW:MAGIC}}: Deal 1 {{DMG}}. If it killed a monster, heal 2 {{HP}} to you.",
-        "prev": "{{KW:TURBO}}: Reveal a random card from your opponent's hand. {{KW:MAGIC}}: Raise the {{COST}} of a random card in your opponent's hand by 2."
-      }
-    }
+    "changed": {}
   }
 }

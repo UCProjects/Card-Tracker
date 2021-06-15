@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "",
-        "prev": "{{KW:ARMOR}}"
-      }
-    }
+    "changed": {}
   }
 }

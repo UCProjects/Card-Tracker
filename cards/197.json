@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: If this didn't attack this turn, deal 3 {{DMG}} to a random enemy monster.",
-        "prev": "{{KW:TURN_END}}: Deal 2 {{DMG}} to a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

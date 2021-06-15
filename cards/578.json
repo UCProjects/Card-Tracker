@@ -21,9 +21,7 @@
     "description": "Deal 3 {{DMG}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

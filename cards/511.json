@@ -23,11 +23,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Heal 3 {{HP}}. If this targeted a monster, also give it +1/+1.",
-        "prev": "Heal 4 {{HP}}. If this targeted a monster, also give it +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

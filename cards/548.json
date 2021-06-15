@@ -40,19 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 19,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 19,
-        "prev": 13
-      },
-      "description": {
-        "now": "In your hand, this has -1 {{COST}} for every {{GOLD}} you spent on spells this game (max: -15 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:578|1}} to your hand.",
-        "prev": "Your spells have -1 {{COST}}. In your hand, this has -2 {{COST}} for every different spell costing 1 or less {{GOLD}} you cast this game (max: -10 {{COST}})."
-      }
-    }
+    "changed": {}
   }
 }

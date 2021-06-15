@@ -42,31 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a different {{TRIBE:MOLD|1}} from your deck and give it +1 {{HP}}",
-        "prev": "{{KW:MAGIC}}: Draw a different {{TRIBE:MOLD}} and give it +1 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

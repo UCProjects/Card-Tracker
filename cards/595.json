@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 6,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 4,
+    "originalAttack": 6,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -13,19 +13,19 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "candy": false,
-    "id": 291,
-    "fixedId": 291,
+    "candy": true,
+    "id": 595,
+    "fixedId": 595,
     "typeCard": 0,
-    "name": "Striped Bird",
-    "image": "Striped_Bird",
-    "baseImage": "Striped_Bird",
+    "name": "Rescue Helicopter",
+    "image": "Rescue_Helicopter",
+    "baseImage": "Rescue_Helicopter",
     "cost": 4,
-    "rarity": "RARE",
+    "rarity": "TOKEN",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
@@ -35,24 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:PARALYZE}} itself after attacking."
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

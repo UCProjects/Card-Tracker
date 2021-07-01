@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 7,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 7,
-    "originalHp": 5,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -35,11 +35,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -5 {{COST}}."
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand with -6 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 7
+      },
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand with -6 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand. Give them -5 {{COST}}."
+      }
+    }
   }
 }

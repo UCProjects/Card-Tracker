@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 4,
-    "originalHp": 6,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,17 +13,17 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
     "candy": false,
-    "id": 291,
-    "fixedId": 291,
+    "id": 594,
+    "fixedId": 594,
     "typeCard": 0,
-    "name": "Striped Bird",
-    "image": "Striped_Bird",
-    "baseImage": "Striped_Bird",
+    "name": "Toy Bricks",
+    "image": "Toy_Bricks",
+    "baseImage": "Toy_Bricks",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -35,24 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:PARALYZE}} itself after attacking."
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 5 {{CARD:594|5}} in your Dustpile to shuffle 10 {{CARD:595|10}} into your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

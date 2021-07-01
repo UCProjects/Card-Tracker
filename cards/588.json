@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 10,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,37 +18,30 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 588,
+    "fixedId": 588,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
-    "cost": 12,
-    "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "name": "Spaghetti",
+    "image": "Spaghetti",
+    "baseImage": "Spaghetti",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +2/+2."
+    "description": "{{KW:SHOCK}}: Heal {{HP}} to you equal to the spell's {{COST}} and lose this {{KW:SHOCK}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

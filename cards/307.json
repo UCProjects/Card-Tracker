@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 5,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 6,
+    "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -24,9 +24,9 @@
     "name": "Bloody Tree",
     "image": "Bloody_Tree",
     "baseImage": "Bloody_Tree",
-    "cost": 6,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -37,11 +37,32 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy."
+    "description": "{{KW:DUST}}: Deal {{KW:FATIGUE}} {{DMG}} to the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Deal {{KW:FATIGUE}} {{DMG}} to the opponent.",
+        "prev": "{{KW:MAGIC}}: Deal {{KW:FATIGUE}} {{DMG}} to the enemy."
+      }
+    }
   }
 }

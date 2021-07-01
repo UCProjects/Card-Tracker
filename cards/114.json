@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -27,6 +27,7 @@
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +36,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give {{KW:TAUNT}} to all other monsters on the board."
+    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}.",
+        "prev": "{{KW:MAGIC}}: Give {{KW:TAUNT}} to all other monsters on the board."
+      }
+    }
   }
 }

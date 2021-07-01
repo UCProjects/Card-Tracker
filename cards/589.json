@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 6,
+    "originalHp": 7,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 589,
+    "fixedId": 589,
+    "typeCard": 0,
+    "name": "The Mascot",
+    "image": "The_Mascot",
+    "baseImage": "The_Mascot",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:SHOCK}}: Add a {{CARD:577|1}} to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

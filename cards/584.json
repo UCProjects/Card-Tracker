@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 4,
-    "originalHp": 10,
+    "attack": 5,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 5,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 584,
+    "fixedId": 584,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
-    "cost": 12,
-    "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "name": "Caged Kings",
+    "image": "Caged_Kings",
+    "baseImage": "Caged_Kings",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,20 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +2/+2."
+    "description": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Add a {{CARD:585|1}} to your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

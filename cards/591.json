@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 3,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 4,
+    "originalAttack": 3,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -18,43 +18,31 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 43,
-    "fixedId": 43,
+    "id": 591,
+    "fixedId": 591,
     "typeCard": 0,
-    "name": "Lesser Dog",
-    "image": "Lesser_Dog",
-    "baseImage": "Lesser_Dog",
+    "name": "Memory Keeper",
+    "image": "Memory_Keeper",
+    "baseImage": "Memory_Keeper",
     "cost": 6,
-    "rarity": "RARE",
+    "rarity": "COMMON",
     "originalCost": 6,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "DOG"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Reduce the {{COST}} of all the cards in your hand by 1."
+    "description": "{{KW:MAGIC}}: Give an enemy monster {{KW:DODGE}} (1) and set its {{HP}} to 1. {{KW:SHOCK}}: Deal 2 {{DMG}} to a random enemy monster."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

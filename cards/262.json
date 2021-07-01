@@ -24,9 +24,9 @@
     "name": "Mad Mew Mew",
     "image": "Mad_Mew_Mew",
     "baseImage": "Mad_Mew_Mew",
-    "cost": 7,
+    "cost": 6,
     "rarity": "LEGENDARY",
-    "originalCost": 7,
+    "originalCost": 6,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -41,6 +41,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

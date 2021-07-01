@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 1,
-    "maxHp": 1,
-    "originalAttack": 2,
-    "originalHp": 1,
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,39 +18,30 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 224,
-    "fixedId": 224,
+    "id": 587,
+    "fixedId": 587,
     "typeCard": 0,
-    "name": "Red Snail",
-    "image": "Red_Snail",
-    "baseImage": "Red_Snail",
+    "name": "Glowing Shroom",
+    "image": "Glowing_Shroom",
+    "baseImage": "Glowing_Shroom",
     "cost": 1,
     "rarity": "COMMON",
     "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "SNAIL"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give +{{ATK:1}} to your other {{TRIBE:SNAIL|1}} in play."
+    "description": "{{KW:MAGIC}}: If played on the left, swap this monster's stats. {{KW:SHOCK}}: Gain +1 {{ATK}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      }
-    }
+    "changed": {}
   }
 }

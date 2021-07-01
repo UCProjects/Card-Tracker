@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 2 others cheapest monsters with a {{COST}} lower than the elapsed turn count in your dustpile and choose one. {{KW:DUST}}: Release it."
+    "description": "{{KW:MAGIC}}: Look at the 2 cheapest monsters in your dustpile (except {{CARD:215|1}}) and choose one to catch. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at the 2 cheapest monsters in your dustpile (except {{CARD:215|1}}) and choose one to catch. {{KW:DUST}}: Release it.",
+        "prev": "{{KW:MAGIC}}: Look at 2 others cheapest monsters with a {{COST}} lower than the elapsed turn count in your dustpile and choose one. {{KW:DUST}}: Release it."
+      }
+    }
   }
 }

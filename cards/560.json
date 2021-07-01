@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 560,
@@ -24,9 +24,9 @@
     "name": "Mom Slime",
     "image": "Mom_Slime",
     "baseImage": "Mom_Slime",
-    "cost": 6,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, trigger its {{KW:DUST}} effect. {{KW:DUST}}: Summon a {{CARD:370|1}}."
+    "description": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a {{CARD:370|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      },
+      "description": {
+        "now": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a {{CARD:370|1}}.",
+        "prev": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, trigger its {{KW:DUST}} effect. {{KW:DUST}}: Summon a {{CARD:370|1}}."
+      }
+    }
   }
 }

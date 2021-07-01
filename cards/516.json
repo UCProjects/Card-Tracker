@@ -6,9 +6,10 @@
     "name": "Breaking Love",
     "image": "Breaking_Love",
     "baseImage": "Breaking_Love",
-    "cost": 2,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 2,
+    "originalCost": 1,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -17,11 +18,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Earn 2 {{GOLD}}."
+    "description": "Give an enemy monster -1/-1. Draw a card."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Give an enemy monster -1/-1. Draw a card.",
+        "prev": "Earn 2 {{GOLD}}."
+      }
+    }
   }
 }

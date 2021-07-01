@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "id": 579,
+    "fixedId": 579,
+    "typeCard": 0,
+    "name": "Baking Queen",
+    "image": "Baking_Queen",
+    "baseImage": "Baking_Queen",
+    "cost": 10,
+    "rarity": "LEGENDARY",
+    "originalCost": 10,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:MAGIC}}: Kill a damaged enemy monster. Heal {{HP}} to you equal to its {{ATK}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

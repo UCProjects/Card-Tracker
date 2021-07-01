@@ -24,9 +24,9 @@
     "name": "Clover",
     "image": "Clover",
     "baseImage": "Clover",
-    "cost": 10,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 9,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -41,6 +41,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      }
+    }
   }
 }

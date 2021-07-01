@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 3,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": 0,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": true,
+    "candy": false,
+    "id": 593,
+    "fixedId": 593,
+    "typeCard": 0,
+    "name": "Rapstablook",
+    "image": "Rapstablook",
+    "baseImage": "Rapstablook",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:TRANSPARENCY}}. Whenever your opponent summons a monster, give it and this -1 {{ATK}}. If this card's {{ATK}} reaches 0, kill this and a random enemy monster."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 10,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,37 +18,31 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 592,
+    "fixedId": 592,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
-    "cost": 12,
-    "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "name": "Mio Mio San",
+    "image": "Mio_Mio_San",
+    "baseImage": "Mio_Mio_San",
+    "cost": 5,
+    "rarity": "LEGENDARY",
+    "originalCost": 5,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +2/+2."
+    "description": "{{KW:MAGIC}}: Halve an ally non-{{RARITY:DETERMINATION}} monster's stats (rounded up) and summon an exact copy of it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

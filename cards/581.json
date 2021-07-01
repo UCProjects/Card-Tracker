@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 4,
-    "originalHp": 10,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,14 +18,14 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 581,
+    "fixedId": 581,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
+    "name": "Golden Mascot",
+    "image": "Golden_Mascot",
+    "baseImage": "Golden_Mascot",
     "cost": 12,
-    "rarity": "DETERMINATION",
+    "rarity": "EPIC",
     "originalCost": 12,
     "shiny": false,
     "quantity": 1,
@@ -35,20 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +2/+2."
+    "description": "In your hand, this has -1 {{COST}} for each {{RARITY:LEGENDARY}} card you played this game (max: -10 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:257|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

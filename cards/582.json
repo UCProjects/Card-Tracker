@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 4,
-    "originalHp": 10,
+    "attack": 2,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 2,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 582,
+    "fixedId": 582,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
-    "cost": 12,
-    "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "name": "Tiny Bookshelf",
+    "image": "Tiny_Bookshelf",
+    "baseImage": "Tiny_Bookshelf",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,20 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +2/+2."
+    "description": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Gain +1 {{ATK}} and {{KW:TAUNT}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

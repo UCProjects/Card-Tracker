@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 4,
-    "originalHp": 10,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 586,
+    "fixedId": 586,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
-    "cost": 12,
-    "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "name": "Cell Key",
+    "image": "Cell_Key",
+    "baseImage": "Cell_Key",
+    "cost": 5,
+    "rarity": "TOKEN",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,20 +35,13 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +2/+2."
+    "description": "{{KW:MAGIC}}: Look at all {{TRIBE:CHAOS_WEAPON|2}} and choose one to add to your hand with -2 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

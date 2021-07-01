@@ -10,9 +10,10 @@
     "name": "Cold Winter",
     "image": "Cold_Winter",
     "baseImage": "Cold_Winter",
-    "cost": 2,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at {{CARD:9|1}}, {{CARD:10|1}} and {{CARD:31|1}} and choose one to burn. Add the others to your hand."
+    "description": "Heal an ally monster's max {{HP}} to you and send it to your deck with +2/+2. If this is {{KW:GENERATED}}, give it +1/+1 instead."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Heal an ally monster's max {{HP}} to you and send it to your deck with +2/+2. If this is {{KW:GENERATED}}, give it +1/+1 instead.",
+        "prev": "Look at {{CARD:9|1}}, {{CARD:10|1}} and {{CARD:31|1}} and choose one to burn. Add the others to your hand."
+      }
+    }
   }
 }

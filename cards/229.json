@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURBO}}: Add a random {{TRIBE:SNAIL|1}} to your hand. {{KW:MAGIC}}: If you have 2+ {{TRIBE:SNAIL|1}} in play, add {{CARD:369|1}} to your hand."
+    "description": "{{KW:TURBO}}: Draw a {{TRIBE:SNAIL|1}}. {{KW:MAGIC}}: If you have 2 or more ally {{TRIBE:SNAIL|2}}, add {{CARD:369|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Draw a {{TRIBE:SNAIL|1}}. {{KW:MAGIC}}: If you have 2 or more ally {{TRIBE:SNAIL|2}}, add {{CARD:369|1}} to your hand.",
+        "prev": "{{KW:TURBO}}: Add a random {{TRIBE:SNAIL|1}} to your hand. {{KW:MAGIC}}: If you have 2+ {{TRIBE:SNAIL|1}} in play, add {{CARD:369|1}} to your hand."
+      }
+    }
   }
 }

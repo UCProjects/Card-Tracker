@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 5,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Toriel's Car",
     "image": "Toriels_Car",
     "baseImage": "Toriels_Car",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,11 +35,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "When you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: {{KW:TURBO}} monsters in your hand {{COST}} 1 less."
+    "description": "Whenever you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: Give 2 random {{KW:TURBO}} monsters in your hand -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "Whenever you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: Give 2 random {{KW:TURBO}} monsters in your hand -1 {{COST}}.",
+        "prev": "When you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: {{KW:TURBO}} monsters in your hand {{COST}} 1 less."
+      }
+    }
   }
 }

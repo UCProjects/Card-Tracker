@@ -27,6 +27,7 @@
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,11 +38,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever you summon a {{TRIBE:SNAIL|1}} with a base {{COST}} of 2 or less, trigger its {{KW:MAGIC}} effect."
+    "description": "{{KW:MAGIC}}: Select an ally Snail (except {{CARD:498|1}}). {{KW:DELAY}}: Kill it and add 3 exact copies of it to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Select an ally Snail (except {{CARD:498|1}}). {{KW:DELAY}}: Kill it and add 3 exact copies of it to your hand.",
+        "prev": "Whenever you summon a {{TRIBE:SNAIL|1}} with a base {{COST}} of 2 or less, trigger its {{KW:MAGIC}} effect."
+      }
+    }
   }
 }

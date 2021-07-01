@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 3,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 2,
+    "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. This has +1/+1 for each other {{CARD:386|1}} you played this game."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for every other {{CARD:386|2}} you played this game."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for every other {{CARD:386|2}} you played this game.",
+        "prev": "{{KW:HASTE}}. This has +1/+1 for each other {{CARD:386|1}} you played this game."
+      }
+    }
   }
 }

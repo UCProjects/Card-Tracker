@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -24,9 +24,9 @@
     "name": "Moldbygg",
     "image": "Moldbygg",
     "baseImage": "Moldbygg",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,11 +37,40 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it."
+    "description": "{{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, catch {{CARD:4|1}}. {{KW:DUST}}: Release it."
+      }
+    }
   }
 }

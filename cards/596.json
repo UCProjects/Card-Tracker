@@ -1,0 +1,29 @@
+{
+  "card": {
+    "id": 596,
+    "fixedId": 596,
+    "typeCard": 1,
+    "name": "Vegetables",
+    "image": "Vegetables",
+    "baseImage": "Vegetables",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "{{KW:TURBO}}: Burn this, heal 2 {{HP}} to you and draw a card."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

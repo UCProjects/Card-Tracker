@@ -6,10 +6,9 @@
     "name": "Puzzle Box",
     "image": "Puzzle_Box",
     "baseImage": "Puzzle_Box",
-    "cost": 3,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 3,
-    "target": "MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -18,11 +17,26 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} a monster."
+    "description": "{{KW:SILENCE}} all enemy {{CARD:287|2}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "description": {
+        "now": "{{KW:SILENCE}} all enemy {{CARD:287|2}}.",
+        "prev": "{{KW:SILENCE}} a monster."
+      }
+    }
   }
 }

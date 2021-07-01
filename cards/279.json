@@ -24,9 +24,9 @@
     "name": "Berdly",
     "image": "Berdly",
     "baseImage": "Berdly",
-    "cost": 6,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_END}}: If you control no other monster, reduce the {{COST}} of a random spell in your hand by 3."
+    "description": "{{KW:TURN_END}}: If you have no other ally monsters, give a random spell in your hand -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:TURN_END}}: If you have no other ally monsters, give a random spell in your hand -2 {{COST}}.",
+        "prev": "{{KW:TURN_END}}: If you control no other monster, reduce the {{COST}} of a random spell in your hand by 3."
+      }
+    }
   }
 }

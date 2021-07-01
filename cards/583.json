@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 3,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 4,
+    "originalAttack": 3,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -18,33 +18,30 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 310,
-    "fixedId": 310,
+    "id": 583,
+    "fixedId": 583,
     "typeCard": 0,
-    "name": "Green Fire",
-    "image": "Green_Fire",
-    "baseImage": "Green_Fire",
+    "name": "Cracked Geode",
+    "image": "Cracked_Geode",
+    "baseImage": "Cracked_Geode",
     "cost": 4,
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to adjacent monsters and the monster in front of it."
+    "description": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Look at 3 different random {{RARITY:RARE}} spells and choose one to add to your hand with -1 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to adjacent monsters and the monster in front of it.",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG:1}} to all ally monsters."
-      }
-    }
+    "changed": {}
   }
 }

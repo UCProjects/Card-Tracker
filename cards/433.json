@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand."
+    "description": "{{KW:MAGIC}}: Look at 2 spells costing 1 or less {{GOLD}}. Choose one to add to the top of your deck. {{KW:DUST}}: Draw a spell."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 2 spells costing 1 or less {{GOLD}}. Choose one to add to the top of your deck. {{KW:DUST}}: Draw a spell.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 2 random spells costing 1 or less {{GOLD}} and choose one. Add it to your hand."
+      }
+    }
   }
 }

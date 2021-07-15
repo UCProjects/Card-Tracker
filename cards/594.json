@@ -38,9 +38,7 @@
     "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 5 {{CARD:594|5}} in your Dustpile to shuffle 10 {{CARD:595|10}} into your deck."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

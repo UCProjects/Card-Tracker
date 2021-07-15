@@ -40,9 +40,7 @@
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Burn up to 9 {{TRIBE:MOLD|9}} in your dustpile. Summon a {{CARD:4|1}} for every 3 {{TRIBE:MOLD|3}} burned."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 5,
-    "originalHp": 3,
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 3,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,28 +18,29 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 114,
-    "fixedId": 114,
+    "id": 600,
+    "fixedId": 600,
     "typeCard": 0,
-    "name": "Glad Dummy",
-    "image": "Glad_Dummy",
-    "baseImage": "Glad_Dummy",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "name": "Bag o' Goodies",
+    "image": "Bag_o_Goodies",
+    "baseImage": "Bag_o_Goodies",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:DELAY}}: Add a {{CARD:576|1}} and a {{CARD:598|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

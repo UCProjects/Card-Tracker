@@ -40,27 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: Both players earn 5 {{GOLD}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: The current turn player earns 1 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

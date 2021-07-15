@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -39,10 +39,17 @@
     "description": "{{KW:MAGIC}}: Give an enemy monster {{KW:DODGE}} (1) and set its {{HP}} to 1. {{KW:SHOCK}}: Deal 2 {{DMG}} to a random enemy monster."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

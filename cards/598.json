@@ -1,26 +1,29 @@
 {
   "card": {
-    "id": 376,
-    "fixedId": 376,
+    "id": 598,
+    "fixedId": 598,
     "typeCard": 1,
-    "name": "Puzzle Box",
-    "image": "Puzzle_Box",
-    "baseImage": "Puzzle_Box",
+    "name": "Gemstone",
+    "image": "Gemstone",
+    "baseImage": "Gemstone",
     "cost": 2,
     "rarity": "TOKEN",
     "originalCost": 2,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SILENCE}} all enemy {{CARD:287|2}}."
+    "description": "Deal 2 {{DMG}} to a monster and the opponent."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

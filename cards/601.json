@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 1,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 5,
+    "originalAttack": 1,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -16,18 +16,17 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
-    "id": 114,
-    "fixedId": 114,
+    "id": 601,
+    "fixedId": 601,
     "typeCard": 0,
-    "name": "Glad Dummy",
-    "image": "Glad_Dummy",
-    "baseImage": "Glad_Dummy",
-    "cost": 4,
+    "name": "Pickaxe",
+    "image": "Pickaxe",
+    "baseImage": "Pickaxe",
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:TRANSPARENCY}}. Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: Gain {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

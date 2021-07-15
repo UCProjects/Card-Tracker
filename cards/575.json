@@ -22,11 +22,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Burn a card in your hand to draw a card.",
-        "prev": "Choose a monster in your hand. Shuffle it into your deck and draw a card."
-      }
-    }
+    "changed": {}
   }
 }

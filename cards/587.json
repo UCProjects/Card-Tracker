@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: If played on the left, swap this monster's stats. {{KW:SHOCK}}: Gain +1 {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

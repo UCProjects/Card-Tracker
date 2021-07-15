@@ -40,23 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      },
-      "description": {
-        "now": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a {{CARD:370|1}}.",
-        "prev": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, trigger its {{KW:DUST}} effect. {{KW:DUST}}: Summon a {{CARD:370|1}}."
-      }
-    }
+    "changed": {}
   }
 }

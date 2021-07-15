@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 4,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 5,
+    "originalAttack": 4,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

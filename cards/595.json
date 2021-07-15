@@ -38,9 +38,7 @@
     "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

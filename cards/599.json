@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 1,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 5,
+    "originalAttack": 1,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -18,16 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 114,
-    "fixedId": 114,
+    "id": 599,
+    "fixedId": 599,
     "typeCard": 0,
-    "name": "Glad Dummy",
-    "image": "Glad_Dummy",
-    "baseImage": "Glad_Dummy",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "name": "Stalagmite",
+    "image": "Stalagmite",
+    "baseImage": "Stalagmite",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:DUST}}: Add a {{CARD:598|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

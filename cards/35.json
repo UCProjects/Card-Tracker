@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 4,
-    "originalHp": 6,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 35,
@@ -24,9 +24,9 @@
     "name": "Lemon Bread",
     "image": "Lemon_Bread",
     "baseImage": "Lemon_Bread",
-    "cost": 6,
+    "cost": 7,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -38,11 +38,40 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:AMALGAMATE|1}} or {{TRIBE:MOLD|1}} on the board, gain {{KW:TAUNT}}."
+    "description": "{{KW:MAGIC}}: If you played 1 {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} last turn, gain {{KW:HASTE}}. If 2, gain {{KW:CANDY}}. If 3 or more, gain +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: If you played 1 {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} last turn, gain {{KW:HASTE}}. If 2, gain {{KW:CANDY}}. If 3 or more, gain +2 {{ATK}}.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:AMALGAMATE|1}} or {{TRIBE:MOLD|1}} on the board, gain {{KW:TAUNT}}."
+      }
+    }
   }
 }

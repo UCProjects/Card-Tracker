@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 2,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 5,
+    "originalAttack": 2,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -18,16 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 114,
-    "fixedId": 114,
+    "id": 602,
+    "fixedId": 602,
     "typeCard": 0,
-    "name": "Glad Dummy",
-    "image": "Glad_Dummy",
-    "baseImage": "Glad_Dummy",
-    "cost": 4,
+    "name": "Rock Pet",
+    "image": "Rock_Pet",
+    "baseImage": "Rock_Pet",
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:NEED}}: You cast a spell with a base cost of 2 this turn. {{KW:MAGIC}}: Gain {{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

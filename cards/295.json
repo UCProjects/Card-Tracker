@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever you play another {{CARD:295|1}}, remove it and add its {{ATK}} and {{HP}} to this monsters base stats."
+    "description": "Whenever you summon a {{CARD:295|1}}, kill it. This gains its stats. {{KW:DELAY}}: If this isn't {{KW:GENERATED}}, add a {{CARD:295|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever you summon a {{CARD:295|1}}, kill it. This gains its stats. {{KW:DELAY}}: If this isn't {{KW:GENERATED}}, add a {{CARD:295|1}} to your hand.",
+        "prev": "Whenever you play another {{CARD:295|1}}, remove it and add its {{ATK}} and {{HP}} to this monsters base stats."
+      }
+    }
   }
 }

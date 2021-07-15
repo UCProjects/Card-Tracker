@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 5,
-    "originalHp": 3,
+    "attack": 1,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 1,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,16 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 114,
-    "fixedId": 114,
+    "id": 603,
+    "fixedId": 603,
     "typeCard": 0,
-    "name": "Glad Dummy",
-    "image": "Glad_Dummy",
-    "baseImage": "Glad_Dummy",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "name": "Pink Crystals",
+    "image": "Pink_Crystals",
+    "baseImage": "Pink_Crystals",
+    "cost": 2,
+    "rarity": "EPIC",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:SHOCK}}: Add a {{CARD:578|1}} to your hand and lose this {{KW:SHOCK}}. If the spell cast was a {{CARD:598|1}}. {{KW:DELAY}}: Gain the {{KW:SHOCK}} back."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

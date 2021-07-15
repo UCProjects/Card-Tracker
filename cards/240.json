@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURBO}}: Add a random card on the top of both decks. Yours costs 1 less."
+    "description": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}.",
+        "prev": "{{KW:TURBO}}: Add a random card on the top of both decks. Yours costs 1 less."
+      }
+    }
   }
 }

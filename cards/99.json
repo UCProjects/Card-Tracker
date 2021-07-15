@@ -10,9 +10,9 @@
     "name": "Reload",
     "image": "Reload",
     "baseImage": "Reload",
-    "cost": 1,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Burn all other spells in your hand. For each spell burned, draw a monster. Give them -1 {{COST}}."
+    "description": "Draw a monster and a spell."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Draw a monster and a spell.",
+        "prev": "Burn all other spells in your hand. For each spell burned, draw a monster. Give them -1 {{COST}}."
+      }
+    }
   }
 }

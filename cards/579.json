@@ -39,9 +39,7 @@
     "description": "{{KW:MAGIC}}: Kill a damaged enemy monster. Heal {{HP}} to you equal to its {{ATK}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

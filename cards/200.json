@@ -42,19 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "charge": {
-        "now": true,
-        "prev": false
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of every different {{TRIBE:TEMMIE|1}} in your dustpile to your hand. (from lowest to highest {{COST}}, except {{CARD:200|1}})",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a copy of every other different {{TRIBE:TEMMIE|1}} from your dustpile to your hand. (from lowest to highest cost)"
-      }
-    }
+    "changed": {}
   }
 }

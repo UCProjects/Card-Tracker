@@ -38,9 +38,7 @@
     "description": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Look at 3 different random {{RARITY:RARE}} spells and choose one to add to your hand with -1 {{COST}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

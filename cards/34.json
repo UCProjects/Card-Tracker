@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 5,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 3,
+    "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -24,25 +24,56 @@
     "name": "Reaper Bird",
     "image": "Reaper_Bird",
     "baseImage": "Reaper_Bird",
-    "cost": 4,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "FROGGIT"
+      "FROGGIT",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 4 different {{TRIBE:AMALGAMATE|4}} or {{TRIBE:FROGGIT|4}} in your deck and choose one to draw."
+    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 3
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      },
+      "tribes": {
+        "now": [
+          "FROGGIT",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "FROGGIT"
+        ]
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1.",
+        "prev": "{{KW:MAGIC}}: Look at 4 different {{TRIBE:AMALGAMATE|4}} or {{TRIBE:FROGGIT|4}} in your deck and choose one to draw."
+      }
+    }
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Draw a {{TRIBE:SNAIL|1}}. {{KW:MAGIC}}: If you have 2 or more ally {{TRIBE:SNAIL|2}}, add {{CARD:369|1}} to your hand.",
-        "prev": "{{KW:TURBO}}: Add a random {{TRIBE:SNAIL|1}} to your hand. {{KW:MAGIC}}: If you have 2+ {{TRIBE:SNAIL|1}} in play, add {{CARD:369|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

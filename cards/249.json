@@ -5,7 +5,7 @@
     "maxHp": 8,
     "originalAttack": 9,
     "originalHp": 8,
-    "dodge": 0,
+    "dodge": 98,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has."
+    "description": "{{KW:DODGE}} (98). {{KW:TURN_START}}: Lose all {{KW:DODGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "dodge": {
+        "now": 98,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:DODGE}} (98). {{KW:TURN_START}}: Lose all {{KW:DODGE}}.",
+        "prev": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has."
+      }
+    }
   }
 }

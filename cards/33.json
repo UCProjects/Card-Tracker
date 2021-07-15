@@ -24,10 +24,9 @@
     "name": "Endogeny",
     "image": "Endogeny",
     "baseImage": "Endogeny",
-    "cost": 9,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 9,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -39,21 +38,25 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand."
+    "description": "{{KW:MAGIC}}: Give a non-{{RARITY:TOKEN}} {{TRIBE:DOG|1}} in your hand +1 {{ATK}} and {{KW:HASTE}} or an {{TRIBE:AMALGAMATE|1}} in your hand +1 {{HP}} and {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
     "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
+      "cost": {
+        "now": 4,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 9
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a non-{{RARITY:TOKEN}} {{TRIBE:DOG|1}} in your hand +1 {{ATK}} and {{KW:HASTE}} or an {{TRIBE:AMALGAMATE|1}} in your hand +1 {{HP}} and {{KW:TAUNT}}.",
+        "prev": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand."
       }
     }
   }

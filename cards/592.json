@@ -24,9 +24,9 @@
     "name": "Mio Mio San",
     "image": "Mio_Mio_San",
     "baseImage": "Mio_Mio_San",
-    "cost": 5,
+    "cost": 4,
     "rarity": "LEGENDARY",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -39,10 +39,17 @@
     "description": "{{KW:MAGIC}}: Halve an ally non-{{RARITY:DETERMINATION}} monster's stats (rounded up) and summon an exact copy of it."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

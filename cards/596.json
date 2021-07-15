@@ -20,9 +20,7 @@
     "description": "{{KW:TURBO}}: Burn this, heal 2 {{HP}} to you and draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

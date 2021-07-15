@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 5,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 5,
-    "originalHp": 4,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -38,11 +38,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand."
+    "description": "{{KW:MAGIC}}: Give an ally {{TRIBE:AMALGAMATE}} (except {{CARD:109|1}}) +1/+1 and add a copy of it to your hand. {{KW:SYNERGY}}: Give both +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an ally {{TRIBE:AMALGAMATE}} (except {{CARD:109|1}}) +1/+1 and add a copy of it to your hand. {{KW:SYNERGY}}: Give both +1/+1.",
+        "prev": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand."
+      }
+    }
   }
 }

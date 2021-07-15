@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 5,
-    "originalHp": 3,
+    "attack": 9,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 9,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,16 +18,15 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 114,
-    "fixedId": 114,
+    "id": 597,
+    "fixedId": 597,
     "typeCard": 0,
-    "name": "Glad Dummy",
-    "image": "Glad_Dummy",
-    "baseImage": "Glad_Dummy",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "name": "DT Extractor",
+    "image": "DT_Extractor",
+    "baseImage": "DT_Extractor",
+    "cost": 9,
+    "rarity": "LEGENDARY",
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:MAGIC}}: Send your hand to your deck. Add a copy of each unique {{TRIBE:AMALGAMATE}} in your dustpile to your hand with -1 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

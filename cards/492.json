@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Burn a {{TRIBE:SNAIL|1}} in your hand to draw a different {{TRIBE:SNAIL|1}}.",
-        "prev": "{{KW:MAGIC}}: Trigger the {{KW:MAGIC}} effect of a random ally {{TRIBE:SNAIL|1}} (Except {{CARD:492|1}})."
-      }
-    }
+    "changed": {}
   }
 }

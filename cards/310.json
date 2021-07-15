@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to adjacent monsters and the monster in front of it.",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG:1}} to all ally monsters."
-      }
-    }
+    "changed": {}
   }
 }

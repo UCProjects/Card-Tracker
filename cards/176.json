@@ -39,43 +39,8 @@
     "description": "{{KW:MAGIC}}: Send an enemy monster to the enemy hand."
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 2
-      },
-      "hp": {
-        "now": 4,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 8
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 8
-      },
-      "cost": {
-        "now": 9,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Send an enemy monster to the enemy hand.",
-        "prev": "Reduce {{ATK}} of monsters damaged by this monster by 2."
-      }
-    }
+    "changed": {}
   }
 }

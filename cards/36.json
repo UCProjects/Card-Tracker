@@ -42,23 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it +1/+1 and {{KW:CANDY}} if this has any {{ATK}} buffs.",
-        "prev": "{{KW:MAGIC}}: Give an {{TRIBE:AMALGAMATE|1}} in your hand +1/+1. {{KW:SYNERGY}}: Give it +2/+2 instead."
-      }
-    }
+    "changed": {}
   }
 }

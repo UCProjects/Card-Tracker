@@ -43,23 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an ally {{TRIBE:AMALGAMATE}} (except {{CARD:109|1}}) +1/+1 and add a copy of it to your hand. {{KW:SYNERGY}}: Give both +1/+1.",
-        "prev": "Cannot be damaged during your turn. {{KW:MAGIC}}: Add a copy of an ally amalgamate (except {{CARD:109|1}}) to your hand."
-      }
-    }
+    "changed": {}
   }
 }

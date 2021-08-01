@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 5,
-    "originalHp": 5,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,30 +18,29 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 34,
-    "fixedId": 34,
+    "id": 606,
+    "fixedId": 606,
     "typeCard": 0,
-    "name": "Reaper Bird",
-    "image": "Reaper_Bird",
-    "baseImage": "Reaper_Bird",
-    "cost": 5,
+    "name": "Librarby Sign",
+    "image": "Librarby_Sign",
+    "baseImage": "Librarby_Sign",
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1."
+    "description": "{{KW:MAGIC}}: Draw a {{RARITY:COMMON}}, {{RARITY:RARE}}, and {{RARITY:EPIC}} card from your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

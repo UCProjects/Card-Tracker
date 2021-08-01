@@ -42,22 +42,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 9
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a non-{{RARITY:TOKEN}} {{TRIBE:DOG|1}} in your hand +1 {{ATK}} and {{KW:HASTE}} or an {{TRIBE:AMALGAMATE|1}} in your hand +1 {{HP}} and {{KW:TAUNT}}.",
-        "prev": "{{KW:MAGIC}}: Return an enemy monster into your opponent's hand."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

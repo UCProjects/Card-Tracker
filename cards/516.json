@@ -9,7 +9,7 @@
     "cost": 1,
     "rarity": "TOKEN",
     "originalCost": 1,
-    "target": "ENEMY_MONSTER",
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -18,11 +18,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give an enemy monster -1/-1. Draw a card."
+    "description": "Give -1/-1 to a monster. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "MONSTER",
+        "prev": "ENEMY_MONSTER"
+      },
+      "description": {
+        "now": "Give -1/-1 to a monster. Draw a card.",
+        "prev": "Give an enemy monster -1/-1. Draw a card."
+      }
+    }
   }
 }

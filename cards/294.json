@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 2 random Deltarune monsters costing 2-4 {{GOLD}} and choose one. Add it to your hand with +1 {{ATK}}."
+    "description": "{{KW:MAGIC}}: Look at 3 random Deltarune monsters costing 2-4 {{GOLD}} and choose one. Add it to your hand with +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random Deltarune monsters costing 2-4 {{GOLD}} and choose one. Add it to your hand with +1 {{ATK}}.",
+        "prev": "{{KW:MAGIC}}: Look at 2 random Deltarune monsters costing 2-4 {{GOLD}} and choose one. Add it to your hand with +1 {{ATK}}."
+      }
+    }
   }
 }

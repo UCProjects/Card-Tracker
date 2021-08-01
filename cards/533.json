@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Summon a random other monster costing 4-7 {{GOLD}} from your dustpile.",
-        "prev": "{{KW:MAGIC}}: {{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Summon a random other monster costing 5-7 {{GOLD}} from your dustpile."
-      }
-    }
+    "changed": {}
   }
 }

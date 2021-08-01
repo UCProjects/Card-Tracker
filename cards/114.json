@@ -27,7 +27,6 @@
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,11 +35,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+    "description": "{{KW:MAGIC}}: Give adjacent ally monsters {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give adjacent ally monsters {{KW:TAUNT}}.",
+        "prev": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
+      }
+    }
   }
 }

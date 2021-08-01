@@ -21,9 +21,7 @@
     "description": "Deal 2 {{DMG}} to a monster and the opponent."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

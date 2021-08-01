@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,27 +18,29 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 588,
-    "fixedId": 588,
+    "id": 607,
+    "fixedId": 607,
     "typeCard": 0,
-    "name": "Spaghetti",
-    "image": "Spaghetti",
-    "baseImage": "Spaghetti",
-    "cost": 4,
-    "rarity": "EPIC",
-    "originalCost": 4,
+    "name": "Seat of Gods",
+    "image": "Seat_of_Gods",
+    "baseImage": "Seat_of_Gods",
+    "cost": 2,
+    "rarity": "RARE",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:SHOCK}}: Heal {{HP}} to you equal to the spell's {{COST}} and lose this {{KW:SHOCK}}."
+    "description": "{{KW:MAGIC}}: Look at the 2 most expensive cards in your deck and choose one to draw."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

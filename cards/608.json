@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 1,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 1,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,30 +18,29 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 34,
-    "fixedId": 34,
+    "id": 608,
+    "fixedId": 608,
     "typeCard": 0,
-    "name": "Reaper Bird",
-    "image": "Reaper_Bird",
-    "baseImage": "Reaper_Bird",
-    "cost": 5,
-    "rarity": "COMMON",
-    "originalCost": 5,
+    "name": "Void Laser",
+    "image": "Void_Laser",
+    "baseImage": "Void_Laser",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1."
+    "description": "{{KW:TURN_END}}: Shuffle a {{CARD:351|1}} into your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

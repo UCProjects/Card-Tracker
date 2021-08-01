@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "dodge": {
-        "now": 98,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:DODGE}} (98). {{KW:TURN_START}}: Lose all {{KW:DODGE}}.",
-        "prev": "{{KW:MAGIC}}: Gain +98 {{KW:DODGE}}. {{KW:TURN_START}}: Remove all {{KW:DODGE}} this has."
-      }
-    }
+    "changed": {}
   }
 }

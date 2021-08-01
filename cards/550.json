@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: Turn a random monster in your Dustpile into {{CARD:550|1}}. {{KW:MAGIC}}: If this is {{KW:GENERATED}}, gain {{KW:HASTE}}.",
-        "prev": "{{KW:MAGIC}}: Choose a card in your dustpile to catch. {{KW:DUST}}: Return it and turn all other cards there into {{CARD:550|1}}."
-      }
-    }
+    "changed": {}
   }
 }

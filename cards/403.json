@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1.",
+        "prev": "{{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1."
+      }
+    }
   }
 }

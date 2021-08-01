@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,30 +18,29 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 34,
-    "fixedId": 34,
+    "id": 604,
+    "fixedId": 604,
     "typeCard": 0,
-    "name": "Reaper Bird",
-    "image": "Reaper_Bird",
-    "baseImage": "Reaper_Bird",
-    "cost": 5,
+    "name": "Waterfall Sign",
+    "image": "Waterfall_Sign",
+    "baseImage": "Waterfall_Sign",
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1."
+    "description": "{{KW:MAGIC}}: Give a spell in your hand -1 {{COST}}. {{KW:DELAY}}: Give it -1 {{COST}} again."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

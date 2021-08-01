@@ -43,35 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: If you played 1 {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} last turn, gain {{KW:HASTE}}. If 2, gain {{KW:CANDY}}. If 3 or more, gain +2 {{ATK}}.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have an ally {{TRIBE:AMALGAMATE|1}} or {{TRIBE:MOLD|1}} on the board, gain {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

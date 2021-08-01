@@ -38,9 +38,7 @@
     "description": "{{KW:NEED}}: You cast a spell with a base cost of 2 this turn. {{KW:MAGIC}}: Gain {{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

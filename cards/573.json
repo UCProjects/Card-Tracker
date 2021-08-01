@@ -24,9 +24,9 @@
     "name": "Elimination Duck",
     "image": "Elimination_Duck",
     "baseImage": "Elimination_Duck",
-    "cost": 13,
+    "cost": 12,
     "rarity": "EPIC",
-    "originalCost": 13,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 13
+      }
+    }
   }
 }

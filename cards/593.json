@@ -40,31 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. Whenever the opponent summons a monster, gain -1 {{ATK}}. At 1 or less {{ATK}}, kill this to deal 3 {{DMG}} to all enemy monsters.",
-        "prev": "{{KW:TRANSPARENCY}}. Whenever your opponent summons a monster, give it and this -1 {{ATK}}. If this card's {{ATK}} reaches 0, kill this and a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

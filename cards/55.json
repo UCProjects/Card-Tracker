@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a 2-{{COST}} {{CARD:115|1}} to your opponent's hand, and a {{CARD:475|1}} and {{CARD:476|1}} to your deck.",
-        "prev": "{{KW:HASTE}}. Whenever you play an {{TRIBE:ARACHNID|1}}, gain +2/+1. {{KW:MAGIC}}: Shuffle 3 {{CARD:115|3}} into both players decks."
-      }
-    }
+    "changed": {}
   }
 }

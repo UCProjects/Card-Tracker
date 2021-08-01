@@ -38,9 +38,7 @@
     "description": "{{KW:TRANSPARENCY}}. Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: Gain {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

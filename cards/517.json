@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters and choose one. {{KW:DELAY}}: Add it to both players hands and give yours -1 {{COST}}."
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 different random monsters and choose one. {{KW:DELAY}}: Add it to both players hands and give yours -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 different random monsters and choose one. {{KW:DELAY}}: Add it to both players hands and give yours -1 {{COST}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters and choose one. {{KW:DELAY}}: Add it to both players hands and give yours -1 {{COST}}."
       }
     }
   }

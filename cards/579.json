@@ -27,7 +27,7 @@
     "cost": 10,
     "rarity": "LEGENDARY",
     "originalCost": 10,
-    "target": "ENEMY_MONSTER",
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,11 +36,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Kill a damaged enemy monster. Heal {{HP}} to you equal to its {{ATK}}."
+    "description": "{{KW:MAGIC}}: Kill a damaged monster. Heal {{HP}} to you equal to its {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "MONSTER",
+        "prev": "ENEMY_MONSTER"
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill a damaged monster. Heal {{HP}} to you equal to its {{ATK}}.",
+        "prev": "{{KW:MAGIC}}: Kill a damaged enemy monster. Heal {{HP}} to you equal to its {{ATK}}."
+      }
+    }
   }
 }

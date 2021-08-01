@@ -43,11 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Select an ally Snail (except {{CARD:498|1}}). {{KW:DELAY}}: Kill it and add 3 copies of it to your hand.",
-        "prev": "{{KW:MAGIC}}: Select an ally Snail (except {{CARD:498|1}}). {{KW:DELAY}}: Kill it and add 3 exact copies of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

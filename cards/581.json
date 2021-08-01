@@ -40,35 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 13,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 12
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. In your hand, this has -2 {{COST}} for each {{RARITY:LEGENDARY}} card you played this game (max: -10 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:257|1}} to your hand and deck.",
-        "prev": "In your hand, this has -1 {{COST}} for each {{RARITY:LEGENDARY}} card you played this game (max: -10 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:257|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

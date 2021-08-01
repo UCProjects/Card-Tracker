@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Draw a card and shuffle both players' hands into their decks. They draw the same number of cards."
+    "description": "{{KW:MAGIC}}: Both players shuffle their leftmost and rightmost cards in their hand into their deck and draw that many cards."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Both players shuffle their leftmost and rightmost cards in their hand into their deck and draw that many cards.",
+        "prev": "{{KW:MAGIC}}: Draw a card and shuffle both players' hands into their decks. They draw the same number of cards."
+      }
+    }
   }
 }

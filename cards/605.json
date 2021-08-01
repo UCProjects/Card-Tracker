@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,30 +18,29 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 34,
-    "fixedId": 34,
+    "id": 605,
+    "fixedId": 605,
     "typeCard": 0,
-    "name": "Reaper Bird",
-    "image": "Reaper_Bird",
-    "baseImage": "Reaper_Bird",
-    "cost": 5,
-    "rarity": "COMMON",
-    "originalCost": 5,
+    "name": "River Boat",
+    "image": "River_Boat",
+    "baseImage": "River_Boat",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1."
+    "description": "{{KW:DUST}}: Both players draw a card."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

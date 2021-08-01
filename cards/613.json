@@ -1,0 +1,29 @@
+{
+  "card": {
+    "id": 613,
+    "fixedId": 613,
+    "typeCard": 1,
+    "name": "Totemic Carvings",
+    "image": "Totemic_Carvings",
+    "baseImage": "Totemic_Carvings",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "description": "If this is {{KW:GENERATED}} by {{CARD:545|1}}, look at 6 6-{{COST}} monsters and choose one to give -6 {{COST}}. Add all of them to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

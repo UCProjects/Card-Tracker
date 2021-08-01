@@ -13,35 +13,34 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
-    "id": 34,
-    "fixedId": 34,
+    "id": 609,
+    "fixedId": 609,
     "typeCard": 0,
-    "name": "Reaper Bird",
-    "image": "Reaper_Bird",
-    "baseImage": "Reaper_Bird",
-    "cost": 5,
-    "rarity": "COMMON",
-    "originalCost": 5,
+    "name": "G Machine",
+    "image": "G_Machine",
+    "baseImage": "G_Machine",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} from your deck. {{KW:SYNERGY}}: Give it +2/+1."
+    "description": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DELAY}}: If this is dead, add a {{CARD:351|1}} to your hand with -2 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

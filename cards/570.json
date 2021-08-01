@@ -24,9 +24,9 @@
     "name": "First Starwalker",
     "image": "First_Starwalker",
     "baseImage": "First_Starwalker",
-    "cost": 7,
+    "cost": 8,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,6 +40,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

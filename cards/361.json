@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Kill a random damaged enemy monster."
+    "description": "{{KW:DUST}}: Deal 4 {{DMG}} to a random damaged enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Deal 4 {{DMG}} to a random damaged enemy monster.",
+        "prev": "{{KW:DUST}}: Kill a random damaged enemy monster."
+      }
+    }
   }
 }

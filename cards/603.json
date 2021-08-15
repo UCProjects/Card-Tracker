@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SHOCK}}: Add a {{CARD:578|1}} to your hand and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: If you cast a {{CARD:598|1}} this turn, gain the {{KW:SHOCK}} back.",
-        "prev": "{{KW:SHOCK}}: Add a {{CARD:578|1}} to your hand and lose this {{KW:SHOCK}}. If the spell cast was a {{CARD:598|1}}. {{KW:DELAY}}: Gain the {{KW:SHOCK}} back."
-      }
-    }
+    "changed": {}
   }
 }

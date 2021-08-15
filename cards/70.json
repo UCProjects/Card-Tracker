@@ -11,9 +11,9 @@
     "name": "Hyper Goner",
     "image": "Hyper_Goner",
     "baseImage": "Hyper_Goner",
-    "cost": 12,
+    "cost": 11,
     "rarity": "EPIC",
-    "originalCost": 12,
+    "originalCost": 11,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,6 +27,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 11,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 12
+      }
+    }
   }
 }

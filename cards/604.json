@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Give a spell in your hand -1 {{COST}}. {{KW:DELAY}}: Give it -1 {{COST}} again."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

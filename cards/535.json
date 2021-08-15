@@ -23,11 +23,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose a monster. Add a {{CARD:372|1}} to your hand with {{KW:TAUNT}} and set its base stats equal to the stats of the chosen monster.",
-        "prev": "Choose a monster on the board. Add a {{CARD:270|1}} with its {{COST}} and stats as base stats to your hand."
-      }
-    }
+    "changed": {}
   }
 }

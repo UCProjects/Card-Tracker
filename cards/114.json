@@ -39,14 +39,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give adjacent ally monsters {{KW:TAUNT}}.",
-        "prev": "{{KW:MAGIC}}: Give an ally monster {{KW:TAUNT}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

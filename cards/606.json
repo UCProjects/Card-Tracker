@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Draw a {{RARITY:COMMON}}, {{RARITY:RARE}}, and {{RARITY:EPIC}} card from your deck."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

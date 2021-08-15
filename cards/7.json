@@ -25,7 +25,7 @@
     "image": "Loox",
     "baseImage": "Loox",
     "cost": 2,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 2,
     "target": "ALL",
     "shiny": false,
@@ -41,6 +41,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      }
+    }
   }
 }

@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 5 {{CARD:594|5}} in your Dustpile to shuffle 10 {{CARD:595|10}} into your deck."
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 4 {{CARD:594|4}} in your dustpile to shuffle 10 {{CARD:595|10}} into your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 4 {{CARD:594|4}} in your dustpile to shuffle 10 {{CARD:595|10}} into your deck.",
+        "prev": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 5 {{CARD:594|5}} in your Dustpile to shuffle 10 {{CARD:595|10}} into your deck."
+      }
+    }
   }
 }

@@ -10,9 +10,9 @@
     "name": "Inflation",
     "image": "Inflation",
     "baseImage": "Inflation",
-    "cost": 2,
+    "cost": 1,
     "rarity": "EPIC",
-    "originalCost": 2,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Gain the {{ARTIFACT:38}} artifact and set its counter to 6. If you already have it, increase its counter by 6 instead."
+    "description": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6.",
+        "prev": "Gain the {{ARTIFACT:38}} artifact and set its counter to 6. If you already have it, increase its counter by 6 instead."
+      }
+    }
   }
 }

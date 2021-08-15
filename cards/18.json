@@ -25,7 +25,7 @@
     "image": "Pyrope",
     "baseImage": "Pyrope",
     "cost": 5,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
@@ -40,6 +40,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      }
+    }
   }
 }

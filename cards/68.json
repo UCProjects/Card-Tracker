@@ -23,11 +23,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}}."
+    "description": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}} and heal 2 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}} and heal 2 {{HP}} to you.",
+        "prev": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}}."
+      }
+    }
   }
 }

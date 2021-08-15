@@ -38,9 +38,7 @@
     "description": "{{KW:DUST}}: Both players draw a card."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -25,7 +25,7 @@
     "image": "Ugly_Fish",
     "baseImage": "Ugly_Fish",
     "cost": 9,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 9,
     "target": "ENEMY_MONSTER",
     "shiny": false,
@@ -41,6 +41,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

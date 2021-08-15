@@ -38,9 +38,7 @@
     "description": "{{KW:MAGIC}}: Look at the 2 most expensive cards in your deck and choose one to draw."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

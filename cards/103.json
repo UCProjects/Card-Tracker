@@ -43,11 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it.",
-        "prev": "{{KW:MAGIC}}: Kill an enemy monster with 2 or less {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

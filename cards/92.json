@@ -11,7 +11,7 @@
     "image": "Force_of_Nature",
     "baseImage": "Force_of_Nature",
     "cost": 1,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 1,
     "target": "ALLY",
     "shiny": false,
@@ -27,6 +27,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      }
+    }
   }
 }

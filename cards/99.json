@@ -10,9 +10,9 @@
     "name": "Reload",
     "image": "Reload",
     "baseImage": "Reload",
-    "cost": 2,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Draw a monster and a spell."
+    "description": "Draw a monster. {{KW:DELAY}}: Draw a spell."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "Draw a monster. {{KW:DELAY}}: Draw a spell.",
+        "prev": "Draw a monster and a spell."
+      }
+    }
   }
 }

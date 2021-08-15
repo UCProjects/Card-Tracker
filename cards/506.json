@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 2,
-    "originalHp": 5,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "id": 506,
@@ -35,11 +35,40 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:DUST}}: If it's your opponent's turn, decrease {{ARTIFACT:34|1}}'s counter by 1. If the counter reaches 0, lose the game."
+    "description": "{{KW:DUST}}: Deal {{DMG}} to you equal to the {{ARTIFACT:34}} counter."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:DUST}}: Deal {{DMG}} to you equal to the {{ARTIFACT:34}} counter.",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: If it's your opponent's turn, decrease {{ARTIFACT:34|1}}'s counter by 1. If the counter reaches 0, lose the game."
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 4,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 4,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,18 +15,19 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
-    "id": 570,
-    "fixedId": 570,
+    "id": 612,
+    "fixedId": 612,
     "typeCard": 0,
-    "name": "First Starwalker",
-    "image": "First_Starwalker",
-    "baseImage": "First_Starwalker",
-    "cost": 8,
+    "name": "Angel Doll",
+    "image": "Angel_Doll",
+    "baseImage": "Angel_Doll",
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 8,
+    "originalCost": 4,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,10 +36,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:NEED}}: Your deck has no {{RARITY:COMMON}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Give all monsters in your hand +1/+1."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Kill an ally {{KW:DUST}} monster. If it has a base {{COST}} of 4 or less {{GOLD}}, summon an exact copy of it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

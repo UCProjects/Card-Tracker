@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 2,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 2,
+    "originalHp": 1,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,20 +13,20 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 403,
-    "fixedId": 403,
+    "id": 610,
+    "fixedId": 610,
     "typeCard": 0,
-    "name": "Jukebox",
-    "image": "Jukebox",
-    "baseImage": "Jukebox",
-    "cost": 6,
-    "rarity": "COMMON",
-    "originalCost": 6,
+    "name": "Trophy",
+    "image": "Trophy",
+    "baseImage": "Trophy",
+    "cost": 1,
+    "rarity": "RARE",
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,10 +35,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random monsters in your dustpile. Add one to your deck with +1/+1."
+    "description": "{{KW:DUST}}: Add the {{ARTIFACT:38}} artifact. Increase its counter by 2."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

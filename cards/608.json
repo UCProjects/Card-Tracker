@@ -38,9 +38,7 @@
     "description": "{{KW:TURN_END}}: Shuffle a {{CARD:351|1}} into your deck."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

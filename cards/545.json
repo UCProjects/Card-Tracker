@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: If you have 6 or more 6-{{COST}} monsters in your dustpile, burn 6 of them to add {{CARD:613|1}} to your hand."
+    "description": "{{KW:NEED}}: 6 or more 6-{{COST}} monsters in your dustpile. {{KW:MAGIC}}: Burn 6 of them to add {{CARD:613|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: If you have 6 or more 6-{{COST}} monsters in your dustpile, burn 6 of them to add {{CARD:613|1}} to your hand.",
-        "prev": "{{KW:MAGIC}}: If you have 6 or more 6-{{COST}} monsters in your dustpile, remove them and add 6 random 6-{{COST}} monsters to your hand."
+        "now": "{{KW:NEED}}: 6 or more 6-{{COST}} monsters in your dustpile. {{KW:MAGIC}}: Burn 6 of them to add {{CARD:613|1}} to your hand.",
+        "prev": "{{KW:MAGIC}}: If you have 6 or more 6-{{COST}} monsters in your dustpile, burn 6 of them to add {{CARD:613|1}} to your hand."
       }
     }
   }

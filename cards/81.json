@@ -11,7 +11,7 @@
     "image": "Fortune",
     "baseImage": "Fortune",
     "cost": 2,
-    "rarity": "BASE",
+    "rarity": "RARE",
     "originalCost": 2,
     "shiny": false,
     "quantity": 1,
@@ -26,6 +26,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "RARE",
+        "prev": "BASE"
+      }
+    }
   }
 }

@@ -11,7 +11,7 @@
     "image": "Shopping",
     "baseImage": "Shopping",
     "cost": 3,
-    "rarity": "RARE",
+    "rarity": "BASE",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -26,6 +26,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "RARE"
+      }
+    }
   }
 }

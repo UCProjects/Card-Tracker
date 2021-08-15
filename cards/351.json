@@ -6,9 +6,9 @@
     "name": "Gaster Blaster",
     "image": "Gaster_Blaster",
     "baseImage": "Gaster_Blaster",
-    "cost": 6,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 6,
+    "originalCost": 4,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -23,6 +23,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 6
+      }
+    }
   }
 }

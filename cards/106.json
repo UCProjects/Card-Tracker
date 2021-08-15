@@ -42,19 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 11,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 13
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. Instead of dying, return with base -2/-2 and no {{KW:TAUNT}} if you have a card of each non-{{RARITY:DETERMINATION}} rarity in your dustpile.",
-        "prev": "{{KW:TAUNT}}. Instead of dying, return with -2/-2 base stats and lose {{KW:TAUNT}}. Gain {{KW:ARMOR}} at 6/6 or {{KW:TRANSPARENCY}} at 4/4."
-      }
-    }
+    "changed": {}
   }
 }

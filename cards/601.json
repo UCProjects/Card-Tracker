@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TRANSPARENCY}}. Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: Gain {{KW:HASTE}}."
+    "description": "{{KW:TRANSPARENCY}}. Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: If this can't attack, gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: If this can't attack, gain {{KW:HASTE}}.",
+        "prev": "{{KW:TRANSPARENCY}}. Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: Gain {{KW:HASTE}}."
+      }
+    }
   }
 }

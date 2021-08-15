@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|1}} to your hand."
+    "description": "{{KW:MAGIC}}: Deal 4 {{DMG}} to you. Look at 2 random {{TRIBE:LOST_SOUL|2}} and choose one to add to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 4 {{DMG}} to you. Look at 2 random {{TRIBE:LOST_SOUL|2}} and choose one to add to your hand.",
+        "prev": "{{KW:MAGIC}}: Deal 5 {{DMG}} to yourself and add a random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|1}} to your hand."
+      }
+    }
   }
 }

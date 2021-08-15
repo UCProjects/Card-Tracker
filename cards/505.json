@@ -24,9 +24,9 @@
     "name": "Soulless Kris",
     "image": "Soulless_Kris",
     "baseImage": "Soulless_Kris",
-    "cost": 12,
+    "cost": 8,
     "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give {{ARTIFACT:34|1}} artifact to your opponent and summon an enemy {{CARD:506|1}}."
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give the opponent the {{ARTIFACT:34}} artifact. Its counter starts at 0."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 12
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Give the opponent the {{ARTIFACT:34}} artifact. Its counter starts at 0.",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Give {{ARTIFACT:34|1}} artifact to your opponent and summon an enemy {{CARD:506|1}}."
+      }
+    }
   }
 }

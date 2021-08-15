@@ -25,7 +25,7 @@
     "image": "Vulkin",
     "baseImage": "Vulkin",
     "cost": 4,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 4,
     "target": "ALL",
     "shiny": false,
@@ -41,6 +41,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

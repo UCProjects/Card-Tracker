@@ -40,47 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "hp": {
-        "now": 2,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 5
-      },
-      "cantAttack": {
-        "now": false,
-        "prev": true
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 1,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: If played on the left, burn the leftmost card in your hand. Otherwise, burn the rightmost card.",
-        "prev": "{{KW:DISARMED}}. {{KW:MAGIC}}: Give your monsters +1 {{HP}}. At the start of its 3rd turn, die and give +2/+1 to your monsters."
-      }
-    }
+    "changed": {}
   }
 }

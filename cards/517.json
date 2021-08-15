@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 different random monsters and choose one. {{KW:DELAY}}: Add it to both players hands and give yours -1 {{COST}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters and choose one. {{KW:DELAY}}: Add it to both players hands and give yours -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

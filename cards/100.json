@@ -10,9 +10,9 @@
     "name": "HeadShot",
     "image": "HeadShot",
     "baseImage": "HeadShot",
-    "cost": 7,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 6,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -27,6 +27,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

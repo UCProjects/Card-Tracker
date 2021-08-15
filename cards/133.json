@@ -11,7 +11,7 @@
     "image": "Fridge",
     "baseImage": "Fridge",
     "cost": 2,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 2,
     "shiny": false,
     "quantity": 1,
@@ -26,6 +26,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      }
+    }
   }
 }

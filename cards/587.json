@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If played on the left, swap its stats. Whenever you spend {{GOLD}} on spells, gain +1 {{ATK}}.",
-        "prev": "{{KW:MAGIC}}: If played on the left, swap this monster's stats. {{KW:SHOCK}}: Gain +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

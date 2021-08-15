@@ -11,7 +11,7 @@
     "image": "Melt",
     "baseImage": "Melt",
     "cost": 3,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 3,
     "target": "ALLY_MONSTER",
     "shiny": false,
@@ -27,6 +27,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

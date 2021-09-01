@@ -38,9 +38,7 @@
     "description": "{{KW:DUST}}: Add a {{CARD:569|1}} to your hand with +2/+2."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

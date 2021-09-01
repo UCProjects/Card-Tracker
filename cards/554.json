@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -35,11 +35,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "description": {
+        "now": "{{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

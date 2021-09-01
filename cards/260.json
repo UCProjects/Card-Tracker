@@ -10,9 +10,9 @@
     "name": "Ice Replica",
     "image": "Ice_Replica",
     "baseImage": "Ice_Replica",
-    "cost": 3,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 2,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -27,6 +27,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

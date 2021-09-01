@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -37,11 +37,20 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TAUNT}}. Instead of dying, return with base -2/-2 and no {{KW:TAUNT}} if you have a card of each non-{{RARITY:DETERMINATION}} rarity in your dustpile."
+    "description": "Instead of dying, return with base -2/-2 if you have a {{RARITY:COMMON}}, {{RARITY:RARE}}, {{RARITY:EPIC}}, and {{RARITY:LEGENDARY}} monster in your dustpile.  {{KW:MAGIC}}: Gain {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "Instead of dying, return with base -2/-2 if you have a {{RARITY:COMMON}}, {{RARITY:RARE}}, {{RARITY:EPIC}}, and {{RARITY:LEGENDARY}} monster in your dustpile.  {{KW:MAGIC}}: Gain {{KW:TAUNT}}.",
+        "prev": "{{KW:TAUNT}}. Instead of dying, return with base -2/-2 and no {{KW:TAUNT}} if you have a card of each non-{{RARITY:DETERMINATION}} rarity in your dustpile."
+      }
+    }
   }
 }

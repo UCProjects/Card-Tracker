@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 6,
-    "originalHp": 7,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "The Mascot",
     "image": "The_Mascot",
     "baseImage": "The_Mascot",
-    "cost": 7,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -40,6 +40,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 5,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 7
+      },
+      "cost": {
+        "now": 5,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 7
+      }
+    }
   }
 }

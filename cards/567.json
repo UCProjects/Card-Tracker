@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever you cast a spell, return this to your hand with +1/+1 (keep {{ATK}} buffs)."
+    "description": "Whenever you cast a spell, return this to your hand with +1/+1 (keep buffs)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever you cast a spell, return this to your hand with +1/+1 (keep buffs).",
+        "prev": "Whenever you cast a spell, return this to your hand with +1/+1 (keep {{ATK}} buffs)."
+      }
+    }
   }
 }

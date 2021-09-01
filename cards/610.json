@@ -38,9 +38,7 @@
     "description": "{{KW:DUST}}: Add the {{ARTIFACT:38}} artifact. Increase its counter by 2."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -10,9 +10,9 @@
     "name": "Investment",
     "image": "Investment",
     "baseImage": "Investment",
-    "cost": 1,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}."
+    "description": "Look at 3 random cards in your deck. Give them -1 {{COST}} and choose one to draw."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Look at 3 random cards in your deck. Give them -1 {{COST}} and choose one to draw.",
+        "prev": "Look at 3 random cards in your deck. Send one to the top of your deck with -2 {{COST}}."
+      }
+    }
   }
 }

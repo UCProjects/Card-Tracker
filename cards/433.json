@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 1,
-    "originalHp": 3,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -41,9 +41,17 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Draw a spell.",
-        "prev": "{{KW:MAGIC}}: Look at 2 spells costing 1 or less {{GOLD}}. Choose one to add to the top of your deck. {{KW:DUST}}: Draw a spell."
+      "hp": {
+        "now": 2,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 3
       }
     }
   }

@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand.",
-        "prev": "{{KW:DUST}}: Add a {{CARD:351|1}} to your hand. It costs 3 less."
-      }
-    }
+    "changed": {}
   }
 }

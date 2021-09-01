@@ -35,11 +35,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it with -1 {{COST}}."
+    "description": "{{KW:MAGIC}}: Burn a random spell in your hand to look at all spells with equal {{COST}}. Add one to your hand and give all spells in your hand -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Burn a random spell in your hand to look at all spells with equal {{COST}}. Add one to your hand and give all spells in your hand -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it with -1 {{COST}}."
+      }
+    }
   }
 }

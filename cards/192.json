@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 10,
-    "maxHp": 10,
+    "hp": 8,
+    "maxHp": 8,
     "originalAttack": 1,
-    "originalHp": 10,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -24,9 +24,9 @@
     "name": "Big Bomb",
     "image": "Big_Bomb",
     "baseImage": "Big_Bomb",
-    "cost": 7,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +35,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_START}}: Kill all monsters on the board. {{KW:DUST}}: Kill its killer."
+    "description": "{{KW:TURN_END}}: Burn a random card in your hand costing 7 {{GOLD}} or which has a base {{HP}} of 7 to kill all monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 8,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 10
+      },
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:TURN_END}}: Burn a random card in your hand costing 7 {{GOLD}} or which has a base {{HP}} of 7 to kill all monsters.",
+        "prev": "{{KW:TURN_START}}: Kill all monsters on the board. {{KW:DUST}}: Kill its killer."
+      }
+    }
   }
 }

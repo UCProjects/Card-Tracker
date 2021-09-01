@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Draw a card.",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

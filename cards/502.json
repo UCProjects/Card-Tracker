@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand with -4 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} this. {{KW:DUST}}: Add 2 {{CARD:351|2}} to your hand with -6 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

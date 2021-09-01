@@ -42,11 +42,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If this isn't {{KW:GENERATED}} by {{CARD:32|1}}, add a 3/3/4 {{CARD:32|1}} to your hand.",
-        "prev": "{{KW:MAGIC}}: If this isn't {{KW:GENERATED}} by {{CARD:32|1}}, add a 2/3/3 {{CARD:32|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

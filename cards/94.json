@@ -13,6 +13,7 @@
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Fully heal all damaged ally monsters. Give undamaged ally monsters +1/+1."
+    "description": "Give a monster -2/-2. {{KW:DELAY}}: If it is still alive, give all ally monsters +1/+1."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster -2/-2. {{KW:DELAY}}: If it is still alive, give all ally monsters +1/+1.",
+        "prev": "Fully heal all damaged ally monsters. Give undamaged ally monsters +1/+1."
+      }
+    }
   }
 }

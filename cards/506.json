@@ -40,35 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 2
-      },
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:DUST}}: Deal {{DMG}} to you equal to the {{ARTIFACT:34}} counter.",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: If it's your opponent's turn, decrease {{ARTIFACT:34|1}}'s counter by 1. If the counter reaches 0, lose the game."
-      }
-    }
+    "changed": {}
   }
 }

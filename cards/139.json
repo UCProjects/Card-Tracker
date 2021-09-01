@@ -37,11 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: Add a random spell costing 1 or less {{GOLD}} to your hand."
+    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: If 5 or less cards in your hand, add a random spell costing 1 or less {{GOLD}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: If 5 or less cards in your hand, add a random spell costing 1 or less {{GOLD}} to your hand.",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: Add a random spell costing 1 or less {{GOLD}} to your hand."
+      }
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -35,11 +35,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a {{CARD:370|1}}."
+    "description": "{{KW:SHOCK}}: Summon a {{CARD:370|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "description": {
+        "now": "{{KW:SHOCK}}: Summon a {{CARD:370|1}}.",
+        "prev": "Whenever you cast a spell costing 1 or less {{GOLD}}, summon a {{CARD:370|1}}."
+      }
+    }
   }
 }

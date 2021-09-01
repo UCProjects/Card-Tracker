@@ -1,15 +1,14 @@
 {
   "card": {
-    "id": 351,
-    "fixedId": 351,
+    "id": 614,
+    "fixedId": 614,
     "typeCard": 1,
-    "name": "Gaster Blaster",
-    "image": "Gaster_Blaster",
-    "baseImage": "Gaster_Blaster",
-    "cost": 4,
+    "name": "Arcane Codes",
+    "image": "Arcane_Codes",
+    "baseImage": "Arcane_Codes",
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 4,
-    "target": "ALL",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -18,10 +17,12 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 8 {{DMG}} to a monster or you."
+    "description": "Cast a random spell on a random target."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

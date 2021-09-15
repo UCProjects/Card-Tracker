@@ -21,11 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}."
+    "description": "Summon a {{CARD:615|1}}. {{KW:DELAY}}: If it's alive, give it +1/+1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon a {{CARD:615|1}}. {{KW:DELAY}}: If it's alive, give it +1/+1.",
+        "prev": "Deal 1 {{DMG}} to all enemy monsters with {{KR}}, then give all enemy monsters {{KR}}."
+      }
+    }
   }
 }

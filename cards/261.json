@@ -10,10 +10,10 @@
     "name": "Siphoning",
     "image": "Siphoning",
     "baseImage": "Siphoning",
-    "cost": 1,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 1,
-    "target": "ALL",
+    "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Heal 3 {{HP}}. Heal 1 extra {{HP}} per monster with {{KR}} on the board."
+    "description": "Give a monster -2/-2 and the one in front of it +2/+2. If it killed, add a {{CARD:577|1}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALL"
+      },
+      "description": {
+        "now": "Give a monster -2/-2 and the one in front of it +2/+2. If it killed, add a {{CARD:577|1}} to your deck.",
+        "prev": "Heal 3 {{HP}}. Heal 1 extra {{HP}} per monster with {{KR}} on the board."
+      }
+    }
   }
 }

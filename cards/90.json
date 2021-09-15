@@ -21,11 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Kill all monsters under {{KR}}."
+    "description": "Kill all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}.",
+        "prev": "Kill all monsters under {{KR}}."
+      }
+    }
   }
 }

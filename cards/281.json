@@ -1,18 +1,18 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 1,
-    "originalHp": 2,
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -37,11 +37,44 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain +2/+2."
+    "description": "{{KW:MAGIC}}: Draw a {{TRIBE:TEMMIE|1}} and give it +1/+1. If you can't, gain +1/+1 and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "kr": {
+        "now": false,
+        "prev": 0
+      },
+      "charge": {
+        "now": false,
+        "prev": true
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:TEMMIE|1}} and give it +1/+1. If you can't, gain +1/+1 and {{KW:HASTE}}.",
+        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Burn a card in your hand costing 2 or less {{GOLD}}. Gain +2/+2."
+      }
+    }
   }
 }

@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -42,33 +42,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "target": {
-        "now": "ALLY_MONSTER",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an ally monster {{KW:HASTE}}. It can attack again.",
-        "prev": "{{KW:MAGIC}}: If you have a {{KW:TAUNT}} monster in your hand give a monster {{KW:TAUNT}}. If you have an {{KW:HASTE}} monster in your hand, also give {{KW:HASTE}}."
+      "kr": {
+        "now": false,
+        "prev": 0
       }
     }
   }

@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -44,15 +44,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "FROGGIT"
-        ],
-        "prev": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ]
+      "kr": {
+        "now": false,
+        "prev": 0
       }
     }
   }

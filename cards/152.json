@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Burn a random spell in your hand to look at all spells with equal {{COST}}. Add one to your hand and give all spells in your hand -1 {{COST}}.",
-        "prev": "{{KW:MAGIC}}: Look at all spells of the same {{COST}} as a random spell in your hand and choose one. Transform a random spell in your hand into it with -1 {{COST}}."
+      "kr": {
+        "now": false,
+        "prev": 0
       }
     }
   }

@@ -13,7 +13,6 @@
     "cost": 3,
     "rarity": "BASE",
     "originalCost": 3,
-    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +21,18 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 2 {{DMG}} to a monster and the opponent. Increase {{DMG}} by 1 if the target has {{KR}}."
+    "description": "Deal 2 {{DMG}} to 2 random enemy monsters."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "description": {
+        "now": "Deal 2 {{DMG}} to 2 random enemy monsters.",
+        "prev": "Deal 2 {{DMG}} to a monster and the opponent. Increase {{DMG}} by 1 if the target has {{KR}}."
+      }
+    }
   }
 }

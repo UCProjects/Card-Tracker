@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "Whenever you cast a spell, return this to your hand with +1/+1 (keep buffs).",
-        "prev": "Whenever you cast a spell, return this to your hand with +1/+1 (keep {{ATK}} buffs)."
+      "kr": {
+        "now": false,
+        "prev": 0
       }
     }
   }

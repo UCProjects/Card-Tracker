@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -41,9 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:DELAY}}: Deal 2 {{DMG}} to the opponent. {{KW:TURN_START}}: Sacrifice this to deal 2 {{DMG}} to all enemy monsters.",
-        "prev": "{{KW:TURN_START}}: Sacrifice this to deal {{DMG:3}} to all enemies."
+      "kr": {
+        "now": false,
+        "prev": 0
       }
     }
   }

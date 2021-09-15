@@ -7,12 +7,12 @@
     "id": 88,
     "fixedId": 88,
     "typeCard": 1,
-    "name": "Termination",
-    "image": "Termination",
-    "baseImage": "Termination",
-    "cost": 4,
+    "name": "Buttercup Treat",
+    "image": "Buttercup_Treat",
+    "baseImage": "Buttercup_Treat",
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 2,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -22,11 +22,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead."
+    "description": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it. Give it {{KR}}, +1 {{ATK}} and {{KW:CANDY}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Buttercup Treat",
+        "prev": "Termination"
+      },
+      "image": {
+        "now": "Buttercup_Treat",
+        "prev": "Termination"
+      },
+      "baseImage": {
+        "now": "Buttercup_Treat",
+        "prev": "Termination"
+      },
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "description": {
+        "now": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it. Give it {{KR}}, +1 {{ATK}} and {{KW:CANDY}}.",
+        "prev": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead."
+      }
+    }
   }
 }

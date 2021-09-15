@@ -10,10 +10,10 @@
     "name": "Spider Web",
     "image": "Spider_Web",
     "baseImage": "Spider_Web",
-    "cost": 3,
+    "cost": 1,
     "rarity": "COMMON",
-    "originalCost": 3,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 1,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give an enemy monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead."
+    "description": "Give a monster {{KW:TAUNT}}. {{KW:PARALYZE}} the one in front of it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 3
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ENEMY_MONSTER"
+      },
+      "description": {
+        "now": "Give a monster {{KW:TAUNT}}. {{KW:PARALYZE}} the one in front of it.",
+        "prev": "Give an enemy monster -2 {{ATK}} and {{KR}}. If its remaining {{ATK}} <= 2 then add {{CARD:103|1}} to your hand. Otherwise, add 2 {{CARD:115|2}} instead."
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 7,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 7,
-    "originalHp": 7,
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,38 +13,35 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
-    "candy": true,
-    "id": 380,
-    "fixedId": 380,
+    "candy": false,
+    "id": 615,
+    "fixedId": 615,
     "typeCard": 0,
-    "name": "K-Round",
-    "image": "K-Round",
-    "baseImage": "K-Round",
-    "cost": 5,
+    "name": "Toxic Cloud",
+    "image": "Toxic_Cloud",
+    "baseImage": "Toxic_Cloud",
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 5,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:HASTE}}. {{KW:CANDY}}."
+    "description": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Give its killer {{KR}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

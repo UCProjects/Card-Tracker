@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -43,13 +43,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "taunt": {
+      "kr": {
         "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "Instead of dying, return with base -2/-2 if you have a {{RARITY:COMMON}}, {{RARITY:RARE}}, {{RARITY:EPIC}}, and {{RARITY:LEGENDARY}} monster in your dustpile.  {{KW:MAGIC}}: Gain {{KW:TAUNT}}.",
-        "prev": "{{KW:TAUNT}}. Instead of dying, return with base -2/-2 and no {{KW:TAUNT}} if you have a card of each non-{{RARITY:DETERMINATION}} rarity in your dustpile."
+        "prev": 0
       }
     }
   }

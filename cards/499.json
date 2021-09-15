@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -41,29 +41,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 2
-      },
-      "hp": {
-        "now": 2,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 1
-      },
-      "description": {
-        "now": "{{KW:DELAY}}: Give this monster's stats to a random one in your hand.",
-        "prev": "{{KW:DUST}}: Give this monster's {{ATK}} and max {{HP}} to a random monster in your hand."
+      "kr": {
+        "now": false,
+        "prev": 0
       }
     }
   }

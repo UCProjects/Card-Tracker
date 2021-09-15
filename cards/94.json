@@ -25,15 +25,8 @@
     "description": "Give a monster -2/-2. {{KW:DELAY}}: If it is still alive, give all ally monsters +1/+1."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give a monster -2/-2. {{KW:DELAY}}: If it is still alive, give all ally monsters +1/+1.",
-        "prev": "Fully heal all damaged ally monsters. Give undamaged ally monsters +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

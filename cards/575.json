@@ -17,11 +17,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Burn a card in your hand to draw a card."
+    "description": "Give all {{KW:GENERATED}} cards in your hand and deck -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all {{KW:GENERATED}} cards in your hand and deck -1 {{COST}}.",
+        "prev": "Burn a card in your hand to draw a card."
+      }
+    }
   }
 }

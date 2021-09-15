@@ -9,7 +9,7 @@
     "armor": true,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -40,6 +40,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "kr": {
+        "now": false,
+        "prev": 0
+      }
+    }
   }
 }

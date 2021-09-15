@@ -9,7 +9,7 @@
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -27,6 +27,7 @@
     "cost": 5,
     "rarity": "RARE",
     "originalCost": 5,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +36,22 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_END}}: Kill a random enemy monster costing 2 or less and heal 2 {{HP}} to you."
+    "description": "{{KW:MAGIC}}: Kill a monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "kr": {
+        "now": false,
+        "prev": 0
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill a monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you.",
+        "prev": "{{KW:TURN_END}}: Kill a random enemy monster costing 2 or less and heal 2 {{HP}} to you."
+      }
+    }
   }
 }

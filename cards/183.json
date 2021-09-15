@@ -22,11 +22,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Force an enemy monster to attack another random enemy monster."
+    "description": "Both players draw a card. Force an enemy monster to attack another random enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Both players draw a card. Force an enemy monster to attack another random enemy monster.",
+        "prev": "Force an enemy monster to attack another random enemy monster."
+      }
+    }
   }
 }

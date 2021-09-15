@@ -10,9 +10,9 @@
     "name": "Powerhouse",
     "image": "Powerhouse",
     "baseImage": "Powerhouse",
-    "cost": 5,
+    "cost": 7,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -21,23 +21,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Draw 2 cards and give all cards in your hand -1 {{COST}}."
+    "description": "Draw 2 cards. Give all cards in your hand -2 {{COST}} (min: 2)."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "cost": {
-        "now": 5,
-        "prev": 7
+        "now": 7,
+        "prev": 5
       },
       "originalCost": {
-        "now": 5,
-        "prev": 7
+        "now": 7,
+        "prev": 5
       },
       "description": {
-        "now": "Draw 2 cards and give all cards in your hand -1 {{COST}}.",
-        "prev": "Draw 2 cards. Give all cards in your hand -2 {{COST}} (min: 2)."
+        "now": "Draw 2 cards. Give all cards in your hand -2 {{COST}} (min: 2).",
+        "prev": "Draw 2 cards and give all cards in your hand -1 {{COST}}."
       }
     }
   }

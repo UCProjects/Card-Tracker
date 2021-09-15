@@ -20,9 +20,7 @@
     "description": "Cast a random spell on a random target."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

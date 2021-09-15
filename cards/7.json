@@ -1,15 +1,15 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 1,
     "hp": 2,
     "maxHp": 2,
-    "originalAttack": 2,
+    "originalAttack": 1,
     "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
-    "kr": 0,
+    "kr": false,
     "burn": 0,
     "cantAttack": false,
     "charge": false,
@@ -24,9 +24,9 @@
     "name": "Loox",
     "image": "Loox",
     "baseImage": "Loox",
-    "cost": 2,
+    "cost": 1,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 1,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -36,11 +36,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain {{KW:CHARGE}}."
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 2
+      },
+      "kr": {
+        "now": false,
+        "prev": 0
+      },
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain +1 {{ATK}}.",
+        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain {{KW:CHARGE}}."
+      }
+    }
   }
 }

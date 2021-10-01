@@ -27,22 +27,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 2
-      },
-      "description": {
-        "now": "Deal 1 {{DMG}} to all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}.",
-        "prev": "Deal 3 {{DMG}} to a monster and give it {{KR}}. If it already has {{KR}}, deal 6 {{DMG}} instead and deal excess {{DMG}} to the opponent."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

@@ -24,9 +24,9 @@
     "name": "Timer",
     "image": "Timer",
     "baseImage": "Timer",
-    "cost": 3,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -41,9 +41,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
       }
     }
   }

@@ -27,31 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Buttercup Treat",
-        "prev": "Termination"
-      },
-      "image": {
-        "now": "Buttercup_Treat",
-        "prev": "Termination"
-      },
-      "baseImage": {
-        "now": "Buttercup_Treat",
-        "prev": "Termination"
-      },
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "description": {
-        "now": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it. Give it {{KR}}, +1 {{ATK}} and {{KW:CANDY}}.",
-        "prev": "{{KW:PARALYZE}} a monster and give it {{KR}}. If it already has {{KR}}, kill it instead."
-      }
-    }
+    "changed": {}
   }
 }

@@ -21,11 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Spend all your {{GOLD}}. {{KW:DELAY}}: Regain it all and gain +3 {{GOLD}}."
+    "description": "Draw a card. Give -1 {{COST}} to a random 5, 6, 7, and 8-{{COST}} card in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Draw a card. Give -1 {{COST}} to a random 5, 6, 7, and 8-{{COST}} card in your hand.",
+        "prev": "Spend all your {{GOLD}}. {{KW:DELAY}}: Regain it all and gain +3 {{GOLD}}."
+      }
+    }
   }
 }

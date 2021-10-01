@@ -26,19 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      },
-      "description": {
-        "now": "Draw 2 cards. Give all cards in your hand -2 {{COST}} (min: 2).",
-        "prev": "Draw 2 cards and give all cards in your hand -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

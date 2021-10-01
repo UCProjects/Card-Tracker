@@ -10,9 +10,9 @@
     "name": "Reload",
     "image": "Reload",
     "baseImage": "Reload",
-    "cost": 1,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Draw a monster. {{KW:DELAY}}: Draw a spell."
+    "description": "Draw a {{KW:HASTE}} monster and a {{KW:TURBO}} monster. Give them -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "description": {
+        "now": "Draw a {{KW:HASTE}} monster and a {{KW:TURBO}} monster. Give them -1 {{COST}}.",
+        "prev": "Draw a monster. {{KW:DELAY}}: Draw a spell."
+      }
+    }
   }
 }

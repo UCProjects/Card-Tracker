@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 1,
-    "originalHp": 8,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -35,15 +35,27 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_END}}: Shuffle a {{CARD:351|1}} into your deck."
+    "description": "{{KW:MAGIC}}: Add 2 {{CARD:351|2}} to your deck. {{KW:TURN_END}}: Give 2 random {{CARD:351|2}} in your deck -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
+      "hp": {
+        "now": 7,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: Add 2 {{CARD:351|2}} to your deck. {{KW:TURN_END}}: Give 2 random {{CARD:351|2}} in your deck -1 {{COST}}.",
+        "prev": "{{KW:TURN_END}}: Shuffle a {{CARD:351|1}} into your deck."
       }
     }
   }

@@ -41,31 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 2
-      },
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain +1 {{ATK}}.",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally monster, gain {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

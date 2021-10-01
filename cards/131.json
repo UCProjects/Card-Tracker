@@ -7,12 +7,13 @@
     "id": 131,
     "fixedId": 131,
     "typeCard": 1,
-    "name": "Shootout",
-    "image": "Shootout",
-    "baseImage": "Shootout",
-    "cost": 3,
+    "name": "Energizer",
+    "image": "Energizer",
+    "baseImage": "Energizer",
+    "cost": 1,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,38 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 1 {{DMG}} to all monsters. If it killed a monster, trigger this again."
+    "description": "Deal 1 {{DMG}} to an ally monster twice. Give it +2 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Energizer",
+        "prev": "Shootout"
+      },
+      "image": {
+        "now": "Energizer",
+        "prev": "Shootout"
+      },
+      "baseImage": {
+        "now": "Energizer",
+        "prev": "Shootout"
+      },
+      "cost": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 3
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}} to an ally monster twice. Give it +2 {{ATK}} and {{KW:HASTE}}.",
+        "prev": "Deal 1 {{DMG}} to all monsters. If it killed a monster, trigger this again."
+      }
+    }
   }
 }

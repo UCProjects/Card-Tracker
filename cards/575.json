@@ -22,11 +22,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give all {{KW:GENERATED}} cards in your hand and deck -1 {{COST}}.",
-        "prev": "Burn a card in your hand to draw a card."
-      }
-    }
+    "changed": {}
   }
 }

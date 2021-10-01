@@ -21,11 +21,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 5 {{DMG}} randomly split among all enemy monsters. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt."
+    "description": "Summon a 3/4 {{CARD:574|1}} with {{KW:TAUNT}}. {{KW:DELAY}}: If you played a {{KW:GENERATED}} card this turn, summon another."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon a 3/4 {{CARD:574|1}} with {{KW:TAUNT}}. {{KW:DELAY}}: If you played a {{KW:GENERATED}} card this turn, summon another.",
+        "prev": "Deal 5 {{DMG}} randomly split among all enemy monsters. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt."
+      }
+    }
   }
 }

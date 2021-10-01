@@ -41,15 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Heal 4 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Heal 3 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

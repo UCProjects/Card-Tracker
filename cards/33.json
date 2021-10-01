@@ -31,8 +31,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "DOG",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "DOG"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -44,18 +44,14 @@
     "added": {},
     "removed": {},
     "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
       "tribes": {
         "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "DOG"
+        ],
+        "prev": [
+          "DOG",
+          "AMALGAMATE"
         ]
       }
     }

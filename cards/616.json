@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 3,
-    "originalHp": 2,
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,29 +18,31 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "id": 4,
-    "fixedId": 4,
+    "id": 616,
+    "fixedId": 616,
     "typeCard": 0,
-    "name": "Moldsmal",
-    "image": "Moldsmal",
-    "baseImage": "Moldsmal",
-    "cost": 2,
-    "rarity": "BASE",
-    "originalCost": 2,
+    "name": "Banana",
+    "image": "Banana",
+    "baseImage": "Banana",
+    "cost": 9,
+    "rarity": "COMMON",
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [
-      "MOLD"
+      "PLANT"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": ""
+    "description": "POTASSIUM"
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

@@ -10,9 +10,9 @@
     "name": "Royal Patience",
     "image": "Royal_Patience",
     "baseImage": "Royal_Patience",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,11 +23,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Look at all cards in your deck and choose one to draw. If it's <= {{RARITY:EPIC}}, give it -1 {{COST}}."
+    "description": "Look at all cards in your deck and choose one to draw."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      },
+      "description": {
+        "now": "Look at all cards in your deck and choose one to draw.",
+        "prev": "Look at all cards in your deck and choose one to draw. If it's <= {{RARITY:EPIC}}, give it -1 {{COST}}."
+      }
+    }
   }
 }

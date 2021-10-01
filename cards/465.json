@@ -35,15 +35,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "All cards cost 1 more."
+    "description": "Whenever a card is played, give its opponent +1 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
+      "description": {
+        "now": "Whenever a card is played, give its opponent +1 {{GOLD}}.",
+        "prev": "All cards cost 1 more."
       }
     }
   }

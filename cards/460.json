@@ -25,35 +25,8 @@
     "description": "Give a monster +1 {{ATK}}. Heal its {{ATK}} as {{HP}} to it and the excess to you."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Worm Infusion",
-        "prev": "Worming Up"
-      },
-      "image": {
-        "now": "Worm_Infusion",
-        "prev": "Worming_Up"
-      },
-      "baseImage": {
-        "now": "Worm_Infusion",
-        "prev": "Worming_Up"
-      },
-      "cost": {
-        "now": 2,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 5
-      },
-      "description": {
-        "now": "Give a monster +1 {{ATK}}. Heal its {{ATK}} as {{HP}} to it and the excess to you.",
-        "prev": "Summon 2 {{CARD:373|2}} with +2 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

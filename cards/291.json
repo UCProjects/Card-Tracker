@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. After this attacks, {{KW:PARALYZE}} it. {{KW:DELAY}}: If this attacked, gain -1 {{HP}}.",
-        "prev": "{{KW:HASTE}}. {{KW:PARALYZE}} itself after attacking."
-      }
-    }
+    "changed": {}
   }
 }

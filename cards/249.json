@@ -24,9 +24,9 @@
     "name": "Robot 98",
     "image": "Robot_98",
     "baseImage": "Robot_98",
-    "cost": 10,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,15 +35,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DODGE}} (98). {{KW:TURN_START}}: Lose all {{KW:DODGE}}."
+    "description": "{{KW:DODGE}} (98). {{KW:TURN_END}}: Lose 97 {{KW:DODGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      },
+      "description": {
+        "now": "{{KW:DODGE}} (98). {{KW:TURN_END}}: Lose 97 {{KW:DODGE}}.",
+        "prev": "{{KW:DODGE}} (98). {{KW:TURN_START}}: Lose all {{KW:DODGE}}."
       }
     }
   }

@@ -40,15 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:TURN_END}}: Give a random spell in your hand -2 {{COST}}.",
-        "prev": "{{KW:MAGIC}} and {{KW:TURN_START}}: If you have no ally monsters, reduce the {{COST}} of a random spell in your hand by 2."
-      }
-    }
+    "changed": {}
   }
 }

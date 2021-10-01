@@ -7,12 +7,12 @@
     "id": 458,
     "fixedId": 458,
     "typeCard": 1,
-    "name": "Cooking Practice",
-    "image": "Cooking_Practice",
-    "baseImage": "Cooking_Practice",
-    "cost": 0,
+    "name": "Carousel",
+    "image": "Carousel",
+    "baseImage": "Carousel",
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 0,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -21,11 +21,36 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Spend up to 10 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to {{GOLD}} spent."
+    "description": "Deal 1 {{DMG}} to all monsters. If any died, trigger this effect again."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Carousel",
+        "prev": "Cooking Practice"
+      },
+      "image": {
+        "now": "Carousel",
+        "prev": "Cooking_Practice"
+      },
+      "baseImage": {
+        "now": "Carousel",
+        "prev": "Cooking_Practice"
+      },
+      "cost": {
+        "now": 2,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 0
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}} to all monsters. If any died, trigger this effect again.",
+        "prev": "Spend up to 10 {{GOLD}} and summon a {{CARD:459|1}} with a base {{COST}}, {{ATK}}, and {{HP}} equal to {{GOLD}} spent."
+      }
+    }
   }
 }

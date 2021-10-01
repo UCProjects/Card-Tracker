@@ -22,11 +22,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster."
+    "description": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it was an ally, give it -2 {{COST}} in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it was an ally, give it -2 {{COST}} in your hand.",
+        "prev": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster. {{KW:DELAY}}: Add a copy of it to your hand. Give it -2 {{COST}} if it was an ally monster."
+      }
+    }
   }
 }

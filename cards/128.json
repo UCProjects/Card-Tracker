@@ -10,9 +10,9 @@
     "name": "Froggit Trio",
     "image": "Froggit_Trio",
     "baseImage": "Froggit_Trio",
-    "cost": 1,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 1,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,24 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand."
+    "description": "Summon 2 {{TRIBE:FROGGIT|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If they are both dead, add one to your hand with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 1
+      },
+      "description": {
+        "now": "Summon 2 {{TRIBE:FROGGIT|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If they are both dead, add one to your hand with -2 {{COST}}.",
+        "prev": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand."
+      }
+    }
   }
 }

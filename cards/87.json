@@ -27,19 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 1
-      },
-      "description": {
-        "now": "Give a monster {{KR}}. Draw 2 cards.",
-        "prev": "Deal 1 {{DMG}} to a monster and give it {{KR}}. If it already has {{KR}}, draw 2 cards."
-      }
-    }
+    "changed": {}
   }
 }

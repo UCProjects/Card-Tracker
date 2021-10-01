@@ -40,27 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "Whenever an ally monster dies, heal 3 {{HP}} to you.",
-        "prev": "When an ally monster costing 3 or more dies, restore {{HP:3}} to you."
-      }
-    }
+    "changed": {}
   }
 }

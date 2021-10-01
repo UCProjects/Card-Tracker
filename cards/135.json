@@ -39,19 +39,8 @@
     "description": "{{KW:MAGIC}}: Kill a monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you."
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "kr": {
-        "now": false,
-        "prev": 0
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Kill a monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you.",
-        "prev": "{{KW:TURN_END}}: Kill a random enemy monster costing 2 or less and heal 2 {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

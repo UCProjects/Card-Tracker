@@ -25,14 +25,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "description": {
-        "now": "Deal 2 {{DMG}} to 2 random enemy monsters.",
-        "prev": "Deal 2 {{DMG}} to a monster and the opponent. Increase {{DMG}} by 1 if the target has {{KR}}."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

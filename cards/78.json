@@ -7,12 +7,13 @@
     "id": 78,
     "fixedId": 78,
     "typeCard": 1,
-    "name": "Double Trouble",
-    "image": "Double_Trouble",
-    "baseImage": "Double_Trouble",
+    "name": "Rage",
+    "image": "Rage",
+    "baseImage": "Rage",
     "cost": 3,
     "rarity": "RARE",
     "originalCost": 3,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +22,30 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1."
+    "description": "Give an ally monster +1/+1. Deal its {{ATK}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Rage",
+        "prev": "Double Trouble"
+      },
+      "image": {
+        "now": "Rage",
+        "prev": "Double_Trouble"
+      },
+      "baseImage": {
+        "now": "Rage",
+        "prev": "Double_Trouble"
+      },
+      "description": {
+        "now": "Give an ally monster +1/+1. Deal its {{ATK}} as {{DMG}} to the monster in front of it.",
+        "prev": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1."
+      }
+    }
   }
 }

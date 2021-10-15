@@ -40,39 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 4
-      },
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "cost": {
-        "now": 4,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 6
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at the 2 most expensive other different monsters in your dustpile costing 5 or less {{GOLD}} and catch one. {{KW:DUST}}: Release.",
-        "prev": "{{KW:MAGIC}}: Reduce opponent's {{GOLD}} by 2."
-      }
-    }
+    "changed": {}
   }
 }

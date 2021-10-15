@@ -26,19 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 1
-      },
-      "description": {
-        "now": "Summon 2 {{TRIBE:FROGGIT|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If they are both dead, add one to your hand with -2 {{COST}}.",
-        "prev": "Add 3 {{CARD:2|3}} with {{KW:HASTE}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

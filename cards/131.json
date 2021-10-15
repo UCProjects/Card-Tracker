@@ -25,35 +25,8 @@
     "description": "Deal 1 {{DMG}} to an ally monster twice. Give it +2 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Energizer",
-        "prev": "Shootout"
-      },
-      "image": {
-        "now": "Energizer",
-        "prev": "Shootout"
-      },
-      "baseImage": {
-        "now": "Energizer",
-        "prev": "Shootout"
-      },
-      "cost": {
-        "now": 1,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 3
-      },
-      "description": {
-        "now": "Deal 1 {{DMG}} to an ally monster twice. Give it +2 {{ATK}} and {{KW:HASTE}}.",
-        "prev": "Deal 1 {{DMG}} to all monsters. If it killed a monster, trigger this again."
-      }
-    }
+    "changed": {}
   }
 }

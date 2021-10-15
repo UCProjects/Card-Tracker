@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Draw a card. Give -1 {{COST}} to a random 5, 6, 7, and 8-{{COST}} card in your hand.",
-        "prev": "Spend all your {{GOLD}}. {{KW:DELAY}}: Regain it all and gain +3 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

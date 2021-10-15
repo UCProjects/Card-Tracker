@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose a monster costing 9 or less {{GOLD}} in your hand and summon it with {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it if you have more monsters than your opponent.",
-        "prev": "Choose a monster from your hand ({{COST}} <= 10). Summon it along with a random monster from your opponent's hand and make them fight."
-      }
-    }
+    "changed": {}
   }
 }

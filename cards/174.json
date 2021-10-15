@@ -40,27 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "armor": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain +1 {{HP}} for every enemy monster on the board.",
-        "prev": "{{KW:ARMOR}}. {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

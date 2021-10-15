@@ -40,9 +40,7 @@
     "description": "POTASSIUM"
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

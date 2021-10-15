@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Whenever a card is played, give its opponent +1 {{GOLD}}.",
-        "prev": "All cards cost 1 more."
-      }
-    }
+    "changed": {}
   }
 }

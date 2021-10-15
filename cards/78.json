@@ -25,27 +25,8 @@
     "description": "Give an ally monster +1/+1. Deal its {{ATK}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Rage",
-        "prev": "Double Trouble"
-      },
-      "image": {
-        "now": "Rage",
-        "prev": "Double_Trouble"
-      },
-      "baseImage": {
-        "now": "Rage",
-        "prev": "Double_Trouble"
-      },
-      "description": {
-        "now": "Give an ally monster +1/+1. Deal its {{ATK}} as {{DMG}} to the monster in front of it.",
-        "prev": "Draw an {{KW:HASTE}} and a {{KW:TURBO}} monster from your deck. Give them +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

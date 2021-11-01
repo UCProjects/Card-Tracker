@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": true,
+    "supportEnabled": false,
     "id": 479,
     "fixedId": 479,
     "typeCard": 0,
@@ -35,10 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:CHARGE}}. {{KW:SHOCK}}: Summon a silenced copy of this with {{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": true,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

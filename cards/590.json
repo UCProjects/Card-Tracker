@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 590,
     "fixedId": 590,
     "typeCard": 0,
@@ -37,10 +39,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Burn up to 9 {{TRIBE:MOLD|9}} in your dustpile. Summon a {{CARD:4|1}} for every 3 {{TRIBE:MOLD|3}} burned."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

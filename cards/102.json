@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 102,
     "fixedId": 102,
     "typeCard": 0,
@@ -35,10 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:MAGIC}}: Look at the 2 most expensive other different monsters in your dustpile costing 5 or less {{GOLD}} and catch one. {{KW:DUST}}: Release."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

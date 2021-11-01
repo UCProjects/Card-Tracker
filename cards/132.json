@@ -22,11 +22,21 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Give a monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
+    "loop": 0,
+    "program": 0,
+    "description": "Give a ally monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a ally monster {{KW:HASTE}} and +1 {{KW:DODGE}}.",
+        "prev": "Give a monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
+      }
+    }
   }
 }

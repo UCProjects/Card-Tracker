@@ -22,10 +22,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "Give a monster {{KW:TAUNT}}. {{KW:PARALYZE}} the one in front of it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

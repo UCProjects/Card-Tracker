@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 279,
     "fixedId": 279,
     "typeCard": 0,
@@ -35,11 +37,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:TURN_END}}: Give a random spell in your hand -2 {{COST}}."
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:TURN_END}}: Give 2 random spells in your hand -1 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Give 2 random spells in your hand -1 {{COST}}.",
+        "prev": "{{KW:TURN_END}}: Give a random spell in your hand -2 {{COST}}."
+      }
+    }
   }
 }

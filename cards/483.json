@@ -24,10 +24,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "Burn your Dustpile. For every 7 burned monsters, summon the next {{TRIBE:LOST_SOUL|1}} with +1/+1, {{KW:TAUNT}}, and {{KW:HASTE}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": true,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 629,
+    "fixedId": 629,
+    "typeCard": 0,
+    "name": "Tasque Painting",
+    "image": "Tasque_Painting",
+    "baseImage": "Tasque_Painting",
+    "cost": 4,
+    "rarity": "COMMON",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 1,
+    "program": 0,
+    "description": "{{KW:LOOP}} (1). {{KW:HASTE}}. {{KW:MAGIC}}: Give the copy -1 {{COST}} for each other card with a base cost of 1+ {{GOLD}} played this turn."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

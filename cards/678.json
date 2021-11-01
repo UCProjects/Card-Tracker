@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 8,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 8,
+    "originalHp": 6,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": true,
+    "id": 678,
+    "fixedId": 678,
+    "typeCard": 0,
+    "name": "Cauldron",
+    "image": "Cauldron",
+    "baseImage": "Cauldron",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:SUPPORT}}: Add {{CARD:132|1}} to your hand. Lose this {{KW:SUPPORT}}. {{KW:TURN_END}}: Regain its {{KW:SUPPORT}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

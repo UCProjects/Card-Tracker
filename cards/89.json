@@ -10,9 +10,9 @@
     "name": "Pollutant Gas",
     "image": "Pollutant_Gas",
     "baseImage": "Pollutant_Gas",
-    "cost": 2,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,11 +21,29 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Summon a {{CARD:615|1}}. {{KW:DELAY}}: If it's alive, give it +1/+1."
+    "loop": 0,
+    "program": 0,
+    "description": "Summon 2 {{CARD:615|2}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      },
+      "description": {
+        "now": "Summon 2 {{CARD:615|2}}.",
+        "prev": "Summon a {{CARD:615|1}}. {{KW:DELAY}}: If it's alive, give it +1/+1."
+      }
+    }
   }
 }

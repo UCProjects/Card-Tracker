@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 5,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,15 +18,17 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 503,
     "fixedId": 503,
     "typeCard": 0,
     "name": "Library Loox",
     "image": "Library_Loox",
     "baseImage": "Library_Loox",
-    "cost": 5,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -35,11 +37,43 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Add a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -2 {{COST}}."
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Give the next 6 cards of your deck -1 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no duplicates (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Give the next 6 cards of your deck -1 {{COST}}.",
+        "prev": "{{KW:MAGIC}}: Add a copy of a {{KW:GENERATED}} card in your hand (except this) to the top of your deck with -2 {{COST}}."
+      }
+    }
   }
 }

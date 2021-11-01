@@ -21,10 +21,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "Summon 2 {{TRIBE:FROGGIT|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If they are both dead, add one to your hand with -2 {{COST}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

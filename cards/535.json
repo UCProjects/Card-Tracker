@@ -6,10 +6,9 @@
     "name": "Create a Machine",
     "image": "Create_a_Machine",
     "baseImage": "Create_a_Machine",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -18,11 +17,31 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Choose a monster. Add a {{CARD:372|1}} to your hand with {{KW:TAUNT}} and set its base stats equal to the stats of the chosen monster."
+    "loop": 0,
+    "program": 0,
+    "description": "Look at 3 random {{TRIBE:THRASHING_PART|3}} and choose one. Add it to your hand."
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      },
+      "description": {
+        "now": "Look at 3 random {{TRIBE:THRASHING_PART|3}} and choose one. Add it to your hand.",
+        "prev": "Choose a monster. Add a {{CARD:372|1}} to your hand with {{KW:TAUNT}} and set its base stats equal to the stats of the chosen monster."
+      }
+    }
   }
 }

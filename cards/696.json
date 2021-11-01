@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 696,
+    "fixedId": 696,
+    "typeCard": 1,
+    "name": "Final Gambit!",
+    "image": "Final_Gambit!",
+    "baseImage": "Final_Gambit!",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "Deal 7 {{DMG}} to all enemies, heal 7 {{HP}} to all allies, earn 7 {{GOLD}}, and add 7 {{CARD:577|7}} to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

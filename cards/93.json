@@ -21,10 +21,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "Add 2 random non-{{RARITY:TOKEN}} monsters from your dustpile to your deck with +1 {{HP}}. Draw up to 2 cards."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

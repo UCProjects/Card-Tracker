@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 5,
+    "originalHp": 1,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 627,
+    "fixedId": 627,
+    "typeCard": 0,
+    "name": "Cyber Cage",
+    "image": "Cyber_Cage",
+    "baseImage": "Cyber_Cage",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:DUST}}: If it's the enemy turn, release the caught monster."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

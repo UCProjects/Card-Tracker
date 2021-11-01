@@ -1,0 +1,52 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 4,
+    "originalHp": 2,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 633,
+    "fixedId": 633,
+    "typeCard": 0,
+    "name": "Wig Person",
+    "image": "Wig_Person",
+    "baseImage": "Wig_Person",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:MAGIC}}: Swap an ally monster's {{ATK}} and {{HP}}. {{KW:SILENCE}} it."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

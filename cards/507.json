@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": true,
     "candy": false,
+    "shockEnabled": true,
+    "supportEnabled": false,
     "id": 507,
     "fixedId": 507,
     "typeCard": 0,
@@ -35,10 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": true,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

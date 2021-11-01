@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 2,
+    "originalHp": 5,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": true,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 653,
+    "fixedId": 653,
+    "typeCard": 0,
+    "name": "Virovirokun",
+    "image": "Virovirokun",
+    "baseImage": "Virovirokun",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:TRANSPARENCY}}. Whenever you take {{DMG}} during your turn, gain +1/+1."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

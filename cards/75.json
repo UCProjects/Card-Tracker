@@ -22,10 +22,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:PARALYZE}} an enemy monster. {{KW:DELAY}}: Add {{CARD:551|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

@@ -17,10 +17,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "If this is {{KW:GENERATED}} by {{CARD:545|1}}, look at 6 6-{{COST}} monsters and choose one to give -6 {{COST}}. Add all of them to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

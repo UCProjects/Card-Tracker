@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 467,
     "fixedId": 467,
     "typeCard": 0,
@@ -35,10 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:MAGIC}}: Summon a 1/2 base stats {{CARD:306|1}}. Spend up to 2 {{GOLD}} and give it +1/+1 for each {{GOLD}} spent."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

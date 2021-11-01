@@ -18,6 +18,8 @@
     "haste": true,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 594,
     "fixedId": 594,
     "typeCard": 0,
@@ -35,10 +37,17 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Burn 4 {{CARD:594|4}} in your dustpile to shuffle 10 {{CARD:595|10}} into your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {}
   }

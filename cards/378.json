@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 378,
     "fixedId": 378,
     "typeCard": 0,
@@ -35,11 +37,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:DUST}}: Return this monster to your hand and add a {{CARD:379|1}} to your deck."
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:DUST}}: Return to your hand. Add {{CARD:379|1}} to your deck."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Return to your hand. Add {{CARD:379|1}} to your deck.",
+        "prev": "{{KW:DUST}}: Return this monster to your hand and add a {{CARD:379|1}} to your deck."
+      }
+    }
   }
 }

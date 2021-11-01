@@ -1,0 +1,53 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": true,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 690,
+    "fixedId": 690,
+    "typeCard": 0,
+    "name": "Boxed Body",
+    "image": "Boxed_Body",
+    "baseImage": "Boxed_Body",
+    "cost": 2,
+    "rarity": "TOKEN",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "THRASHING_PART"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:TRANSPARENCY}}. {{KW:DUST}}: Deal 4 {{DMG}} to the highest {{HP}} enemy monster."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 9,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 9,
+    "originalHp": 9,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 630,
+    "fixedId": 630,
+    "typeCard": 0,
+    "name": "Shovels x999",
+    "image": "Shovels_x999",
+    "baseImage": "Shovels_x999",
+    "cost": 9,
+    "rarity": "EPIC",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:MAGIC}}: Add 999 {{CARD:631|999}} to your deck (max: 99). {{KW:DELAY}}: Burn all {{CARD:631|2}} in your deck."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

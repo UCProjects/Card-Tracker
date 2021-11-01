@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 33,
     "fixedId": 33,
     "typeCard": 0,
@@ -31,27 +33,34 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "DOG",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "DOG"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "{{KW:MAGIC}}: Give a non-{{RARITY:TOKEN}} {{TRIBE:DOG|1}} in your hand +1 {{ATK}} and {{KW:HASTE}} or an {{TRIBE:AMALGAMATE|1}} in your hand +1 {{HP}} and {{KW:TAUNT}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "DOG"
+        ],
+        "prev": [
+          "DOG",
+          "AMALGAMATE"
         ]
       }
     }

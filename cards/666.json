@@ -1,0 +1,51 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 0,
+    "originalHp": 2,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": true,
+    "candy": true,
+    "shockEnabled": true,
+    "supportEnabled": false,
+    "id": 666,
+    "fixedId": 666,
+    "typeCard": 0,
+    "name": "Stoned Lancer",
+    "image": "Stoned_Lancer",
+    "baseImage": "Stoned_Lancer",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:CANDY}}. {{KW:TRANSPARENCY}}. {{KW:MAGIC}} and {{KW:SHOCK}}: Gain +1/+1. {{KW:DELAY}}: Lose its {{KW:SHOCK}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

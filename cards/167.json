@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 3,
-    "originalHp": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 167,
     "fixedId": 167,
     "typeCard": 0,
@@ -35,11 +37,35 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Whenever it takes {{DMG}}, reduce the {{COST}} of a random card in your hand by 2."
+    "loop": 0,
+    "program": 0,
+    "description": "Whenever this takes {{DMG}}, give -1 {{COST}} to a random card costing 1 or more {{GOLD}} in your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "description": {
+        "now": "Whenever this takes {{DMG}}, give -1 {{COST}} to a random card costing 1 or more {{GOLD}} in your hand.",
+        "prev": "Whenever it takes {{DMG}}, reduce the {{COST}} of a random card in your hand by 2."
+      }
+    }
   }
 }

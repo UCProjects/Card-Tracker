@@ -13,7 +13,7 @@
     "cost": 1,
     "rarity": "EPIC",
     "originalCost": 1,
-    "target": "MONSTER",
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,11 +22,25 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:181|1}}, add 2 {{CARD:181|2}} to your hand."
+    "loop": 0,
+    "program": 0,
+    "description": "Deal 1 {{DMG}}. {{KW:DELAY}}: If this killed, add {{CARD:181|1}} to your hand."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ALL",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "Deal 1 {{DMG}}. {{KW:DELAY}}: If this killed, add {{CARD:181|1}} to your hand.",
+        "prev": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:181|1}}, add 2 {{CARD:181|2}} to your hand."
+      }
+    }
   }
 }

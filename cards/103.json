@@ -18,6 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 103,
     "fixedId": 103,
     "typeCard": 0,
@@ -38,11 +40,23 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "description": "{{KW:MAGIC}}: Give a monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it."
+    "loop": 0,
+    "program": 0,
+    "description": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it.",
+        "prev": "{{KW:MAGIC}}: Give a monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it."
+      }
+    }
   }
 }

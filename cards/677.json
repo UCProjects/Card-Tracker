@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 677,
+    "fixedId": 677,
+    "typeCard": 1,
+    "name": "Sans Milk",
+    "image": "Sans_Milk",
+    "baseImage": "Sans_Milk",
+    "cost": 2,
+    "rarity": "TOKEN",
+    "originalCost": 2,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": "Give a monster +1 {{KW:DODGE}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

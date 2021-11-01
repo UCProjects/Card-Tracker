@@ -10,9 +10,9 @@
     "name": "Zap Cannon",
     "image": "Zap_Cannon",
     "baseImage": "Zap_Cannon",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 0,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -22,11 +22,25 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "loop": 0,
+    "program": 0,
     "description": "Deal 2 {{DMG}} to a monster and draw a spell from your deck (except {{CARD:258|1}})."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "loop": 0,
+      "program": 0
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

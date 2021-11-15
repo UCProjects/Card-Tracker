@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}."
+      }
+    }
   }
 }

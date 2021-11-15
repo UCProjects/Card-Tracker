@@ -40,16 +40,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}} and {{KW:TRANSPARENCY}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}} and {{KW:TRANSPARENCY}}."
+      }
+    }
   }
 }

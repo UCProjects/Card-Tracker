@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Enemy monsters take +2 {{DMG}} from spells. {{KW:MAGIC}}: Add 2 {{CARD:371|2}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Enemy monsters take +2 {{DMG}} from spells. {{KW:MAGIC}}: Add 2 {{CARD:371|2}} to your hand."
+      }
+    }
   }
 }

@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Send the 2 rightmost cards in your hand to your deck. Draw 2 cards."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Send the 2 rightmost cards in your hand to your deck. Draw 2 cards."
+      }
+    }
   }
 }

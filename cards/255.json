@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Give all {{KW:GENERATED}} monsters in your hand, board, and deck +1/+1."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Give all {{KW:GENERATED}} monsters in your hand, board, and deck +1/+1."
+      }
+    }
   }
 }

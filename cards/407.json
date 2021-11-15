@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} effect of a monster in your hand. If played on the left, send it to your deck and draw a card."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} effect of a monster in your hand. If played on the left, send it to your deck and draw a card."
+      }
+    }
   }
 }

@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to your opponent's hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to your opponent's hand."
+      }
+    }
   }
 }

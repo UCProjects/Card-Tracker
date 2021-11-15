@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent."
+      }
+    }
   }
 }

@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TURN_END}}: Burn a random card in your hand costing 7 {{GOLD}} or which has a base {{HP}} of 7 to kill all monsters."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TURN_END}}: Burn a random card in your hand costing 7 {{GOLD}} or which has a base {{HP}} of 7 to kill all monsters."
+      }
+    }
   }
 }

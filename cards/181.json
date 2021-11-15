@@ -24,22 +24,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Deal 1 {{DMG}}. {{KW:DELAY}}: If this killed, add {{CARD:181|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "target": {
-        "now": "ALL",
-        "prev": "MONSTER"
-      },
       "description": {
-        "now": "Deal 1 {{DMG}}. {{KW:DELAY}}: If this killed, add {{CARD:181|1}} to your hand.",
-        "prev": "Deal 1 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:181|1}}, add 2 {{CARD:181|2}} to your hand."
+        "now": "",
+        "prev": "Deal 1 {{DMG}}. {{KW:DELAY}}: If this killed, add {{CARD:181|1}} to your hand."
       }
     }
   }

@@ -25,18 +25,15 @@
     "ownerId": 0,
     "loop": 1,
     "program": 0,
-    "description": "{{KW:LOOP}} (1). Deal 3 {{DMG}} to a monster. {{KW:DELAY}}: Burn the copy to heal 3 {{HP}} to you."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 1,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (1). Deal 3 {{DMG}} to a monster. {{KW:DELAY}}: Burn the copy to heal 3 {{HP}} to you.",
-        "prev": "Deal 3 {{DMG}} to a monster. If this isn't {{KW:GENERATED}} by {{CARD:256|1}}, add {{CARD:256|1}} to your hand. {{KW:DELAY}}: Burn it to heal 3 {{HP}} to you."
+        "now": "",
+        "prev": "{{KW:LOOP}} (1). Deal 3 {{DMG}} to a monster. {{KW:DELAY}}: Burn the copy to heal 3 {{HP}} to you."
       }
     }
   }

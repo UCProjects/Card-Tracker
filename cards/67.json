@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Add a copy of a random non-{{RARITY:TOKEN}} dead ally monster to your hand twice. If you have 15 or less {{HP}}, give them -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Add a copy of a random non-{{RARITY:TOKEN}} dead ally monster to your hand twice. If you have 15 or less {{HP}}, give them -1 {{COST}}."
+      }
+    }
   }
 }

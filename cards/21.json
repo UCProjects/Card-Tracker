@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:DUST}}: Deal {{DMG:1}} to all enemy monsters and {{DMG:3}} to the opponent."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Deal {{DMG:1}} to all enemy monsters and {{DMG:3}} to the opponent."
+      }
+    }
   }
 }

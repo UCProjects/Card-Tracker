@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, heal 3 {{HP}} to you and gain +1 {{HP}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, heal 3 {{HP}} to you and gain +1 {{HP}}."
+      }
+    }
   }
 }

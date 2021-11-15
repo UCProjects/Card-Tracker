@@ -20,14 +20,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Give -1/-1 to a monster. Draw a card."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Give -1/-1 to a monster. Draw a card."
+      }
+    }
   }
 }

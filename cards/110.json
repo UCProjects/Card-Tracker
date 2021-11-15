@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Deal {{DMG}} equal to its {{ATK}} to all monsters and half to the opponent."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DUST}}: Deal {{DMG}} equal to its {{ATK}} to all monsters and half to the opponent."
+      }
+    }
   }
 }

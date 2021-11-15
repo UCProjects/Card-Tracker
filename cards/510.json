@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Add a {{CARD:511|1}} to your hand. If you have less {{HP}} than the opponent, give it -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Add a {{CARD:511|1}} to your hand. If you have less {{HP}} than the opponent, give it -1 {{COST}}."
+      }
+    }
   }
 }

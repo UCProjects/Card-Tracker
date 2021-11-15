@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: Your deck has no {{KW:HASTE}} or {{KW:CHARGE}} monsters (except {{KW:GENERATED}} monsters). {{KW:MAGIC}}: {{KW:PARALYZE}} the monster in front of this."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:NEED}}: Your deck has no {{KW:HASTE}} or {{KW:CHARGE}} monsters (except {{KW:GENERATED}} monsters). {{KW:MAGIC}}: {{KW:PARALYZE}} the monster in front of this."
+      }
+    }
   }
 }

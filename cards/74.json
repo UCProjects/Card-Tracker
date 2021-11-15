@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Deal 3 {{DMG}} to all damaged monsters. {{KW:DELAY}}: Deal 1 {{DMG}} to all monsters."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Deal 3 {{DMG}} to all damaged monsters. {{KW:DELAY}}: Deal 1 {{DMG}} to all monsters."
+      }
+    }
   }
 }

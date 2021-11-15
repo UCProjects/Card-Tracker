@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "In hand, this has +1 {{COST}} for each different {{TRIBE:LOST_SOUL|1}} in your dustpile. Trigger the {{KW:DUST}} effects of each."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "In hand, this has +1 {{COST}} for each different {{TRIBE:LOST_SOUL|1}} in your dustpile. Trigger the {{KW:DUST}} effects of each."
+      }
+    }
   }
 }

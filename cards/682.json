@@ -42,13 +42,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Deal {{DMG}} to a monster equal to this one's {{ATK}}. If it didn't kill, gain {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal {{DMG}} to a monster equal to this one's {{ATK}}. If it didn't kill, gain {{KW:HASTE}}."
+      }
+    }
   }
 }

@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: You spent 14+ {{GOLD}} on {{RARITY:TOKEN}} cards this game. {{KW:MAGIC}}: Add the {{ARTIFACT:42}} artifact."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:NEED}}: You spent 14+ {{GOLD}} on {{RARITY:TOKEN}} cards this game. {{KW:MAGIC}}: Add the {{ARTIFACT:42}} artifact."
+      }
+    }
   }
 }

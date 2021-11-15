@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": true,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
+      }
+    }
   }
 }

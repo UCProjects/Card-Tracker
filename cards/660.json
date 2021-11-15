@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 1,
-    "description": "{{KW:DELAY}}: Give 2 random other {{KW:GENERATED}} ally monsters +1/+1 and {{KW:PROGRAM}} (1): Repeat."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DELAY}}: Give 2 random other {{KW:GENERATED}} ally monsters +1/+1 and {{KW:PROGRAM}} (1): Repeat."
+      }
+    }
   }
 }

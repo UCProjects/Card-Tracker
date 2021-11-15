@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add a copy of a random other ally {{TRIBE:MOLD|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add a copy of a random other ally {{TRIBE:MOLD|1}} to your hand."
+      }
+    }
   }
 }

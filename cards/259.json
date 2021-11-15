@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Give +1/+1 to an ally monster. Add a {{CARD:353|1}} and a {{CARD:354|1}} to your hand with -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Give +1/+1 to an ally monster. Add a {{CARD:353|1}} and a {{CARD:354|1}} to your hand with -1 {{COST}}."
+      }
+    }
   }
 }

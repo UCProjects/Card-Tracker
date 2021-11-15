@@ -21,14 +21,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Restore 7 {{HP}} to all allies."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Restore 7 {{HP}} to all allies."
+      }
+    }
   }
 }

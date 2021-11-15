@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}, {{KW:DUST}}, {{KW:SHOCK}}, {{KW:SUPPORT}} and {{KW:TURN_END}}: Shuffle 2 {{CARD:665|2}} into the opponent's deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}, {{KW:DUST}}, {{KW:SHOCK}}, {{KW:SUPPORT}} and {{KW:TURN_END}}: Shuffle 2 {{CARD:665|2}} into the opponent's deck."
+      }
+    }
   }
 }

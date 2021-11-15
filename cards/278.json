@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:SUPPORT}}: Give the attacker +1 {{HP}}. If its a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": true,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:SUPPORT}}: Give the attacker +1 {{HP}}. If its a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well."
+      }
+    }
   }
 }

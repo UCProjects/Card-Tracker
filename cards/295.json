@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you summon a {{CARD:295|1}}, kill it. This gains its stats. {{KW:DELAY}}: If this isn't {{KW:GENERATED}}, add a {{CARD:295|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Whenever you summon a {{CARD:295|1}}, kill it. This gains its stats. {{KW:DELAY}}: If this isn't {{KW:GENERATED}}, add a {{CARD:295|1}} to your hand."
+      }
+    }
   }
 }

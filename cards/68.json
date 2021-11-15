@@ -25,14 +25,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}} and heal 2 {{HP}} to you."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Kill an ally monster to summon the next {{TRIBE:LOST_SOUL|1}} and heal 2 {{HP}} to you."
+      }
+    }
   }
 }

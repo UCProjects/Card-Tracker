@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a different {{TRIBE:MOLD|1}} from your deck and give it +1 {{HP}}"
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a different {{TRIBE:MOLD|1}} from your deck and give it +1 {{HP}}"
+      }
+    }
   }
 }

@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Draw a {{KW:HASTE}} monster and a {{KW:TURBO}} monster. Give them -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Draw a {{KW:HASTE}} monster and a {{KW:TURBO}} monster. Give them -1 {{COST}}."
+      }
+    }
   }
 }

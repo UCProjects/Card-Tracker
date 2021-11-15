@@ -39,20 +39,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Return to your hand. Add {{CARD:379|1}} to your deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Return to your hand. Add {{CARD:379|1}} to your deck.",
-        "prev": "{{KW:DUST}}: Return this monster to your hand and add a {{CARD:379|1}} to your deck."
+        "now": "",
+        "prev": "{{KW:DUST}}: Return to your hand. Add {{CARD:379|1}} to your deck."
       }
     }
   }

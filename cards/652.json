@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 3,
-    "description": "{{KW:MAGIC}}: Deal 2 {{DMG}} to you. If you have 10 or less {{HP}}, {{KW:PROGRAM}} (3): Deal 2 {{DMG}} to all enemies instead."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}} to you. If you have 10 or less {{HP}}, {{KW:PROGRAM}} (3): Deal 2 {{DMG}} to all enemies instead."
+      }
+    }
   }
 }

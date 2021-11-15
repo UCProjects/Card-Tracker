@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 2,
-    "description": "{{KW:MAGIC}}: {{KW:PROGRAM}} (2): Look at 3 random other Deltarune monsters costing 4-6 {{GOLD}}. Burn one to add the other 2 to your hand with +1 {{HP}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:PROGRAM}} (2): Look at 3 random other Deltarune monsters costing 4-6 {{GOLD}}. Burn one to add the other 2 to your hand with +1 {{HP}}."
+      }
+    }
   }
 }

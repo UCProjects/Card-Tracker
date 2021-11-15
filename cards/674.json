@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DODGE}} (1). {{KW:NEED}}: You played 3+ {{RARITY:TOKEN}} cards with a base {{COST}} of 3+ {{GOLD}} this game. {{KW:MAGIC}}: Summon a {{CARD:674|1}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DODGE}} (1). {{KW:NEED}}: You played 3+ {{RARITY:TOKEN}} cards with a base {{COST}} of 3+ {{GOLD}} this game. {{KW:MAGIC}}: Summon a {{CARD:674|1}}."
+      }
+    }
   }
 }

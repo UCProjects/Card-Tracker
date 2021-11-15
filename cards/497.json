@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: If you played a card with a {{COST}} of 6 or more this turn, gain +1/+1 and {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: If you played a card with a {{COST}} of 6 or more this turn, gain +1/+1 and {{KW:HASTE}}."
+      }
+    }
   }
 }

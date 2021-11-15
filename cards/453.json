@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Summon 1/1 copies of 2 random non-{{RARITY:TOKEN}} {{KW:DUST}} monsters costing 3 or less {{GOLD}} from your dustpile."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Summon 1/1 copies of 2 random non-{{RARITY:TOKEN}} {{KW:DUST}} monsters costing 3 or less {{GOLD}} from your dustpile."
+      }
+    }
   }
 }

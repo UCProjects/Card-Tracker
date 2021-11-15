@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Add {{CARD:643|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DUST}}: Add {{CARD:643|1}} to your hand."
+      }
+    }
   }
 }

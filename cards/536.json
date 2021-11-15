@@ -19,14 +19,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Look at your hand and choose a card. Return it to your deck and draw 2 cards."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Look at your hand and choose a card. Return it to your deck and draw 2 cards."
+      }
+    }
   }
 }

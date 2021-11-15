@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you play a card with a base cost of 1+ {{GOLD}}, gain +1/+1."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Whenever you play a card with a base cost of 1+ {{GOLD}}, gain +1/+1."
+      }
+    }
   }
 }

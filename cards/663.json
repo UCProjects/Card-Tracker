@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Look at all 0-{{COST}} monsters in your dustpile. Choose one to summon and gain +2 {{ATK}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Look at all 0-{{COST}} monsters in your dustpile. Choose one to summon and gain +2 {{ATK}}."
+      }
+    }
   }
 }

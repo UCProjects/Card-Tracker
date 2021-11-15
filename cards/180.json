@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6."
+      }
+    }
   }
 }

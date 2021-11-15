@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} and non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Summon two different non-{{RARITY:DETERMINATION}} and non-{{RARITY:TOKEN}} {{KW:DUST}} monsters from your dustpile costing 7 or less on adjacent slots."
+      }
+    }
   }
 }

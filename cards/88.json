@@ -24,22 +24,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it. Give it {{KR}}, +1 {{ATK}} and {{KW:CANDY}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
+      "description": {
+        "now": "",
+        "prev": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it. Give it {{KR}}, +1 {{ATK}} and {{KW:CANDY}}."
       }
     }
   }

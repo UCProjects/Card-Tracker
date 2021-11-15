@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Both players draw a card. Force an enemy monster to attack another random enemy monster."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Both players draw a card. Force an enemy monster to attack another random enemy monster."
+      }
+    }
   }
 }

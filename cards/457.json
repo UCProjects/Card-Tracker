@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Draw a card from the bottom of your deck. {{KW:DELAY}}: Draw 2 cards from the bottom of your deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Draw a card from the bottom of your deck. {{KW:DELAY}}: Draw 2 cards from the bottom of your deck."
+      }
+    }
   }
 }

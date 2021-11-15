@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of every different {{TRIBE:TEMMIE|1}} in your dustpile to your hand. (from lowest to highest {{COST}}, except {{CARD:200|1}})"
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of every different {{TRIBE:TEMMIE|1}} in your dustpile to your hand. (from lowest to highest {{COST}}, except {{CARD:200|1}})"
+      }
+    }
   }
 }

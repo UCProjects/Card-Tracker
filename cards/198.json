@@ -40,16 +40,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}. If there are none, do nothing."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}. If there are none, do nothing."
+      }
+    }
   }
 }

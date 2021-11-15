@@ -21,14 +21,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board."
+      }
+    }
   }
 }

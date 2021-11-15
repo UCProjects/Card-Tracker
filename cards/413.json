@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, draw a card and add {{CARD:413|1}} to your deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:DUST}}: If this died during your turn, draw a card and add {{CARD:413|1}} to your deck."
+      }
+    }
   }
 }

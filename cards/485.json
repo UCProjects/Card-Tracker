@@ -25,14 +25,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Look at all cards in your deck and choose one to draw."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Look at all cards in your deck and choose one to draw."
+      }
+    }
   }
 }

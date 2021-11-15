@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Choose a monster costing 9 or less {{GOLD}} in your hand and summon it with {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it if you have more monsters than your opponent."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Choose a monster costing 9 or less {{GOLD}} in your hand and summon it with {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it if you have more monsters than your opponent."
+      }
+    }
   }
 }

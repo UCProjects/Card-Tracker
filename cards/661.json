@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Add 3 random different {{KW:PROGRAM}} cards from your dustpile to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Add 3 random different {{KW:PROGRAM}} cards from your dustpile to your hand."
+      }
+    }
   }
 }

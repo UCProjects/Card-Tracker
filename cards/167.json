@@ -39,32 +39,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Whenever this takes {{DMG}}, give -1 {{COST}} to a random card costing 1 or more {{GOLD}} in your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
       "description": {
-        "now": "Whenever this takes {{DMG}}, give -1 {{COST}} to a random card costing 1 or more {{GOLD}} in your hand.",
-        "prev": "Whenever it takes {{DMG}}, reduce the {{COST}} of a random card in your hand by 2."
+        "now": "",
+        "prev": "Whenever this takes {{DMG}}, give -1 {{COST}} to a random card costing 1 or more {{GOLD}} in your hand."
       }
     }
   }

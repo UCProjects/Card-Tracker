@@ -24,18 +24,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Give a ally monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Give a ally monster {{KW:HASTE}} and +1 {{KW:DODGE}}.",
-        "prev": "Give a monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
+        "now": "",
+        "prev": "Give a ally monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
       }
     }
   }

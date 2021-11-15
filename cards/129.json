@@ -25,14 +25,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Kill an enemy monster. Deal dead monster's {{COST}} as {{DMG}} to yourself."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Kill an enemy monster. Deal dead monster's {{COST}} as {{DMG}} to yourself."
+      }
+    }
   }
 }

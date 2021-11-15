@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: You have a {{RARITY:TOKEN}} card with a base {{COST}} of 3+ {{GOLD}} in your hand. {{KW:MAGIC}}: Add {{CARD:672|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:NEED}}: You have a {{RARITY:TOKEN}} card with a base {{COST}} of 3+ {{GOLD}} in your hand. {{KW:MAGIC}}: Add {{CARD:672|1}} to your hand."
+      }
+    }
   }
 }

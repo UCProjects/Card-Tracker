@@ -42,16 +42,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Select an ally Snail (except {{CARD:498|1}}). {{KW:DELAY}}: Kill it and add 3 copies of it to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Select an ally Snail (except {{CARD:498|1}}). {{KW:DELAY}}: Kill it and add 3 copies of it to your hand."
+      }
+    }
   }
 }

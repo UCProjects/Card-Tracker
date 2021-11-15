@@ -41,13 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DODGE}} (1). {{KW:TURN_END}}: If this has any stat buffs, gain {{KW:TAUNT}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DODGE}} (1). {{KW:TURN_END}}: If this has any stat buffs, gain {{KW:TAUNT}}."
+      }
+    }
   }
 }

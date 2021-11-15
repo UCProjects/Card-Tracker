@@ -20,13 +20,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:PARALYZE}} an enemy monster. Deal 2 {{DMG}} to all other enemies."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:PARALYZE}} an enemy monster. Deal 2 {{DMG}} to all other enemies."
+      }
+    }
   }
 }

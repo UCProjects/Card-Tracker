@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for every other {{CARD:386|2}} you played this game."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1/+1 for every other {{CARD:386|2}} you played this game."
+      }
+    }
   }
 }

@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:SUPPORT}}: Give +{{ATK:1}} to the attacking monster if its {{ATK}} is 3 or greater."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": true,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:SUPPORT}}: Give +{{ATK:1}} to the attacking monster if its {{ATK}} is 3 or greater."
+      }
+    }
   }
 }

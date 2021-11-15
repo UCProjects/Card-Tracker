@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Can only be damaged by 4 or more {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and the opponent. Excess {{DMG}} is healed as {{HP}} to you."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Can only be damaged by 4 or more {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and the opponent. Excess {{DMG}} is healed as {{HP}} to you."
+      }
+    }
   }
 }

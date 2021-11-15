@@ -20,13 +20,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Deal 5 {{DMG}} to an enemy monster. Deal the excess {{DMG}} to another random enemy one."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Deal 5 {{DMG}} to an enemy monster. Deal the excess {{DMG}} to another random enemy one."
+      }
+    }
   }
 }

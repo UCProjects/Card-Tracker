@@ -20,13 +20,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Give a monster +1 {{KW:DODGE}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Give a monster +1 {{KW:DODGE}}."
+      }
+    }
   }
 }

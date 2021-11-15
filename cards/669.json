@@ -40,13 +40,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Give an enemy monster -3 {{ATK}}. {{KW:DELAY}}: If the monster is dead, add {{CARD:670|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give an enemy monster -3 {{ATK}}. {{KW:DELAY}}: If the monster is dead, add {{CARD:670|1}} to your hand."
+      }
+    }
   }
 }

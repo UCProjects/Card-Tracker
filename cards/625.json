@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 1,
     "program": 0,
-    "description": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Give a card and the one to its left in your hand -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Give a card and the one to its left in your hand -1 {{COST}}."
+      }
+    }
   }
 }

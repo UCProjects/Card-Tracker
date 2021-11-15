@@ -41,13 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:SUPPORT}}: {{KW:PARALYZE}} the attacker and give it {{KW:CANDY}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:SUPPORT}}: {{KW:PARALYZE}} the attacker and give it {{KW:CANDY}}."
+      }
+    }
   }
 }

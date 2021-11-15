@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}."
+      }
+    }
   }
 }

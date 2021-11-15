@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn into {{CARD:648|1}} with the same base stats as this."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn into {{CARD:648|1}} with the same base stats as this."
+      }
+    }
   }
 }

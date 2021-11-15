@@ -40,16 +40,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Restore 4 {{HP}} to a damaged monster. Gain +1/+1 for each excess {{HP}} healed."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Restore 4 {{HP}} to a damaged monster. Gain +1/+1 for each excess {{HP}} healed."
+      }
+    }
   }
 }

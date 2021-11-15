@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: If 5 or less cards in your hand, add a random spell costing 1 or less {{GOLD}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_END}}: If 5 or less cards in your hand, add a random spell costing 1 or less {{GOLD}} to your hand."
+      }
+    }
   }
 }

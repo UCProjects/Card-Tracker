@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Reduce the {{COST}} of all {{TRIBE:ROYAL_GUARD|2}} in your hand by 2."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DUST}}: Reduce the {{COST}} of all {{TRIBE:ROYAL_GUARD|2}} in your hand by 2."
+      }
+    }
   }
 }

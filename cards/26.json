@@ -42,16 +42,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was already paralyzed, deal 2 {{DMG}} to it."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was already paralyzed, deal 2 {{DMG}} to it."
+      }
+    }
   }
 }

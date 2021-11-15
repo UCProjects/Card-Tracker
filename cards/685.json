@@ -41,13 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Summon a 1/1 copy of a {{TRIBE:PLUG|1}} from your hand. Copy any stat buffs it had."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Summon a 1/1 copy of a {{TRIBE:PLUG|1}} from your hand. Copy any stat buffs it had."
+      }
+    }
   }
 }

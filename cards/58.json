@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Remove all negative effects from all ally monsters. {{KW:DELAY}}: Heal 2 {{HP}} to all allies."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Remove all negative effects from all ally monsters. {{KW:DELAY}}: Heal 2 {{HP}} to all allies."
+      }
+    }
   }
 }

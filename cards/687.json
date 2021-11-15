@@ -41,13 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Turn all ally {{TRIBE:PLUG|2}} into {{CARD:684|2}} that catch the originals and gain their stat buffs."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Turn all ally {{TRIBE:PLUG|2}} into {{CARD:684|2}} that catch the originals and gain their stat buffs."
+      }
+    }
   }
 }

@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:TOKEN}} spells you cast this game and choose one. Add it to your deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:TOKEN}} spells you cast this game and choose one. Add it to your deck."
+      }
+    }
   }
 }

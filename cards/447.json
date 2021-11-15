@@ -21,14 +21,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Cast 7 random spells costing <= {{GOLD:4}} on random targets."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Cast 7 random spells costing <= {{GOLD:4}} on random targets."
+      }
+    }
   }
 }

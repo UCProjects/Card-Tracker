@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: 11 or more monsters costing 1 or less {{GOLD}} in your dustpile. {{KW:MAGIC}}: Add {{CARD:622|1}} to your hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:NEED}}: 11 or more monsters costing 1 or less {{GOLD}} in your dustpile. {{KW:MAGIC}}: Add {{CARD:622|1}} to your hand."
+      }
+    }
   }
 }

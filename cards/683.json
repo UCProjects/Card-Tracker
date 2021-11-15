@@ -41,13 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, give 3 random {{TRIBE:PLUG|2}} in your hand +1/+1."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, give 3 random {{TRIBE:PLUG|2}} in your hand +1/+1."
+      }
+    }
   }
 }

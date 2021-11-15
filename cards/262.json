@@ -40,16 +40,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}."
+      }
+    }
   }
 }

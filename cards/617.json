@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Turn every monster costing 1 or less {{GOLD}} in your deck into {{CARD:617|1}}. {{KW:DUST}}: Burn a {{CARD:617|1}} in your deck to summon one."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Turn every monster costing 1 or less {{GOLD}} in your deck into {{CARD:617|1}}. {{KW:DUST}}: Burn a {{CARD:617|1}} in your deck to summon one."
+      }
+    }
   }
 }

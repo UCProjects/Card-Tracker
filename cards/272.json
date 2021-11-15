@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DELAY}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:451|1}} instead."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DELAY}}: Transform a random ally {{CARD:375|1}} into a {{CARD:462|1}}. If there is none, summon a {{CARD:451|1}} instead."
+      }
+    }
   }
 }

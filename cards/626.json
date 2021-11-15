@@ -40,13 +40,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to an enemy monster for each card with a base cost of 1+ {{GOLD}} played this turn. Excess {{DMG}} is dealt to the opponent."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to an enemy monster for each card with a base cost of 1+ {{GOLD}} played this turn. Excess {{DMG}} is dealt to the opponent."
+      }
+    }
   }
 }

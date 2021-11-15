@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Heal an ally monster's max {{HP}} to you and send it to your deck with +2/+2. If this is {{KW:GENERATED}}, give it +1/+1 instead."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Heal an ally monster's max {{HP}} to you and send it to your deck with +2/+2. If this is {{KW:GENERATED}}, give it +1/+1 instead."
+      }
+    }
   }
 }

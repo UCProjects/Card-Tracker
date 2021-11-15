@@ -24,14 +24,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Give a monster {{KW:TAUNT}}. {{KW:PARALYZE}} the one in front of it."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Give a monster {{KW:TAUNT}}. {{KW:PARALYZE}} the one in front of it."
+      }
+    }
   }
 }

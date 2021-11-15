@@ -41,20 +41,15 @@
     "ownerId": 0,
     "loop": 1,
     "program": 0,
-    "description": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Set the copy's stats to 3/3/4."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 1,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Set the copy's stats to 3/3/4.",
-        "prev": "{{KW:MAGIC}}: If this isn't {{KW:GENERATED}} by {{CARD:32|1}}, add a 3/3/4 {{CARD:32|1}} to your hand."
+        "now": "",
+        "prev": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Set the copy's stats to 3/3/4."
       }
     }
   }

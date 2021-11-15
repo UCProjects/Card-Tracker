@@ -40,20 +40,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Kill an ally {{KW:DUST}} monster. If it has a base {{COST}} of 3 or less {{GOLD}}, summon an exact copy of it."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Kill an ally {{KW:DUST}} monster. If it has a base {{COST}} of 3 or less {{GOLD}}, summon an exact copy of it.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Kill an ally {{KW:DUST}} monster. If it has a base {{COST}} of 4 or less {{GOLD}}, summon an exact copy of it."
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Kill an ally {{KW:DUST}} monster. If it has a base {{COST}} of 3 or less {{GOLD}}, summon an exact copy of it."
       }
     }
   }

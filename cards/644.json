@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Cast all {{KW:GENERATED}} spells in your hand (targets chosen randomly)."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Cast all {{KW:GENERATED}} spells in your hand (targets chosen randomly)."
+      }
+    }
   }
 }

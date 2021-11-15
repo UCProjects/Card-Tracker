@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:SUPPORT}}: Add {{CARD:132|1}} to your hand. Lose this {{KW:SUPPORT}}. {{KW:TURN_END}}: Regain its {{KW:SUPPORT}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:SUPPORT}}: Add {{CARD:132|1}} to your hand. Lose this {{KW:SUPPORT}}. {{KW:TURN_END}}: Regain its {{KW:SUPPORT}}."
+      }
+    }
   }
 }

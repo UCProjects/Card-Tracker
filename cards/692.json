@@ -41,13 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this loses 1 {{HP}}. {{KW:DUST}}: Summon an {{CARD:372|1}} with {{KW:TAUNT}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this loses 1 {{HP}}. {{KW:DUST}}: Summon an {{CARD:372|1}} with {{KW:TAUNT}}."
+      }
+    }
   }
 }

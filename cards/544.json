@@ -20,26 +20,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Add a copy of a non-{{RARITY:DETERMINATION}} monster with a tribe to your hand and give it +1/+1."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 3
-      },
       "description": {
-        "now": "Add a copy of a non-{{RARITY:DETERMINATION}} monster with a tribe to your hand and give it +1/+1.",
-        "prev": "Add a copy of a monster with a tribe to your hand and give it +1/+1."
+        "now": "",
+        "prev": "Add a copy of a non-{{RARITY:DETERMINATION}} monster with a tribe to your hand and give it +1/+1."
       }
     }
   }

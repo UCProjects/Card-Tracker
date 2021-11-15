@@ -39,20 +39,15 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all other allies."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all other allies.",
-        "prev": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all allies."
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:TURN_END}}: Deal 2 {{DMG}} to all other allies."
       }
     }
   }

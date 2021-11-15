@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead."
+      }
+    }
   }
 }

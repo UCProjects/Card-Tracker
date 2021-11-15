@@ -23,14 +23,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Look at the next 2 cards of your deck. Give them -1 {{COST}}. Choose one to draw. Send the other to the bottom of your deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Look at the next 2 cards of your deck. Give them -1 {{COST}}. Choose one to draw. Send the other to the bottom of your deck."
+      }
+    }
   }
 }

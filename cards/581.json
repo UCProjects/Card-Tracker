@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. In your hand, this has -2 {{COST}} for each {{RARITY:LEGENDARY}} card you played this game (max: -10 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:257|1}} to your hand and deck."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:TAUNT}}. In your hand, this has -2 {{COST}} for each {{RARITY:LEGENDARY}} card you played this game (max: -10 {{COST}}). {{KW:MAGIC}}: Add a {{CARD:257|1}} to your hand and deck."
+      }
+    }
   }
 }

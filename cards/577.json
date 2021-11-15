@@ -19,14 +19,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Look at 5 random different monsters costing 5-6 {{GOLD}} and choose one. Add it to your hand with -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Look at 5 random different monsters costing 5-6 {{GOLD}} and choose one. Add it to your hand with -1 {{COST}}."
+      }
+    }
   }
 }

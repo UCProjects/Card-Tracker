@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{TRIBE:SNAIL|2}} in your hand have +1 {{COST}}. {{TRIBE:SNAIL|2}} on your board have +1/+1."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{TRIBE:SNAIL|2}} in your hand have +1 {{COST}}. {{TRIBE:SNAIL|2}} on your board have +1/+1."
+      }
+    }
   }
 }

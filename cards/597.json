@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Send your hand to your deck. Add a copy of each unique {{TRIBE:AMALGAMATE}} in your dustpile to your hand with -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Send your hand to your deck. Add a copy of each unique {{TRIBE:AMALGAMATE}} in your dustpile to your hand with -1 {{COST}}."
+      }
+    }
   }
 }

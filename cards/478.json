@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Add a {{CARD:115|1}} to your hand and your deck. {{KW:SYNERGY}}: Add {{CARD:475|1}} and {{CARD:476|1}} instead."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Add a {{CARD:115|1}} to your hand and your deck. {{KW:SYNERGY}}: Add {{CARD:475|1}} and {{CARD:476|1}} instead."
+      }
+    }
   }
 }

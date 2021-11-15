@@ -19,14 +19,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Look at 2 random cards in your deck and choose one to send to the top."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Look at 2 random cards in your deck and choose one to send to the top."
+      }
+    }
   }
 }

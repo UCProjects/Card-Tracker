@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you draw a card, turn it into {{CARD:614|1}}. {{KW:DUST}}: Give all {{CARD:614|2}} in your hand -2 {{COST}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "Whenever you draw a card, turn it into {{CARD:614|1}}. {{KW:DUST}}: Give all {{CARD:614|2}} in your hand -2 {{COST}}."
+      }
+    }
   }
 }

@@ -41,16 +41,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand."
+      }
+    }
   }
 }

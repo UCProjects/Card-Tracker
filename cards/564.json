@@ -39,16 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: More cards in your dustpile than your deck. {{KW:MAGIC}}: Summon a 5/5 {{CARD:431}} and two 3/3 {{CARD:459|2}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "{{KW:NEED}}: More cards in your dustpile than your deck. {{KW:MAGIC}}: Summon a 5/5 {{CARD:431}} and two 3/3 {{CARD:459|2}}."
+      }
+    }
   }
 }

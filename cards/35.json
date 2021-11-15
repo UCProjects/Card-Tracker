@@ -33,8 +33,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "MOLD"
+      "MOLD",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,16 +42,26 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: If you played 1 {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} last turn, gain {{KW:HASTE}}. If 2, gain {{KW:CANDY}}. If 3 or more, gain +2 {{ATK}}."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "MOLD",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
+        ]
+      },
+      "description": {
+        "now": "",
+        "prev": "{{KW:MAGIC}}: If you played 1 {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} last turn, gain {{KW:HASTE}}. If 2, gain {{KW:CANDY}}. If 3 or more, gain +2 {{ATK}}."
+      }
+    }
   }
 }

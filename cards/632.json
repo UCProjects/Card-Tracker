@@ -39,13 +39,16 @@
     "ownerId": 0,
     "loop": 0,
     "program": 0,
-    "description": "This has +2 {{ATK}} on the enemy turn and takes no {{DMG}} while attacking."
+    "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "",
+        "prev": "This has +2 {{ATK}} on the enemy turn and takes no {{DMG}} while attacking."
+      }
+    }
   }
 }

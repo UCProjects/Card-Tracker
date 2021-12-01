@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

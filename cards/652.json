@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}} to you. If you have 10 or less {{HP}}, {{KW:PROGRAM}} (3): Deal 2 {{DMG}} to all enemies instead."
-      }
-    }
+    "changed": {}
   }
 }

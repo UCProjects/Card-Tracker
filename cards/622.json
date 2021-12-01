@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add 8 {{CARD:623|2}} to your deck and 1 to your hand."
-      }
-    }
+    "changed": {}
   }
 }

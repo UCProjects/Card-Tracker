@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 6 or more 6-{{COST}} monsters in your dustpile. {{KW:MAGIC}}: Burn 6 of them to add {{CARD:613|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

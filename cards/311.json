@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 0,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 0,
-    "originalHp": 3,
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Chest",
     "image": "Chest",
     "baseImage": "Chest",
-    "cost": 1,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,9 +45,33 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Draw 2 cards."
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "hp": {
+        "now": 2,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
       }
     }
   }

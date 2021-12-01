@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Restore 4 {{HP}} to a damaged monster. Gain +1/+1 for each excess {{HP}} healed."
-      }
-    }
+    "changed": {}
   }
 }

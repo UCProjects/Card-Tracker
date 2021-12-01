@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 1 {{DMG}}. {{KW:DELAY}}: If this killed, add {{CARD:181|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

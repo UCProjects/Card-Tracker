@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give +{{ATK:2}} to an ally monster."
-      }
-    }
+    "changed": {}
   }
 }

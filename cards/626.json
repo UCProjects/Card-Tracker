@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to an enemy monster for each card with a base cost of 1+ {{GOLD}} played this turn. Excess {{DMG}} is dealt to the opponent."
-      }
-    }
+    "changed": {}
   }
 }

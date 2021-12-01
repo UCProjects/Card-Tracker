@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}. If there are none, do nothing."
-      }
-    }
+    "changed": {}
   }
 }

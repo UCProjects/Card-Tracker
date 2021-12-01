@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: Give 2 random {{KW:TURBO}} monsters in your hand -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

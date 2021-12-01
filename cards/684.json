@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If this has no monster caught, catch an ally {{TRIBE:PLUG|1}}. {{KW:DUST}}: Release it with this monster's stat buffs."
-      }
-    }
+    "changed": {}
   }
 }

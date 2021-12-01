@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you summon a monster, give +1/+1 to the summoned monster."
-      }
-    }
+    "changed": {}
   }
 }

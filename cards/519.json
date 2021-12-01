@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an ally {{TRIBE:PLANT|1}} dies, gain +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

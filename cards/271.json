@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Transform an ally monster into {{CARD:372|1}}."
-      }
-    }
+    "changed": {}
   }
 }

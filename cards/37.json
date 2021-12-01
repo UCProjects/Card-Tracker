@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a different {{TRIBE:MOLD|1}} from your deck and give it +1 {{HP}}"
-      }
-    }
+    "changed": {}
   }
 }

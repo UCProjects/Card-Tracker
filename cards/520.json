@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Trigger the {{KW:DUST}} effect of an ally monster costing 3 or less {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

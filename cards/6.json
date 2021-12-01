@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Restore {{HP:5}} to its owner."
-      }
-    }
+    "changed": {}
   }
 }

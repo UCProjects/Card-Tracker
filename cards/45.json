@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "All ally {{TRIBE:DOG|2}} have +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

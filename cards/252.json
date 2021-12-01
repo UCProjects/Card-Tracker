@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a non-DT highest rarity card from your deck (except {{CARD:252|1}})."
-      }
-    }
+    "changed": {}
   }
 }

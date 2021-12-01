@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: You cast a spell with a base cost of 2 this turn. {{KW:MAGIC}}: Gain {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

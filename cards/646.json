@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you draw a card, turn it into {{CARD:614|1}}. {{KW:DUST}}: Give all {{CARD:614|2}} in your hand -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

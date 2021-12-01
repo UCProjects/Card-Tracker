@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Gain +1/+1. If full {{HP}}, gain +2/+2 instead."
-      }
-    }
+    "changed": {}
   }
 }

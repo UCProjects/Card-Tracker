@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 1,
+    "attack": 2,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 1,
+    "originalAttack": 2,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -26,9 +26,9 @@
     "name": "Pink Crystals",
     "image": "Pink_Crystals",
     "baseImage": "Pink_Crystals",
-    "cost": 2,
+    "cost": 3,
     "rarity": "EPIC",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,9 +45,21 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SHOCK}}: Add a {{CARD:578|1}} to your hand and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: If you cast a {{CARD:598|1}} this turn, gain the {{KW:SHOCK}} back."
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
       }
     }
   }

@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give a random monster in your hand +1/+1. Repeat this for each other ally monster."
-      }
-    }
+    "changed": {}
   }
 }

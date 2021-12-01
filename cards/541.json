@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a 1/1 copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Summon a {{CARD:115|1}}."
-      }
-    }
+    "changed": {}
   }
 }

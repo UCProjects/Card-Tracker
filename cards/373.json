@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. When this deals {{DMG}} to a monster, restore that much {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

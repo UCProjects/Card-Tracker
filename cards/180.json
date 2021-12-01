@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6."
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 4 {{DMG}} to a monster."
-      }
-    }
+    "changed": {}
   }
 }

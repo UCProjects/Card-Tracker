@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Cast 7 random spells costing <= {{GOLD:4}} on random targets."
-      }
-    }
+    "changed": {}
   }
 }

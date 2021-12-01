@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal {{DMG}} to a monster equal to half its cost (Rounded up)."
-      }
-    }
+    "changed": {}
   }
 }

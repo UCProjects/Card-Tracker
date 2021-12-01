@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, heal 3 {{HP}} to you and gain +1 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

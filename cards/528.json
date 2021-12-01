@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Give it +1/+1. {{KW:SYNERGY}}: Turn into a copy of the chosen {{TRIBE:DOG|1}} with this monster's stats."
-      }
-    }
+    "changed": {}
   }
 }

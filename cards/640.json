@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Send a card in your hand to the enemy hand and draw a card."
-      }
-    }
+    "changed": {}
   }
 }

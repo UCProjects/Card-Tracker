@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give +{{HP:1}} to your other {{TRIBE:SNAIL|2}} in play."
-      }
-    }
+    "changed": {}
   }
 }

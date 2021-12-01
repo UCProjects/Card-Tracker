@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Reduce a random enemy monster's {{ATK}} by 3."
-      }
-    }
+    "changed": {}
   }
 }

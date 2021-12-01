@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you summon a monster when you have 5 or less cards in hand draw a card."
-      }
-    }
+    "changed": {}
   }
 }

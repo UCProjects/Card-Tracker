@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Half a non-{{RARITY:DETERMINATION}} other monster's stats and copy it to your hand with half stats (rounded down). If it was an ally, earn 3 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

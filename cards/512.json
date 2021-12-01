@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever this takes {{DMG}}, summon a {{CARD:513|1}}."
-      }
-    }
+    "changed": {}
   }
 }

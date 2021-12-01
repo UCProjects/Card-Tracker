@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a monster {{KR}}. Draw 2 cards."
-      }
-    }
+    "changed": {}
   }
 }

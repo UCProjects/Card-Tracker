@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon a random enemy monster from his hand if his board isn't full."
-      }
-    }
+    "changed": {}
   }
 }

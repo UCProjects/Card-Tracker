@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +{{ATK:1}} if there are 7 or more monsters in opponent's dustpile."
-      }
-    }
+    "changed": {}
   }
 }

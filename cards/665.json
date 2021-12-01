@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at a random {{RARITY:TOKEN}} and non-{{RARITY:TOKEN}} card in your deck. Choose one to draw."
-      }
-    }
+    "changed": {}
   }
 }

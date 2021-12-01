@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all {{KW:GENERATED}} monsters in your hand, board, and deck +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

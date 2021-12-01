@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Set a monster's {{ATK}} to 3 and {{HP}} to 2."
-      }
-    }
+    "changed": {}
   }
 }

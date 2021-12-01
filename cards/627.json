@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 4,
     "hp": 1,
     "maxHp": 1,
-    "originalAttack": 5,
+    "originalAttack": 4,
     "originalHp": 1,
     "dodge": 0,
     "armor": false,
@@ -45,9 +45,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: If it's the enemy turn, release the caught monster."
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
       }
     }
   }

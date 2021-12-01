@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Choose a monster costing 9 or less {{GOLD}} in your hand and summon it with {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it if you have more monsters than your opponent."
-      }
-    }
+    "changed": {}
   }
 }

@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Draw up to 3 cards and reduce their {{COST}} by 2."
-      }
-    }
+    "changed": {}
   }
 }

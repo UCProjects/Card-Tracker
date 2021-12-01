@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw 2 cards. Give drawn monsters +1/+1/+1."
-      }
-    }
+    "changed": {}
   }
 }

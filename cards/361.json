@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Deal 4 {{DMG}} to a random damaged enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

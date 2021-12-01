@@ -6,9 +6,9 @@
     "name": "Final Gambit!",
     "image": "Final_Gambit!",
     "baseImage": "Final_Gambit!",
-    "cost": 1,
+    "cost": 7,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -25,9 +25,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 7 {{DMG}} to all enemies, heal 7 {{HP}} to all allies, earn 7 {{GOLD}}, and add 7 {{CARD:577|7}} to your hand."
+      "cost": {
+        "now": 7,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 1
       }
     }
   }

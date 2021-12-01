@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a monster {{KW:TAUNT}}. {{KW:PARALYZE}} the one in front of it."
-      }
-    }
+    "changed": {}
   }
 }

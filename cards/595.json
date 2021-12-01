@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:CANDY}}."
-      }
-    }
+    "changed": {}
   }
 }

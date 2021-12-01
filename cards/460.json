@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a monster +1 {{ATK}}. Heal its {{ATK}} as {{HP}} to it and the excess to you."
-      }
-    }
+    "changed": {}
   }
 }

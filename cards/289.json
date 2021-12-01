@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Catch an ally monster. {{KW:DUST}}: Return it to your deck with +3/+3."
-      }
-    }
+    "changed": {}
   }
 }

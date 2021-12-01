@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 1 {{DMG}} to all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}."
-      }
-    }
+    "changed": {}
   }
 }

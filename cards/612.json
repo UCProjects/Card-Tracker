@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Kill an ally {{KW:DUST}} monster. If it has a base {{COST}} of 3 or less {{GOLD}}, summon an exact copy of it."
-      }
-    }
+    "changed": {}
   }
 }

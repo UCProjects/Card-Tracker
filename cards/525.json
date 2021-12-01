@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you don't have any {{CARD:525|1}} in your hand, fill your hand with Silenced {{CARD:525|2}}."
-      }
-    }
+    "changed": {}
   }
 }

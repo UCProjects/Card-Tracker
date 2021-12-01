@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at 5 random different monsters costing 5-6 {{GOLD}} and choose one. Add it to your hand with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

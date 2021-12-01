@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DISARMED}}. Heal you by the amount of {{DMG}} taken by this card."
-      }
-    }
+    "changed": {}
   }
 }

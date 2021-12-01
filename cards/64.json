@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: If you have 7 or more {{GOLD}}, spend 7 {{GOLD}} to summon a {{CARD:64|1}}."
-      }
-    }
+    "changed": {}
   }
 }

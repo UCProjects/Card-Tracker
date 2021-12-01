@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:CANDY}}. {{KW:NEED}}: {{ARTIFACT:43}} artifact with 0 counters. {{KW:MAGIC}}: Cast {{CARD:696|1}}!"
-      }
-    }
+    "changed": {}
   }
 }

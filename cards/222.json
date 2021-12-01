@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give {{KW:HASTE}} to all ally {{TRIBE:SNAIL|2}}. {{TRIBE:SNAIL|2}} which cost 1 or less gain {{KW:CHARGE}} instead."
-      }
-    }
+    "changed": {}
   }
 }

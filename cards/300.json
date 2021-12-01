@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Add a {{CARD:451|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -10,9 +10,9 @@
     "name": "Fridge",
     "image": "Fridge",
     "baseImage": "Fridge",
-    "cost": 2,
+    "cost": 1,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,9 +29,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at {{CARD:428|1}}, {{CARD:429|1}}, and {{CARD:430|1}}. Choose one to add to the top of your deck with +2/+2. Draw a card from the bottom of your deck."
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
       }
     }
   }

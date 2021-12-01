@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}} on adjacent slots."
-      }
-    }
+    "changed": {}
   }
 }

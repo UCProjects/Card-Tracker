@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Deal {{DMG}} equal to its {{ATK}} to all monsters and half to the opponent."
-      }
-    }
+    "changed": {}
   }
 }

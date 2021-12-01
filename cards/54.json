@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add a Silenced {{CARD:54|1}} with +3/+3/+3 with {{KW:HASTE}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

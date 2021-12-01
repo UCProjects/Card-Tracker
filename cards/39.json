@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Reduce the {{COST}} of all {{TRIBE:ROYAL_GUARD|2}} in your hand by 2."
-      }
-    }
+    "changed": {}
   }
 }

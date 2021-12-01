@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Draw a card. Give -1 {{COST}} to a random 5, 6, 7, and 8-{{COST}} card in your hand."
-      }
-    }
+    "changed": {}
   }
 }

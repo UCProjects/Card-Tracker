@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Deal the difference of {{DMG}} dealt to an enemy monster to the enemy player."
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you play a {{TRIBE:TEMMIE|1}}, deal 1 {{DMG}} to this and all enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

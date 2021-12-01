@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: Deal {{DMG:4}} to you. {{KW:DUST}}: Add this monster to your opponent's deck."
-      }
-    }
+    "changed": {}
   }
 }

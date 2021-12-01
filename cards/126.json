@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have 5 or more cards in your hand, gain {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Send your hand to your deck. Add a copy of each unique {{TRIBE:AMALGAMATE}} in your dustpile to your hand with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

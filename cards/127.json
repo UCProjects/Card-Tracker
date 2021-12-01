@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add 2 random {{RARITY:BASE}} spells to your hand."
-      }
-    }
+    "changed": {}
   }
 }

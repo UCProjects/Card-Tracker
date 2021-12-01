@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Kill every monster damaged by this monster."
-      }
-    }
+    "changed": {}
   }
 }

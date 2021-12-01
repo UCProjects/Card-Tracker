@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 5,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -45,9 +45,17 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever a monster dies, deal {{DMG:1}} to the enemy player."
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
       }
     }
   }

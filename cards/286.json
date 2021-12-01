@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an ally monster dies, heal 3 {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

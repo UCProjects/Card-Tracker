@@ -47,21 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "MOLD"
-        ]
-      },
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you played 1 {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} last turn, gain {{KW:HASTE}}. If 2, gain {{KW:CANDY}}. If 3 or more, gain +2 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

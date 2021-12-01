@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add 2 {{CARD:351|2}} to your deck. {{KW:TURN_END}}: Give 2 random {{CARD:351|2}} in your deck -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

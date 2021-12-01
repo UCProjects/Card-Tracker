@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Add a {{CARD:540|1}} to your dustpile instead of this."
-      }
-    }
+    "changed": {}
   }
 }

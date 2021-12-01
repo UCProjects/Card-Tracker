@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add a {{CARD:586|1}} to your deck. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

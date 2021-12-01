@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 8,
     "hp": 8,
     "maxHp": 8,
-    "originalAttack": 6,
+    "originalAttack": 8,
     "originalHp": 8,
     "dodge": 0,
     "armor": false,
@@ -45,9 +45,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURN_START}}: Attack a random enemy."
+      "attack": {
+        "now": 8,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 8,
+        "prev": 6
       }
     }
   }

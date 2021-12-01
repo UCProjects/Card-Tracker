@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: If played on the left, give all other ally {{TRIBE:PIECE|2}} +2 {{ATK}}. Otherwise, give them +2 {{HP}} instead."
-      }
-    }
+    "changed": {}
   }
 }

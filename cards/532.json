@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "After this attacks, replace this with a random monster. Set its base stats to 4/5."
-      }
-    }
+    "changed": {}
   }
 }

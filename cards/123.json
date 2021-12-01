@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 8,
+    "attack": 9,
     "hp": 8,
     "maxHp": 8,
-    "originalAttack": 8,
+    "originalAttack": 9,
     "originalHp": 8,
     "dodge": 0,
     "armor": false,
@@ -45,9 +45,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon a {{CARD:353|1}} and a {{CARD:354|1}} next to this monster."
+      "attack": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 9,
+        "prev": 8
       }
     }
   }

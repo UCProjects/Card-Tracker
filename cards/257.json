@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equals to the amount spent. Convert extra {{DMG}} into {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

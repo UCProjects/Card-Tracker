@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster. If it's damaged, deal 4 {{DMG}} instead."
-      }
-    }
+    "changed": {}
   }
 }

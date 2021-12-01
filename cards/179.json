@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "In hand, this has +1 {{COST}} for each different {{TRIBE:LOST_SOUL|1}} in your dustpile. Trigger the {{KW:DUST}} effects of each."
-      }
-    }
+    "changed": {}
   }
 }

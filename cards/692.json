@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DISARMED}}. Whenever an enemy monster attacks, this loses 1 {{HP}}. {{KW:DUST}}: Summon an {{CARD:372|1}} with {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

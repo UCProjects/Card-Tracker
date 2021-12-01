@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "You are {{KW:INVULNERABLE}}. Costs 1 more for each other monster. {{KW:MAGIC}}: Gain 3 {{HP}} for each other monster. {{KW:DUST}}: Add {{CARD:65|1}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

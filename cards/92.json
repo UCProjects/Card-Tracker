@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give an ally +3 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

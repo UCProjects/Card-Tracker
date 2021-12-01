@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. This has +2 {{HP}} while you have a {{TRIBE:DOG|1}} in your hand."
-      }
-    }
+    "changed": {}
   }
 }

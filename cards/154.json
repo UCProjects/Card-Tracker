@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Both players draw cards until they have 6 in their hand."
-      }
-    }
+    "changed": {}
   }
 }

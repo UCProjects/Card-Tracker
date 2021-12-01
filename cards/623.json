@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 4,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 2,
+    "originalAttack": 4,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -26,9 +26,9 @@
     "name": "Cursor",
     "image": "Cursor",
     "baseImage": "Cursor",
-    "cost": 1,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,9 +45,21 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a card."
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
       }
     }
   }

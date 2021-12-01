@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 2 {{DMG}} to 2 random enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

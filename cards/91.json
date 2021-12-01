@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Heal 3 {{HP}}. If this targeted you, draw a card. If this targeted a monster, remove negative effects from it."
-      }
-    }
+    "changed": {}
   }
 }

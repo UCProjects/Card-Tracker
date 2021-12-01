@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If played on the left, gain {{KW:ARMOR}}. Otherwise, gain +1 {{HP}} and {{KW:TAUNT}}. If you have an ally {{CARD:480|1}}, do both."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Silence a non DT ally monster and add a silenced copy of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 3,
     "hp": 3,
     "maxHp": 3,
-    "originalAttack": 2,
+    "originalAttack": 3,
     "originalHp": 3,
     "dodge": 0,
     "armor": false,
@@ -45,9 +45,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Summon {{CARD:470|1}}."
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
       }
     }
   }

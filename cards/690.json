@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TRANSPARENCY}}. {{KW:DUST}}: Deal 4 {{DMG}} to the highest {{HP}} enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

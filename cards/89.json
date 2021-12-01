@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Summon 2 {{CARD:615|2}}."
-      }
-    }
+    "changed": {}
   }
 }

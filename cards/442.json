@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon a copy of this with -4/-7 and give it +1/+2 for each {{TRIBE:DOG|1}} in your hand."
-      }
-    }
+    "changed": {}
   }
 }

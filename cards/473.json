@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TURBO}}: Add a {{CARD:115|1}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "If this is {{KW:GENERATED}} by {{CARD:545|1}}, look at 6 6-{{COST}} monsters and choose one to give -6 {{COST}}. Add all of them to your hand."
-      }
-    }
+    "changed": {}
   }
 }

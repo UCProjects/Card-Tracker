@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Give +2 {{ATK}} to 2 random {{TRIBE:DOG|2}} in your hand."
-      }
-    }
+    "changed": {}
   }
 }

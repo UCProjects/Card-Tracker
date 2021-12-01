@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Draw a card. Send your hand to your deck and draw the same number of cards."
-      }
-    }
+    "changed": {}
   }
 }

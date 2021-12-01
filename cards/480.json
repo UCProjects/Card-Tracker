@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Copy {{KW:HASTE}}, {{KW:CHARGE}}, {{KW:TRANSPARENCY}}, {{KW:CANDY}}, {{KW:TAUNT}}, {{KW:ARMOR}} and {{KW:DODGE}} from all ally {{TRIBE:PIECE|2}}."
-      }
-    }
+    "changed": {}
   }
 }

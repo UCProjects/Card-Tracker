@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Deal {{KW:FATIGUE}} {{DMG}} to the opponent."
-      }
-    }
+    "changed": {}
   }
 }

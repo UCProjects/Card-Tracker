@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG:1}} to enemy monsters at the rightmost and leftmost side."
-      }
-    }
+    "changed": {}
   }
 }

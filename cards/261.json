@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a monster -2 {{HP}} to give the monster in front of it +2 {{HP}}. If this killed, add a {{CARD:577|1}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Swap an ally monster's {{ATK}} and {{HP}}. {{KW:SILENCE}} it."
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If played on the left, gain +1 {{KW:DODGE}}. Otherwise, gain +1 {{ATK}} and {{KW:HASTE}}. If you have an ally {{CARD:480|1}}, do both."
-      }
-    }
+    "changed": {}
   }
 }

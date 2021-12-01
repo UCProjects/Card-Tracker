@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Summon 2 {{TRIBE:FROGGIT|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If they are both dead, add one to your hand with -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

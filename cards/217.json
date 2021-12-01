@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DISARMED}}. {{KW:TAUNT}}. {{KW:DUST}}: Deal {{DMG:4}} to its killer."
-      }
-    }
+    "changed": {}
   }
 }

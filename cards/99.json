@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Draw a {{KW:HASTE}} monster and a {{KW:TURBO}} monster. Give them -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

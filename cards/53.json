@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURN_END}}: Gain -{{ATK:1}}. Kill this monster if this has 0 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

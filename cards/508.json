@@ -26,9 +26,9 @@
     "name": "Hooded Ralsei",
     "image": "Hooded_Ralsei",
     "baseImage": "Hooded_Ralsei",
-    "cost": 5,
+    "cost": 4,
     "rarity": "LEGENDARY",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,9 +45,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you cast a spell that isn't {{KW:GENERATED}}, add a copy of it to your hand."
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
       }
     }
   }

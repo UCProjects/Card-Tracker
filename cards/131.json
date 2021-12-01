@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 1 {{DMG}} to an ally monster twice. Give it +2 {{ATK}} and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

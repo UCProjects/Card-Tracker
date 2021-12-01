@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a ally monster {{KW:HASTE}} and +1 {{KW:DODGE}}."
-      }
-    }
+    "changed": {}
   }
 }

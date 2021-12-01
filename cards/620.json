@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 1,
-    "maxHp": 1,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 3,
-    "originalHp": 1,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -45,9 +45,17 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add 3 copies of random monsters costing 1 or less {{GOLD}} from your dustpile to your deck."
+      "hp": {
+        "now": 2,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 1
       }
     }
   }

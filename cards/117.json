@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Save the board and add a {{CARD:358|1}} spell to your hand."
-      }
-    }
+    "changed": {}
   }
 }

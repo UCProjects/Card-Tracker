@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a monster +2/+2 and {{KW:HASTE}}. {{KW:DELAY}}: If its {{COST}} is the same as its base {{COST}}, {{KW:PARALYZE}} it."
-      }
-    }
+    "changed": {}
   }
 }

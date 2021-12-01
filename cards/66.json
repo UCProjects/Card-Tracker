@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add the next {{TRIBE:LOST_SOUL|1}} on the top of your deck with +2/+2 and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

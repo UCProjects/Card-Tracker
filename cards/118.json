@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a card with {{KW:SYNERGY}}."
-      }
-    }
+    "changed": {}
   }
 }

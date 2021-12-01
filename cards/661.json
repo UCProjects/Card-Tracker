@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add 3 random different {{KW:PROGRAM}} cards from your dustpile to your hand."
-      }
-    }
+    "changed": {}
   }
 }

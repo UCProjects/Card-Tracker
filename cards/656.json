@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:PROGRAM}} (2): Look at all spells of the enemy soul. Add one to your hand."
-      }
-    }
+    "changed": {}
   }
 }

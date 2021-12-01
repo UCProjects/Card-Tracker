@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a random spell of your class to your hand. {{KW:DUST}}: Add a random spell to your hand."
-      }
-    }
+    "changed": {}
   }
 }

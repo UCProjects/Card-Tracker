@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DELAY}}: Give 2 random other {{KW:GENERATED}} ally monsters +1/+1 and {{KW:PROGRAM}} (1): Repeat."
-      }
-    }
+    "changed": {}
   }
 }

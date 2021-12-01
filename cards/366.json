@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: Deal {{DMG:3}} to you and draw a card."
-      }
-    }
+    "changed": {}
   }
 }

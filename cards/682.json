@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal {{DMG}} to a monster equal to this one's {{ATK}}. If it didn't kill, gain {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add 2 random non-{{RARITY:TOKEN}} monsters from your dustpile to your deck with +1 {{HP}}. Draw up to 2 cards."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Catch an enemy monster. {{KW:DUST}}: Release it."
-      }
-    }
+    "changed": {}
   }
 }

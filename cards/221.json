@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TURN_END}}: If this attacked this turn, return to the owner's hand."
-      }
-    }
+    "changed": {}
   }
 }

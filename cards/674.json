@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). {{KW:NEED}}: You played 3+ {{RARITY:TOKEN}} cards with a base {{COST}} of 3+ {{GOLD}} this game. {{KW:MAGIC}}: Summon a {{CARD:674|1}}."
-      }
-    }
+    "changed": {}
   }
 }

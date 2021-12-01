@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 11 or more monsters costing 1 or less {{GOLD}} in your dustpile. {{KW:MAGIC}}: Add {{CARD:622|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

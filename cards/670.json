@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give a monster {{KW:TAUNT}}. Give yourself +3 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

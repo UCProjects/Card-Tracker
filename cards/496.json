@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{TRIBE:SNAIL|2}} in your hand have +1 {{COST}}. {{TRIBE:SNAIL|2}} on your board have +1/+1."
-      }
-    }
+    "changed": {}
   }
 }

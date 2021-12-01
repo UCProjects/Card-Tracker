@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SILENCE}} all enemy {{CARD:287|2}}."
-      }
-    }
+    "changed": {}
   }
 }

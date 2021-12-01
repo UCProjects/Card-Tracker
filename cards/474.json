@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Transform all {{CARD:115|2}} in your hand and deck to {{CARD:475|2}} and {{CARD:476|2}} (randomly)."
-      }
-    }
+    "changed": {}
   }
 }

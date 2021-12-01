@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add 999 {{CARD:631|999}} to your deck (max: 99). {{KW:DELAY}}: Burn all {{CARD:631|2}} in your deck."
-      }
-    }
+    "changed": {}
   }
 }

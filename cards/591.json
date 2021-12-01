@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give an enemy monster {{KW:DODGE}} (1) and set its {{HP}} to 1. {{KW:SHOCK}}: Deal 2 {{DMG}} to a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

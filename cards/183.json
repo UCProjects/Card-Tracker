@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Both players draw a card. Force an enemy monster to attack another random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

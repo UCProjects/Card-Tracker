@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon an exact copy of a monster. {{KW:DUST}}: Fill your board with random {{RARITY:TOKEN}} {{TRIBE:LOST_SOUL|2}}."
-      }
-    }
+    "changed": {}
   }
 }

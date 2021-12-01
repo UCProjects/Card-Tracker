@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Heal an ally monster's max {{HP}} to you and send it to your deck with +2/+2. If this is {{KW:GENERATED}}, give it +1/+1 instead."
-      }
-    }
+    "changed": {}
   }
 }

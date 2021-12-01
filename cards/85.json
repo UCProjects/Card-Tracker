@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Summon a 3/3 base stats copy of a non-DT monster."
-      }
-    }
+    "changed": {}
   }
 }

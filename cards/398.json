@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at 2 random cards in your deck and choose one to send to the top."
-      }
-    }
+    "changed": {}
   }
 }

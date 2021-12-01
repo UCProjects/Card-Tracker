@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}}. Deal 1 {{DMG}} to all enemies."
-      }
-    }
+    "changed": {}
   }
 }

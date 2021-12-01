@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it +1/+1 and {{KW:CANDY}} if this has any {{ATK}} buffs."
-      }
-    }
+    "changed": {}
   }
 }

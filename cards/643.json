@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:PARALYZE}} an enemy monster. Deal 2 {{DMG}} to all other enemies."
-      }
-    }
+    "changed": {}
   }
 }

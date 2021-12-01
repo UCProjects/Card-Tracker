@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
+    "id": 699,
+    "fixedId": 699,
+    "typeCard": 1,
+    "name": "Wereform",
+    "image": "Wereform",
+    "baseImage": "Wereform",
+    "cost": 7,
+    "rarity": "RARE",
+    "originalCost": 7,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

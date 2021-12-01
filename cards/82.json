@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Return an allied monster to your hand and you get 20% of its {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

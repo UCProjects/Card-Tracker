@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If played on the right, halve this monster's stats as base stats (rounded up) and summon a copy of it."
-      }
-    }
+    "changed": {}
   }
 }

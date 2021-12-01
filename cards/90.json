@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Kill all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}."
-      }
-    }
+    "changed": {}
   }
 }

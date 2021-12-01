@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Remove an ally monster's negative effects and give it {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

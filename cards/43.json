@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Reduce the {{COST}} of all the cards in your hand by 1."
-      }
-    }
+    "changed": {}
   }
 }

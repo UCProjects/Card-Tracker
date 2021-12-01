@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}, {{KW:DUST}}, {{KW:SHOCK}}, {{KW:SUPPORT}} and {{KW:TURN_END}}: Shuffle 2 {{CARD:665|2}} into the opponent's deck."
-      }
-    }
+    "changed": {}
   }
 }

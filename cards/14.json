@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. When you have no other ally monsters, this takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

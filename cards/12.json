@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If played on the left, add a monster from your deck to your hand. If on the right, add a spell."
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a {{CARD:115|1}} to your hand and your deck. {{KW:SYNERGY}}: Add {{CARD:475|1}} and {{CARD:476|1}} instead."
-      }
-    }
+    "changed": {}
   }
 }

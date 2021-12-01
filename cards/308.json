@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: The opponent loses 1 {{GOLD}}. {{KW:SYNERGY}}: Gain 1 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

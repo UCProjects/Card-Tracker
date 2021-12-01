@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:SUPPORT}}: {{KW:PARALYZE}} the attacker and give it {{KW:CANDY}}."
-      }
-    }
+    "changed": {}
   }
 }

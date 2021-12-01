@@ -44,11 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an enemy monster attacks, deal {{DMG:1}} to it."
-      }
-    }
+    "changed": {}
   }
 }

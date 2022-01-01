@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 719,
+    "fixedId": 719,
+    "typeCard": 1,
+    "name": "Irresistible Deal",
+    "image": "Irresistible_Deal",
+    "baseImage": "Irresistible_Deal",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

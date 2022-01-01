@@ -18,7 +18,7 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": false,
+    "shockEnabled": true,
     "supportEnabled": false,
     "id": 583,
     "fixedId": 583,
@@ -44,6 +44,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "shockEnabled": {
+        "now": true,
+        "prev": false
+      }
+    }
   }
 }

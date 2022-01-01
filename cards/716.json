@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 3,
-    "originalHp": 2,
+    "attack": 6,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 6,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,28 +13,27 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 477,
-    "fixedId": 477,
+    "id": 716,
+    "fixedId": 716,
     "typeCard": 0,
-    "name": "Spider Flower",
-    "image": "Spider_Flower",
-    "baseImage": "Spider_Flower",
-    "cost": 4,
-    "rarity": "COMMON",
-    "originalCost": 4,
+    "name": "Royal Papyrus",
+    "image": "Royal_Papyrus",
+    "baseImage": "Royal_Papyrus",
+    "cost": 10,
+    "rarity": "LEGENDARY",
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "PLANT",
-      "ARACHNID"
+      "ROYAL_GUARD"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -45,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "changed": {}
   }
 }

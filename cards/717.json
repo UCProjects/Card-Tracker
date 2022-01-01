@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 2,
-    "originalHp": 4,
+    "attack": 1,
+    "hp": 13,
+    "maxHp": 13,
+    "originalAttack": 1,
+    "originalHp": 13,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,15 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 296,
-    "fixedId": 296,
+    "id": 717,
+    "fixedId": 717,
     "typeCard": 0,
-    "name": "Jar of Worms",
-    "image": "Jar_of_Worms",
-    "baseImage": "Jar_of_Worms",
-    "cost": 4,
-    "rarity": "COMMON",
-    "originalCost": 4,
+    "name": "Spamton NEO",
+    "image": "Spamton_NEO",
+    "baseImage": "Spamton_NEO",
+    "cost": 10,
+    "rarity": "DETERMINATION",
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      }
-    }
+    "changed": {}
   }
 }

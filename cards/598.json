@@ -6,10 +6,10 @@
     "name": "Gemstone",
     "image": "Gemstone",
     "baseImage": "Gemstone",
-    "cost": 2,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 2,
-    "target": "MONSTER",
+    "originalCost": 1,
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -25,6 +25,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "target": {
+        "now": "ALL",
+        "prev": "MONSTER"
+      }
+    }
   }
 }

@@ -1,0 +1,33 @@
+{
+  "card": {
+    "id": 721,
+    "fixedId": 721,
+    "typeCard": 1,
+    "name": "Press F1 For HELP",
+    "image": "Press_F1_For_HELP",
+    "baseImage": "Press_F1_For_HELP",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "BARGAIN"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

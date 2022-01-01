@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 1,
-    "originalHp": 2,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Stalagmite",
     "image": "Stalagmite",
     "baseImage": "Stalagmite",
-    "cost": 1,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 1,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 1
+      },
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "cost": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 1
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 6,
-    "originalHp": 6,
+    "attack": 3,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 3,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Spider Sign",
     "image": "Spider_Sign",
     "baseImage": "Spider_Sign",
-    "cost": 7,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 6
+      },
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

@@ -26,9 +26,9 @@
     "name": "Tasque Manager",
     "image": "Tasque_Manager",
     "baseImage": "Tasque_Manager",
-    "cost": 6,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 5,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -45,6 +45,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 3,
-    "originalHp": 4,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Bone Painting",
     "image": "Bone_Painting",
     "baseImage": "Bone_Painting",
-    "cost": 4,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   }
 }

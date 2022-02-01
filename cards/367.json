@@ -11,7 +11,7 @@
     "originalCost": 0,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -24,6 +24,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "extension": {
+        "now": "DELTARUNE",
+        "prev": "BASE"
+      }
+    }
   }
 }

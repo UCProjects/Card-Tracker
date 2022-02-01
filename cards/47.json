@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 3,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 5,
+    "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,9 @@
     "name": "Dogaressa",
     "image": "Dogaressa",
     "baseImage": "Dogaressa",
-    "cost": 5,
+    "cost": 7,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 5
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 5
+      }
+    }
   }
 }

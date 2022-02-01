@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 3,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 3,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Rope Dog",
     "image": "Rope_Dog",
     "baseImage": "Rope_Dog",
-    "cost": 4,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 7,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 4
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,9 @@
     "name": "Pile of Bones",
     "image": "Pile_of_Bones",
     "baseImage": "Pile_of_Bones",
-    "cost": 3,
+    "cost": 5,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 3
+      }
+    }
   }
 }

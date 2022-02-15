@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 1,
-    "originalHp": 4,
+    "attack": 6,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 6,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Nubert",
     "image": "Nubert",
     "baseImage": "Nubert",
-    "cost": 3,
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 3,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 1
+      },
+      "hp": {
+        "now": 8,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 4
+      },
+      "cost": {
+        "now": 7,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 3
+      }
+    }
   }
 }

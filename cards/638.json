@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -29,6 +29,7 @@
     "cost": 2,
     "rarity": "COMMON",
     "originalCost": 2,
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,8 +43,15 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALL"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": false,
+        "prev": true
+      }
+    }
   }
 }

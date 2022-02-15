@@ -1,14 +1,14 @@
 {
   "card": {
-    "id": 367,
-    "fixedId": 367,
+    "id": 725,
+    "fixedId": 725,
     "typeCard": 1,
-    "name": "Mine",
-    "image": "Mine",
-    "baseImage": "Mine",
-    "cost": 0,
+    "name": "Shadow Crystal",
+    "image": "Shadow_Crystal",
+    "baseImage": "Shadow_Crystal",
+    "cost": 3,
     "rarity": "TOKEN",
-    "originalCost": 0,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -22,7 +22,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

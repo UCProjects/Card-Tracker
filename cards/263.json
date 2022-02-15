@@ -15,20 +15,20 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
-    "transparency": false,
+    "haste": true,
+    "transparency": true,
     "candy": false,
     "shockEnabled": false,
-    "supportEnabled": true,
+    "supportEnabled": false,
     "id": 263,
     "fixedId": 263,
     "typeCard": 0,
     "name": "Kris",
     "image": "Kris",
     "baseImage": "Kris",
-    "cost": 12,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "transparency": {
+        "now": true,
+        "prev": false
+      },
+      "supportEnabled": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 10,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 12
+      }
+    }
   }
 }

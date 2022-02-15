@@ -44,13 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [],
-        "prev": [
-          "DOG"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

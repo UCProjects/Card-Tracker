@@ -44,19 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

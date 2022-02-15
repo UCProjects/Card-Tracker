@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 3,
-    "originalHp": 5,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,12 +13,12 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": true,
+    "shockEnabled": false,
     "supportEnabled": false,
     "id": 583,
     "fixedId": 583,
@@ -45,13 +45,33 @@
     "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 4
+      "attack": {
+        "now": 4,
+        "prev": 3
       },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "shockEnabled": {
+        "now": false,
+        "prev": true
       }
     }
   }

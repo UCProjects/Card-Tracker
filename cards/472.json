@@ -29,6 +29,7 @@
     "cost": 7,
     "rarity": "LEGENDARY",
     "originalCost": 7,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,7 +43,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
     "changed": {}
   }

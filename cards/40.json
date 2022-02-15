@@ -46,43 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 3
-      },
-      "hp": {
-        "now": 5,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 3
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

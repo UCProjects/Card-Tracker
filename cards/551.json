@@ -10,9 +10,10 @@
     "name": "True Self",
     "image": "True_Self",
     "baseImage": "True_Self",
-    "cost": 7,
+    "cost": 5,
     "rarity": "TOKEN",
-    "originalCost": 7,
+    "originalCost": 5,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -26,8 +27,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 7
+      }
+    }
   }
 }

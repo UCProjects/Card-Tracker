@@ -46,31 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 5
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "MONSTER",
-        "prev": "ENEMY_MONSTER"
-      }
-    }
+    "changed": {}
   }
 }

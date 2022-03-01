@@ -44,27 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "transparency": {
-        "now": true,
-        "prev": false
-      },
-      "supportEnabled": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 10,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 12
-      }
-    }
+    "changed": {}
   }
 }

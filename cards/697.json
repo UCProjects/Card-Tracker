@@ -26,9 +26,9 @@
     "name": "Queen",
     "image": "Queen",
     "baseImage": "Queen",
-    "cost": 12,
+    "cost": 11,
     "rarity": "LEGENDARY",
-    "originalCost": 12,
+    "originalCost": 11,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -46,33 +46,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 8
-      },
-      "hp": {
-        "now": 7,
-        "prev": 9
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 9
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 9
-      },
       "cost": {
-        "now": 12,
-        "prev": 10
+        "now": 11,
+        "prev": 12
       },
       "originalCost": {
-        "now": 12,
-        "prev": 10
+        "now": 11,
+        "prev": 12
       }
     }
   }

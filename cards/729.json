@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 8,
-    "maxHp": 8,
-    "originalAttack": 6,
-    "originalHp": 8,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,16 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 655,
-    "fixedId": 655,
+    "id": 729,
+    "fixedId": 729,
     "typeCard": 0,
-    "name": "Nubert",
-    "image": "Nubert",
-    "baseImage": "Nubert",
-    "cost": 7,
-    "rarity": "EPIC",
-    "originalCost": 7,
+    "name": "Book Register",
+    "image": "Book_Register",
+    "baseImage": "Book_Register",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,7 +43,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

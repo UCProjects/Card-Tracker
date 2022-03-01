@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 8,
-    "maxHp": 8,
-    "originalAttack": 6,
-    "originalHp": 8,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,15 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 655,
-    "fixedId": 655,
+    "id": 730,
+    "fixedId": 730,
     "typeCard": 0,
-    "name": "Nubert",
-    "image": "Nubert",
-    "baseImage": "Nubert",
-    "cost": 7,
-    "rarity": "EPIC",
-    "originalCost": 7,
+    "name": "The Manual",
+    "image": "The_Manual",
+    "baseImage": "The_Manual",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,7 +42,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

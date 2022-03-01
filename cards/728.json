@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 8,
-    "maxHp": 8,
-    "originalAttack": 6,
-    "originalHp": 8,
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,19 +20,21 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 655,
-    "fixedId": 655,
+    "id": 728,
+    "fixedId": 728,
     "typeCard": 0,
-    "name": "Nubert",
-    "image": "Nubert",
-    "baseImage": "Nubert",
-    "cost": 7,
-    "rarity": "EPIC",
-    "originalCost": 7,
+    "name": "Ponqueen",
+    "image": "Ponqueen",
+    "baseImage": "Ponqueen",
+    "cost": 5,
+    "rarity": "TOKEN",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "PIECE"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,7 +44,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

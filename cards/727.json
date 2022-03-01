@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 6,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 6,
-    "originalHp": 8,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,26 +13,29 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 655,
-    "fixedId": 655,
+    "id": 727,
+    "fixedId": 727,
     "typeCard": 0,
-    "name": "Nubert",
-    "image": "Nubert",
-    "baseImage": "Nubert",
-    "cost": 7,
-    "rarity": "EPIC",
-    "originalCost": 7,
+    "name": "Mister Ruckus",
+    "image": "Mister_Ruckus",
+    "baseImage": "Mister_Ruckus",
+    "cost": 8,
+    "rarity": "RARE",
+    "originalCost": 8,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "PIECE"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,7 +45,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

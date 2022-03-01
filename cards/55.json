@@ -46,19 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 9,
-        "prev": 10
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 10
-      }
-    }
+    "changed": {}
   }
 }

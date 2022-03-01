@@ -43,15 +43,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "ALL"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

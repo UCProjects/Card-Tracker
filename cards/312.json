@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 2,
-    "originalHp": 3,
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Ponman",
     "image": "Ponman",
     "baseImage": "Ponman",
-    "cost": 3,
+    "cost": 1,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 2
+      },
+      "hp": {
+        "now": 1,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 1,
+        "prev": 3
+      },
+      "cost": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 3
+      }
+    }
   }
 }

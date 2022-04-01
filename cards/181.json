@@ -13,7 +13,7 @@
     "cost": 1,
     "rarity": "EPIC",
     "originalCost": 1,
-    "target": "ALL",
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALL"
+      }
+    }
   }
 }

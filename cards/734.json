@@ -5,18 +5,19 @@
       "id": 2,
       "name": "DETERMINATION"
     },
-    "id": 179,
-    "fixedId": 179,
+    "id": 734,
+    "fixedId": 734,
     "typeCard": 1,
-    "name": "Last Dream",
-    "image": "Last_Dream",
-    "baseImage": "Last_Dream",
-    "cost": 4,
+    "name": "Control Wire",
+    "image": "Control_Wire",
+    "baseImage": "Control_Wire",
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 5,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -27,17 +28,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

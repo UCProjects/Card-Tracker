@@ -6,10 +6,9 @@
     "name": "Instant Noodles",
     "image": "Instant_Noodles",
     "baseImage": "Instant_Noodles",
-    "cost": 2,
+    "cost": 12,
     "rarity": "TOKEN",
-    "originalCost": 2,
-    "target": "MONSTER",
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,7 +23,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 2
+      }
+    }
   }
 }

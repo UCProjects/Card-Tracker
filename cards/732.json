@@ -1,15 +1,18 @@
 {
   "card": {
-    "id": 379,
-    "fixedId": 379,
+    "soul": {
+      "id": 3,
+      "name": "INTEGRITY"
+    },
+    "id": 732,
+    "fixedId": 732,
     "typeCard": 1,
-    "name": "Crown",
-    "image": "Crown",
-    "baseImage": "Crown",
+    "name": "Dispatch",
+    "image": "Dispatch",
+    "baseImage": "Dispatch",
     "cost": 1,
-    "rarity": "TOKEN",
+    "rarity": "EPIC",
     "originalCost": 1,
-    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -23,17 +26,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      }
-    }
+    "changed": {}
   }
 }

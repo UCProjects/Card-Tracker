@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 7,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 7,
-    "originalHp": 6,
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,23 +15,23 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 523,
-    "fixedId": 523,
+    "id": 736,
+    "fixedId": 736,
     "typeCard": 0,
-    "name": "Snoring Monsters",
-    "image": "Snoring_Monsters",
-    "baseImage": "Snoring_Monsters",
-    "cost": 6,
-    "rarity": "COMMON",
-    "originalCost": 6,
+    "name": "Police Line",
+    "image": "Police_Line",
+    "baseImage": "Police_Line",
+    "cost": 4,
+    "rarity": "TOKEN",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

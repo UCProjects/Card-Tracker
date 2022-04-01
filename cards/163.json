@@ -11,11 +11,11 @@
     "silence": false,
     "kr": false,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
@@ -44,6 +44,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      }
+    }
   }
 }

@@ -6,9 +6,9 @@
     "name": "Hyperlink Blocked",
     "image": "Hyperlink_Blocked",
     "baseImage": "Hyperlink_Blocked",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -24,6 +24,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

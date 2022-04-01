@@ -26,9 +26,9 @@
     "name": "Grilling King",
     "image": "Grilling_King",
     "baseImage": "Grilling_King",
-    "cost": 13,
+    "cost": 12,
     "rarity": "LEGENDARY",
-    "originalCost": 13,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 13
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 7,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 7,
-    "originalHp": 6,
+    "attack": 1,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 1,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,15 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 523,
-    "fixedId": 523,
+    "id": 740,
+    "fixedId": 740,
     "typeCard": 0,
-    "name": "Snoring Monsters",
-    "image": "Snoring_Monsters",
-    "baseImage": "Snoring_Monsters",
-    "cost": 6,
-    "rarity": "COMMON",
-    "originalCost": 6,
+    "name": "Frisk Laser",
+    "image": "Frisk_Laser",
+    "baseImage": "Frisk_Laser",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

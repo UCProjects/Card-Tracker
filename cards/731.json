@@ -1,22 +1,21 @@
 {
   "card": {
     "soul": {
-      "id": 6,
-      "name": "PATIENCE"
+      "id": 5,
+      "name": "KINDNESS"
     },
-    "id": 133,
-    "fixedId": 133,
+    "id": 731,
+    "fixedId": 731,
     "typeCard": 1,
-    "name": "Fridge",
-    "image": "Fridge",
-    "baseImage": "Fridge",
-    "cost": 1,
-    "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "name": "Ultimate Heal",
+    "image": "Ultimate_Heal",
+    "baseImage": "Ultimate_Heal",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -28,7 +27,7 @@
   },
   "diffs": {
     "added": {
-      "target": "MONSTER"
+      "new": true
     },
     "removed": {},
     "changed": {}

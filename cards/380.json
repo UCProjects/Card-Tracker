@@ -26,9 +26,9 @@
     "name": "K-Round",
     "image": "K-Round",
     "baseImage": "K-Round",
-    "cost": 5,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

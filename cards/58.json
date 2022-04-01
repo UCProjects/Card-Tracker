@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Asriel",
     "image": "Asriel",
     "baseImage": "Asriel",
-    "cost": 4,
-    "rarity": "EPIC",
-    "originalCost": 4,
+    "cost": 6,
+    "rarity": "LEGENDARY",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,39 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "rarity": {
+        "now": "LEGENDARY",
+        "prev": "EPIC"
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      }
+    }
   }
 }

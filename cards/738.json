@@ -1,22 +1,22 @@
 {
   "card": {
     "soul": {
-      "id": 6,
-      "name": "PATIENCE"
+      "id": 7,
+      "name": "PERSEVERANCE"
     },
-    "id": 133,
-    "fixedId": 133,
+    "id": 738,
+    "fixedId": 738,
     "typeCard": 1,
-    "name": "Fridge",
-    "image": "Fridge",
-    "baseImage": "Fridge",
-    "cost": 1,
-    "rarity": "COMMON",
-    "originalCost": 1,
+    "name": "Petrification",
+    "image": "Petrification",
+    "baseImage": "Petrification",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -28,7 +28,7 @@
   },
   "diffs": {
     "added": {
-      "target": "MONSTER"
+      "new": true
     },
     "removed": {},
     "changed": {}

@@ -1,34 +1,33 @@
 {
   "card": {
     "soul": {
-      "id": 6,
-      "name": "PATIENCE"
+      "id": 1,
+      "name": "BRAVERY"
     },
-    "id": 133,
-    "fixedId": 133,
+    "id": 733,
+    "fixedId": 733,
     "typeCard": 1,
-    "name": "Fridge",
-    "image": "Fridge",
-    "baseImage": "Fridge",
-    "cost": 1,
-    "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "name": "Duck Off",
+    "image": "Duck_Off",
+    "baseImage": "Duck_Off",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 0,
+    "program": 3,
     "description": ""
   },
   "diffs": {
     "added": {
-      "target": "MONSTER"
+      "new": true
     },
     "removed": {},
     "changed": {}

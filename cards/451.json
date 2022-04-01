@@ -31,7 +31,7 @@
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [
       "PLANT"
     ],
@@ -46,6 +46,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "extension": {
+        "now": "DELTARUNE",
+        "prev": "BASE"
+      }
+    }
   }
 }

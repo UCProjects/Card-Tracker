@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 7,
+    "attack": 1,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 7,
+    "originalAttack": 1,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -11,7 +11,7 @@
     "silence": false,
     "kr": false,
     "burn": 0,
-    "cantAttack": false,
+    "cantAttack": true,
     "charge": false,
     "taunt": false,
     "invulnerable": false,
@@ -20,18 +20,18 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 523,
-    "fixedId": 523,
+    "id": 739,
+    "fixedId": 739,
     "typeCard": 0,
-    "name": "Snoring Monsters",
-    "image": "Snoring_Monsters",
-    "baseImage": "Snoring_Monsters",
-    "cost": 6,
-    "rarity": "COMMON",
-    "originalCost": 6,
+    "name": "Petrified Monster",
+    "image": "Petrified_Monster",
+    "baseImage": "Petrified_Monster",
+    "cost": 4,
+    "rarity": "TOKEN",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

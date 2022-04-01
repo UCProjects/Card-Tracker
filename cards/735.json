@@ -1,22 +1,21 @@
 {
   "card": {
     "soul": {
-      "id": 6,
-      "name": "PATIENCE"
+      "id": 4,
+      "name": "JUSTICE"
     },
-    "id": 133,
-    "fixedId": 133,
+    "id": 735,
+    "fixedId": 735,
     "typeCard": 1,
-    "name": "Fridge",
-    "image": "Fridge",
-    "baseImage": "Fridge",
-    "cost": 1,
-    "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "name": "Crime Scene",
+    "image": "Crime_Scene",
+    "baseImage": "Crime_Scene",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -28,7 +27,7 @@
   },
   "diffs": {
     "added": {
-      "target": "MONSTER"
+      "new": true
     },
     "removed": {},
     "changed": {}

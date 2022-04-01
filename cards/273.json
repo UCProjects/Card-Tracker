@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 3,
-    "originalHp": 6,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -17,7 +17,7 @@
     "invulnerable": false,
     "haste": false,
     "transparency": false,
-    "candy": true,
+    "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
     "id": 273,
@@ -26,9 +26,9 @@
     "name": "Noelle",
     "image": "Noelle",
     "baseImage": "Noelle",
-    "cost": 8,
-    "rarity": "EPIC",
-    "originalCost": 8,
+    "cost": 6,
+    "rarity": "LEGENDARY",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "candy": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 6,
+        "prev": 8
+      },
+      "rarity": {
+        "now": "LEGENDARY",
+        "prev": "EPIC"
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 8
+      }
+    }
   }
 }

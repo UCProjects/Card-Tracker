@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 1,
+    "attack": 2,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 1,
+    "originalAttack": 2,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -45,17 +45,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "cantAttack": {
-        "now": false,
-        "prev": true
+      "attack": {
+        "now": 2,
+        "prev": 1
       },
-      "taunt": {
-        "now": false,
-        "prev": true
-      },
-      "haste": {
-        "now": true,
-        "prev": false
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
       }
     }
   }

@@ -10,9 +10,9 @@
     "name": "Royal Perseverance",
     "image": "Royal_Perseverance",
     "baseImage": "Royal_Perseverance",
-    "cost": 0,
+    "cost": 6,
     "rarity": "TOKEN",
-    "originalCost": 0,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 0
+      }
+    }
   }
 }

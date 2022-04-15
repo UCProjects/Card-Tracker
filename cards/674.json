@@ -44,23 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "dodge": {
-        "now": 0,
-        "prev": 1
-      },
-      "armor": {
-        "now": true,
-        "prev": false
-      }
-    }
+    "changed": {}
   }
 }

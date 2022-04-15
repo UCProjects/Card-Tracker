@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Snail Trainer",
     "image": "Snail_Trainer",
     "baseImage": "Snail_Trainer",
-    "cost": 6,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 5
+      },
+      "hp": {
+        "now": 3,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 5
+      },
+      "cost": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 6
+      }
+    }
   }
 }

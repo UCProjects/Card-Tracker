@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 3,
-    "originalHp": 3,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "C-Round",
     "image": "C-Round",
     "baseImage": "C-Round",
-    "cost": 3,
+    "cost": 2,
     "rarity": "EPIC",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,25 +45,25 @@
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
       "hp": {
-        "now": 3,
-        "prev": 2
+        "now": 2,
+        "prev": 3
       },
       "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
+        "now": 2,
+        "prev": 3
       },
       "originalHp": {
-        "now": 3,
-        "prev": 2
+        "now": 2,
+        "prev": 3
+      },
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
       }
     }
   }

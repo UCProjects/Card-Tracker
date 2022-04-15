@@ -44,35 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 0
-      },
-      "hp": {
-        "now": 5,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 0
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 2
-      },
-      "transparency": {
-        "now": false,
-        "prev": true
-      },
-      "shockEnabled": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

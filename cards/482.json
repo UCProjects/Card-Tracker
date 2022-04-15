@@ -10,9 +10,9 @@
     "name": "Royal Bravery",
     "image": "Royal_Bravery",
     "baseImage": "Royal_Bravery",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

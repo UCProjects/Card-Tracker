@@ -26,9 +26,9 @@
     "name": "Ultimathrash",
     "image": "Ultimathrash",
     "baseImage": "Ultimathrash",
-    "cost": 12,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 12
+      }
+    }
   }
 }

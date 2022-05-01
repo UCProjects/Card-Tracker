@@ -26,9 +26,9 @@
     "name": "The Heroine",
     "image": "The_Heroine",
     "baseImage": "The_Heroine",
-    "cost": 11,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 11,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      }
+    }
   }
 }

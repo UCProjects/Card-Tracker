@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "MONSTER",
-        "prev": "ALLY_MONSTER"
-      }
-    }
+    "changed": {}
   }
 }

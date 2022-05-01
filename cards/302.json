@@ -16,7 +16,7 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
@@ -44,6 +44,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "transparency": {
+        "now": true,
+        "prev": false
+      }
+    }
   }
 }

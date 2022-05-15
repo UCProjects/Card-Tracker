@@ -44,15 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 4,
-    "originalHp": 3,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Dogamy",
     "image": "Dogamy",
     "baseImage": "Dogamy",
-    "cost": 7,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 6,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 3
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

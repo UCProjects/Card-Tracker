@@ -6,9 +6,9 @@
     "name": "Final Gambit!",
     "image": "Final_Gambit!",
     "baseImage": "Final_Gambit!",
-    "cost": 7,
+    "cost": 13,
     "rarity": "TOKEN",
-    "originalCost": 7,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -24,6 +24,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 7
+      }
+    }
   }
 }

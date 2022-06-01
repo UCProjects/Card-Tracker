@@ -11,7 +11,7 @@
     "image": "Cloning",
     "baseImage": "Cloning",
     "cost": 4,
-    "rarity": "EPIC",
+    "rarity": "COMMON",
     "originalCost": 4,
     "target": "MONSTER",
     "shiny": false,
@@ -29,6 +29,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "EPIC"
+      }
+    }
   }
 }

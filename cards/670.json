@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 3,
-    "originalHp": 3,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Dancing Stickman",
     "image": "Dancing_Stickman",
     "baseImage": "Dancing_Stickman",
-    "cost": 3,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 2,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -45,6 +45,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

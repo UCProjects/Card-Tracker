@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 1,
+    "attack": 3,
     "hp": 1,
     "maxHp": 1,
-    "originalAttack": 1,
+    "originalAttack": 3,
     "originalHp": 1,
     "dodge": 0,
     "armor": false,
@@ -18,7 +18,7 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": true,
+    "shockEnabled": false,
     "supportEnabled": false,
     "id": 479,
     "fixedId": 479,
@@ -26,9 +26,9 @@
     "name": "Fly",
     "image": "Fly",
     "baseImage": "Fly",
-    "cost": 2,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 1
+      },
+      "shockEnabled": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 2
+      }
+    }
   }
 }

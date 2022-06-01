@@ -16,23 +16,25 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 170,
-    "fixedId": 170,
+    "id": 743,
+    "fixedId": 743,
     "typeCard": 0,
-    "name": "Loren",
-    "image": "Loren",
-    "baseImage": "Loren",
+    "name": "Casual Guard 2",
+    "image": "Casual_Guard_2",
+    "baseImage": "Casual_Guard_2",
     "cost": 5,
-    "rarity": "EPIC",
+    "rarity": "COMMON",
     "originalCost": 5,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [],
+    "extension": "DELTARUNE",
+    "tribes": [
+      "ROYAL_GUARD"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,29 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

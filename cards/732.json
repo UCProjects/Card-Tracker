@@ -7,12 +7,13 @@
     "id": 732,
     "fixedId": 732,
     "typeCard": 1,
-    "name": "Dispatch",
-    "image": "Dispatch",
-    "baseImage": "Dispatch",
-    "cost": 1,
+    "name": "Silly Strings",
+    "image": "Silly_Strings",
+    "baseImage": "Silly_Strings",
+    "cost": 12,
     "rarity": "EPIC",
-    "originalCost": 1,
+    "originalCost": 12,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -26,8 +27,31 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Silly Strings",
+        "prev": "Dispatch"
+      },
+      "image": {
+        "now": "Silly_Strings",
+        "prev": "Dispatch"
+      },
+      "baseImage": {
+        "now": "Silly_Strings",
+        "prev": "Dispatch"
+      },
+      "cost": {
+        "now": 12,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 1
+      }
+    }
   }
 }

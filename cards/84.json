@@ -10,10 +10,10 @@
     "name": "Expulsion",
     "image": "Expulsion",
     "baseImage": "Expulsion",
-    "cost": 5,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 5,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 6,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ENEMY_MONSTER"
+      }
+    }
   }
 }

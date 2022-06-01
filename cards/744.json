@@ -15,24 +15,26 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 611,
-    "fixedId": 611,
+    "id": 744,
+    "fixedId": 744,
     "typeCard": 0,
-    "name": "Dog Treats",
-    "image": "Dog_Treats",
-    "baseImage": "Dog_Treats",
+    "name": "Hanging Spider",
+    "image": "Hanging_Spider",
+    "baseImage": "Hanging_Spider",
     "cost": 3,
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "ARACHNID"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,29 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 2,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

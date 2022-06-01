@@ -13,7 +13,7 @@
     "cost": 8,
     "rarity": "EPIC",
     "originalCost": 8,
-    "target": "MONSTER",
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -29,6 +29,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ENEMY_MONSTER",
+        "prev": "MONSTER"
+      }
+    }
   }
 }

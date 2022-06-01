@@ -7,13 +7,12 @@
     "id": 82,
     "fixedId": 82,
     "typeCard": 1,
-    "name": "Break",
-    "image": "Break",
-    "baseImage": "Break",
-    "cost": 0,
-    "rarity": "COMMON",
-    "originalCost": 0,
-    "target": "ALLY_MONSTER",
+    "name": "Mercenary Hire",
+    "image": "Mercenary_Hire",
+    "baseImage": "Mercenary_Hire",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,7 +27,34 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "Mercenary Hire",
+        "prev": "Break"
+      },
+      "image": {
+        "now": "Mercenary_Hire",
+        "prev": "Break"
+      },
+      "baseImage": {
+        "now": "Mercenary_Hire",
+        "prev": "Break"
+      },
+      "cost": {
+        "now": 6,
+        "prev": 0
+      },
+      "rarity": {
+        "now": "EPIC",
+        "prev": "COMMON"
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 0
+      }
+    }
   }
 }

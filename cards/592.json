@@ -26,10 +26,9 @@
     "name": "Mio Mio San",
     "image": "Mio_Mio_San",
     "baseImage": "Mio_Mio_San",
-    "cost": 4,
+    "cost": 5,
     "rarity": "LEGENDARY",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,7 +43,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

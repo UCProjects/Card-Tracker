@@ -19,7 +19,7 @@
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
-    "supportEnabled": true,
+    "supportEnabled": false,
     "id": 693,
     "fixedId": 693,
     "typeCard": 0,
@@ -46,6 +46,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "supportEnabled": {
+        "now": false,
+        "prev": true
+      }
+    }
   }
 }

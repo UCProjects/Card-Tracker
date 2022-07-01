@@ -10,9 +10,9 @@
     "name": "Silly Strings",
     "image": "Silly_Strings",
     "baseImage": "Silly_Strings",
-    "cost": 12,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 12,
+    "originalCost": 10,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -27,30 +27,16 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "name": {
-        "now": "Silly Strings",
-        "prev": "Dispatch"
-      },
-      "image": {
-        "now": "Silly_Strings",
-        "prev": "Dispatch"
-      },
-      "baseImage": {
-        "now": "Silly_Strings",
-        "prev": "Dispatch"
-      },
       "cost": {
-        "now": 12,
-        "prev": 1
+        "now": 10,
+        "prev": 12
       },
       "originalCost": {
-        "now": 12,
-        "prev": 1
+        "now": 10,
+        "prev": 12
       }
     }
   }

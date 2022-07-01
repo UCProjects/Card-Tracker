@@ -10,9 +10,9 @@
     "name": "Mercenary Hire",
     "image": "Mercenary_Hire",
     "baseImage": "Mercenary_Hire",
-    "cost": 6,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,33 +27,15 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
+    "removed": {},
     "changed": {
-      "name": {
-        "now": "Mercenary Hire",
-        "prev": "Break"
-      },
-      "image": {
-        "now": "Mercenary_Hire",
-        "prev": "Break"
-      },
-      "baseImage": {
-        "now": "Mercenary_Hire",
-        "prev": "Break"
-      },
       "cost": {
-        "now": 6,
-        "prev": 0
-      },
-      "rarity": {
-        "now": "EPIC",
-        "prev": "COMMON"
+        "now": 5,
+        "prev": 6
       },
       "originalCost": {
-        "now": 6,
-        "prev": 0
+        "now": 5,
+        "prev": 6
       }
     }
   }

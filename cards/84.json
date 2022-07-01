@@ -13,7 +13,7 @@
     "cost": 6,
     "rarity": "RARE",
     "originalCost": 6,
-    "target": "MONSTER",
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -30,17 +30,9 @@
     "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      },
       "target": {
-        "now": "MONSTER",
-        "prev": "ENEMY_MONSTER"
+        "now": "ENEMY_MONSTER",
+        "prev": "MONSTER"
       }
     }
   }

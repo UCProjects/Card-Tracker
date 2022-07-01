@@ -10,9 +10,9 @@
     "name": "Brain Shift",
     "image": "Brain_Shift",
     "baseImage": "Brain_Shift",
-    "cost": 5,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

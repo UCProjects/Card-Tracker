@@ -26,10 +26,9 @@
     "name": "Asriel",
     "image": "Asriel",
     "baseImage": "Asriel",
-    "cost": 5,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 5,
-    "target": "ALLY_MONSTER",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,7 +43,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 5
+      }
+    }
   }
 }

@@ -11,9 +11,9 @@
     "name": "Control Wire",
     "image": "Control_Wire",
     "baseImage": "Control_Wire",
-    "cost": 4,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 6,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 8,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 8,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,22 +13,22 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 248,
-    "fixedId": 248,
+    "id": 745,
+    "fixedId": 745,
     "typeCard": 0,
-    "name": "Business Dude",
-    "image": "Business_Dude",
-    "baseImage": "Business_Dude",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Stage Lights",
+    "image": "Stage_Lights",
+    "baseImage": "Stage_Lights",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,13 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      }
-    }
+    "changed": {}
   }
 }

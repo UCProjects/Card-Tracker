@@ -6,9 +6,9 @@
     "name": "Shadow Crystal",
     "image": "Shadow_Crystal",
     "baseImage": "Shadow_Crystal",
-    "cost": 3,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -24,6 +24,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

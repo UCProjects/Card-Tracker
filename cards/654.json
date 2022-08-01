@@ -1,11 +1,11 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 2,
-    "originalHp": 3,
-    "dodge": 1,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
+    "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
@@ -26,9 +26,9 @@
     "name": "Ambyu-Lance",
     "image": "Ambyu-Lance",
     "baseImage": "Ambyu-Lance",
-    "cost": 3,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,39 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 2
+      },
+      "hp": {
+        "now": 6,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 3
+      },
+      "dodge": {
+        "now": 0,
+        "prev": 1
+      },
+      "cost": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 3
+      }
+    }
   }
 }

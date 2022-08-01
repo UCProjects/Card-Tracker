@@ -10,10 +10,9 @@
     "name": "Worm Infusion",
     "image": "Worm_Infusion",
     "baseImage": "Worm_Infusion",
-    "cost": 2,
+    "cost": 9,
     "rarity": "COMMON",
-    "originalCost": 2,
-    "target": "MONSTER",
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -28,7 +27,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 2
+      }
+    }
   }
 }

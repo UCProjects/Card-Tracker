@@ -10,9 +10,9 @@
     "name": "Wereform",
     "image": "Wereform",
     "baseImage": "Wereform",
-    "cost": 5,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 6,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   }
 }

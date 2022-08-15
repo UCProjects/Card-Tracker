@@ -46,19 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "program": {
-        "now": 2,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

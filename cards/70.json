@@ -28,19 +28,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 11,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

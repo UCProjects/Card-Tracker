@@ -10,10 +10,10 @@
     "name": "Force of Nature",
     "image": "Force_of_Nature",
     "baseImage": "Force_of_Nature",
-    "cost": 1,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "ALLY",
+    "originalCost": 3,
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      },
+      "target": {
+        "now": "ALL",
+        "prev": "ALLY"
+      }
+    }
   }
 }

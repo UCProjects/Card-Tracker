@@ -47,17 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

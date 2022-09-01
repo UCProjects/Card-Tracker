@@ -10,10 +10,9 @@
     "name": "Multi Shot",
     "image": "Multi_Shot",
     "baseImage": "Multi_Shot",
-    "cost": 1,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,7 +27,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 1
+      }
+    }
   }
 }

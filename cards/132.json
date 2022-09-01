@@ -10,10 +10,10 @@
     "name": "Pie",
     "image": "Pie",
     "baseImage": "Pie",
-    "cost": 3,
+    "cost": 2,
     "rarity": "BASE",
-    "originalCost": 3,
-    "target": "ALLY_MONSTER",
+    "originalCost": 2,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALLY_MONSTER"
+      }
+    }
   }
 }

@@ -26,9 +26,9 @@
     "name": "Flower Fingers",
     "image": "Flower_Fingers",
     "baseImage": "Flower_Fingers",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -47,6 +47,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

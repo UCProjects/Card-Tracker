@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 9,
-    "maxHp": 9,
-    "originalAttack": 2,
-    "originalHp": 9,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Oni",
     "image": "Oni",
     "baseImage": "Oni",
-    "cost": 7,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 9
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 9
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 9
+      },
+      "cost": {
+        "now": 4,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 7
+      }
+    }
   }
 }

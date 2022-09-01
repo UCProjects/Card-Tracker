@@ -10,9 +10,9 @@
     "name": "Pezza Time",
     "image": "Pezza_Time",
     "baseImage": "Pezza_Time",
-    "cost": 2,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 4,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 2
+      }
+    }
   }
 }

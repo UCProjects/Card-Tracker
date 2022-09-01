@@ -26,9 +26,9 @@
     "name": "Final Froggit",
     "image": "Final_Froggit",
     "baseImage": "Final_Froggit",
-    "cost": 6,
+    "cost": 7,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

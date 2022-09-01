@@ -10,10 +10,9 @@
     "name": "Energizer",
     "image": "Energizer",
     "baseImage": "Energizer",
-    "cost": 1,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,7 +27,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      }
+    }
   }
 }

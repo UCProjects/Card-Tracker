@@ -1,19 +1,19 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 1,
-    "originalHp": 4,
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": false,
     "burn": 0,
-    "cantAttack": true,
+    "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,10 @@
     "name": "Mace",
     "image": "Mace",
     "baseImage": "Mace",
-    "cost": 3,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 4,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,8 +43,47 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 1
+      },
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "cantAttack": {
+        "now": false,
+        "prev": true
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

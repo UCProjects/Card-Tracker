@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 1,
-    "originalHp": 5,
+    "attack": 2,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 2,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -29,7 +29,6 @@
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
-    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,7 +45,30 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "MONSTER"
+    },
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

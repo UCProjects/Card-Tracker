@@ -10,9 +10,9 @@
     "name": "Feast",
     "image": "Feast",
     "baseImage": "Feast",
-    "cost": 2,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 3,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -31,12 +31,12 @@
     "removed": {},
     "changed": {
       "cost": {
-        "now": 2,
-        "prev": 4
+        "now": 3,
+        "prev": 2
       },
       "originalCost": {
-        "now": 2,
-        "prev": 4
+        "now": 3,
+        "prev": 2
       }
     }
   }

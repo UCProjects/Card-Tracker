@@ -29,19 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 1
-      },
-      "target": {
-        "now": "ALL",
-        "prev": "ALLY"
-      }
-    }
+    "changed": {}
   }
 }

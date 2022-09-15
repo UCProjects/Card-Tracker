@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 3,
-    "originalHp": 6,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -43,21 +43,19 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
+    "removed": {},
     "changed": {
       "hp": {
-        "now": 6,
-        "prev": 7
+        "now": 7,
+        "prev": 6
       },
       "maxHp": {
-        "now": 6,
-        "prev": 7
+        "now": 7,
+        "prev": 6
       },
       "originalHp": {
-        "now": 6,
-        "prev": 7
+        "now": 7,
+        "prev": 6
       }
     }
   }

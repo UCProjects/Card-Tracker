@@ -29,7 +29,6 @@
     "cost": 14,
     "rarity": "DETERMINATION",
     "originalCost": 14,
-    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,7 +43,9 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "target": "MONSTER"
+    },
     "changed": {}
   }
 }

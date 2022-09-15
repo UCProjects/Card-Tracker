@@ -10,10 +10,10 @@
     "name": "Pezza Time",
     "image": "Pezza_Time",
     "baseImage": "Pezza_Time",
-    "cost": 4,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
-    "target": "MONSTER",
+    "originalCost": 2,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -31,12 +31,16 @@
     "removed": {},
     "changed": {
       "cost": {
-        "now": 4,
-        "prev": 2
+        "now": 2,
+        "prev": 4
       },
       "originalCost": {
-        "now": 4,
-        "prev": 2
+        "now": 2,
+        "prev": 4
+      },
+      "target": {
+        "now": "ALLY_MONSTER",
+        "prev": "MONSTER"
       }
     }
   }

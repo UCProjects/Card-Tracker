@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 1,
     "hp": 2,
     "maxHp": 2,
-    "originalAttack": 3,
+    "originalAttack": 1,
     "originalHp": 2,
     "dodge": 0,
     "armor": false,
@@ -26,9 +26,9 @@
     "name": "Hanging Spider",
     "image": "Hanging_Spider",
     "baseImage": "Hanging_Spider",
-    "cost": 2,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 3
+      },
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      }
+    }
   }
 }

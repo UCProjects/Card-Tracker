@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 7,
+    "attack": 3,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 7,
+    "originalAttack": 3,
     "originalHp": 7,
     "dodge": 0,
     "armor": false,
@@ -15,24 +15,26 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
-    "candy": false,
+    "candy": true,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 57,
-    "fixedId": 57,
+    "id": 751,
+    "fixedId": 751,
     "typeCard": 0,
-    "name": "Gaster",
-    "image": "Gaster",
-    "baseImage": "Gaster",
-    "cost": 12,
-    "rarity": "LEGENDARY",
-    "originalCost": 12,
+    "name": "Ruins Tree",
+    "image": "Ruins_Tree",
+    "baseImage": "Ruins_Tree",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 13
-      }
-    }
+    "changed": {}
   }
 }

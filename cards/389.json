@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 3,
-    "originalHp": 3,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,8 +15,8 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
-    "transparency": true,
+    "haste": true,
+    "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
@@ -26,9 +26,9 @@
     "name": "Mirror",
     "image": "Mirror",
     "baseImage": "Mirror",
-    "cost": 5,
+    "cost": 10,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,43 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 3
+      },
+      "hp": {
+        "now": 6,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 3
+      },
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "transparency": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 10,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 5
+      }
+    }
   }
 }

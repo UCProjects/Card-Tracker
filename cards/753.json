@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 2,
-    "originalHp": 3,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,14 +20,14 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 752,
-    "fixedId": 752,
+    "id": 753,
+    "fixedId": 753,
     "typeCard": 0,
-    "name": "Lancer's Bike Bed",
-    "image": "Lancers_Bike_Bed",
-    "baseImage": "Lancers_Bike_Bed",
+    "name": "Pipis",
+    "image": "Pipis",
+    "baseImage": "Pipis",
     "cost": 2,
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "originalCost": 2,
     "shiny": false,
     "quantity": 1,
@@ -38,11 +38,13 @@
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 0,
+    "program": 2,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

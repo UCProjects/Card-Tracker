@@ -44,43 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 3
-      },
-      "hp": {
-        "now": 6,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 3
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "transparency": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 10,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

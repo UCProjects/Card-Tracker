@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Shyren's Agent",
     "image": "Shyrens_Agent",
     "baseImage": "Shyrens_Agent",
-    "cost": 6,
+    "cost": 7,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 7,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -45,6 +45,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 4
+      },
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 5,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -16,23 +16,25 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 272,
-    "fixedId": 272,
+    "id": 762,
+    "fixedId": 762,
     "typeCard": 0,
-    "name": "Gardener Asgore",
-    "image": "Gardener_Asgore",
-    "baseImage": "Gardener_Asgore",
-    "cost": 6,
-    "rarity": "EPIC",
-    "originalCost": 6,
+    "name": "Watching Man",
+    "image": "Watching_Man",
+    "baseImage": "Watching_Man",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
-    "tribes": [],
+    "extension": "BASE",
+    "tribes": [
+      "AMALGAMATE"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

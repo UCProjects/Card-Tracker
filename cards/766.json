@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 6,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 6,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,18 +20,18 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 272,
-    "fixedId": 272,
+    "id": 766,
+    "fixedId": 766,
     "typeCard": 0,
-    "name": "Gardener Asgore",
-    "image": "Gardener_Asgore",
-    "baseImage": "Gardener_Asgore",
-    "cost": 6,
+    "name": "Large Chest",
+    "image": "Large_Chest",
+    "baseImage": "Large_Chest",
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

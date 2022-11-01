@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,15 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 272,
-    "fixedId": 272,
+    "id": 765,
+    "fixedId": 765,
     "typeCard": 0,
-    "name": "Gardener Asgore",
-    "image": "Gardener_Asgore",
-    "baseImage": "Gardener_Asgore",
-    "cost": 6,
-    "rarity": "EPIC",
-    "originalCost": 6,
+    "name": "Trash Rudinn",
+    "image": "Trash_Rudinn",
+    "baseImage": "Trash_Rudinn",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

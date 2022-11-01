@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -20,15 +20,15 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 272,
-    "fixedId": 272,
+    "id": 767,
+    "fixedId": 767,
     "typeCard": 0,
-    "name": "Gardener Asgore",
-    "image": "Gardener_Asgore",
-    "baseImage": "Gardener_Asgore",
-    "cost": 6,
-    "rarity": "EPIC",
-    "originalCost": 6,
+    "name": "Ball Dancer",
+    "image": "Ball_Dancer",
+    "baseImage": "Ball_Dancer",
+    "cost": 5,
+    "rarity": "RARE",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

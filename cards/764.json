@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 5,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 5,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,14 +20,14 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 272,
-    "fixedId": 272,
+    "id": 764,
+    "fixedId": 764,
     "typeCard": 0,
-    "name": "Gardener Asgore",
-    "image": "Gardener_Asgore",
-    "baseImage": "Gardener_Asgore",
+    "name": "Swatchling",
+    "image": "Swatchling",
+    "baseImage": "Swatchling",
     "cost": 6,
-    "rarity": "EPIC",
+    "rarity": "RARE",
     "originalCost": 6,
     "shiny": false,
     "quantity": 1,
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

@@ -26,9 +26,9 @@
     "name": "Dark Ponman",
     "image": "Dark_Ponman",
     "baseImage": "Dark_Ponman",
-    "cost": 3,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

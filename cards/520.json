@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 2,
-    "originalHp": 2,
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,10 +26,9 @@
     "name": "Abstract Art",
     "image": "Abstract_Art",
     "baseImage": "Abstract_Art",
-    "cost": 2,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 2,
-    "target": "ALLY_MONSTER",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,7 +43,38 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 4,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 2
+      },
+      "cost": {
+        "now": 5,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 2
+      }
+    }
   }
 }

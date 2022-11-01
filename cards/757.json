@@ -26,9 +26,9 @@
     "name": "Pipis Cannon",
     "image": "Pipis_Cannon",
     "baseImage": "Pipis_Cannon",
-    "cost": 10,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      }
+    }
   }
 }

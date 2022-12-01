@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 5,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 5,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,16 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 439,
-    "fixedId": 439,
+    "id": 770,
+    "fixedId": 770,
     "typeCard": 0,
-    "name": "Candle",
-    "image": "Candle",
-    "baseImage": "Candle",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Reporter MTT",
+    "image": "Reporter_MTT",
+    "baseImage": "Reporter_MTT",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,13 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

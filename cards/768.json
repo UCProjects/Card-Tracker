@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,35 +20,32 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 439,
-    "fixedId": 439,
+    "id": 768,
+    "fixedId": 768,
     "typeCard": 0,
-    "name": "Candle",
-    "image": "Candle",
-    "baseImage": "Candle",
-    "cost": 5,
+    "name": "Space Stickers",
+    "image": "Space_Stickers",
+    "baseImage": "Space_Stickers",
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "loop": 0,
+    "loop": 1,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

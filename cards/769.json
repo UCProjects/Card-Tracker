@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 7,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 7,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,23 +15,24 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 439,
-    "fixedId": 439,
+    "id": 769,
+    "fixedId": 769,
     "typeCard": 0,
-    "name": "Candle",
-    "image": "Candle",
-    "baseImage": "Candle",
-    "cost": 5,
-    "rarity": "RARE",
-    "originalCost": 5,
+    "name": "Mane Ax",
+    "image": "Mane_Ax",
+    "baseImage": "Mane_Ax",
+    "cost": 9,
+    "rarity": "EPIC",
+    "originalCost": 9,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,13 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

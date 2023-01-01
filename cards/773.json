@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 7,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 7,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,25 +13,25 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 501,
-    "fixedId": 501,
+    "id": 773,
+    "fixedId": 773,
     "typeCard": 0,
-    "name": "Cool Bone",
-    "image": "Cool_Bone",
-    "baseImage": "Cool_Bone",
+    "name": "Shyra's Tomb",
+    "image": "Shyras_Tomb",
+    "baseImage": "Shyras_Tomb",
     "cost": 6,
-    "rarity": "RARE",
+    "rarity": "EPIC",
     "originalCost": 6,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,19 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
+    "added": {
+      "new": true
     },
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

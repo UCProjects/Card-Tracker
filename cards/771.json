@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 771,
+    "fixedId": 771,
+    "typeCard": 1,
+    "name": "ACT Button",
+    "image": "ACT_Button",
+    "baseImage": "ACT_Button",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 2,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

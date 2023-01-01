@@ -26,9 +26,9 @@
     "name": "Scissor Dancer",
     "image": "Scissor_Dancer",
     "baseImage": "Scissor_Dancer",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -45,6 +45,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

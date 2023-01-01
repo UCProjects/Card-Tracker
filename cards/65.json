@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,9 @@
     "name": "Frisk",
     "image": "Frisk",
     "baseImage": "Frisk",
-    "cost": 7,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 7,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 10,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 7
+      }
+    }
   }
 }

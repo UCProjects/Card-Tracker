@@ -26,9 +26,9 @@
     "name": "Librarian",
     "image": "Librarian",
     "baseImage": "Librarian",
-    "cost": 4,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

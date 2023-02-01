@@ -38,12 +38,17 @@
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 2,
+    "program": 1,
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "program": {
+        "now": 1,
+        "prev": 2
+      }
+    }
   }
 }

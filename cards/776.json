@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,29 +13,26 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 33,
-    "fixedId": 33,
+    "id": 776,
+    "fixedId": 776,
     "typeCard": 0,
-    "name": "Endogeny",
-    "image": "Endogeny",
-    "baseImage": "Endogeny",
-    "cost": 4,
-    "rarity": "COMMON",
-    "originalCost": 4,
+    "name": "Traffic Light",
+    "image": "Traffic_Light",
+    "baseImage": "Traffic_Light",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "DOG",
-      "AMALGAMATE"
-    ],
+    "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -45,7 +42,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

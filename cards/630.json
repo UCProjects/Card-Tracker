@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 9,
-    "hp": 9,
-    "maxHp": 9,
-    "originalAttack": 9,
-    "originalHp": 9,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Shovels x999",
     "image": "Shovels_x999",
     "baseImage": "Shovels_x999",
-    "cost": 9,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 9,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 9
+      },
+      "hp": {
+        "now": 6,
+        "prev": 9
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 9
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 9
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 9
+      },
+      "cost": {
+        "now": 6,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 9
+      }
+    }
   }
 }

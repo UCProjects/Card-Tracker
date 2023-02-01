@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,22 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 33,
-    "fixedId": 33,
+    "id": 774,
+    "fixedId": 774,
     "typeCard": 0,
-    "name": "Endogeny",
-    "image": "Endogeny",
-    "baseImage": "Endogeny",
-    "cost": 4,
-    "rarity": "COMMON",
-    "originalCost": 4,
+    "name": "Disguised Lancer",
+    "image": "Disguised_Lancer",
+    "baseImage": "Disguised_Lancer",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "DOG",
-      "AMALGAMATE"
-    ],
+    "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -45,7 +42,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

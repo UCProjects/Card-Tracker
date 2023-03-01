@@ -162,7 +162,18 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "AMALGAMATE",
+          "DOG"
+        ],
+        "prev": [
+          "DOG",
+          "AMALGAMATE"
+        ]
+      }
+    }
   },
   "34": {
     "added": {},
@@ -170,12 +181,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "FROGGIT"
+        ],
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
         ]
       }
     }
@@ -183,18 +194,7 @@
   "35": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   },
   "36": {
     "added": {},
@@ -1089,7 +1089,12 @@
   "236": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   },
   "237": {
     "added": {},
@@ -2097,12 +2102,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "ARACHNID",
-          "PLANT"
-        ],
-        "prev": [
           "PLANT",
           "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
         ]
       }
     }
@@ -2320,28 +2325,7 @@
   "520": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "521": {
     "added": {},
@@ -3016,16 +3000,7 @@
   "655": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "656": {
     "added": {},

@@ -29,7 +29,7 @@
     "cost": 7,
     "rarity": "COMMON",
     "originalCost": 7,
-    "target": "ALL",
+    "target": "ENEMY",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,6 +45,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   }
 }

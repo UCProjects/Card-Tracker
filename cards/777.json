@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 7,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 3,
+    "originalAttack": 7,
     "originalHp": 7,
     "dodge": 0,
     "armor": false,
@@ -20,14 +20,14 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 745,
-    "fixedId": 745,
+    "id": 777,
+    "fixedId": 777,
     "typeCard": 0,
-    "name": "Stage Lights",
-    "image": "Stage_Lights",
-    "baseImage": "Stage_Lights",
+    "name": "Dog Slots",
+    "image": "Dog_Slots",
+    "baseImage": "Dog_Slots",
     "cost": 7,
-    "rarity": "EPIC",
+    "rarity": "LEGENDARY",
     "originalCost": 7,
     "shiny": false,
     "quantity": 1,
@@ -42,37 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 8
-      },
-      "hp": {
-        "now": 7,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 3
-      },
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

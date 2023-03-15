@@ -11,7 +11,7 @@
     "image": "Petrification",
     "baseImage": "Petrification",
     "cost": 8,
-    "rarity": "EPIC",
+    "rarity": "RARE",
     "originalCost": 8,
     "target": "ENEMY_MONSTER",
     "shiny": false,
@@ -29,6 +29,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "RARE",
+        "prev": "EPIC"
+      }
+    }
   }
 }

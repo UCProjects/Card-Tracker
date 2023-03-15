@@ -11,7 +11,7 @@
     "image": "Buttercup_Treat",
     "baseImage": "Buttercup_Treat",
     "cost": 1,
-    "rarity": "RARE",
+    "rarity": "EPIC",
     "originalCost": 1,
     "target": "MONSTER",
     "shiny": false,
@@ -29,6 +29,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "EPIC",
+        "prev": "RARE"
+      }
+    }
   }
 }

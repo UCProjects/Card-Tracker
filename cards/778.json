@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 30,
+    "hp": 30,
+    "maxHp": 30,
+    "originalAttack": 30,
+    "originalHp": 30,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -12,7 +12,7 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": false,
+    "charge": true,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -20,21 +20,20 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 35,
-    "fixedId": 35,
+    "id": 778,
+    "fixedId": 778,
     "typeCard": 0,
-    "name": "Lemon Bread",
-    "image": "Lemon_Bread",
-    "baseImage": "Lemon_Bread",
-    "cost": 7,
-    "rarity": "COMMON",
-    "originalCost": 7,
+    "name": "Bulldogzer",
+    "image": "Bulldogzer",
+    "baseImage": "Bulldogzer",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "MOLD",
-      "AMALGAMATE"
+      "DOG"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -45,19 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "MOLD"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

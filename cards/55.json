@@ -26,9 +26,9 @@
     "name": "Muffet",
     "image": "Muffet",
     "baseImage": "Muffet",
-    "cost": 9,
+    "cost": 10,
     "rarity": "LEGENDARY",
-    "originalCost": 9,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 9
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 30,
-    "hp": 30,
-    "maxHp": 30,
-    "originalAttack": 30,
-    "originalHp": 30,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -12,29 +12,27 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": false,
+    "transparency": true,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 778,
-    "fixedId": 778,
+    "id": 784,
+    "fixedId": 784,
     "typeCard": 0,
-    "name": "Bulldogzer",
-    "image": "Bulldogzer",
-    "baseImage": "Bulldogzer",
-    "cost": 0,
-    "rarity": "TOKEN",
-    "originalCost": 0,
+    "name": "Lab Sign",
+    "image": "Lab_Sign",
+    "baseImage": "Lab_Sign",
+    "cost": 11,
+    "rarity": "EPIC",
+    "originalCost": 11,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "DOG"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -44,7 +42,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

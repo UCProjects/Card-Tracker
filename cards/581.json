@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 6,
-    "originalHp": 7,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Golden Mascot",
     "image": "Golden_Mascot",
     "baseImage": "Golden_Mascot",
-    "cost": 13,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 13,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "cost": {
+        "now": 6,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 13
+      }
+    }
   }
 }

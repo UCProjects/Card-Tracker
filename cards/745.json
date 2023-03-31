@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 3,
-    "originalHp": 7,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Stage Lights",
     "image": "Stage_Lights",
     "baseImage": "Stage_Lights",
-    "cost": 7,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,32 +46,32 @@
     "removed": {},
     "changed": {
       "attack": {
-        "now": 3,
-        "prev": 8
+        "now": 5,
+        "prev": 3
       },
       "hp": {
-        "now": 7,
-        "prev": 3
+        "now": 5,
+        "prev": 7
       },
       "maxHp": {
-        "now": 7,
-        "prev": 3
+        "now": 5,
+        "prev": 7
       },
       "originalAttack": {
-        "now": 3,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 7,
+        "now": 5,
         "prev": 3
       },
+      "originalHp": {
+        "now": 5,
+        "prev": 7
+      },
       "cost": {
-        "now": 7,
-        "prev": 6
+        "now": 5,
+        "prev": 7
       },
       "originalCost": {
-        "now": 7,
-        "prev": 6
+        "now": 5,
+        "prev": 7
       }
     }
   }

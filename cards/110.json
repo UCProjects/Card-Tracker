@@ -26,9 +26,9 @@
     "name": "Mettaton NEO",
     "image": "Mettaton_NEO",
     "baseImage": "Mettaton_NEO",
-    "cost": 8,
+    "cost": 10,
     "rarity": "LEGENDARY",
-    "originalCost": 8,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,12 +46,12 @@
     "removed": {},
     "changed": {
       "cost": {
-        "now": 8,
-        "prev": 10
+        "now": 10,
+        "prev": 8
       },
       "originalCost": {
-        "now": 8,
-        "prev": 10
+        "now": 10,
+        "prev": 8
       }
     }
   }

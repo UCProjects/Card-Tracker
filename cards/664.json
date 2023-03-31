@@ -18,8 +18,8 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": true,
-    "supportEnabled": true,
+    "shockEnabled": false,
+    "supportEnabled": false,
     "id": 664,
     "fixedId": 664,
     "typeCard": 0,
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "shockEnabled": {
+        "now": false,
+        "prev": true
+      },
+      "supportEnabled": {
+        "now": false,
+        "prev": true
+      }
+    }
   }
 }

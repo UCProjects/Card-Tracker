@@ -1,21 +1,17 @@
 {
   "card": {
-    "soul": {
-      "id": 1,
-      "name": "BRAVERY"
-    },
-    "id": 255,
-    "fixedId": 255,
+    "id": 783,
+    "fixedId": 783,
     "typeCard": 1,
-    "name": "Overgrowth",
-    "image": "Overgrowth",
-    "baseImage": "Overgrowth",
-    "cost": 2,
-    "rarity": "RARE",
-    "originalCost": 2,
+    "name": "Chalk",
+    "image": "Chalk",
+    "baseImage": "Chalk",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -26,7 +22,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

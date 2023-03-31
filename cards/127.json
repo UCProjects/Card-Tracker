@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 4,
-    "originalHp": 6,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,9 @@
     "name": "Garbage",
     "image": "Garbage",
     "baseImage": "Garbage",
-    "cost": 6,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,31 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 6
+      }
+    }
   }
 }

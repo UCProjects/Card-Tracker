@@ -1,18 +1,18 @@
 {
   "card": {
-    "attack": 30,
-    "hp": 30,
-    "maxHp": 30,
-    "originalAttack": 30,
-    "originalHp": 30,
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": false,
     "burn": 0,
-    "cantAttack": false,
-    "charge": true,
+    "cantAttack": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -20,21 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 778,
-    "fixedId": 778,
+    "id": 780,
+    "fixedId": 780,
     "typeCard": 0,
-    "name": "Bulldogzer",
-    "image": "Bulldogzer",
-    "baseImage": "Bulldogzer",
-    "cost": 0,
-    "rarity": "TOKEN",
-    "originalCost": 0,
+    "name": "Wheelvil",
+    "image": "Wheelvil",
+    "baseImage": "Wheelvil",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "DOG"
-    ],
+    "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -44,7 +42,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

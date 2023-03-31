@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 30,
-    "hp": 30,
-    "maxHp": 30,
-    "originalAttack": 30,
-    "originalHp": 30,
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -12,7 +12,7 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -20,21 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 778,
-    "fixedId": 778,
+    "id": 781,
+    "fixedId": 781,
     "typeCard": 0,
-    "name": "Bulldogzer",
-    "image": "Bulldogzer",
-    "baseImage": "Bulldogzer",
-    "cost": 0,
-    "rarity": "TOKEN",
-    "originalCost": 0,
+    "name": "Gift Bomb",
+    "image": "Gift_Bomb",
+    "baseImage": "Gift_Bomb",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "DOG"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -44,7 +42,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

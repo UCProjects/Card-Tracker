@@ -21,13 +21,19 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
     // console.log(now);
     if (typeof cards === 'string') return JSON.parse(cards);
     if (Array.isArray(cards)) return cards;
-  }).then((cards) => language.then(JSON.parse).then((lang) => ({cards, lang})).catch(() => ({cards}))).then(({
+  }).then((cards) => language.then(JSON.parse).then((lang) => ({cards, lang})).catch((e) => {
+    console.error(e);
+    return {cards};
+  })).then(({
     cards = [],
     lang = {},
   } = {}) => {
     if (!cards.length) {
       console.log('Cards not found');
       return;
+    }
+    if (!Object.keys(lang).length) {
+      console.warn('Translations not found');
     }
     const promises = cards.map((card) => {
       card.description = (lang[`card-${card.id}`] || '').trim();

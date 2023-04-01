@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ALL",
-        "prev": "ENEMY"
-      }
-    }
+    "changed": {}
   }
 }

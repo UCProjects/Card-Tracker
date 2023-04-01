@@ -44,15 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "shockEnabled": {
-        "now": false,
-        "prev": true
-      },
-      "supportEnabled": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

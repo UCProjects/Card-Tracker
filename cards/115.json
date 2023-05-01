@@ -27,7 +27,7 @@
     "image": "Spider",
     "baseImage": "Spider",
     "cost": 1,
-    "rarity": "BASE",
+    "rarity": "COMMON",
     "originalCost": 1,
     "shiny": false,
     "quantity": 1,
@@ -46,6 +46,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "COMMON",
+        "prev": "BASE"
+      }
+    }
   }
 }

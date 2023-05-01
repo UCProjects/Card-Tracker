@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,22 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 35,
-    "fixedId": 35,
+    "id": 785,
+    "fixedId": 785,
     "typeCard": 0,
-    "name": "Lemon Bread",
-    "image": "Lemon_Bread",
-    "baseImage": "Lemon_Bread",
-    "cost": 7,
-    "rarity": "COMMON",
-    "originalCost": 7,
+    "name": "Temmie Egg",
+    "image": "Temmie_Egg",
+    "baseImage": "Temmie_Egg",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "MOLD",
-      "AMALGAMATE"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -45,19 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "MOLD"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

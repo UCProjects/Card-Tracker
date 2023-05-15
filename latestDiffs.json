@@ -162,7 +162,18 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "DOG",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "DOG"
+        ]
+      }
+    }
   },
   "34": {
     "added": {},
@@ -175,12 +186,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "MOLD"
+        ],
+        "prev": [
+          "MOLD",
+          "AMALGAMATE"
         ]
       }
     }
@@ -583,12 +594,7 @@
   "115": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "COMMON",
-        "prev": "BASE"
-      }
-    }
+    "changed": {}
   },
   "116": {
     "added": {},
@@ -748,12 +754,7 @@
   "147": {
     "added": {},
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
-      }
-    }
+    "changed": {}
   },
   "148": {
     "added": {},
@@ -2093,18 +2094,7 @@
   "477": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT",
-          "ARACHNID"
-        ],
-        "prev": [
-          "ARACHNID",
-          "PLANT"
-        ]
-      }
-    }
+    "changed": {}
   },
   "478": {
     "added": {},
@@ -3094,16 +3084,7 @@
   "675": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "676": {
     "added": {},
@@ -3628,32 +3609,7 @@
   "780": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 0,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 0,
-        "prev": 7
-      },
-      "armor": {
-        "now": true,
-        "prev": false
-      },
-      "cantAttack": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 4,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "781": {
     "added": {},
@@ -3676,9 +3632,7 @@
     "changed": {}
   },
   "785": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

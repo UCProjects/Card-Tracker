@@ -13,46 +13,39 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 173,
-    "fixedId": 173,
+    "id": 787,
+    "fixedId": 787,
     "typeCard": 0,
-    "name": "Temmie Statue",
-    "image": "Temmie_Statue",
-    "baseImage": "Temmie_Statue",
-    "cost": 4,
+    "name": "Cyber Timer",
+    "image": "Cyber_Timer",
+    "baseImage": "Cyber_Timer",
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 0,
+    "program": 1,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 1,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,18 +20,18 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 173,
-    "fixedId": 173,
+    "id": 786,
+    "fixedId": 786,
     "typeCard": 0,
-    "name": "Temmie Statue",
-    "image": "Temmie_Statue",
-    "baseImage": "Temmie_Statue",
+    "name": "Dusty Chest",
+    "image": "Dusty_Chest",
+    "baseImage": "Dusty_Chest",
     "cost": 4,
-    "rarity": "RARE",
+    "rarity": "COMMON",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

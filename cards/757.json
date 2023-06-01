@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,9 @@
     "name": "Pipis Cannon",
     "image": "Pipis_Cannon",
     "baseImage": "Pipis_Cannon",
-    "cost": 9,
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 9,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "taunt": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 7,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 9
+      }
+    }
   }
 }

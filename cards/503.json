@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,10 @@
     "name": "Library Loox",
     "image": "Library_Loox",
     "baseImage": "Library_Loox",
-    "cost": 4,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 6,
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,8 +43,39 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALL"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 6,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 4
+      },
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      }
+    }
   }
 }

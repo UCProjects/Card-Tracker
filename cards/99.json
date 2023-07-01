@@ -10,9 +10,9 @@
     "name": "Reload",
     "image": "Reload",
     "baseImage": "Reload",
-    "cost": 2,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,6 +28,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 2
+      }
+    }
   }
 }

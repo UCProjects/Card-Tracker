@@ -7,13 +7,12 @@
     "id": 183,
     "fixedId": 183,
     "typeCard": 1,
-    "name": "Brain Shift",
-    "image": "Brain_Shift",
-    "baseImage": "Brain_Shift",
-    "cost": 4,
+    "name": "Aftermath",
+    "image": "Aftermath",
+    "baseImage": "Aftermath",
+    "cost": 2,
     "rarity": "EPIC",
-    "originalCost": 4,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,7 +27,30 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "Aftermath",
+        "prev": "Brain Shift"
+      },
+      "image": {
+        "now": "Aftermath",
+        "prev": "Brain_Shift"
+      },
+      "baseImage": {
+        "now": "Aftermath",
+        "prev": "Brain_Shift"
+      },
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      }
+    }
   }
 }

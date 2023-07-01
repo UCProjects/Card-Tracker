@@ -26,10 +26,10 @@
     "name": "Mad Mew Mew",
     "image": "Mad_Mew_Mew",
     "baseImage": "Mad_Mew_Mew",
-    "cost": 7,
+    "cost": 4,
     "rarity": "LEGENDARY",
-    "originalCost": 7,
-    "target": "MONSTER",
+    "originalCost": 4,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -39,12 +39,29 @@
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 0,
+    "program": 4,
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 7
+      },
+      "target": {
+        "now": "ALLY_MONSTER",
+        "prev": "MONSTER"
+      },
+      "program": {
+        "now": 4,
+        "prev": 0
+      }
+    }
   }
 }

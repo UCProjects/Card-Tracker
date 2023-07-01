@@ -10,9 +10,10 @@
     "name": "Vasebreaker",
     "image": "Vasebreaker",
     "baseImage": "Vasebreaker",
-    "cost": 4,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 4,
+    "originalCost": 2,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -21,13 +22,28 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "loop": 0,
+    "loop": 1,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 4
+      },
+      "loop": {
+        "now": 1,
+        "prev": 0
+      }
+    }
   }
 }

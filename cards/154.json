@@ -26,9 +26,9 @@
     "name": "River Person",
     "image": "River_Person",
     "baseImage": "River_Person",
-    "cost": 7,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

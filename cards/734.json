@@ -11,10 +11,9 @@
     "name": "Control Wire",
     "image": "Control_Wire",
     "baseImage": "Control_Wire",
-    "cost": 6,
+    "cost": 2,
     "rarity": "EPIC",
-    "originalCost": 6,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -29,7 +28,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 6
+      }
+    }
   }
 }

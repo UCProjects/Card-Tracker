@@ -11,9 +11,9 @@
     "name": "Call for Help",
     "image": "Call_for_Help",
     "baseImage": "Call_for_Help",
-    "cost": 3,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 3
+      }
+    }
   }
 }

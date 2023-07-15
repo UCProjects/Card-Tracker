@@ -27,18 +27,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 3
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

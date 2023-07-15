@@ -27,23 +27,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      },
-      "loop": {
-        "now": 1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

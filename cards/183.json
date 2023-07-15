@@ -27,30 +27,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "name": {
-        "now": "Aftermath",
-        "prev": "Brain Shift"
-      },
-      "image": {
-        "now": "Aftermath",
-        "prev": "Brain_Shift"
-      },
-      "baseImage": {
-        "now": "Aftermath",
-        "prev": "Brain_Shift"
-      },
-      "cost": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 4
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

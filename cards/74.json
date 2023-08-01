@@ -10,9 +10,9 @@
     "name": "Defrosting",
     "image": "Defrosting",
     "baseImage": "Defrosting",
-    "cost": 1,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,12 +22,25 @@
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 3,
-    "program": 1,
+    "program": 2,
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "program": {
+        "now": 2,
+        "prev": 1
+      }
+    }
   }
 }

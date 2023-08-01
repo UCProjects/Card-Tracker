@@ -10,10 +10,10 @@
     "name": "Spider Web",
     "image": "Spider_Web",
     "baseImage": "Spider_Web",
-    "cost": 1,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 1,
-    "target": "MONSTER",
+    "originalCost": 2,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      },
+      "target": {
+        "now": "ENEMY_MONSTER",
+        "prev": "MONSTER"
+      }
+    }
   }
 }

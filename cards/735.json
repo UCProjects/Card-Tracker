@@ -7,12 +7,12 @@
     "id": 735,
     "fixedId": 735,
     "typeCard": 1,
-    "name": "Crime Scene",
-    "image": "Crime_Scene",
-    "baseImage": "Crime_Scene",
-    "cost": 7,
+    "name": "Judgement",
+    "image": "Judgement",
+    "baseImage": "Judgement",
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -28,6 +28,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Judgement",
+        "prev": "Crime Scene"
+      },
+      "image": {
+        "now": "Judgement",
+        "prev": "Crime_Scene"
+      },
+      "baseImage": {
+        "now": "Judgement",
+        "prev": "Crime_Scene"
+      },
+      "cost": {
+        "now": 9,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 7
+      }
+    }
   }
 }

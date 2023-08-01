@@ -10,10 +10,9 @@
     "name": "Cold Winter",
     "image": "Cold_Winter",
     "baseImage": "Cold_Winter",
-    "cost": 1,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,7 +27,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 1
+      }
+    }
   }
 }

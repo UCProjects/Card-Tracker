@@ -26,10 +26,10 @@
     "name": "Chaos Duck",
     "image": "Chaos_Duck",
     "baseImage": "Chaos_Duck",
-    "cost": 7,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 7,
-    "target": "ALLY_MONSTER",
+    "originalCost": 8,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,6 +45,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      },
+      "target": {
+        "now": "MONSTER",
+        "prev": "ALLY_MONSTER"
+      }
+    }
   }
 }

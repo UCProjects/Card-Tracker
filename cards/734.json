@@ -11,9 +11,9 @@
     "name": "Control Wire",
     "image": "Control_Wire",
     "baseImage": "Control_Wire",
-    "cost": 2,
+    "cost": 1,
     "rarity": "EPIC",
-    "originalCost": 2,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      }
+    }
   }
 }

@@ -10,9 +10,9 @@
     "name": "Ambush",
     "image": "Ambush",
     "baseImage": "Ambush",
-    "cost": 6,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,6 +28,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 6
+      }
+    }
   }
 }

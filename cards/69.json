@@ -11,10 +11,9 @@
     "name": "Faded Memory",
     "image": "Faded_Memory",
     "baseImage": "Faded_Memory",
-    "cost": 1,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 1,
-    "target": "ALLY_MONSTER",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,7 +28,18 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 6,
-    "originalHp": 6,
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,22 +13,22 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": false,
+    "shockEnabled": true,
     "supportEnabled": false,
-    "id": 675,
-    "fixedId": 675,
+    "id": 788,
+    "fixedId": 788,
     "typeCard": 0,
-    "name": "Cyberdly",
-    "image": "Cyberdly",
-    "baseImage": "Cyberdly",
-    "cost": 6,
-    "rarity": "LEGENDARY",
-    "originalCost": 6,
+    "name": "Ralsei Dummy",
+    "image": "Ralsei_Dummy",
+    "baseImage": "Ralsei_Dummy",
+    "cost": 2,
+    "rarity": "COMMON",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   }
 }

@@ -10,9 +10,9 @@
     "name": "Mercenary Hire",
     "image": "Mercenary_Hire",
     "baseImage": "Mercenary_Hire",
-    "cost": 12,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 12,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,6 +28,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 12
+      }
+    }
   }
 }

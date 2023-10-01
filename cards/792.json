@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 3,
-    "originalHp": 3,
+    "attack": 0,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 0,
+    "originalHp": 1,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,26 +15,24 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 473,
-    "fixedId": 473,
+    "id": 792,
+    "fixedId": 792,
     "typeCard": 0,
-    "name": "Spider Reporter",
-    "image": "Spider_Reporter",
-    "baseImage": "Spider_Reporter",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
+    "name": "Noellecoaster",
+    "image": "Noellecoaster",
+    "baseImage": "Noellecoaster",
+    "cost": 2,
+    "rarity": "EPIC",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "ARACHNID"
-    ],
+    "extension": "DELTARUNE",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -44,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

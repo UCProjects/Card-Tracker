@@ -12,10 +12,10 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": false,
+    "charge": true,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "charge": {
+        "now": true,
+        "prev": false
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      }
+    }
   }
 }

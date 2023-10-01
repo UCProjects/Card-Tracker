@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 1,
+    "attack": 0,
     "hp": 2,
     "maxHp": 2,
-    "originalAttack": 1,
+    "originalAttack": 0,
     "originalHp": 2,
     "dodge": 0,
     "armor": false,
@@ -26,9 +26,9 @@
     "name": "Temmie Egg",
     "image": "Temmie_Egg",
     "baseImage": "Temmie_Egg",
-    "cost": 3,
+    "cost": 0,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 0,
+        "prev": 1
+      },
+      "cost": {
+        "now": 0,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 3
+      }
+    }
   }
 }

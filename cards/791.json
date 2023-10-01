@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 1,
-    "originalHp": 7,
+    "attack": 6,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 6,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,25 +13,25 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 608,
-    "fixedId": 608,
+    "id": 791,
+    "fixedId": 791,
     "typeCard": 0,
-    "name": "Void Laser",
-    "image": "Void_Laser",
-    "baseImage": "Void_Laser",
-    "cost": 6,
+    "name": "Giant Toilet",
+    "image": "Giant_Toilet",
+    "baseImage": "Giant_Toilet",
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

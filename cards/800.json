@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,22 +13,22 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 389,
-    "fixedId": 389,
+    "id": 800,
+    "fixedId": 800,
     "typeCard": 0,
-    "name": "Mirror",
-    "image": "Mirror",
-    "baseImage": "Mirror",
-    "cost": 10,
-    "rarity": "COMMON",
-    "originalCost": 10,
+    "name": "GIGA Baseball",
+    "image": "GIGA_Baseball",
+    "baseImage": "GIGA_Baseball",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

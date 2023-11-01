@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 10,
+    "hp": 15,
+    "maxHp": 15,
+    "originalAttack": 10,
+    "originalHp": 15,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,22 +13,22 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 389,
-    "fixedId": 389,
+    "id": 794,
+    "fixedId": 794,
     "typeCard": 0,
-    "name": "Mirror",
-    "image": "Mirror",
-    "baseImage": "Mirror",
-    "cost": 10,
-    "rarity": "COMMON",
-    "originalCost": 10,
+    "name": "GIGA Queen",
+    "image": "GIGA_Queen",
+    "baseImage": "GIGA_Queen",
+    "cost": 20,
+    "rarity": "DETERMINATION",
+    "originalCost": 20,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

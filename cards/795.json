@@ -1,11 +1,11 @@
 {
   "card": {
-    "id": 789,
-    "fixedId": 789,
+    "id": 795,
+    "fixedId": 795,
     "typeCard": 1,
-    "name": "Chaos Bomb",
-    "image": "Chaos_Bomb",
-    "baseImage": "Chaos_Bomb",
+    "name": "Detachable Hands",
+    "image": "Detachable_Hands",
+    "baseImage": "Detachable_Hands",
     "cost": 0,
     "rarity": "TOKEN",
     "originalCost": 0,
@@ -22,17 +22,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

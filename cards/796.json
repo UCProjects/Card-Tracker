@@ -1,18 +1,21 @@
 {
   "card": {
-    "id": 789,
-    "fixedId": 789,
+    "id": 796,
+    "fixedId": 796,
     "typeCard": 1,
-    "name": "Chaos Bomb",
-    "image": "Chaos_Bomb",
-    "baseImage": "Chaos_Bomb",
+    "name": "GIGA Punch",
+    "image": "GIGA_Punch",
+    "baseImage": "GIGA_Punch",
     "cost": 0,
     "rarity": "TOKEN",
     "originalCost": 0,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "GIGA_ATTACK"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -22,17 +25,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

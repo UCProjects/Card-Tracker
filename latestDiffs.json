@@ -47,7 +47,36 @@
   "10": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 1
+      },
+      "hp": {
+        "now": 4,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   },
   "11": {
     "added": {},
@@ -62,7 +91,20 @@
   "13": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   },
   "14": {
     "added": {},
@@ -162,18 +204,7 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   },
   "34": {
     "added": {},
@@ -181,12 +212,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "FROGGIT"
-        ],
-        "prev": [
           "FROGGIT",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "FROGGIT"
         ]
       }
     }
@@ -197,12 +228,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
           "MOLD",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
         ]
       }
     }
@@ -440,7 +471,16 @@
   "82": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 10
+      }
+    }
   },
   "83": {
     "added": {},
@@ -1375,7 +1415,28 @@
   "295": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   },
   "296": {
     "added": {},
@@ -1665,7 +1726,16 @@
   "389": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   },
   "390": {
     "added": {},
@@ -3355,7 +3425,20 @@
   "727": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   },
   "728": {
     "added": {},
@@ -3665,7 +3748,16 @@
   "789": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 5
+      }
+    }
   },
   "790": {
     "added": {},
@@ -3679,6 +3771,71 @@
   },
   "792": {
     "added": {},
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      }
+    }
+  },
+  "793": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "794": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "795": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "796": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "797": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "798": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "799": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "800": {
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

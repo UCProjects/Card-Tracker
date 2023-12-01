@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 3,
-    "originalHp": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Receptionist 1",
     "image": "Receptionist_1",
     "baseImage": "Receptionist_1",
-    "cost": 5,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   }
 }

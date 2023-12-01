@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 9,
-    "maxHp": 9,
-    "originalAttack": 6,
-    "originalHp": 9,
+    "attack": 20,
+    "hp": 20,
+    "maxHp": 20,
+    "originalAttack": 20,
+    "originalHp": 20,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -12,23 +12,23 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
-    "taunt": false,
+    "charge": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 60,
-    "fixedId": 60,
+    "id": 801,
+    "fixedId": 801,
     "typeCard": 0,
-    "name": "Papyrus",
-    "image": "Papyrus",
-    "baseImage": "Papyrus",
-    "cost": 12,
-    "rarity": "LEGENDARY",
-    "originalCost": 12,
+    "name": "The Barrier",
+    "image": "The_Barrier",
+    "baseImage": "The_Barrier",
+    "cost": 25,
+    "rarity": "DETERMINATION",
+    "originalCost": 25,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -38,21 +38,14 @@
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 2,
+    "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 11
-      }
-    }
+    "changed": {}
   }
 }

@@ -6,13 +6,15 @@
     "name": "Jevilstail",
     "image": "Jevilstail",
     "baseImage": "Jevilstail",
-    "cost": 0,
+    "cost": 5,
     "rarity": "TOKEN",
-    "originalCost": 0,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "CHAOS_WEAPON"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -24,6 +26,21 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 0
+      },
+      "tribes": {
+        "now": [
+          "CHAOS_WEAPON"
+        ],
+        "prev": []
+      }
+    }
   }
 }

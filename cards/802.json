@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 9,
-    "maxHp": 9,
-    "originalAttack": 6,
-    "originalHp": 9,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -12,7 +12,7 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": true,
+    "charge": false,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -20,15 +20,16 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 60,
-    "fixedId": 60,
+    "id": 802,
+    "fixedId": 802,
     "typeCard": 0,
-    "name": "Papyrus",
-    "image": "Papyrus",
-    "baseImage": "Papyrus",
-    "cost": 12,
-    "rarity": "LEGENDARY",
-    "originalCost": 12,
+    "name": "Mew Mew Wand",
+    "image": "Mew_Mew_Wand",
+    "baseImage": "Mew_Mew_Wand",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -37,22 +38,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "loop": 0,
-    "program": 2,
+    "loop": 1,
+    "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 11
-      }
-    }
+    "changed": {}
   }
 }

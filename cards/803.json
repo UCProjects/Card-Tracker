@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 2,
-    "originalHp": 3,
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
     "dodge": 0,
-    "armor": true,
+    "armor": false,
     "paralyzed": 0,
     "silence": false,
     "kr": false,
@@ -20,43 +20,34 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 137,
-    "fixedId": 137,
+    "id": 803,
+    "fixedId": 803,
     "typeCard": 0,
-    "name": "Big Bob",
-    "image": "Big_Bob",
-    "baseImage": "Big_Bob",
+    "name": "Sidewalk Froggit",
+    "image": "Sidewalk_Froggit",
+    "baseImage": "Sidewalk_Froggit",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [],
+    "extension": "DELTARUNE",
+    "tribes": [
+      "FROGGIT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "loop": 0,
+    "loop": 1,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "armor": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

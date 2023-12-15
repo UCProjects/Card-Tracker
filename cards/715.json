@@ -26,21 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 0
-      },
-      "tribes": {
-        "now": [
-          "CHAOS_WEAPON"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

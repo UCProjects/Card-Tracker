@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 9,
-    "maxHp": 9,
-    "originalAttack": 6,
-    "originalHp": 9,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,20 +15,20 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 254,
-    "fixedId": 254,
+    "id": 806,
+    "fixedId": 806,
     "typeCard": 0,
-    "name": "Cool Papyrus",
-    "image": "Cool_Papyrus",
-    "baseImage": "Cool_Papyrus",
-    "cost": 9,
-    "rarity": "LEGENDARY",
-    "originalCost": 9,
+    "name": "Torch",
+    "image": "Torch",
+    "baseImage": "Torch",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 10
-      }
-    }
+    "changed": {}
   }
 }

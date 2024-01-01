@@ -26,9 +26,9 @@
     "name": "The Barrier",
     "image": "The_Barrier",
     "baseImage": "The_Barrier",
-    "cost": 25,
+    "cost": 40,
     "rarity": "DETERMINATION",
-    "originalCost": 25,
+    "originalCost": 40,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 40,
+        "prev": 25
+      },
+      "originalCost": {
+        "now": 40,
+        "prev": 25
+      }
+    }
   }
 }

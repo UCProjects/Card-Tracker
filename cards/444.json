@@ -26,9 +26,9 @@
     "name": "Jevil",
     "image": "Jevil",
     "baseImage": "Jevil",
-    "cost": 12,
+    "cost": 11,
     "rarity": "LEGENDARY",
-    "originalCost": 12,
+    "originalCost": 11,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 11,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 12
+      }
+    }
   }
 }

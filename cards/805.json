@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 6,
-    "hp": 9,
-    "maxHp": 9,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 6,
-    "originalHp": 9,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,15 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 254,
-    "fixedId": 254,
+    "id": 805,
+    "fixedId": 805,
     "typeCard": 0,
-    "name": "Cool Papyrus",
-    "image": "Cool_Papyrus",
-    "baseImage": "Cool_Papyrus",
-    "cost": 9,
-    "rarity": "LEGENDARY",
-    "originalCost": 9,
+    "name": "Yandereplane",
+    "image": "Yandereplane",
+    "baseImage": "Yandereplane",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 10
-      }
-    }
+    "changed": {}
   }
 }

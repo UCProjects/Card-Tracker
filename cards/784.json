@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 3,
-    "originalHp": 3,
+    "attack": 9,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 9,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -16,7 +16,7 @@
     "taunt": false,
     "invulnerable": false,
     "haste": false,
-    "transparency": true,
+    "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
@@ -26,9 +26,9 @@
     "name": "Lab Sign",
     "image": "Lab_Sign",
     "baseImage": "Lab_Sign",
-    "cost": 11,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 11,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,39 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 9,
+        "prev": 3
+      },
+      "hp": {
+        "now": 9,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 9,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 3
+      },
+      "transparency": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 9,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 11
+      }
+    }
   }
 }

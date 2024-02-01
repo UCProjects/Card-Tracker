@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 0,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 0,
-    "originalHp": 7,
+    "originalHp": 6,
     "dodge": 0,
     "armor": true,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Wheelvil",
     "image": "Wheelvil",
     "baseImage": "Wheelvil",
-    "cost": 4,
+    "cost": 3,
     "rarity": "LEGENDARY",
-    "originalCost": 4,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   }
 }

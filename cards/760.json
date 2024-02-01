@@ -26,9 +26,9 @@
     "name": "Butler Ralsei",
     "image": "Butler_Ralsei",
     "baseImage": "Butler_Ralsei",
-    "cost": 5,
+    "cost": 4,
     "rarity": "LEGENDARY",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -38,12 +38,25 @@
     "playedTurn": 0,
     "ownerId": 0,
     "loop": 0,
-    "program": 0,
+    "program": 1,
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "program": {
+        "now": 1,
+        "prev": 0
+      }
+    }
   }
 }

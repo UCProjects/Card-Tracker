@@ -26,9 +26,9 @@
     "name": "GIGA Queen",
     "image": "GIGA_Queen",
     "baseImage": "GIGA_Queen",
-    "cost": 15,
+    "cost": 17,
     "rarity": "DETERMINATION",
-    "originalCost": 15,
+    "originalCost": 17,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 17,
+        "prev": 15
+      },
+      "originalCost": {
+        "now": 17,
+        "prev": 15
+      }
+    }
   }
 }

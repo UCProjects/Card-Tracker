@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 1,
-    "maxHp": 1,
-    "originalAttack": 1,
-    "originalHp": 1,
+    "attack": 9,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 9,
+    "originalHp": 9,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -26,9 +26,9 @@
     "name": "Giant Toilet",
     "image": "Giant_Toilet",
     "baseImage": "Giant_Toilet",
-    "cost": 40,
+    "cost": 30,
     "rarity": "EPIC",
-    "originalCost": 40,
+    "originalCost": 30,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,6 +44,39 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 9,
+        "prev": 1
+      },
+      "hp": {
+        "now": 9,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 9,
+        "prev": 1
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 1
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 30,
+        "prev": 40
+      },
+      "originalCost": {
+        "now": 30,
+        "prev": 40
+      }
+    }
   }
 }

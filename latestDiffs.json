@@ -165,12 +165,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "DOG"
+        ],
+        "prev": [
+          "DOG",
+          "AMALGAMATE"
         ]
       }
     }
@@ -178,7 +178,18 @@
   "34": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "AMALGAMATE",
+          "FROGGIT"
+        ],
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
+        ]
+      }
+    }
   },
   "35": {
     "added": {},
@@ -298,16 +309,7 @@
   "58": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "59": {
     "added": {},
@@ -402,16 +404,7 @@
   "77": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 0,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 1
-      }
-    }
+    "changed": {}
   },
   "78": {
     "added": {},
@@ -979,24 +972,9 @@
     "changed": {}
   },
   "198": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "199": {
     "added": {},
@@ -1406,20 +1384,7 @@
   "299": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "300": {
     "added": {},
@@ -1554,16 +1519,7 @@
   "358": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 14
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 14
-      }
-    }
+    "changed": {}
   },
   "359": {
     "added": {},
@@ -1733,20 +1689,7 @@
   "396": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "397": {
     "added": {},
@@ -1951,12 +1894,7 @@
   "437": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ALLY",
-        "prev": "MONSTER"
-      }
-    }
+    "changed": {}
   },
   "438": {
     "added": {},
@@ -1971,16 +1909,7 @@
   "440": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "441": {
     "added": {},
@@ -2055,16 +1984,7 @@
   "455": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 9
-      }
-    }
+    "changed": {}
   },
   "456": {
     "added": {},
@@ -2174,18 +2094,7 @@
   "477": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID",
-          "PLANT"
-        ],
-        "prev": [
-          "PLANT",
-          "ARACHNID"
-        ]
-      }
-    }
+    "changed": {}
   },
   "478": {
     "added": {},
@@ -2555,16 +2464,7 @@
   "551": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "552": {
     "added": {},
@@ -2794,36 +2694,7 @@
   "597": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 13,
-        "prev": 9
-      },
-      "hp": {
-        "now": 13,
-        "prev": 9
-      },
-      "maxHp": {
-        "now": 13,
-        "prev": 9
-      },
-      "originalAttack": {
-        "now": 13,
-        "prev": 9
-      },
-      "originalHp": {
-        "now": 13,
-        "prev": 9
-      },
-      "cost": {
-        "now": 13,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 9
-      }
-    }
+    "changed": {}
   },
   "598": {
     "added": {},
@@ -3638,20 +3509,7 @@
   "760": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "program": {
-        "now": 1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   },
   "761": {
     "added": {},
@@ -3751,28 +3609,7 @@
   "780": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "781": {
     "added": {},
@@ -3792,40 +3629,7 @@
   "784": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 9,
-        "prev": 3
-      },
-      "hp": {
-        "now": 9,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 9,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 3
-      },
-      "transparency": {
-        "now": false,
-        "prev": true
-      },
-      "cost": {
-        "now": 9,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 11
-      }
-    }
+    "changed": {}
   },
   "785": {
     "added": {},
@@ -3860,40 +3664,7 @@
   "791": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 9,
-        "prev": 1
-      },
-      "hp": {
-        "now": 9,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 9,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 1
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 30,
-        "prev": 40
-      },
-      "originalCost": {
-        "now": 30,
-        "prev": 40
-      }
-    }
+    "changed": {}
   },
   "792": {
     "added": {},
@@ -3908,16 +3679,7 @@
   "794": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 17,
-        "prev": 15
-      },
-      "originalCost": {
-        "now": 17,
-        "prev": 15
-      }
-    }
+    "changed": {}
   },
   "795": {
     "added": {},
@@ -3937,12 +3699,7 @@
   "798": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ENEMY_MONSTER",
-        "prev": "ALLY_MONSTER"
-      }
-    }
+    "changed": {}
   },
   "799": {
     "added": {},
@@ -3952,12 +3709,7 @@
   "800": {
     "added": {},
     "removed": {},
-    "changed": {
-      "haste": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   },
   "801": {
     "added": {},
@@ -3967,20 +3719,7 @@
   "802": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "803": {
     "added": {},

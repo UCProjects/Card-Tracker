@@ -44,19 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "program": {
-        "now": 1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

@@ -44,39 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 9,
-        "prev": 1
-      },
-      "hp": {
-        "now": 9,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 9,
-        "prev": 1
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 1
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 30,
-        "prev": 40
-      },
-      "originalCost": {
-        "now": 30,
-        "prev": 40
-      }
-    }
+    "changed": {}
   }
 }

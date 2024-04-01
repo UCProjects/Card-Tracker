@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -18,17 +18,17 @@
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": false,
-    "supportEnabled": false,
-    "id": 468,
-    "fixedId": 468,
+    "shockEnabled": true,
+    "supportEnabled": true,
+    "id": 807,
+    "fixedId": 807,
     "typeCard": 0,
-    "name": "Rudolph",
-    "image": "Rudolph",
-    "baseImage": "Rudolph",
-    "cost": 4,
+    "name": "Spamequin",
+    "image": "Spamequin",
+    "baseImage": "Spamequin",
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -42,17 +42,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

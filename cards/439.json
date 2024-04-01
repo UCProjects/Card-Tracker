@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 7,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "Candle",
     "image": "Candle",
     "baseImage": "Candle",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 7
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

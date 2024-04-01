@@ -15,24 +15,26 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 468,
-    "fixedId": 468,
+    "id": 808,
+    "fixedId": 808,
     "typeCard": 0,
-    "name": "Rudolph",
-    "image": "Rudolph",
-    "baseImage": "Rudolph",
-    "cost": 4,
-    "rarity": "EPIC",
-    "originalCost": 4,
+    "name": "New Cut Flowey",
+    "image": "New_Cut_Flowey",
+    "baseImage": "New_Cut_Flowey",
+    "cost": 10,
+    "rarity": "DETERMINATION",
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
-    "tribes": [],
+    "extension": "BASE",
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -42,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

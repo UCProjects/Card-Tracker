@@ -162,18 +162,7 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "DOG"
-        ]
-      }
-    }
+    "changed": {}
   },
   "34": {
     "added": {},
@@ -183,7 +172,18 @@
   "35": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "MOLD",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
+        ]
+      }
+    }
   },
   "36": {
     "added": {},

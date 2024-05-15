@@ -3,13 +3,12 @@
     "id": 797,
     "fixedId": 797,
     "typeCard": 1,
-    "name": "GIGA Kick",
-    "image": "GIGA_Kick",
-    "baseImage": "GIGA_Kick",
+    "name": "GIGA Missiles",
+    "image": "GIGA_Missiles",
+    "baseImage": "GIGA_Missiles",
     "cost": 0,
     "rarity": "TOKEN",
     "originalCost": 0,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -26,7 +25,22 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
+    "changed": {
+      "name": {
+        "now": "GIGA Missiles",
+        "prev": "GIGA Kick"
+      },
+      "image": {
+        "now": "GIGA_Missiles",
+        "prev": "GIGA_Kick"
+      },
+      "baseImage": {
+        "now": "GIGA_Missiles",
+        "prev": "GIGA_Kick"
+      }
+    }
   }
 }

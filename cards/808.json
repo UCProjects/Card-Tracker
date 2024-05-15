@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 7,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 7,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
@@ -23,18 +23,16 @@
     "id": 808,
     "fixedId": 808,
     "typeCard": 0,
-    "name": "New Cut Flowey",
-    "image": "New_Cut_Flowey",
-    "baseImage": "New_Cut_Flowey",
-    "cost": 10,
+    "name": "Clover",
+    "image": "Clover",
+    "baseImage": "Clover",
+    "cost": 9,
     "rarity": "DETERMINATION",
-    "originalCost": 10,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [
-      "PLANT"
-    ],
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -46,6 +44,57 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 4
+      },
+      "hp": {
+        "now": 8,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 8,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 8,
+        "prev": 4
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      },
+      "name": {
+        "now": "Clover",
+        "prev": "New Cut Flowey"
+      },
+      "image": {
+        "now": "Clover",
+        "prev": "New_Cut_Flowey"
+      },
+      "baseImage": {
+        "now": "Clover",
+        "prev": "New_Cut_Flowey"
+      },
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      },
+      "tribes": {
+        "now": [],
+        "prev": [
+          "PLANT"
+        ]
+      }
+    }
   }
 }

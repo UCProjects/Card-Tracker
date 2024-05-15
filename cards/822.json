@@ -1,0 +1,34 @@
+{
+  "card": {
+    "id": 822,
+    "fixedId": 822,
+    "typeCard": 1,
+    "name": "The Fifth Round",
+    "image": "The_Fifth_Round",
+    "baseImage": "The_Fifth_Round",
+    "cost": 5,
+    "rarity": "TOKEN",
+    "originalCost": 5,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [
+      "ROUND"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

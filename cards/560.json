@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 3,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 5,
+    "originalAttack": 3,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -26,9 +26,9 @@
     "name": "Mom Slime",
     "image": "Mom_Slime",
     "baseImage": "Mom_Slime",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,6 +44,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 5
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

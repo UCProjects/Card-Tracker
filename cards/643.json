@@ -6,9 +6,9 @@
     "name": "Prison Bars",
     "image": "Prison_Bars",
     "baseImage": "Prison_Bars",
-    "cost": 2,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 2,
+    "originalCost": 1,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -25,6 +25,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      }
+    }
   }
 }

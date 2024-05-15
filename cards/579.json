@@ -26,9 +26,9 @@
     "name": "Baking Queen",
     "image": "Baking_Queen",
     "baseImage": "Baking_Queen",
-    "cost": 9,
+    "cost": 10,
     "rarity": "LEGENDARY",
-    "originalCost": 9,
+    "originalCost": 10,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -45,6 +45,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 9
+      }
+    }
   }
 }

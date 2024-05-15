@@ -23,9 +23,9 @@
     "id": 266,
     "fixedId": 266,
     "typeCard": 0,
-    "name": "Clover",
-    "image": "Clover",
-    "baseImage": "Clover",
+    "name": "Clover Hydra",
+    "image": "Clover_Hydra",
+    "baseImage": "Clover_Hydra",
     "cost": 9,
     "rarity": "EPIC",
     "originalCost": 9,
@@ -45,6 +45,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Clover Hydra",
+        "prev": "Clover"
+      },
+      "image": {
+        "now": "Clover_Hydra",
+        "prev": "Clover"
+      },
+      "baseImage": {
+        "now": "Clover_Hydra",
+        "prev": "Clover"
+      }
+    }
   }
 }

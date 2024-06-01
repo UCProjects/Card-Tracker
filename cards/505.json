@@ -37,22 +37,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "bullseyeEnabled": false
+    },
     "removed": {},
-    "changed": {
-      "charge": {
-        "now": true,
-        "prev": false
-      },
-      "haste": {
-        "now": false,
-        "prev": true
-      }
-    }
+    "changed": {}
   }
 }

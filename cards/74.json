@@ -21,12 +21,15 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "bullseyeEnabled": false,
     "loop": 3,
     "program": 2,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "bullseyeEnabled": false
+    },
     "removed": {},
     "changed": {}
   }

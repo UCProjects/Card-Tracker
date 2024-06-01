@@ -12,7 +12,7 @@
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [
       "ROUND"
     ],
@@ -20,15 +20,21 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
     "added": {
-      "new": true
+      "bullseyeEnabled": true
     },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "extension": {
+        "now": "UTY",
+        "prev": "BASE"
+      }
+    }
   }
 }

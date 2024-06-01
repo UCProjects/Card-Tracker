@@ -19,28 +19,16 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
+    "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
+    "added": {
+      "bullseyeEnabled": false
     },
-    "changed": {
-      "name": {
-        "now": "GIGA Missiles",
-        "prev": "GIGA Kick"
-      },
-      "image": {
-        "now": "GIGA_Missiles",
-        "prev": "GIGA_Kick"
-      },
-      "baseImage": {
-        "now": "GIGA_Missiles",
-        "prev": "GIGA_Kick"
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

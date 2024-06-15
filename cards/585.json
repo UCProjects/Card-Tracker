@@ -23,9 +23,7 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "bullseyeEnabled": false
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

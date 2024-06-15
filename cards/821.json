@@ -26,15 +26,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "bullseyeEnabled": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "extension": {
-        "now": "UTY",
-        "prev": "BASE"
-      }
-    }
+    "changed": {}
   }
 }

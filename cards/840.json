@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 8,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 8,
+    "originalHp": 9,
     "dodge": 0,
-    "armor": false,
+    "armor": true,
     "paralyzed": 0,
     "silence": false,
     "kr": false,
@@ -20,22 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 35,
-    "fixedId": 35,
+    "id": 840,
+    "fixedId": 840,
     "typeCard": 0,
-    "name": "Lemon Bread",
-    "image": "Lemon_Bread",
-    "baseImage": "Lemon_Bread",
+    "name": "Bowll",
+    "image": "Bowll",
+    "baseImage": "Bowll",
     "cost": 7,
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "originalCost": 7,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "AMALGAMATE",
-      "MOLD"
-    ],
+    "extension": "UTY",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -46,19 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 4,
-    "originalHp": 7,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,22 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 35,
-    "fixedId": 35,
+    "id": 841,
+    "fixedId": 841,
     "typeCard": 0,
-    "name": "Lemon Bread",
-    "image": "Lemon_Bread",
-    "baseImage": "Lemon_Bread",
-    "cost": 7,
+    "name": "Frost Igloo",
+    "image": "Frost_Igloo",
+    "baseImage": "Frost_Igloo",
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "AMALGAMATE",
-      "MOLD"
-    ],
+    "extension": "UTY",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -46,19 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

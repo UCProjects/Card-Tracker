@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 7,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,22 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 35,
-    "fixedId": 35,
+    "id": 839,
+    "fixedId": 839,
     "typeCard": 0,
-    "name": "Lemon Bread",
-    "image": "Lemon_Bread",
-    "baseImage": "Lemon_Bread",
-    "cost": 7,
-    "rarity": "COMMON",
-    "originalCost": 7,
+    "name": "Icemeter",
+    "image": "Icemeter",
+    "baseImage": "Icemeter",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "AMALGAMATE",
-      "MOLD"
-    ],
+    "extension": "UTY",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -46,19 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

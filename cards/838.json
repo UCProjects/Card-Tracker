@@ -1,12 +1,12 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 7,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 4,
+    "originalAttack": 7,
     "originalHp": 7,
     "dodge": 0,
-    "armor": false,
+    "armor": true,
     "paralyzed": 0,
     "silence": false,
     "kr": false,
@@ -20,21 +20,20 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 35,
-    "fixedId": 35,
+    "id": 838,
+    "fixedId": 838,
     "typeCard": 0,
-    "name": "Lemon Bread",
-    "image": "Lemon_Bread",
-    "baseImage": "Lemon_Bread",
-    "cost": 7,
-    "rarity": "COMMON",
-    "originalCost": 7,
+    "name": "Zenith Martlet",
+    "image": "Zenith_Martlet",
+    "baseImage": "Zenith_Martlet",
+    "cost": 15,
+    "rarity": "DETERMINATION",
+    "originalCost": 15,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [
-      "AMALGAMATE",
-      "MOLD"
+      "ROYAL_GUARD"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -46,19 +45,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

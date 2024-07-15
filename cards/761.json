@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. In your hand, this has -1 {{COST}} for each {{RARITY:TOKEN}} card costing 1 or more {{GOLD}} you played this game. (max: -8 cost)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. In your hand, this has -1 {{COST}} for each {{RARITY:TOKEN}} card costing 1 or more {{GOLD}} you played this game. (max: -8 cost).",
+        "prev": ""
+      }
+    }
   }
 }

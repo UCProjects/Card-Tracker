@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: If this can't attack, gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: If this can't attack, gain {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

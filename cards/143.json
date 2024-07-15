@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:SUPPORT}}: Gain +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Gain +1 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

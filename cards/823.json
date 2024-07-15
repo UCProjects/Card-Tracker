@@ -22,11 +22,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Deal 6 {{DMG}} to all enemies. If you have a {{CARD:808|1}}, add {{CARD:818|1}} to your hand!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 6 {{DMG}} to all enemies. If you have a {{CARD:808|1}}, add {{CARD:818|1}} to your hand!",
+        "prev": ""
+      }
+    }
   }
 }

@@ -24,11 +24,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add the {{ARTIFACT:38}} artifact. Increase its counter by 6.",
+        "prev": ""
+      }
+    }
   }
 }

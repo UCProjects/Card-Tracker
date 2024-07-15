@@ -33,8 +33,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "ARACHNID",
-      "PLANT"
+      "PLANT",
+      "ARACHNID"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -43,11 +43,26 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{KW:CATCH}} {{SWITCH_LEFT:1|a {{CARD:115|1}}}} or {{SWITCH_RIGHT:1|a {{CARD:451|1}}}}. {{KW:DUST}}: Release it to your hand with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT",
+          "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
+        ]
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{KW:CATCH}} {{SWITCH_LEFT:1|a {{CARD:115|1}}}} or {{SWITCH_RIGHT:1|a {{CARD:451|1}}}}. {{KW:DUST}}: Release it to your hand with -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

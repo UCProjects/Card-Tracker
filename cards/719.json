@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Choose a {{TRIBE:BARGAIN}} to cast. Add a counter to {{ARTIFACT:46}}. {{STYLE:red|Accept the deal or you will DIE!}}"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose a {{TRIBE:BARGAIN}} to cast. Add a counter to {{ARTIFACT:46}}. {{STYLE:red|Accept the deal or you will DIE!}}",
+        "prev": ""
+      }
+    }
   }
 }

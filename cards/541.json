@@ -41,11 +41,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add a copy of a different ally monster (max. {{RARITY:EPIC}}) to your deck. {{KW:DELAY}}: Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a copy of a different ally monster (max. {{RARITY:EPIC}}) to your deck. {{KW:DELAY}}: Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

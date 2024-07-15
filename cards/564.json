@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:NEED}}: 6 or less cards in your deck. {{KW:MAGIC}}: Summon a {{STATS:5|5}} {{CARD:431|1}} and two {{STATS:3|3}} {{CARD:459|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: 6 or less cards in your deck. {{KW:MAGIC}}: Summon a {{STATS:5|5}} {{CARD:431|1}} and two {{STATS:3|3}} {{CARD:459|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

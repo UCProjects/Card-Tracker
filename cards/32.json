@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": ""
+    "description": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Set the copy's stats to {{STATS:2|3|3}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Set the copy's stats to {{STATS:2|3|3}}.",
+        "prev": ""
+      }
+    }
   }
 }

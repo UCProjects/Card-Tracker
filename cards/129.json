@@ -26,11 +26,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Kill an enemy monster. Deal its {{COST}} as {{DMG}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an enemy monster. Deal its {{COST}} as {{DMG}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

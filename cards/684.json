@@ -43,11 +43,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If this has no monster caught, {{KW:CATCH}} an ally {{TRIBE:PLUG|1}}. {{KW:DUST}}: Release it with this monster's stat buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If this has no monster caught, {{KW:CATCH}} an ally {{TRIBE:PLUG|1}}. {{KW:DUST}}: Release it with this monster's stat buffs.",
+        "prev": ""
+      }
+    }
   }
 }

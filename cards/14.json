@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. If you have no other ally monsters, this takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. If you have no other ally monsters, this takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

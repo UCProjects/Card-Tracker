@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Add a {{CARD:586|1}} to your deck. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add a {{CARD:586|1}} to your deck. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

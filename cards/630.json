@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TURN_END}}: Turn the cheapest non-{{KW:GENERATED}} card in your hand into a {{CARD:631|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Turn the cheapest non-{{KW:GENERATED}} card in your hand into a {{CARD:631|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

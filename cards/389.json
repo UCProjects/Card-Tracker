@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, {{KW:CATCH}} it. {{KW:DUST}}: Release an ally copy of it with the same base stats as this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever this attacks and kills a monster, {{KW:CATCH}} it. {{KW:DUST}}: Release an ally copy of it with the same base stats as this.",
+        "prev": ""
+      }
+    }
   }
 }

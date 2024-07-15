@@ -43,11 +43,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal its {{ATK}} as {{DMG}} to an enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal its {{ATK}} as {{DMG}} to an enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

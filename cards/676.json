@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, add a {{CARD:677|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, add a {{CARD:677|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

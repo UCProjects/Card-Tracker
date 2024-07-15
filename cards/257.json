@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equal to the amount spent. Earn {{GOLD}} equal to excess {{DMG}} dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Spend all your {{GOLD}} and deal {{DMG}} to an enemy monster equal to the amount spent. Earn {{GOLD}} equal to excess {{DMG}} dealt.",
+        "prev": ""
+      }
+    }
   }
 }

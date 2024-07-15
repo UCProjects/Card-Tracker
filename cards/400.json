@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TURN_END}}: Send the most expensive card in your hand to your deck and draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Send the most expensive card in your hand to your deck and draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

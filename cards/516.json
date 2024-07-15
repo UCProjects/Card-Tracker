@@ -21,11 +21,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Give -1/-1 to a monster. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give -1/-1 to a monster. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

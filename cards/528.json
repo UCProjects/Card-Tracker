@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "The first time this attacks a monster each turn, it gains {{KW:HASTE}} and can attack another monster. {{KW:SYNERGY}}: Gain +2 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "The first time this attacks a monster each turn, it gains {{KW:HASTE}} and can attack another monster. {{KW:SYNERGY}}: Gain +2 {{ATK}} and {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

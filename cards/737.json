@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Deal 2 {{DMG}} to a monster. If it kills, {{KW:PARALYZE}} the adjacent ones."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 2 {{DMG}} to a monster. If it kills, {{KW:PARALYZE}} the adjacent ones.",
+        "prev": ""
+      }
+    }
   }
 }

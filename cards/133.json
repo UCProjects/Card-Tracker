@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Give a monster {{KW:TAUNT}}. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster {{KW:TAUNT}}. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

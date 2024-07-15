@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TURN_START}}: Attack a random enemy monster if there are any."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_START}}: Attack a random enemy monster if there are any.",
+        "prev": ""
+      }
+    }
   }
 }

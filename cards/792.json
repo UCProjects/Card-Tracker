@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Has +1 {{COST}} in hand for each spell you cast (min 2 {{GOLD}}). {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each and look at 2 spells with equal {{COST}}. Cast one on the monster in front."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Has +1 {{COST}} in hand for each spell you cast (min 2 {{GOLD}}). {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each and look at 2 spells with equal {{COST}}. Cast one on the monster in front.",
+        "prev": ""
+      }
+    }
   }
 }

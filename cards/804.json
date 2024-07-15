@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": ""
+    "description": "{{KW:LOOP}} (1). {{KW:DELAY}}: {{KW:SWITCH}}: Turn the copy into a spell with a {{COST}} equal to this card's {{SWITCH_LEFT:1|{{ATK}}}} or {{SWITCH_RIGHT:1|{{HP}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). {{KW:DELAY}}: {{KW:SWITCH}}: Turn the copy into a spell with a {{COST}} equal to this card's {{SWITCH_LEFT:1|{{ATK}}}} or {{SWITCH_RIGHT:1|{{HP}}}}.",
+        "prev": ""
+      }
+    }
   }
 }

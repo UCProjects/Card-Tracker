@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} duplicates. {{KW:MAGIC}}: Summon a random other monster costing 5-7 {{GOLD}} from your dustpile."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} duplicates. {{KW:MAGIC}}: Summon a random other monster costing 5-7 {{GOLD}} from your dustpile.",
+        "prev": ""
+      }
+    }
   }
 }

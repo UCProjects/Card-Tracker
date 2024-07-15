@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Add the same random card to the top of both players' decks. Give yours -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

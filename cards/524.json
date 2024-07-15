@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Fill your hand with {{CARD:525|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever you play a card with a base {{COST}} of 1 or more {{GOLD}}, gain {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever you play a card with a base {{COST}} of 1 or more {{GOLD}}, gain {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

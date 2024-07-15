@@ -24,11 +24,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Halve the stats of all enemy monsters with {{KR}} (rounded up)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Halve the stats of all enemy monsters with {{KR}} (rounded up).",
+        "prev": ""
+      }
+    }
   }
 }

@@ -43,21 +43,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} in your deck. {{KW:SYNERGY}}: Give it {{STATS:+2|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "FROGGIT"
-        ],
-        "prev": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ]
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} in your deck. {{KW:SYNERGY}}: Give it {{STATS:+2|+1}}.",
+        "prev": ""
       }
     }
   }

@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 2 {{DMG}} to this. {{KW:SYNERGY}}: Heal 2 {{HP}} to all allies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}} to this. {{KW:SYNERGY}}: Heal 2 {{HP}} to all allies.",
+        "prev": ""
+      }
+    }
   }
 }

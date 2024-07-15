@@ -24,11 +24,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:DELAY}}: Earn 3 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Earn 3 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

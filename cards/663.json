@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at all 0-{{COST}} monsters in your dustpile. Choose one to summon to gain +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at all 0-{{COST}} monsters in your dustpile. Choose one to summon to gain +2 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

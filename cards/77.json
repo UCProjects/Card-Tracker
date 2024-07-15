@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Give an ally monster +1 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give an ally monster +1 {{ATK}} and {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

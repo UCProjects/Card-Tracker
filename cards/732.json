@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Kill an enemy non-{{RARITY:DETERMINATION}} monster. Add a copy to the top of your deck that costs 1."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an enemy non-{{RARITY:DETERMINATION}} monster. Add a copy to the top of your deck that costs 1.",
+        "prev": ""
+      }
+    }
   }
 }

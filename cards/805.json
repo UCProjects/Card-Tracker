@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, kill this to deal 3 {{DMG}} to all enemies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, kill this to deal 3 {{DMG}} to all enemies.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TURBO}}: {{KW:BURN}} this, heal 2 {{HP}} to you and draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: {{KW:BURN}} this, heal 2 {{HP}} to you and draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 6,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (6): Earn 8 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (6): Earn 8 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

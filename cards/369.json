@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Summon 4 different 1-{{COST}} {{TRIBE:SNAIL|2}} from your dustpile. Trigger their {{KW:MAGIC}}, then give them +1 {{ATK}}, {{KW:HASTE}}, {{KW:DODGE}} (1)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon 4 different 1-{{COST}} {{TRIBE:SNAIL|2}} from your dustpile. Trigger their {{KW:MAGIC}}, then give them +1 {{ATK}}, {{KW:HASTE}}, {{KW:DODGE}} (1).",
+        "prev": ""
+      }
+    }
   }
 }

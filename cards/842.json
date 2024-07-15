@@ -40,13 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:ARMOR}}. {{KW:CHARGE}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:ARMOR}}. {{KW:CHARGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

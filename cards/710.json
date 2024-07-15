@@ -41,11 +41,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:PARALYZE}} a monster. {{KW:DELAY}}: If it's dead and this is alive, return to your deck with +1 base {{ATK}}. At 5, turn into {{CARD:711|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:PARALYZE}} a monster. {{KW:DELAY}}: If it's dead and this is alive, return to your deck with +1 base {{ATK}}. At 5, turn into {{CARD:711|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

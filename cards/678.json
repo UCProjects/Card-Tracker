@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:SHOCK}}: Summon a {{CARD:459|1}} with {{ATK}} and {{HP}} equal to the spell's {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: Summon a {{CARD:459|1}} with {{ATK}} and {{HP}} equal to the spell's {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

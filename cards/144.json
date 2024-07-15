@@ -41,11 +41,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

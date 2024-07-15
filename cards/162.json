@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, add a random 2-{{COST}} card to your hand with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, add a random 2-{{COST}} card to your hand with -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

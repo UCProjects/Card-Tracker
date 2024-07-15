@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this.",
+        "prev": ""
+      }
+    }
   }
 }

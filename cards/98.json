@@ -24,11 +24,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 8,
-    "description": ""
+    "description": "Summon 2 {{CARD:574|2}}. They attack the lowest-{{ATK}} enemy monster(s). {{KW:PROGRAM}} (8): Set their stats to {{STATS:7|6}} first."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon 2 {{CARD:574|2}}. They attack the lowest-{{ATK}} enemy monster(s). {{KW:PROGRAM}} (8): Set their stats to {{STATS:7|6}} first.",
+        "prev": ""
+      }
+    }
   }
 }

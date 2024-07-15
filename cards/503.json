@@ -41,11 +41,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} duplicates. {{KW:MAGIC}}: Deal {{DMG}} equal to the amount of empty spaces in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} duplicates. {{KW:MAGIC}}: Deal {{DMG}} equal to the amount of empty spaces in your hand.",
+        "prev": ""
+      }
+    }
   }
 }

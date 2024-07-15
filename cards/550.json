@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a silenced {{CARD:550|1}} with {{STATS:+3|+3|+3}} and {{KW:HASTE}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a silenced {{CARD:550|1}} with {{STATS:+3|+3|+3}} and {{KW:HASTE}} to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

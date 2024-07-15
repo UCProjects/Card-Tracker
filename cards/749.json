@@ -22,11 +22,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Give all ally {{TRIBE:PLANT|2}} +2 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all ally {{TRIBE:PLANT|2}} +2 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

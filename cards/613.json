@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Look at 7 different 7-{{COST}} monsters (except {{CARD:545|1}}). Choose one to add to your hand with -7 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 7 different 7-{{COST}} monsters (except {{CARD:545|1}}). Choose one to add to your hand with -7 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

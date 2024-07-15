@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:NEED}}: You Played 7+ Unique {{RARITY:TOKEN}} Cards This Game. {{KW:MAGIC}}: {{KW:BURN}} Your Hand And Deck To Add {{CARD:795|1}} To Your Hand. Equip {{ARTIFACT:63}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:NEED}}: You Played 7+ Unique {{RARITY:TOKEN}} Cards This Game. {{KW:MAGIC}}: {{KW:BURN}} Your Hand And Deck To Add {{CARD:795|1}} To Your Hand. Equip {{ARTIFACT:63}}.",
+        "prev": ""
+      }
+    }
   }
 }

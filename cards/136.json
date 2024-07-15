@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever a monster is damaged by this, kill it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever a monster is damaged by this, kill it.",
+        "prev": ""
+      }
+    }
   }
 }

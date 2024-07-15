@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:DELAY}}: Add a {{CARD:349|1}} to your hand. If this has {{ATK}} buffs, add another one."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Add a {{CARD:349|1}} to your hand. If this has {{ATK}} buffs, add another one.",
+        "prev": ""
+      }
+    }
   }
 }

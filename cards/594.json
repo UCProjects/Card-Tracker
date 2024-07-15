@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:NEED}}: 4+ {{CARD:594|4}} in your dustpile. {{KW:MAGIC}}: {{KW:BURN}} them to add 10 {{CARD:595|10}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:NEED}}: 4+ {{CARD:594|4}} in your dustpile. {{KW:MAGIC}}: {{KW:BURN}} them to add 10 {{CARD:595|10}} to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -24,11 +24,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Give all cards in your hand -2 {{COST}} (min 1). Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all cards in your hand -2 {{COST}} (min 1). Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

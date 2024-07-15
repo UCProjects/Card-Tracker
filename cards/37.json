@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a different {{TRIBE:MOLD|1}} and give it +1 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a different {{TRIBE:MOLD|1}} and give it +1 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

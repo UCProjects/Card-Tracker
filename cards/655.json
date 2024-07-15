@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: For each unique Tribe in your Dustpile, give {{STATS:+1|+1}} to a random monster in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: For each unique Tribe in your Dustpile, give {{STATS:+1|+1}} to a random monster in your hand.",
+        "prev": ""
+      }
+    }
   }
 }

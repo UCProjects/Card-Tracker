@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give all other ally {{TRIBE:SNAIL|2}} +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give all other ally {{TRIBE:SNAIL|2}} +1 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

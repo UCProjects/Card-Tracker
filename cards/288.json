@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TURBO}}: If you have 6 or less cards in your hand, draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: If you have 6 or less cards in your hand, draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

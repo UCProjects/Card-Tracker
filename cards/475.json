@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this and you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this and you.",
+        "prev": ""
+      }
+    }
   }
 }

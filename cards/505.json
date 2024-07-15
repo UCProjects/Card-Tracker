@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: If you have none, open a {{ARTIFACT:34}} and give it +1 counter for every unique card you played this game."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: If you have none, open a {{ARTIFACT:34}} and give it +1 counter for every unique card you played this game.",
+        "prev": ""
+      }
+    }
   }
 }

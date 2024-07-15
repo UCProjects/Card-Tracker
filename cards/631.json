@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 4,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: {{KW:PROGRAM}} (4): If a copy with no {{KW:LOOP}} is in your hand, {{KW:BURN}} it to gain {{STATS:+4|+4}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: {{KW:PROGRAM}} (4): If a copy with no {{KW:LOOP}} is in your hand, {{KW:BURN}} it to gain {{STATS:+4|+4}}.",
+        "prev": ""
+      }
+    }
   }
 }

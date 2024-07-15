@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "After this takes {{DMG}} during your turn, it gains {{KW:DODGE}} (1) and can attack a monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After this takes {{DMG}} during your turn, it gains {{KW:DODGE}} (1) and can attack a monster.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have a {{TRIBE:DOG|1}} in your hand, gain +3 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: If you have a {{TRIBE:DOG|1}} in your hand, gain +3 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

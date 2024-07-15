@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Equip the {{ARTIFACT:25}} artifact and add a {{CARD:537|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Equip the {{ARTIFACT:25}} artifact and add a {{CARD:537|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

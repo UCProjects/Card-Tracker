@@ -23,11 +23,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "An Ally Monster Gains {{KW:DODGE}} (1) And Attacks The Lowest {{ATK}} Enemy Monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "An Ally Monster Gains {{KW:DODGE}} (1) And Attacks The Lowest {{ATK}} Enemy Monster.",
+        "prev": ""
+      }
+    }
   }
 }

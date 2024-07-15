@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all {{KW:SYNERGY}} effects you triggered this game. Can only trigger the same effect up 2 times."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all {{KW:SYNERGY}} effects you triggered this game. Can only trigger the same effect up 2 times.",
+        "prev": ""
+      }
+    }
   }
 }

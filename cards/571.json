@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "WAITING FOR A NEW EFFECT"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "WAITING FOR A NEW EFFECT",
+        "prev": ""
+      }
+    }
   }
 }

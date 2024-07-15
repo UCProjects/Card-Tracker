@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever a card is played, give its opponent +1 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever a card is played, give its opponent +1 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

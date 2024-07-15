@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Return all other non-{{RARITY:DETERMINATION}} ally monsters to your hand. Summon {{CARD:270|2}} with their stats in their places."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Return all other non-{{RARITY:DETERMINATION}} ally monsters to your hand. Summon {{CARD:270|2}} with their stats in their places.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Add 4 {{CARD:598|2}} to your hand with -1 cost."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add 4 {{CARD:598|2}} to your hand with -1 cost.",
+        "prev": ""
+      }
+    }
   }
 }

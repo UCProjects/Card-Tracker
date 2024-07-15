@@ -22,11 +22,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Summon 2 {{CARD:800|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon 2 {{CARD:800|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

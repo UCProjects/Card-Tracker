@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Monsters in your hand have +1 {{COST}}. Whenever you play a monster, give it {{STATS:+1|+2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Monsters in your hand have +1 {{COST}}. Whenever you play a monster, give it {{STATS:+1|+2}}.",
+        "prev": ""
+      }
+    }
   }
 }

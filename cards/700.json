@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": ""
+    "description": "{{KW:LOOP}} (1). Deal 1 {{DMG}} to an enemy monster. If it died, summon a {{CARD:701|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). Deal 1 {{DMG}} to an enemy monster. If it died, summon a {{CARD:701|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -21,11 +21,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:PARALYZE}} an enemy monster. Deal 1 {{DMG}} to all other enemies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} an enemy monster. Deal 1 {{DMG}} to all other enemies.",
+        "prev": ""
+      }
+    }
   }
 }

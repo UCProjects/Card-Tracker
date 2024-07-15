@@ -22,11 +22,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Heal 7 {{HP}} to all allies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Heal 7 {{HP}} to all allies.",
+        "prev": ""
+      }
+    }
   }
 }

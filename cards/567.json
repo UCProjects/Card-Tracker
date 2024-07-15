@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever you cast a spell costing 1 or more {{GOLD}}, return to your hand with {{STATS:+1|+1}} (keep buffs)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever you cast a spell costing 1 or more {{GOLD}}, return to your hand with {{STATS:+1|+1}} (keep buffs).",
+        "prev": ""
+      }
+    }
   }
 }

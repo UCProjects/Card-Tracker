@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: Send the copy to your deck with {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: Send the copy to your deck with {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

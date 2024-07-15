@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw a card. If you spent 7+ {{GOLD}} last turn, give it -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a card. If you spent 7+ {{GOLD}} last turn, give it -2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

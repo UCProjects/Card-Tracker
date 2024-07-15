@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever a non-{{KW:GENERATED}} monster dies, deal 1 {{DMG}} to your opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever a non-{{KW:GENERATED}} monster dies, deal 1 {{DMG}} to your opponent.",
+        "prev": ""
+      }
+    }
   }
 }

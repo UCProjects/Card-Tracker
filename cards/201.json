@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, heal 4 {{HP}} to you and summon a {{CARD:359|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever this attacks and kills a monster, heal 4 {{HP}} to you and summon a {{CARD:359|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

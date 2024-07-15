@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 1,
-    "description": ""
+    "description": "{{KW:SUPPORT}}: {{KW:PROGRAM}} (1): Give the attacker +2 {{HP}} and trigger the {{KW:SHOCK}}. {{KW:SHOCK}}: Give +2 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: {{KW:PROGRAM}} (1): Give the attacker +2 {{HP}} and trigger the {{KW:SHOCK}}. {{KW:SHOCK}}: Give +2 {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

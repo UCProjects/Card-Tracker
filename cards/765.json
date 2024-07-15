@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:DUST}}: Add a copy of a random other non-{{RARITY:TOKEN}} monster costing 3 or less from your dustpile to your hand with {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add a copy of a random other non-{{RARITY:TOKEN}} monster costing 3 or less from your dustpile to your hand with {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

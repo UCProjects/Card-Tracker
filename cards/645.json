@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:NEED}}: Your hand has no cards of the same rarity. {{KW:MAGIC}}: Give all cards in your hand -3 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your hand has no cards of the same rarity. {{KW:MAGIC}}: Give all cards in your hand -3 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

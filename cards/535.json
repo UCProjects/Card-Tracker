@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Look at all {{TRIBE:THRASHING_PART|2}} and choose one to add to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at all {{TRIBE:THRASHING_PART|2}} and choose one to add to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon 2 random non-{{KW:GENERATED}} {{KW:DUST}} monsters costing 7 or less {{GOLD}} from your dustpile."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon 2 random non-{{KW:GENERATED}} {{KW:DUST}} monsters costing 7 or less {{GOLD}} from your dustpile.",
+        "prev": ""
+      }
+    }
   }
 }

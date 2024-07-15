@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add {{ARTIFACT:47}}. {{KW:BURN}} 18 {{TRIBE:PIECE|18}} in your dustpile to fill your hand with {{CARD:312|2}} with +3 {{ATK}} and {{KW:DODGE}} (1)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add {{ARTIFACT:47}}. {{KW:BURN}} 18 {{TRIBE:PIECE|18}} in your dustpile to fill your hand with {{CARD:312|2}} with +3 {{ATK}} and {{KW:DODGE}} (1).",
+        "prev": ""
+      }
+    }
   }
 }

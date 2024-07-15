@@ -21,11 +21,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Add a copy of a non-{{RARITY:DETERMINATION}} monster with a tribe to your hand and give it {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add a copy of a non-{{RARITY:DETERMINATION}} monster with a tribe to your hand and give it {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

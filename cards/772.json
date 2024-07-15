@@ -20,11 +20,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Look at 2 3-{{COST}} monsters (max. {{RARITY:EPIC}}) and add one to your hand with 0 {{COST}}. {{KW:DELAY}}: Add a {{CARD:772|1}} to your hand if you have none."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 2 3-{{COST}} monsters (max. {{RARITY:EPIC}}) and add one to your hand with 0 {{COST}}. {{KW:DELAY}}: Add a {{CARD:772|1}} to your hand if you have none.",
+        "prev": ""
+      }
+    }
   }
 }

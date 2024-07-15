@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn into {{CARD:648|1}} with the same base stats as this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn into {{CARD:648|1}} with the same base stats as this.",
+        "prev": ""
+      }
+    }
   }
 }

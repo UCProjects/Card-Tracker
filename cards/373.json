@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. Whenever this deals {{DMG}} to a monster, heal {{HP}} to you equal to the {{DMG}} dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever this deals {{DMG}} to a monster, heal {{HP}} to you equal to the {{DMG}} dealt.",
+        "prev": ""
+      }
+    }
   }
 }

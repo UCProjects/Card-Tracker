@@ -23,11 +23,16 @@
     "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Deal 5 {{DMG}}. {{KW:BULLSEYE}}: Add {{CARD:823|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 5 {{DMG}}. {{KW:BULLSEYE}}: Add {{CARD:823|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

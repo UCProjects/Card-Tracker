@@ -41,11 +41,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 4,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Halve an ally non-{{RARITY:DETERMINATION}} monster's stats (rounded up) and summon an exact copy of it. {{KW:PROGRAM}} (4): Summon another."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Halve an ally non-{{RARITY:DETERMINATION}} monster's stats (rounded up) and summon an exact copy of it. {{KW:PROGRAM}} (4): Summon another.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DELAY}}: Add a {{CARD:475|1}} to your hand and a {{CARD:476|1}} to your deck. {{KW:TURN_END}}: Add another {{CARD:475|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DELAY}}: Add a {{CARD:475|1}} to your hand and a {{CARD:476|1}} to your deck. {{KW:TURN_END}}: Add another {{CARD:475|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

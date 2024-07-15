@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Summon a {{STATS:1|1}} copy of 2 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters costing 3 or less {{GOLD}} from your dustpile."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon a {{STATS:1|1}} copy of 2 random different non-{{RARITY:TOKEN}} {{KW:DUST}} monsters costing 3 or less {{GOLD}} from your dustpile.",
+        "prev": ""
+      }
+    }
   }
 }

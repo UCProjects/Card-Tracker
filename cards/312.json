@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain +2 {{HP}}}} or {{SWITCH_RIGHT:1|Heal 1 {{HP}} to you}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain +2 {{HP}}}} or {{SWITCH_RIGHT:1|Heal 1 {{HP}} to you}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} {{KW:CANDY}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} {{KW:CANDY}}.",
+        "prev": ""
+      }
+    }
   }
 }

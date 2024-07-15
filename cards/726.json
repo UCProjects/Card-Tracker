@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:SUPPORT}}: Give the attacker {{STATS:+2|+2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Give the attacker {{STATS:+2|+2}}.",
+        "prev": ""
+      }
+    }
   }
 }

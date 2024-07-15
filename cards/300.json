@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 2,
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:CATCH}} a {{CARD:375|1}}. {{KW:PROGRAM}}: (2): {{KW:CATCH}} {{CARD:451|1}}, then spend 2 {{GOLD}} to {{KW:CATCH}} a {{CARD:462|1}}. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:CATCH}} a {{CARD:375|1}}. {{KW:PROGRAM}}: (2): {{KW:CATCH}} {{CARD:451|1}}, then spend 2 {{GOLD}} to {{KW:CATCH}} a {{CARD:462|1}}. {{KW:DUST}}: Release it.",
+        "prev": ""
+      }
+    }
   }
 }

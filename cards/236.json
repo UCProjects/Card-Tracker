@@ -41,11 +41,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give +3 {{ATK}} to an ally monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give +3 {{ATK}} to an ally monster.",
+        "prev": ""
+      }
+    }
   }
 }

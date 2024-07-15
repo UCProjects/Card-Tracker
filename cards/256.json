@@ -26,11 +26,16 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": ""
+    "description": "{{KW:LOOP}} (1). Deal 3 {{DMG}} to a monster. {{KW:DELAY}}: {{KW:BURN}} the copy to heal 3 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). Deal 3 {{DMG}} to a monster. {{KW:DELAY}}: {{KW:BURN}} the copy to heal 3 {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

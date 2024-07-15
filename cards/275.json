@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Choose another non-{{RARITY:TOKEN}} {{TRIBE:PIECE|1}} in your hand. {{KW:SWITCH}}: {{SWITCH_LEFT:1|Add a copy of it into your hand}} or {{SWITCH_RIGHT:1|Add 2 copies to your deck}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose another non-{{RARITY:TOKEN}} {{TRIBE:PIECE|1}} in your hand. {{KW:SWITCH}}: {{SWITCH_LEFT:1|Add a copy of it into your hand}} or {{SWITCH_RIGHT:1|Add 2 copies to your deck}}.",
+        "prev": ""
+      }
+    }
   }
 }

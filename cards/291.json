@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:HASTE}}. After this attacks, {{KW:PARALYZE}} it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this attacks, {{KW:PARALYZE}} it.",
+        "prev": ""
+      }
+    }
   }
 }

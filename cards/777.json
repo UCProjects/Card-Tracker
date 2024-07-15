@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Send your hand to your deck. Add 7 {{CARD:614|7}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send your hand to your deck. Add 7 {{CARD:614|7}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

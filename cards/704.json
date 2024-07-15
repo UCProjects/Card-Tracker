@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Add a copy of a damaged ally non-{{RARITY:DETERMINATION}} monster to your hand with its current {{HP}}. It costs 1 less per {{HP}} missing."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add a copy of a damaged ally non-{{RARITY:DETERMINATION}} monster to your hand with its current {{HP}}. It costs 1 less per {{HP}} missing.",
+        "prev": ""
+      }
+    }
   }
 }

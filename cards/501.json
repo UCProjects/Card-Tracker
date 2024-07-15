@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give all ally {{TRIBE:DOG|2}} a random effect: {{KW:TAUNT}}, {{KW:DODGE}} (1), {{KW:CANDY}} or {{KW:ARMOR}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give all ally {{TRIBE:DOG|2}} a random effect: {{KW:TAUNT}}, {{KW:DODGE}} (1), {{KW:CANDY}} or {{KW:ARMOR}}.",
+        "prev": ""
+      }
+    }
   }
 }

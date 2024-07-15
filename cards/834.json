@@ -40,11 +40,16 @@
     "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:BULLSEYE}}: Fully heal this monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:BULLSEYE}}: Fully heal this monster.",
+        "prev": ""
+      }
+    }
   }
 }

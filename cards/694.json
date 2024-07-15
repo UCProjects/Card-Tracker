@@ -42,11 +42,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:ARMOR}}. {{KW:DELAY}}: Deal 4 {{DMG}} to a random enemy monster. Excess {{DMG}} is dealt to the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}}. {{KW:DELAY}}: Deal 4 {{DMG}} to a random enemy monster. Excess {{DMG}} is dealt to the opponent.",
+        "prev": ""
+      }
+    }
   }
 }

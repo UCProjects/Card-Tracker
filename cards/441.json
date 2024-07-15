@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Whenever this takes {{DMG}}, {{KW:SWITCH}}: Gain {{SWITCH_LEFT:1|+1 {{KW:DODGE}}}} or {{SWITCH_RIGHT:1|{{KW:TRANSPARENCY}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Whenever this takes {{DMG}}, {{KW:SWITCH}}: Gain {{SWITCH_LEFT:1|+1 {{KW:DODGE}}}} or {{SWITCH_RIGHT:1|{{KW:TRANSPARENCY}}}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -25,11 +25,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it. {{KW:DELAY}}: Give the ally monster {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it. {{KW:DELAY}}: Give the ally monster {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to the enemy hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to the enemy hand.",
+        "prev": ""
+      }
+    }
   }
 }

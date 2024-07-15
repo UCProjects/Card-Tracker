@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Kill all enemy monsters, draw up to 7 cards, and give them -3 {{COST}}. You die after 3 turns!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill all enemy monsters, draw up to 7 cards, and give them -3 {{COST}}. You die after 3 turns!",
+        "prev": ""
+      }
+    }
   }
 }

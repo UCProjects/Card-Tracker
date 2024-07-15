@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Turn all other monsters on the board into random other monsters of the same {{COST}} if possible."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Turn all other monsters on the board into random other monsters of the same {{COST}} if possible.",
+        "prev": ""
+      }
+    }
   }
 }

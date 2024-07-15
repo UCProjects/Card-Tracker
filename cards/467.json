@@ -40,11 +40,16 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a {{STATS:1|2}} {{CARD:306|1}}. Spend up to 2 {{GOLD}} and give it {{STATS:+1|+1}} for each {{GOLD}} spent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a {{STATS:1|2}} {{CARD:306|1}}. Spend up to 2 {{GOLD}} and give it {{STATS:+1|+1}} for each {{GOLD}} spent.",
+        "prev": ""
+      }
+    }
   }
 }

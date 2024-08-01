@@ -1,0 +1,54 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 7,
+    "originalHp": 9,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 844,
+    "fixedId": 844,
+    "typeCard": 0,
+    "name": "Girlboss Cactus",
+    "image": "Girlboss_Cactus",
+    "baseImage": "Girlboss_Cactus",
+    "cost": 9,
+    "rarity": "COMMON",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

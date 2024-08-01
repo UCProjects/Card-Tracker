@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: If you have an ally {{CARD:46|1}}, gain {{STATS:+2|+3}}, {{KW:TAUNT}}, and +1 {{KW:DODGE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: If you have an ally {{CARD:46|1}}, gain {{STATS:+2|+3}}, {{KW:TAUNT}}, and +1 {{KW:DODGE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: If you have an ally {{CARD:46|1}}, gain {{STATS:+2|+3}}, {{KW:TAUNT}}, and +1 {{KW:DODGE}}."
       }
     }
   }

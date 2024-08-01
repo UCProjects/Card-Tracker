@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Give -1 {{COST}} to a random {{TRIBE:SNAIL}} in your deck."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give -1 {{COST}} to a random {{TRIBE:SNAIL}} in your deck.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give -1 {{COST}} to a random {{TRIBE:SNAIL}} in your deck."
       }
     }
   }

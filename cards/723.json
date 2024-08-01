@@ -22,15 +22,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DELAY}}: Summon a {{CARD:724|1}}. If you can't, turn a random ally monster into {{CARD:724|1}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DELAY}}: Summon a {{CARD:724|1}}. If you can't, turn a random ally monster into {{CARD:724|1}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DELAY}}: Summon a {{CARD:724|1}}. If you can't, turn a random ally monster into {{CARD:724|1}}."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Add a copy of this to your hand with {{STATS:-1|-1|-1}} base stats."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Add a copy of this to your hand with {{STATS:-1|-1|-1}} base stats.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DUST}}: Add a copy of this to your hand with {{STATS:-1|-1|-1}} base stats."
       }
     }
   }

@@ -22,15 +22,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board.",
-        "prev": ""
+        "now": "",
+        "prev": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board."
       }
     }
   }

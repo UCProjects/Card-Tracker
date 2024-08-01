@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Deal {{DMG}} to all monsters equals to their {{ATK}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Deal {{DMG}} to all monsters equals to their {{ATK}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Deal {{DMG}} to all monsters equals to their {{ATK}}."
       }
     }
   }

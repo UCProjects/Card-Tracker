@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} spells. {{KW:MAGIC}}: Heal 5 {{HP}} to you."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} spells. {{KW:MAGIC}}: Heal 5 {{HP}} to you.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} spells. {{KW:MAGIC}}: Heal 5 {{HP}} to you."
       }
     }
   }

@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 3 {{DMG}}, draw 3 cards, and heal 3 {{HP}} to you."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 3 {{DMG}}, draw 3 cards, and heal 3 {{HP}} to you.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 3 {{DMG}}, draw 3 cards, and heal 3 {{HP}} to you."
       }
     }
   }

@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Summon two {{STATS:1|1}} enemy {{CARD:490|2}} for the opponent."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Summon two {{STATS:1|1}} enemy {{CARD:490|2}} for the opponent.",
-        "prev": ""
+        "now": "",
+        "prev": "Summon two {{STATS:1|1}} enemy {{CARD:490|2}} for the opponent."
       }
     }
   }

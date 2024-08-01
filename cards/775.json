@@ -18,7 +18,7 @@
     "haste": false,
     "transparency": false,
     "candy": true,
-    "shockEnabled": true,
+    "shockEnabled": false,
     "supportEnabled": false,
     "id": 775,
     "fixedId": 775,
@@ -40,15 +40,19 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DISARMED}}. {{KW:CANDY}}. {{KW:SHOCK}}: Attack the lowest {{HP}} enemy monster."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "shockEnabled": {
+        "now": false,
+        "prev": true
+      },
       "description": {
-        "now": "{{KW:DISARMED}}. {{KW:CANDY}}. {{KW:SHOCK}}: Attack the lowest {{HP}} enemy monster.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DISARMED}}. {{KW:CANDY}}. {{KW:SHOCK}}: Attack the lowest {{HP}} enemy monster."
       }
     }
   }

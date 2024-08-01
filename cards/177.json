@@ -43,15 +43,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Give an enemy monster {{STATS:-2|-2}}. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give an enemy monster {{STATS:-2|-2}}. {{KW:SYNERGY}}: Gain {{KW:HASTE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give an enemy monster {{STATS:-2|-2}}. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
       }
     }
   }

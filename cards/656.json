@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 2,
-    "description": "{{KW:MAGIC}}: {{KW:PROGRAM}} (2): Look at all spells of the enemy SOUL and choose one to add to your hand. {{KW:DELAY}}: Give it -2 {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:PROGRAM}} (2): Look at all spells of the enemy SOUL and choose one to add to your hand. {{KW:DELAY}}: Give it -2 {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:PROGRAM}} (2): Look at all spells of the enemy SOUL and choose one to add to your hand. {{KW:DELAY}}: Give it -2 {{COST}}."
       }
     }
   }

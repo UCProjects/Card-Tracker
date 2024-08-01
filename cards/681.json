@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}} and {{KW:DUST}}: Give 2 random {{TRIBE:PLUG|2}} in your hand {{STATS:+1|+1}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}} and {{KW:DUST}}: Give 2 random {{TRIBE:PLUG|2}} in your hand {{STATS:+1|+1}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}} and {{KW:DUST}}: Give 2 random {{TRIBE:PLUG|2}} in your hand {{STATS:+1|+1}}."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
-    "description": "Your {{CARD:598|2}} cost 0 {{GOLD}}. {{KW:BULLSEYE}}: Add a {{CARD:598|1}} to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Your {{CARD:598|2}} cost 0 {{GOLD}}. {{KW:BULLSEYE}}: Add a {{CARD:598|1}} to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "Your {{CARD:598|2}} cost 0 {{GOLD}}. {{KW:BULLSEYE}}: Add a {{CARD:598|1}} to your hand."
       }
     }
   }

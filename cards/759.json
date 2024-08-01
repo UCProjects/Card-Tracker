@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Kill all enemy monsters costing less than the amount of non-{{RARITY:TOKEN}} cards you played this turn."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Kill all enemy monsters costing less than the amount of non-{{RARITY:TOKEN}} cards you played this turn.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Kill all enemy monsters costing less than the amount of non-{{RARITY:TOKEN}} cards you played this turn."
       }
     }
   }

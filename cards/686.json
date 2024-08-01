@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Turn a {{TRIBE:PLUG|1}} in your hand into a {{CARD:684|1}} that will {{KW:CATCH}} the {{TRIBE:PLUG|1}} and gain its stat buffs."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Turn a {{TRIBE:PLUG|1}} in your hand into a {{CARD:684|1}} that will {{KW:CATCH}} the {{TRIBE:PLUG|1}} and gain its stat buffs.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Turn a {{TRIBE:PLUG|1}} in your hand into a {{CARD:684|1}} that will {{KW:CATCH}} the {{TRIBE:PLUG|1}} and gain its stat buffs."
       }
     }
   }

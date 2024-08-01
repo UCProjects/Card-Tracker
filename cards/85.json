@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Summon a {{STATS:3|3}} copy of a non-{{RARITY:DETERMINATION}} monster. If it can't attack, give it {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Summon a {{STATS:3|3}} copy of a non-{{RARITY:DETERMINATION}} monster. If it can't attack, give it {{KW:HASTE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Summon a {{STATS:3|3}} copy of a non-{{RARITY:DETERMINATION}} monster. If it can't attack, give it {{KW:HASTE}}."
       }
     }
   }

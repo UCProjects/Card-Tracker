@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose An Enemy Monster. Summon A {{STATS:4|4}} {{CARD:684|1}} To {{KW:CATCH}} That Monster."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose An Enemy Monster. Summon A {{STATS:4|4}} {{CARD:684|1}} To {{KW:CATCH}} That Monster.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose An Enemy Monster. Summon A {{STATS:4|4}} {{CARD:684|1}} To {{KW:CATCH}} That Monster."
       }
     }
   }

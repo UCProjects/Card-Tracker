@@ -21,15 +21,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Kill an enemy monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Kill an enemy monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter.",
-        "prev": ""
+        "now": "",
+        "prev": "Kill an enemy monster. Increase the {{ARTIFACT:25}} counter by 1 and reduce your max {{HP}} by the {{ARTIFACT:25}} counter."
       }
     }
   }

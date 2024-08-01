@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it was an ally, give it -2 {{COST}} in your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it was an ally, give it -2 {{COST}} in your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it was an ally, give it -2 {{COST}} in your hand."
       }
     }
   }

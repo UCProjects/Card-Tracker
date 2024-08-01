@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DELAY}}: Add the {{ARTIFACT:37}} artifact. If you have it, trigger its {{KW:TURN_END}} until it has no counters, then add six."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DELAY}}: Add the {{ARTIFACT:37}} artifact. If you have it, trigger its {{KW:TURN_END}} until it has no counters, then add six.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DELAY}}: Add the {{ARTIFACT:37}} artifact. If you have it, trigger its {{KW:TURN_END}} until it has no counters, then add six."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Add the {{ARTIFACT:38}} artifact. Increase its counter by 2."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Add the {{ARTIFACT:38}} artifact. Increase its counter by 2.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DUST}}: Add the {{ARTIFACT:38}} artifact. Increase its counter by 2."
       }
     }
   }

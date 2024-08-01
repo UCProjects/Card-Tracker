@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever an enemy monster is played or attacks during the enemy turn, give the opponent -2 {{HP}}. {{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever an enemy monster is played or attacks during the enemy turn, give the opponent -2 {{HP}}. {{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever an enemy monster is played or attacks during the enemy turn, give the opponent -2 {{HP}}. {{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "At the start of its every 3rd turn, your opponent skips their next turn."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "At the start of its every 3rd turn, your opponent skips their next turn.",
-        "prev": ""
+        "now": "",
+        "prev": "At the start of its every 3rd turn, your opponent skips their next turn."
       }
     }
   }

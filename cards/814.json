@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 3,
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: If this was killed by a monster, {{KW:PROGRAM}} (3): Summon a {{STATS:4|4}} copy of it with {{KW:TAUNT}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: If this was killed by a monster, {{KW:PROGRAM}} (3): Summon a {{STATS:4|4}} copy of it with {{KW:TAUNT}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: If this was killed by a monster, {{KW:PROGRAM}} (3): Summon a {{STATS:4|4}} copy of it with {{KW:TAUNT}}."
       }
     }
   }

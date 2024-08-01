@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Deal {{DMG:3}} to the monster in front of it."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Deal {{DMG:3}} to the monster in front of it.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal {{DMG:3}} to the monster in front of it."
       }
     }
   }

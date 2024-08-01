@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a {{CARD:668|1}} to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a {{CARD:668|1}} to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a {{CARD:668|1}} to your hand."
       }
     }
   }

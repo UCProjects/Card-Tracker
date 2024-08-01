@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Deal {{DMG}} to the opponent equal to half the amount of monsters in both dustpiles."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Deal {{DMG}} to the opponent equal to half the amount of monsters in both dustpiles.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Deal {{DMG}} to the opponent equal to half the amount of monsters in both dustpiles."
       }
     }
   }

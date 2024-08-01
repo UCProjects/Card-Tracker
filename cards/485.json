@@ -26,15 +26,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Look at all cards in your deck and choose one to draw."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Look at all cards in your deck and choose one to draw.",
-        "prev": ""
+        "now": "",
+        "prev": "Look at all cards in your deck and choose one to draw."
       }
     }
   }

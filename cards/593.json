@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TRANSPARENCY}}. Whenever the opponent summons a monster, gain -1 {{ATK}}. At 2 {{ATK}} or less, kill this to deal 3 {{DMG}} to all enemies."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TRANSPARENCY}}. Whenever the opponent summons a monster, gain -1 {{ATK}}. At 2 {{ATK}} or less, kill this to deal 3 {{DMG}} to all enemies.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TRANSPARENCY}}. Whenever the opponent summons a monster, gain -1 {{ATK}}. At 2 {{ATK}} or less, kill this to deal 3 {{DMG}} to all enemies."
       }
     }
   }

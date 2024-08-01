@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Give 2 random spells in your hand -2 {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give 2 random spells in your hand -2 {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give 2 random spells in your hand -2 {{COST}}."
       }
     }
   }

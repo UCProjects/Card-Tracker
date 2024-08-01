@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you summon an {{TRIBE:ARACHNID|1}}, gain +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{RARITY:TOKEN}} {{TRIBE:ARACHNID|1}} from your deck."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever you summon an {{TRIBE:ARACHNID|1}}, gain +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{RARITY:TOKEN}} {{TRIBE:ARACHNID|1}} from your deck.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever you summon an {{TRIBE:ARACHNID|1}}, gain +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{RARITY:TOKEN}} {{TRIBE:ARACHNID|1}} from your deck."
       }
     }
   }

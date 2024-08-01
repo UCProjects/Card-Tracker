@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: Draw {{SWITCH_LEFT:1|a monster}} or {{SWITCH_RIGHT:1|a spell}} from your deck."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: Draw {{SWITCH_LEFT:1|a monster}} or {{SWITCH_RIGHT:1|a spell}} from your deck.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:SWITCH}}: Draw {{SWITCH_LEFT:1|a monster}} or {{SWITCH_RIGHT:1|a spell}} from your deck."
       }
     }
   }

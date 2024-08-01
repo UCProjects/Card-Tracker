@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:SHOCK}}: Fill your board with {{CARD:359|2}}. This takes 2 {{DMG}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:SHOCK}}: Fill your board with {{CARD:359|2}}. This takes 2 {{DMG}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:SHOCK}}: Fill your board with {{CARD:359|2}}. This takes 2 {{DMG}}."
       }
     }
   }

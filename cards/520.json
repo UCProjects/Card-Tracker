@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you summon a monster with a base {{COST}} less than this, trigger its {{KW:DUST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever you summon a monster with a base {{COST}} less than this, trigger its {{KW:DUST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever you summon a monster with a base {{COST}} less than this, trigger its {{KW:DUST}}."
       }
     }
   }

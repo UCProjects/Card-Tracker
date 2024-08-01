@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever this attacks a monster, {{KW:SILENCE}} it. {{KW:MAGIC}}: If you have equal or less monsters than the opponent, gain {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever this attacks a monster, {{KW:SILENCE}} it. {{KW:MAGIC}}: If you have equal or less monsters than the opponent, gain {{KW:HASTE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever this attacks a monster, {{KW:SILENCE}} it. {{KW:MAGIC}}: If you have equal or less monsters than the opponent, gain {{KW:HASTE}}."
       }
     }
   }

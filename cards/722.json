@@ -22,15 +22,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Lose 6 {{GOLD}}. The enemy gains 6 {{GOLD}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Lose 6 {{GOLD}}. The enemy gains 6 {{GOLD}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Lose 6 {{GOLD}}. The enemy gains 6 {{GOLD}}."
       }
     }
   }

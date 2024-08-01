@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Summon a {{STATS:1|1}} exact copy of a {{TRIBE:PLUG|1}} from your hand. Copy any stat buffs it had."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Summon a {{STATS:1|1}} exact copy of a {{TRIBE:PLUG|1}} from your hand. Copy any stat buffs it had.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Summon a {{STATS:1|1}} exact copy of a {{TRIBE:PLUG|1}} from your hand. Copy any stat buffs it had."
       }
     }
   }

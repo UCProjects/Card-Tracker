@@ -26,15 +26,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Give all ally monsters {{KW:HASTE}} and {{KW:INVULNERABLE}} for this turn."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Give all ally monsters {{KW:HASTE}} and {{KW:INVULNERABLE}} for this turn.",
-        "prev": ""
+        "now": "",
+        "prev": "Give all ally monsters {{KW:HASTE}} and {{KW:INVULNERABLE}} for this turn."
       }
     }
   }

@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of all other different {{TRIBE:TEMMIE|2}} from your dustpile to your hand (from cheapest to most expensive)."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of all other different {{TRIBE:TEMMIE|2}} from your dustpile to your hand (from cheapest to most expensive).",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of all other different {{TRIBE:TEMMIE|2}} from your dustpile to your hand (from cheapest to most expensive)."
       }
     }
   }

@@ -26,15 +26,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Shuffle your hand back into your deck. Then, draw 4 cards and give them -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Shuffle your hand back into your deck. Then, draw 4 cards and give them -1 {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Shuffle your hand back into your deck. Then, draw 4 cards and give them -1 {{COST}}."
       }
     }
   }

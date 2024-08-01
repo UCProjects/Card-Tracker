@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DELAY}}: Add a {{CARD:511|1}} to your hand. If you have less {{HP}} than the opponent, give it -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DELAY}}: Add a {{CARD:511|1}} to your hand. If you have less {{HP}} than the opponent, give it -1 {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DELAY}}: Add a {{CARD:511|1}} to your hand. If you have less {{HP}} than the opponent, give it -1 {{COST}}."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} {{KW:TAUNT}} monsters and choose one. Add it to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} {{KW:TAUNT}} monsters and choose one. Add it to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} {{KW:TAUNT}} monsters and choose one. Add it to your hand."
       }
     }
   }

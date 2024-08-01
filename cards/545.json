@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:NEED}}: 7+ 7-{{COST}} or 7-{{HP}} monsters in your Dustpile. {{KW:MAGIC}}: {{KW:BURN}} 5 of them to add {{CARD:613|1}} to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:NEED}}: 7+ 7-{{COST}} or 7-{{HP}} monsters in your Dustpile. {{KW:MAGIC}}: {{KW:BURN}} 5 of them to add {{CARD:613|1}} to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:NEED}}: 7+ 7-{{COST}} or 7-{{HP}} monsters in your Dustpile. {{KW:MAGIC}}: {{KW:BURN}} 5 of them to add {{CARD:613|1}} to your hand."
       }
     }
   }

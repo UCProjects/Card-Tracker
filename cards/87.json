@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": "{{KW:LOOP}} (1). Give a monster {{KR}}. Draw a card."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (1). Give a monster {{KR}}. Draw a card.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:LOOP}} (1). Give a monster {{KR}}. Draw a card."
       }
     }
   }

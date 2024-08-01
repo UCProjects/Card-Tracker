@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a {{KW:HASTE}} monster in your hand +1 {{ATK}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a {{KW:HASTE}} monster in your hand +1 {{ATK}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a {{KW:HASTE}} monster in your hand +1 {{ATK}}."
       }
     }
   }

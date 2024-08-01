@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Turn a non-{{RARITY:DETERMINATION}} monster into a {{CARD:373|1}} with the same stats."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Turn a non-{{RARITY:DETERMINATION}} monster into a {{CARD:373|1}} with the same stats.",
-        "prev": ""
+        "now": "",
+        "prev": "Turn a non-{{RARITY:DETERMINATION}} monster into a {{CARD:373|1}} with the same stats."
       }
     }
   }

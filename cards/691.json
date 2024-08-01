@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Draw a card. Send your hand to your deck and draw the same number of cards."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Draw a card. Send your hand to your deck and draw the same number of cards.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Draw a card. Send your hand to your deck and draw the same number of cards."
       }
     }
   }

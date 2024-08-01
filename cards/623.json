@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Draw a card."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Draw a card.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Draw a card."
       }
     }
   }

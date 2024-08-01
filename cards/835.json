@@ -40,15 +40,15 @@
     "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DODGE}} (1). {{KW:BULLSEYE}}: Summon a {{CARD:352|1}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DODGE}} (1). {{KW:BULLSEYE}}: Summon a {{CARD:352|1}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DODGE}} (1). {{KW:BULLSEYE}}: Summon a {{CARD:352|1}}."
       }
     }
   }

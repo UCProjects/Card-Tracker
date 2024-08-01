@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon two {{CARD:355|2}}. {{KW:SYNERGY}}: Summon two {{STATS:2|2}} {{CARD:355|2}} instead."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon two {{CARD:355|2}}. {{KW:SYNERGY}}: Summon two {{STATS:2|2}} {{CARD:355|2}} instead.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon two {{CARD:355|2}}. {{KW:SYNERGY}}: Summon two {{STATS:2|2}} {{CARD:355|2}} instead."
       }
     }
   }

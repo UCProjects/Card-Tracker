@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Give all ally {{TRIBE:FROGGIT|2}} (except {{CARD:24|1}}) {{STATS:+1|+1}} wherever they are."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give all ally {{TRIBE:FROGGIT|2}} (except {{CARD:24|1}}) {{STATS:+1|+1}} wherever they are.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give all ally {{TRIBE:FROGGIT|2}} (except {{CARD:24|1}}) {{STATS:+1|+1}} wherever they are."
       }
     }
   }

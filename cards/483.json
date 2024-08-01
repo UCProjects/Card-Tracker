@@ -27,15 +27,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:BURN}} your dustpile. For every 7 monsters burned, summon the next {{TRIBE:LOST_SOUL|1}} with {{STATS:+1|+1}}, {{KW:HASTE}} and {{KW:TAUNT}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:BURN}} your dustpile. For every 7 monsters burned, summon the next {{TRIBE:LOST_SOUL|1}} with {{STATS:+1|+1}}, {{KW:HASTE}} and {{KW:TAUNT}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:BURN}} your dustpile. For every 7 monsters burned, summon the next {{TRIBE:LOST_SOUL|1}} with {{STATS:+1|+1}}, {{KW:HASTE}} and {{KW:TAUNT}}."
       }
     }
   }

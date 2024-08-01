@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": "{{KW:LOOP}} (1). {{KW:DELAY}}: Give the copy this card's stat buffs."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (1). {{KW:DELAY}}: Give the copy this card's stat buffs.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:LOOP}} (1). {{KW:DELAY}}: Give the copy this card's stat buffs."
       }
     }
   }

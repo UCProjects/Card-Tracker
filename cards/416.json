@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}."
       }
     }
   }

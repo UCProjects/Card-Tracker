@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TURN_START}}: Turn into {{CARD:842|1}} and set its base {{HP}} to this card's remaining {{HP}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TURN_START}}: Turn into {{CARD:842|1}} and set its base {{HP}} to this card's remaining {{HP}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TURN_START}}: Turn into {{CARD:842|1}} and set its base {{HP}} to this card's remaining {{HP}}."
       }
     }
   }

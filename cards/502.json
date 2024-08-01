@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 2,
-    "description": "{{KW:MAGIC}}: {{KW:CATCH}} a copy of a non-{{RARITY:DETERMINATION}} ally monster. {{KW:PROGRAM}} (2): Gain {{KW:HASTE}}. {{KW:DUST}}: Release a {{STATS:1|1|1}} copy of it to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:CATCH}} a copy of a non-{{RARITY:DETERMINATION}} ally monster. {{KW:PROGRAM}} (2): Gain {{KW:HASTE}}. {{KW:DUST}}: Release a {{STATS:1|1|1}} copy of it to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:CATCH}} a copy of a non-{{RARITY:DETERMINATION}} ally monster. {{KW:PROGRAM}} (2): Gain {{KW:HASTE}}. {{KW:DUST}}: Release a {{STATS:1|1|1}} copy of it to your hand."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:NEED}}: This is non-{{KW:GENERATED}} and you have no other cards in your hand or deck. {{KW:MAGIC}}: Gain {{STATS:+90|+90}} and {{KW:CHARGE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:NEED}}: This is non-{{KW:GENERATED}} and you have no other cards in your hand or deck. {{KW:MAGIC}}: Gain {{STATS:+90|+90}} and {{KW:CHARGE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: This is non-{{KW:GENERATED}} and you have no other cards in your hand or deck. {{KW:MAGIC}}: Gain {{STATS:+90|+90}} and {{KW:CHARGE}}."
       }
     }
   }

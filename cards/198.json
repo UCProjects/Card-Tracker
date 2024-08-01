@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Turn a monster into a random other monster of the same {{COST}}."
       }
     }
   }

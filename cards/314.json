@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Give an ally monster {{STATS:+1|+2}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give an ally monster {{STATS:+1|+2}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give an ally monster {{STATS:+1|+2}}."
       }
     }
   }

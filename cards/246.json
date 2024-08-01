@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand."
       }
     }
   }

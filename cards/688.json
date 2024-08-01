@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:CANDY}}. {{KW:CHARGE}}. Carefully constructed through a successful {{ARTIFACT:36}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:CANDY}}. {{KW:CHARGE}}. Carefully constructed through a successful {{ARTIFACT:36}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:CANDY}}. {{KW:CHARGE}}. Carefully constructed through a successful {{ARTIFACT:36}}."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{KW:HASTE}}}} or {{SWITCH_RIGHT:1|Give the next 2 monsters in your deck {{STATS:+1|+1}}}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{KW:HASTE}}}} or {{SWITCH_RIGHT:1|Give the next 2 monsters in your deck {{STATS:+1|+1}}}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{KW:HASTE}}}} or {{SWITCH_RIGHT:1|Give the next 2 monsters in your deck {{STATS:+1|+1}}}}."
       }
     }
   }

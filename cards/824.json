@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Summon a {{CARD:825|1}} and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: Regain this {{KW:SHOCK}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Summon a {{CARD:825|1}} and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: Regain this {{KW:SHOCK}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Summon a {{CARD:825|1}} and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: Regain this {{KW:SHOCK}}."
       }
     }
   }

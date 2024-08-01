@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card.",
-        "prev": ""
+        "now": "",
+        "prev": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card."
       }
     }
   }

@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Add an exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into {{CARD:553|1}} (keeps buffs)."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Add an exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into {{CARD:553|1}} (keeps buffs).",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Add an exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into {{CARD:553|1}} (keeps buffs)."
       }
     }
   }

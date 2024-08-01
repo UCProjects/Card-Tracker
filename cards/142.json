@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever an enemy monster tries to attack, first deal 1 {{DMG}} to it."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever an enemy monster tries to attack, first deal 1 {{DMG}} to it.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever an enemy monster tries to attack, first deal 1 {{DMG}} to it."
       }
     }
   }

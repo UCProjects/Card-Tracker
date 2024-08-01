@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Give all ally monsters +1 {{ATK}}. Deal 1 {{DMG}} to all enemy monsters."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Give all ally monsters +1 {{ATK}}. Deal 1 {{DMG}} to all enemy monsters.",
-        "prev": ""
+        "now": "",
+        "prev": "Give all ally monsters +1 {{ATK}}. Deal 1 {{DMG}} to all enemy monsters."
       }
     }
   }

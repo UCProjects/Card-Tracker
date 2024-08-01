@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "The opponent takes 2 less {{DMG}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "The opponent takes 2 less {{DMG}}.",
-        "prev": ""
+        "now": "",
+        "prev": "The opponent takes 2 less {{DMG}}."
       }
     }
   }

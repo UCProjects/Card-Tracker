@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Look at 5 random different monsters (max. {{RARITY:EPIC}}) costing 4-5 {{GOLD}} and choose one. Add it to your hand with +1 {{HP}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Look at 5 random different monsters (max. {{RARITY:EPIC}}) costing 4-5 {{GOLD}} and choose one. Add it to your hand with +1 {{HP}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Look at 5 random different monsters (max. {{RARITY:EPIC}}) costing 4-5 {{GOLD}} and choose one. Add it to your hand with +1 {{HP}}."
       }
     }
   }

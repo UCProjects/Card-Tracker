@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Swap your deck and dustpile. If your dustpile had more cards, take {{DMG}} and lose max {{HP}} equal to the difference."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Swap your deck and dustpile. If your dustpile had more cards, take {{DMG}} and lose max {{HP}} equal to the difference.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Swap your deck and dustpile. If your dustpile had more cards, take {{DMG}} and lose max {{HP}} equal to the difference."
       }
     }
   }

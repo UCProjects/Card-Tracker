@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Heal 7 {{HP}} to an ally monster. Excess healing is dealt as {{DMG}} to the monster in front of this."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Heal 7 {{HP}} to an ally monster. Excess healing is dealt as {{DMG}} to the monster in front of this.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Heal 7 {{HP}} to an ally monster. Excess healing is dealt as {{DMG}} to the monster in front of this."
       }
     }
   }

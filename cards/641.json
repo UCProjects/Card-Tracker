@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Remove an ally monster's negative effects and give it {{KW:TAUNT}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Remove an ally monster's negative effects and give it {{KW:TAUNT}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Remove an ally monster's negative effects and give it {{KW:TAUNT}}."
       }
     }
   }

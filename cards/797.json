@@ -22,15 +22,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Deal 3 {{DMG}} To All Enemies."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Deal 3 {{DMG}} To All Enemies.",
-        "prev": ""
+        "now": "",
+        "prev": "Deal 3 {{DMG}} To All Enemies."
       }
     }
   }

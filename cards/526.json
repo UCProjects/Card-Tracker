@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent.",
-        "prev": ""
+        "now": "",
+        "prev": "This takes 1 less {{DMG}} during your opponent's turn. Whenever this takes {{DMG}}, deal 1 {{DMG}} to your opponent."
       }
     }
   }

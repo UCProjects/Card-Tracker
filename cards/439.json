@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Summon a silenced copy of this with 1 {{HP}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Summon a silenced copy of this with 1 {{HP}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DUST}}: Summon a silenced copy of this with 1 {{HP}}."
       }
     }
   }

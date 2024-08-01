@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 1,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (1): Earn 1 {{GOLD}} for every {{KW:GENERATED}} monster in your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (1): Earn 1 {{GOLD}} for every {{KW:GENERATED}} monster in your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (1): Earn 1 {{GOLD}} for every {{KW:GENERATED}} monster in your hand."
       }
     }
   }

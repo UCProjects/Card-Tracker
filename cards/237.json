@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TURBO}}: If this is {{KW:GENERATED}}, deal 4 {{DMG}} to you. {{KW:DUST}}: Add a {{CARD:237|1}} to the enemy deck."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TURBO}}: If this is {{KW:GENERATED}}, deal 4 {{DMG}} to you. {{KW:DUST}}: Add a {{CARD:237|1}} to the enemy deck.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TURBO}}: If this is {{KW:GENERATED}}, deal 4 {{DMG}} to you. {{KW:DUST}}: Add a {{CARD:237|1}} to the enemy deck."
       }
     }
   }

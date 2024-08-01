@@ -20,15 +20,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "DEAL 99 {{DMG}} TO ALL ALLIES 99 TIMES!"
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "DEAL 99 {{DMG}} TO ALL ALLIES 99 TIMES!",
-        "prev": ""
+        "now": "",
+        "prev": "DEAL 99 {{DMG}} TO ALL ALLIES 99 TIMES!"
       }
     }
   }

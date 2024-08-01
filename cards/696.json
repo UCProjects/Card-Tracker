@@ -20,15 +20,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Summon {{CARD:688|1}}, earn 7 {{GOLD}}, deal 7 {{DMG}} to all enemies, heal 7 {{HP}} to all allies, and add 7 {{CARD:577|7}} to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Summon {{CARD:688|1}}, earn 7 {{GOLD}}, deal 7 {{DMG}} to all enemies, heal 7 {{HP}} to all allies, and add 7 {{CARD:577|7}} to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "Summon {{CARD:688|1}}, earn 7 {{GOLD}}, deal 7 {{DMG}} to all enemies, heal 7 {{HP}} to all allies, and add 7 {{CARD:577|7}} to your hand."
       }
     }
   }

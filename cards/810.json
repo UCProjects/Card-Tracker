@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TRANSPARENCY}}. After a non-{{RARITY:TOKEN}} spell is played, deal 3 {{DMG}} to the spell's owner."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TRANSPARENCY}}. After a non-{{RARITY:TOKEN}} spell is played, deal 3 {{DMG}} to the spell's owner.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TRANSPARENCY}}. After a non-{{RARITY:TOKEN}} spell is played, deal 3 {{DMG}} to the spell's owner."
       }
     }
   }

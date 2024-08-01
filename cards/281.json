@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Draw a {{TRIBE:TEMMIE|1}} and give it {{STATS:+1|+1}}. If you can't, gain {{STATS:+1|+1}} and {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:TEMMIE|1}} and give it {{STATS:+1|+1}}. If you can't, gain {{STATS:+1|+1}} and {{KW:HASTE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Draw a {{TRIBE:TEMMIE|1}} and give it {{STATS:+1|+1}}. If you can't, gain {{STATS:+1|+1}} and {{KW:HASTE}}."
       }
     }
   }

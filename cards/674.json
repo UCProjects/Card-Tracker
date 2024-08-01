@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:ARMOR}}. {{KW:NEED}}: You played 3+ {{RARITY:TOKEN}} cards with a base cost of 3+ {{GOLD}} this game. {{KW:MAGIC}}: Summon a {{CARD:674|1}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:ARMOR}}. {{KW:NEED}}: You played 3+ {{RARITY:TOKEN}} cards with a base cost of 3+ {{GOLD}} this game. {{KW:MAGIC}}: Summon a {{CARD:674|1}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:ARMOR}}. {{KW:NEED}}: You played 3+ {{RARITY:TOKEN}} cards with a base cost of 3+ {{GOLD}} this game. {{KW:MAGIC}}: Summon a {{CARD:674|1}}."
       }
     }
   }

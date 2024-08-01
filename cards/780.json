@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:ARMOR}}. Whenever this takes {{DMG}}, add a random {{TRIBE:CHAOS_WEAPON}} to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:ARMOR}}. Whenever this takes {{DMG}}, add a random {{TRIBE:CHAOS_WEAPON}} to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:ARMOR}}. Whenever this takes {{DMG}}, add a random {{TRIBE:CHAOS_WEAPON}} to your hand."
       }
     }
   }

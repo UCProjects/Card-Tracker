@@ -1,0 +1,52 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 6,
+    "originalHp": 7,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": false,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 847,
+    "fixedId": 847,
+    "typeCard": 0,
+    "name": "Fortune Teller",
+    "image": "Fortune_Teller",
+    "baseImage": "Fortune_Teller",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

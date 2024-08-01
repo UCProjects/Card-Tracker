@@ -21,15 +21,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Give an ally monster {{STATS:+1|+1}} and draw a card."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Give an ally monster {{STATS:+1|+1}} and draw a card.",
-        "prev": ""
+        "now": "",
+        "prev": "Give an ally monster {{STATS:+1|+1}} and draw a card."
       }
     }
   }

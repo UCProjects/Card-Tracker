@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever this attacks and kills a monster, deal excess {{DMG}} dealt to the opponent."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever this attacks and kills a monster, deal excess {{DMG}} dealt to the opponent.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever this attacks and kills a monster, deal excess {{DMG}} dealt to the opponent."
       }
     }
   }

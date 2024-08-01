@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have 5 or more cards in your hand, gain {{KW:TAUNT}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have 5 or more cards in your hand, gain {{KW:TAUNT}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have 5 or more cards in your hand, gain {{KW:TAUNT}}."
       }
     }
   }

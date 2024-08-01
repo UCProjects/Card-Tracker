@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 1,
     "program": 0,
-    "description": "{{KW:LOOP}} (1). {{KW:MAGIC}}: {{KW:SWITCH}}: Give an enemy monster {{SWITCH_LEFT:1|-2 {{ATK}}}} and the copy {{SWITCH_LEFT:1|+2 {{ATK}}}} or {{SWITCH_RIGHT:1|-2 {{HP}}}} and {{SWITCH_RIGHT:1|+2 {{HP}}}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: {{KW:SWITCH}}: Give an enemy monster {{SWITCH_LEFT:1|-2 {{ATK}}}} and the copy {{SWITCH_LEFT:1|+2 {{ATK}}}} or {{SWITCH_RIGHT:1|-2 {{HP}}}} and {{SWITCH_RIGHT:1|+2 {{HP}}}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:LOOP}} (1). {{KW:MAGIC}}: {{KW:SWITCH}}: Give an enemy monster {{SWITCH_LEFT:1|-2 {{ATK}}}} and the copy {{SWITCH_LEFT:1|+2 {{ATK}}}} or {{SWITCH_RIGHT:1|-2 {{HP}}}} and {{SWITCH_RIGHT:1|+2 {{HP}}}}."
       }
     }
   }

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 2,
-    "description": "{{KW:MAGIC}}: Give all enemy monsters {{KR}}. {{KW:PROGRAM}} (2): Give them {{STATS:-1|-1}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Give all enemy monsters {{KR}}. {{KW:PROGRAM}} (2): Give them {{STATS:-1|-1}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Give all enemy monsters {{KR}}. {{KW:PROGRAM}} (2): Give them {{STATS:-1|-1}}."
       }
     }
   }

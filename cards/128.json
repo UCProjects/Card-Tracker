@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Summon 2 {{CARD:2|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If both are dead, add one to your hand with -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Summon 2 {{CARD:2|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If both are dead, add one to your hand with -1 {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Summon 2 {{CARD:2|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If both are dead, add one to your hand with -1 {{COST}}."
       }
     }
   }

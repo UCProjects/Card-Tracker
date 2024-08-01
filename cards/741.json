@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Add a copy of all other non-{{RARITY:DETERMINATION}} enemy monsters on the board to your hand. They cost 2 less."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Add a copy of all other non-{{RARITY:DETERMINATION}} enemy monsters on the board to your hand. They cost 2 less.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Add a copy of all other non-{{RARITY:DETERMINATION}} enemy monsters on the board to your hand. They cost 2 less."
       }
     }
   }

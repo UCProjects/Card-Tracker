@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you summon a monster costing 2 or more {{GOLD}}, earn 1 {{GOLD}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever you summon a monster costing 2 or more {{GOLD}}, earn 1 {{GOLD}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever you summon a monster costing 2 or more {{GOLD}}, earn 1 {{GOLD}}."
       }
     }
   }

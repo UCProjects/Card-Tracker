@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: {{KW:BURN}} the cheapest non-{{KW:GENERATED}} card in your hand to deal 3 {{DMG}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:BURN}} the cheapest non-{{KW:GENERATED}} card in your hand to deal 3 {{DMG}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:BURN}} the cheapest non-{{KW:GENERATED}} card in your hand to deal 3 {{DMG}}."
       }
     }
   }

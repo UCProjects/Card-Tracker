@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Gain +{{ATK:1}} for each other ally monster."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Gain +{{ATK:1}} for each other ally monster.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Gain +{{ATK:1}} for each other ally monster."
       }
     }
   }

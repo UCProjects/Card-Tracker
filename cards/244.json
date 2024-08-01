@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the leftmost and rightmost living enemy monsters."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the leftmost and rightmost living enemy monsters.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the leftmost and rightmost living enemy monsters."
       }
     }
   }

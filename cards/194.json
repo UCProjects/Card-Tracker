@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Kill an ally monster to gain {{KW:HASTE}} and {{KW:CANDY}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Kill an ally monster to gain {{KW:HASTE}} and {{KW:CANDY}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Kill an ally monster to gain {{KW:HASTE}} and {{KW:CANDY}}."
       }
     }
   }

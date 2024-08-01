@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Send an enemy monster to the top of the opponent's deck."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Send an enemy monster to the top of the opponent's deck.",
-        "prev": ""
+        "now": "",
+        "prev": "Send an enemy monster to the top of the opponent's deck."
       }
     }
   }

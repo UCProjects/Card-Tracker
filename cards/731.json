@@ -24,15 +24,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Draw 3 monsters. Give them +2 {{HP}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Draw 3 monsters. Give them +2 {{HP}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Draw 3 monsters. Give them +2 {{HP}}."
       }
     }
   }

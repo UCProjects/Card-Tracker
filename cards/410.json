@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Look at 3 random monsters costing 3 or less {{GOLD}} in your dustpile and choose one. Summon it."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random monsters costing 3 or less {{GOLD}} in your dustpile and choose one. Summon it.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Look at 3 random monsters costing 3 or less {{GOLD}} in your dustpile and choose one. Summon it."
       }
     }
   }

@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 2,
     "program": 0,
-    "description": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Heal 2 {{HP}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Heal 2 {{HP}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Heal 2 {{HP}}."
       }
     }
   }

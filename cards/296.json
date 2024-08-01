@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. If you spent {{GOLD}} on spells last turn, summon another."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. If you spent {{GOLD}} on spells last turn, summon another.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. If you spent {{GOLD}} on spells last turn, summon another."
       }
     }
   }

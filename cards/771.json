@@ -20,15 +20,15 @@
     "bullseyeEnabled": false,
     "loop": 2,
     "program": 0,
-    "description": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL (max. {{RARITY:RARE}}) and choose one. {{KW:DELAY}}: Add it to your hand."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL (max. {{RARITY:RARE}}) and choose one. {{KW:DELAY}}: Add it to your hand.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL (max. {{RARITY:RARE}}) and choose one. {{KW:DELAY}}: Add it to your hand."
       }
     }
   }

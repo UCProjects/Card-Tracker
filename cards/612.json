@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "After an ally monster dies (except {{CARD:612|1}}), summon a copy of it and {{KW:SILENCE}} this."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "After an ally monster dies (except {{CARD:612|1}}), summon a copy of it and {{KW:SILENCE}} this.",
-        "prev": ""
+        "now": "",
+        "prev": "After an ally monster dies (except {{CARD:612|1}}), summon a copy of it and {{KW:SILENCE}} this."
       }
     }
   }

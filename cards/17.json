@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "After this attacks and survives, heal this by the amount of {{DMG}} dealt."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "After this attacks and survives, heal this by the amount of {{DMG}} dealt.",
-        "prev": ""
+        "now": "",
+        "prev": "After this attacks and survives, heal this by the amount of {{DMG}} dealt."
       }
     }
   }

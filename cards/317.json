@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:DUST}}: Add 2 {{CARD:375|2}} with {{KW:HASTE}} to your hand. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:DUST}}: Add 2 {{CARD:375|2}} with {{KW:HASTE}} to your hand. {{KW:SYNERGY}}: Gain {{KW:HASTE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:DUST}}: Add 2 {{CARD:375|2}} with {{KW:HASTE}} to your hand. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
       }
     }
   }

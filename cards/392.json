@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Whenever you summon a {{TRIBE:PLANT|1}}, gain +1 {{HP}}."
       }
     }
   }

@@ -20,15 +20,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:SILENCE}} all enemy {{CARD:287|2}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:SILENCE}} all enemy {{CARD:287|2}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:SILENCE}} all enemy {{CARD:287|2}}."
       }
     }
   }

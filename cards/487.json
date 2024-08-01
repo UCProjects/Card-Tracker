@@ -26,15 +26,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less.",
-        "prev": ""
+        "now": "",
+        "prev": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less."
       }
     }
   }

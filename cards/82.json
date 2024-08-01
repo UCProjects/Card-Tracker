@@ -10,9 +10,9 @@
     "name": "Mercenary Hire",
     "image": "Mercenary_Hire",
     "baseImage": "Mercenary_Hire",
-    "cost": 8,
+    "cost": 12,
     "rarity": "EPIC",
-    "originalCost": 8,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,15 +24,23 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Summon copies of your non-{{RARITY:DETERMINATION}} monsters on the board. {{KW:DELAY}}: Add any that didn't fit to your hand with -1 {{COST}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 8
+      },
       "description": {
-        "now": "Summon copies of your non-{{RARITY:DETERMINATION}} monsters on the board. {{KW:DELAY}}: Add any that didn't fit to your hand with -1 {{COST}}.",
-        "prev": ""
+        "now": "",
+        "prev": "Summon copies of your non-{{RARITY:DETERMINATION}} monsters on the board. {{KW:DELAY}}: Add any that didn't fit to your hand with -1 {{COST}}."
       }
     }
   }

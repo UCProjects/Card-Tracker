@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 2,
-    "description": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, it can attack another monster. {{KW:MAGIC}}: {{KW:PROGRAM}} (2): Gain {{KW:ARMOR}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, it can attack another monster. {{KW:MAGIC}}: {{KW:PROGRAM}} (2): Gain {{KW:ARMOR}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:CHARGE}}. Whenever this attacks and kills a monster, it can attack another monster. {{KW:MAGIC}}: {{KW:PROGRAM}} (2): Gain {{KW:ARMOR}}."
       }
     }
   }

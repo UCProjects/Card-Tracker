@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:DELAY}}: Draw a {{TRIBE:DOG|1}}. {{KW:DUST}}: Draw a card."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Draw a {{TRIBE:DOG|1}}. {{KW:DUST}}: Draw a card.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:DELAY}}: Draw a {{TRIBE:DOG|1}}. {{KW:DUST}}: Draw a card."
       }
     }
   }

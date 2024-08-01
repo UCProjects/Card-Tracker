@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Kill an enemy monster. Summon a {{CARD:739|1}} for your opponent."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Kill an enemy monster. Summon a {{CARD:739|1}} for your opponent.",
-        "prev": ""
+        "now": "",
+        "prev": "Kill an enemy monster. Summon a {{CARD:739|1}} for your opponent."
       }
     }
   }

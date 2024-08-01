@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:ARMOR}}. {{KW:MAGIC}}: Trigger the {{KW:DUST}} effects of all non-{{RARITY:TOKEN}} monsters costing 9 or less {{GOLD}} in your Dustpile."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:ARMOR}}. {{KW:MAGIC}}: Trigger the {{KW:DUST}} effects of all non-{{RARITY:TOKEN}} monsters costing 9 or less {{GOLD}} in your Dustpile.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:ARMOR}}. {{KW:MAGIC}}: Trigger the {{KW:DUST}} effects of all non-{{RARITY:TOKEN}} monsters costing 9 or less {{GOLD}} in your Dustpile."
       }
     }
   }

@@ -41,15 +41,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster for each other monster on the board. If this deals 3 or less {{DMG}}, gain {{KW:HASTE}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster for each other monster on the board. If this deals 3 or less {{DMG}}, gain {{KW:HASTE}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster for each other monster on the board. If this deals 3 or less {{DMG}}, gain {{KW:HASTE}}."
       }
     }
   }

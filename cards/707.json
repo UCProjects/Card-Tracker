@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Fill your board with {{CARD:708|2}} and enemy board with {{CARD:709|2}}. {{KW:DELAY}}: Kill all {{CARD:708|2}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Fill your board with {{CARD:708|2}} and enemy board with {{CARD:709|2}}. {{KW:DELAY}}: Kill all {{CARD:708|2}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Fill your board with {{CARD:708|2}} and enemy board with {{CARD:709|2}}. {{KW:DELAY}}: Kill all {{CARD:708|2}}."
       }
     }
   }

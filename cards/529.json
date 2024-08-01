@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "In your hand, this has -1 {{COST}} for each {{TRIBE:PLANT|1}} you've played this game. (max: -9 {{COST}})."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "In your hand, this has -1 {{COST}} for each {{TRIBE:PLANT|1}} you've played this game. (max: -9 {{COST}}).",
-        "prev": ""
+        "now": "",
+        "prev": "In your hand, this has -1 {{COST}} for each {{TRIBE:PLANT|1}} you've played this game. (max: -9 {{COST}})."
       }
     }
   }

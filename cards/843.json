@@ -1,0 +1,52 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "id": 843,
+    "fixedId": 843,
+    "typeCard": 0,
+    "name": "Cardmaster",
+    "image": "Cardmaster",
+    "baseImage": "Cardmaster",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SWITCH}}: Give a {{TRIBE:PLUG|1}} in your hand {{SWITCH_LEFT:1|{{KW:HASTE}}}} or {{SWITCH_RIGHT:1|{{KW:TAUNT}}}}."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SWITCH}}: Give a {{TRIBE:PLUG|1}} in your hand {{SWITCH_LEFT:1|{{KW:HASTE}}}} or {{SWITCH_RIGHT:1|{{KW:TAUNT}}}}.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SWITCH}}: Give a {{TRIBE:PLUG|1}} in your hand {{SWITCH_LEFT:1|{{KW:HASTE}}}} or {{SWITCH_RIGHT:1|{{KW:TAUNT}}}}."
       }
     }
   }

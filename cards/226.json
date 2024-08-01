@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose a card in your hand to {{KW:BURN}} it."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose a card in your hand to {{KW:BURN}} it.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose a card in your hand to {{KW:BURN}} it."
       }
     }
   }

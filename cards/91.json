@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Heal 3 {{HP}}. If this targeted a player, draw a card. If this targeted a monster, remove negative effects from it."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Heal 3 {{HP}}. If this targeted a player, draw a card. If this targeted a monster, remove negative effects from it.",
-        "prev": ""
+        "now": "",
+        "prev": "Heal 3 {{HP}}. If this targeted a player, draw a card. If this targeted a monster, remove negative effects from it."
       }
     }
   }

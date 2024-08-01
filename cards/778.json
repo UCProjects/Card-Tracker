@@ -42,15 +42,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:CHARGE}}. Running over your opponents with the power of luck!"
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:CHARGE}}. Running over your opponents with the power of luck!",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:CHARGE}}. Running over your opponents with the power of luck!"
       }
     }
   }

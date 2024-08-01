@@ -25,15 +25,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "Kill all ally non-{{RARITY:DETERMINATION}} monsters. {{KW:DELAY}}: Summon them again."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "Kill all ally non-{{RARITY:DETERMINATION}} monsters. {{KW:DELAY}}: Summon them again.",
-        "prev": ""
+        "now": "",
+        "prev": "Kill all ally non-{{RARITY:DETERMINATION}} monsters. {{KW:DELAY}}: Summon them again."
       }
     }
   }

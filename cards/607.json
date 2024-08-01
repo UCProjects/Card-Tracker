@@ -40,15 +40,15 @@
     "bullseyeEnabled": false,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all monsters with 9 or more {{COST}} in your {{SWITCH_LEFT:1|hand}} or {{SWITCH_RIGHT:1|deck}} -1 {{COST}}. {{KW:DELAY}}: Draw a card."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all monsters with 9 or more {{COST}} in your {{SWITCH_LEFT:1|hand}} or {{SWITCH_RIGHT:1|deck}} -1 {{COST}}. {{KW:DELAY}}: Draw a card.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all monsters with 9 or more {{COST}} in your {{SWITCH_LEFT:1|hand}} or {{SWITCH_RIGHT:1|deck}} -1 {{COST}}. {{KW:DELAY}}: Draw a card."
       }
     }
   }

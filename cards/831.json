@@ -41,15 +41,15 @@
     "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
-    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. {{KW:BULLSEYE}}: Deal 4 {{DMG}} to everything."
+    "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}}. {{KW:BULLSEYE}}: Deal 4 {{DMG}} to everything.",
-        "prev": ""
+        "now": "",
+        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}}. {{KW:BULLSEYE}}: Deal 4 {{DMG}} to everything."
       }
     }
   }

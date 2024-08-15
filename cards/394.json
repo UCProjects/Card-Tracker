@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{STATS:+1|+1}} and {{KW:ARMOR}}}} or {{SWITCH_RIGHT:1|Summon a copy of this}}."
-      }
-    }
+    "changed": {}
   }
 }

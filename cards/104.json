@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give all other ally monsters {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

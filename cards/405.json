@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}} and {{KW:TURN_START}}: Add a {{CARD:398|1}} to your hand. {{KW:TURN_END}}: {{KW:BURN}} all {{CARD:398|2}} in your hand."
-      }
-    }
+    "changed": {}
   }
 }

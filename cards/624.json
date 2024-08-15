@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you play a card with a base {{COST}} of 1 or more {{GOLD}}, gain {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

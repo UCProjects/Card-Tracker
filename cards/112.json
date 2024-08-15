@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Summon an {{CARD:10}} for the opponent."
-      }
-    }
+    "changed": {}
   }
 }

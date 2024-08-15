@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: 4+ {{CARD:594|4}} in your dustpile. {{KW:MAGIC}}: {{KW:BURN}} them to add 10 {{CARD:595|10}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

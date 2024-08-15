@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain +1 {{HP}} for every enemy monster on the board."
-      }
-    }
+    "changed": {}
   }
 }

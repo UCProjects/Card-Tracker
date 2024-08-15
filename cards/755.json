@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a spell. {{KW:SHOCK}}: Add {{CARD:665|1}} to the enemy deck equal to the spell's {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

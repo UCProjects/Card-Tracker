@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Deal this monster's {{ATK}} as {{DMG}} to all enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

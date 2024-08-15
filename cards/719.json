@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Choose a {{TRIBE:BARGAIN}} to cast. Add a counter to {{ARTIFACT:46}}. {{STYLE:red|Accept the deal or you will DIE!}}"
-      }
-    }
+    "changed": {}
   }
 }

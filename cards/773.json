@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: 7+ monsters in your dustpile. {{KW:MAGIC}}: Gain +3 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

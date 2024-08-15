@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Kill a damaged monster. Heal {{HP}} to you equal to its {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

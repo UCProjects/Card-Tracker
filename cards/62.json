@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the lowest {{HP}} enemy monster 10 times. Summon a {{CARD:574|1}} with base stats equal to {{DMG}} not dealt."
-      }
-    }
+    "changed": {}
   }
 }

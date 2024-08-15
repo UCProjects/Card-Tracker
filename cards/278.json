@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SUPPORT}}: Give the attacker +1 {{HP}}. If its a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well."
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Summon 4 random {{KW:GENERATED}} monsters from your hand. Give them {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

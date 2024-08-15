@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Look at 3 different spells you've cast this game from other SOULS. Add one to your hand with -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

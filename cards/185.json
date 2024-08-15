@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} duplicates. {{KW:MAGIC}}: Draw 3 cards and add 3 random cards to your deck. They cost 1 less {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

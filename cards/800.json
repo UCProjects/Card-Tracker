@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:TURN_START}}: Die to heal 3 {{HP}} to all allies and deal 2 {{DMG}} to all enemies."
-      }
-    }
+    "changed": {}
   }
 }

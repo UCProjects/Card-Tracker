@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DELAY}}: Add a {{CARD:349|1}} to your hand. If this has {{ATK}} buffs, add another one."
-      }
-    }
+    "changed": {}
   }
 }

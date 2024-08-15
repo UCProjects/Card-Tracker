@@ -48,11 +48,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Heal 3 {{HP}}. {{KW:SYNERGY}}: Give all other ally {{TRIBE:G_FOLLOWER|2}} {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

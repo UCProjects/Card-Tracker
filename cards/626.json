@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: You have played 8 other non-{{RARITY:TOKEN}} cards this turn. {{KW:MAGIC}}: Deal 9 {{DMG}} to a monster and the opponent."
-      }
-    }
+    "changed": {}
   }
 }

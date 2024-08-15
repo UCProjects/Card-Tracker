@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Add 2 {{CARD:375|2}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

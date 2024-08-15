@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Return all other non-{{RARITY:DETERMINATION}} ally monsters to your hand. Summon {{CARD:270|2}} with their stats in their places."
-      }
-    }
+    "changed": {}
   }
 }

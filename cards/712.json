@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:PARALYZE}} a monster. {{KW:DUST}}: Deal 3 {{DMG}} to all enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

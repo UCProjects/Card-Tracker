@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 4 {{DMG}} to a monster. Deal 1 extra {{DMG}} for every 3 {{GOLD}} it costs."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever this card gains {{ATK}}, deal that much {{DMG}} to all enemies."
-      }
-    }
+    "changed": {}
   }
 }

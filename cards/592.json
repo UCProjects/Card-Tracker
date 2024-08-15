@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Look at all non-{{RARITY:DETERMINATION}} monsters in the enemy hand and choose one. Halve its {{ATK}} and {{HP}} (rounded down) and add an exact copy to your hand."
-      }
-    }
+    "changed": {}
   }
 }

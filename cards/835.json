@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). {{KW:BULLSEYE}}: Summon a {{CARD:352|1}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} a non-{{RARITY:DETERMINATION}} ally monster and add a silenced copy of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:BURN}} your dustpile. For every 7 monsters burned, summon the next {{TRIBE:LOST_SOUL|1}} with {{STATS:+1|+1}}, {{KW:HASTE}} and {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

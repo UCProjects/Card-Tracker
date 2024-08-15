@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Set the copy's stats to {{STATS:2|3|3}}."
-      }
-    }
+    "changed": {}
   }
 }

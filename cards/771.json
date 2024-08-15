@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL (max. {{RARITY:RARE}}) and choose one. {{KW:DELAY}}: Add it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

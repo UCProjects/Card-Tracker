@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURN_START}}: Attack a random enemy monster if there are any."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Give 4 random {{TRIBE:ROYAl_GUARD|4}} in your hand -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

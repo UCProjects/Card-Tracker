@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: A non-{{RARITY:TOKEN}} spell of another SOUL in your hand. {{KW:MAGIC}}: Summon a {{CARD:175|1}}."
-      }
-    }
+    "changed": {}
   }
 }

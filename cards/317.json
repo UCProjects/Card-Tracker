@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Add 2 {{CARD:375|2}} with {{KW:HASTE}} to your hand. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Summon 4 different 1-{{COST}} {{TRIBE:SNAIL|2}} from your dustpile. Trigger their {{KW:MAGIC}}, then give them +1 {{ATK}}, {{KW:HASTE}}, {{KW:DODGE}} (1)."
-      }
-    }
+    "changed": {}
   }
 }

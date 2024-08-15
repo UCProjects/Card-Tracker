@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Whenever this attacks and kills a monster, {{KW:CATCH}} it. {{KW:DUST}}: Release an ally copy of it with the same base stats as this."
-      }
-    }
+    "changed": {}
   }
 }

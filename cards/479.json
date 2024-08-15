@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:DELAY}}: Attack the monster in front of this."
-      }
-    }
+    "changed": {}
   }
 }

@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at 3 non-{{KW:GENERATED}} monsters in your dustpile and choose one. {{KW:BURN}} it and add a copy of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

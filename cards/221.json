@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:DELAY}}: If this attacked and survived, return it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

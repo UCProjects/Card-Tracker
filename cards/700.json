@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:LOOP}} (1). Deal 1 {{DMG}} to an enemy monster. If it died, summon a {{CARD:701|1}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DELAY}}: If this has {{ATK}} buffs, {{KW:PARALYZE}} the monster in front of this."
-      }
-    }
+    "changed": {}
   }
 }

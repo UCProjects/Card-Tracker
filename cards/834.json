@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:BULLSEYE}}: Fully heal this monster."
-      }
-    }
+    "changed": {}
   }
 }

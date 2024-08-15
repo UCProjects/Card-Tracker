@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an ally monster and the opponent."
-      }
-    }
+    "changed": {}
   }
 }

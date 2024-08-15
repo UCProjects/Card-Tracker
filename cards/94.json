@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all ally monsters with 4 or less {{HP}} +2 {{HP}}. {{KW:DELAY}}: Give all ally monsters with 4 or less {{ATK}} +2 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

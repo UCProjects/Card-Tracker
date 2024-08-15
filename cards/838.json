@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:ARMOR}}. {{KW:MAGIC}}: Trigger the {{KW:DUST}} effects of all non-{{RARITY:TOKEN}} monsters costing 9 or less {{GOLD}} in your Dustpile."
-      }
-    }
+    "changed": {}
   }
 }

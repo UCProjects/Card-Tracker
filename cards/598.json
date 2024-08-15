@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 1 {{DMG}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Whenever this attacks and kills a monster, add a {{CARD:668|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

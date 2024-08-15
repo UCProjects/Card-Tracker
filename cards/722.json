@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Lose 6 {{GOLD}}. The enemy gains 6 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

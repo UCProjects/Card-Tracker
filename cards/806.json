@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever a non-{{KW:GENERATED}} monster dies, deal 1 {{DMG}} to your opponent."
-      }
-    }
+    "changed": {}
   }
 }

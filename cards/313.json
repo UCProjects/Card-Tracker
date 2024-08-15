@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 18+ non-{{RARITY:TOKEN}} {{TRIBE:PIECE|2}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:728|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

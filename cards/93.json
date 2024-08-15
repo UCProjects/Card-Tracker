@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all ally monsters +2 {{HP}} and draw a card. {{KW:PROGRAM}} (2): Give ally monsters in hand +2 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

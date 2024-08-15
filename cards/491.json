@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add a copy of a random other ally {{TRIBE:MOLD|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

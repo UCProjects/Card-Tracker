@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 5 {{DMG}} to an enemy monster. Deal the excess {{DMG}} to another random enemy one."
-      }
-    }
+    "changed": {}
   }
 }

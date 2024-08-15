@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an enemy monster is played or attacks during the enemy turn, give the opponent -2 {{HP}}. {{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

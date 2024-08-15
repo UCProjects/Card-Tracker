@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (1): Add a copy of 2 random {{RARITY:BASE}} monsters from your dustpile to your hand with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

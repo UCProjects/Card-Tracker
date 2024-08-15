@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Kill an enemy monster. Summon a {{CARD:739|1}} for your opponent."
-      }
-    }
+    "changed": {}
   }
 }

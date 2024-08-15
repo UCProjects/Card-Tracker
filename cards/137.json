@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:ARMOR}}. After this survives {{DMG}} during your turn, summon a {{CARD:137|1}}."
-      }
-    }
+    "changed": {}
   }
 }

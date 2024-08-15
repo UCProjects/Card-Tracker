@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}} and {{KW:TRANSPARENCY}}."
-      }
-    }
+    "changed": {}
   }
 }

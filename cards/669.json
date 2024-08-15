@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give an enemy monster -3 {{ATK}}. {{KW:DELAY}}: If it's dead, add a {{CARD:670|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

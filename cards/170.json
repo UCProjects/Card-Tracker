@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon 3 {{CARD:706|3}}."
-      }
-    }
+    "changed": {}
   }
 }

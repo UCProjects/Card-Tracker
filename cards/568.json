@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand."
-      }
-    }
+    "changed": {}
   }
 }

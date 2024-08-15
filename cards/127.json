@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}} and {{KW:DUST}}: Add the {{RARITY:BASE}} spell of your SOUL to your hand."
-      }
-    }
+    "changed": {}
   }
 }

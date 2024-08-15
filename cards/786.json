@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:BURN}} up to 9 monsters in your dustpile. Draw a card for each 3 burned."
-      }
-    }
+    "changed": {}
   }
 }

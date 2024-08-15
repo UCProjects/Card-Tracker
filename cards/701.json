@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: If this died during the enemy turn, give its killer {{STATS:-1|-1}}."
-      }
-    }
+    "changed": {}
   }
 }

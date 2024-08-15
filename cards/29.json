@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:BURN}} the cheapest non-{{KW:GENERATED}} card in your hand to deal 3 {{DMG}}."
-      }
-    }
+    "changed": {}
   }
 }

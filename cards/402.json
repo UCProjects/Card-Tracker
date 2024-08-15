@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Look at 3 random spells costing 3 or less {{GOLD}} and choose one. Add it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

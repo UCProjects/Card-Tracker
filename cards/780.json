@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:ARMOR}}. Whenever this takes {{DMG}}, add a random {{TRIBE:CHAOS_WEAPON}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SHOCK}}: Fill your board with {{CARD:359|2}}. This takes 2 {{DMG}}."
-      }
-    }
+    "changed": {}
   }
 }

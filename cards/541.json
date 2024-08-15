@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a copy of a different ally monster (max. {{RARITY:EPIC}}) to your deck. {{KW:DELAY}}: Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

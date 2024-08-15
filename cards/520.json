@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you summon a monster with a base {{COST}} less than this, trigger its {{KW:DUST}}."
-      }
-    }
+    "changed": {}
   }
 }

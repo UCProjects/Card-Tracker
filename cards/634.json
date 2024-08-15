@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:PROGRAM}} (6): Earn 8 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Add a copy of a random other non-{{RARITY:TOKEN}} monster costing 3 or less from your dustpile to your hand with {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

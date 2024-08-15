@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you have 4+ cards in your dustpile, burn 4 of them to deal 3 {{DMG}}."
-      }
-    }
+    "changed": {}
   }
 }

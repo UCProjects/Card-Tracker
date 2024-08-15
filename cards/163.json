@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Whenever this takes {{DMG}}, heal the {{DMG}} taken as {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

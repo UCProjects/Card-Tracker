@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all monsters with 9 or more {{COST}} in your {{SWITCH_LEFT:1|hand}} or {{SWITCH_RIGHT:1|deck}} -1 {{COST}}. {{KW:DELAY}}: Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

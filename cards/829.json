@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Kill all enemy monsters, draw up to 7 cards, and give them -3 {{COST}}. You die after 3 turns!"
-      }
-    }
+    "changed": {}
   }
 }

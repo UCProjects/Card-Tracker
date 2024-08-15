@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: Add a {{CARD:374}}\r\n to your hand. {{KW:DUST}}: Summon a {{CARD:374}}."
-      }
-    }
+    "changed": {}
   }
 }

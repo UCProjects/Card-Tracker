@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: Your dustpile has monsters costing from 1 to 10. {{KW:MAGIC}}: {{KW:BURN}} them to add 3 {{CARD:783|3}} to your deck."
-      }
-    }
+    "changed": {}
   }
 }

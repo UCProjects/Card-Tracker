@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 3 {{DMG}} to an enemy monster. If you spent {{GOLD}} last turn, deal 4 instead."
-      }
-    }
+    "changed": {}
   }
 }

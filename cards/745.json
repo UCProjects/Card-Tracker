@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a copy of the most expensive other non-{{RARITY:DETERMINATION}} monster in the enemy hand to your hand."
-      }
-    }
+    "changed": {}
   }
 }

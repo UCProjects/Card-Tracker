@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. Add a random card of a {{COST}} equal to the monster's new {{ATK}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

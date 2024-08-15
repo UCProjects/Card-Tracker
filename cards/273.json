@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: You've cast 4 different spells (min 1 {{GOLD}}) this game. {{KW:MAGIC}}: Cast the most expensive spell from your deck on the monster in front of this (max. {{COST}}: 10)."
-      }
-    }
+    "changed": {}
   }
 }

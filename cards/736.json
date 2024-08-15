@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Whenever this attacks and kills a monster, summon a {{CARD:736|1}}. {{KW:TURN_END}}: {{KW:SILENCE}} itself and gain {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

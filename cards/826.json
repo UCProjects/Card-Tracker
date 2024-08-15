@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Time for a Dual! {{KW:MAGIC}}: Give both players a {{CARD:827|1}}."
-      }
-    }
+    "changed": {}
   }
 }

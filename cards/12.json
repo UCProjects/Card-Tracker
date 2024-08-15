@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:SWITCH}}: Draw {{SWITCH_LEFT:1|a monster}} or {{SWITCH_RIGHT:1|a spell}} from your deck."
-      }
-    }
+    "changed": {}
   }
 }

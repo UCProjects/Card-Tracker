@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:DELAY}}: Add a {{CARD:356|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

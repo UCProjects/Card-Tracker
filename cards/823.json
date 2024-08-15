@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 6 {{DMG}} to all enemies. If you have a {{CARD:808|1}}, add {{CARD:818|1}} to your hand!"
-      }
-    }
+    "changed": {}
   }
 }

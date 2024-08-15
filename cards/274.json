@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} {{RARITY:RARE}} or {{RARITY:EPIC}} cards. {{KW:MAGIC}}: Send a card in your hand to your deck with -4 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Give a random living enemy monster -3 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

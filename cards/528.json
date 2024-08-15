@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "The first time this attacks a monster each turn, it gains {{KW:HASTE}} and can attack another monster. {{KW:SYNERGY}}: Gain +2 {{ATK}} and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

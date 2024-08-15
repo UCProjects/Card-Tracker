@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Send your hand to your deck. Add 7 {{CARD:614|7}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

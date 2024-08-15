@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "In your hand, this has -1 {{COST}} for each {{TRIBE:PLANT|1}} you've played this game. (max: -9 {{COST}})."
-      }
-    }
+    "changed": {}
   }
 }

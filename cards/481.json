@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all ally monsters {{KW:HASTE}} and {{KW:INVULNERABLE}} for this turn."
-      }
-    }
+    "changed": {}
   }
 }

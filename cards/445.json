@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Kill a random enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

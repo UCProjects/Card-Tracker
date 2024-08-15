@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:TURN_END}}: Both players earn 5 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

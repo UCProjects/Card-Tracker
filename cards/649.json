@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to a monster for each other monster on the board. If this deals 3 or less {{DMG}}, gain {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

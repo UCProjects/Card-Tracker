@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: If you have 6 or less cards in your hand, draw a card."
-      }
-    }
+    "changed": {}
   }
 }

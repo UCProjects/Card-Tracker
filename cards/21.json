@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 1 {{DMG}} to all enemy monsters and 3 {{DMG}} to the opponent."
-      }
-    }
+    "changed": {}
   }
 }

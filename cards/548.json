@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Cast 4 {{CARD:598|2}} on random alive enemy monsters. If you spent {{GOLD}} on spells last turn, add a {{CARD:713|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you draw a monster, give it +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

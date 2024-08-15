@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you have {{CARD:429|1}} and {{CARD:430|1}} in your dustpile, {{KW:BURN}} them and turn into a {{CARD:431|1}}."
-      }
-    }
+    "changed": {}
   }
 }

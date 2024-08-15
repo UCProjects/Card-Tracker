@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give the highest {{HP}} ally monster -6 {{HP}}. Excess {{HP}} loss is converted as {{DMG}} to you."
-      }
-    }
+    "changed": {}
   }
 }

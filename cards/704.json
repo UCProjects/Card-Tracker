@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add a copy of a damaged ally non-{{RARITY:DETERMINATION}} monster to your hand with its current {{HP}}. It costs 1 less per {{HP}} missing."
-      }
-    }
+    "changed": {}
   }
 }

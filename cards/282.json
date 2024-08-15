@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon a random monster from your deck costing less {{GOLD}} than this."
-      }
-    }
+    "changed": {}
   }
 }

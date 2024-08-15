@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:ARMOR}}. {{KW:HASTE}}. This has +3 {{ATK}} while damaged."
-      }
-    }
+    "changed": {}
   }
 }

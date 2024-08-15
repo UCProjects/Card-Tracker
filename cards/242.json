@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Earn 1 {{GOLD}} for each ally {{TRIBE:PLANT|1}}."
-      }
-    }
+    "changed": {}
   }
 }

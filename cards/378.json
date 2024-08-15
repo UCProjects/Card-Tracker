@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: If this isn't {{KW:GENERATED}}, add 2 {{CARD:379|2}} to your deck and a {{CARD:378|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

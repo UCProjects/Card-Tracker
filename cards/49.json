@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "After this takes {{DMG}} during your turn, it gains {{KW:DODGE}} (1) and can attack a monster."
-      }
-    }
+    "changed": {}
   }
 }

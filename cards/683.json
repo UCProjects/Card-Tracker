@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). Whenever this loses a {{KW:DODGE}}, Draw a {{TRIBE:PLUG|1}} with {{STATS:+2|+2}}."
-      }
-    }
+    "changed": {}
   }
 }

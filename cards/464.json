@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 2 {{DMG}} to a monster and draw a spell from your deck (except {{CARD:258|1}})."
-      }
-    }
+    "changed": {}
   }
 }

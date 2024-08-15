@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:BURN}} a random spell in your hand to look at all spells with equal {{COST}}. Add one to your hand and give all spells in your hand -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

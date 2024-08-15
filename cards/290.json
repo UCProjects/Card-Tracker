@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}}. If the target dies, add a random spell of the same {{COST}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

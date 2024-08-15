@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURN_START}}: Turn into {{CARD:842|1}} and set its base {{HP}} to this card's remaining {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Enemy monsters take +2 {{DMG}} from spells. {{KW:MAGIC}}: Add 2 {{CARD:371|2}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

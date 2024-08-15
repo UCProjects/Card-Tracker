@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DELAY}}: Summon a {{CARD:724|1}}. If you can't, turn a random ally monster into {{CARD:724|1}}."
-      }
-    }
+    "changed": {}
   }
 }

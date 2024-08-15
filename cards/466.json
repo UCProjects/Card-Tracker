@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} spells. {{KW:MAGIC}}: Choose a spell of your SOUL to add to your hand with -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

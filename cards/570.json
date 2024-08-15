@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: Your deck has no {{RARITY:COMMON}} cards (except {{KW:GENERATED}} cards). {{KW:MAGIC}}: Give all monsters in your hand {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

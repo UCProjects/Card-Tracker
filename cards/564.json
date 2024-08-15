@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 6 or less cards in your deck. {{KW:MAGIC}}: Summon a {{STATS:5|5}} {{CARD:431|1}} and two {{STATS:3|3}} {{CARD:459|2}}."
-      }
-    }
+    "changed": {}
   }
 }

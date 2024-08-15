@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at 3 random cards in your deck. Give them -1 {{COST}} and choose one to draw."
-      }
-    }
+    "changed": {}
   }
 }

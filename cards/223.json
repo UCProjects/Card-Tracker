@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give all other ally {{TRIBE:SNAIL|2}} +1 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

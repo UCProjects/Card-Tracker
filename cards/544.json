@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add a copy of a non-{{RARITY:DETERMINATION}} monster with a tribe to your hand and give it {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

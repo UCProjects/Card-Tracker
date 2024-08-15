@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose An Enemy Monster. Summon A {{STATS:4|4}} {{CARD:684|1}} To {{KW:CATCH}} That Monster."
-      }
-    }
+    "changed": {}
   }
 }

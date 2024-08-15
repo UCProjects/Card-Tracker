@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it. {{KW:DELAY}}: Give the ally monster {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

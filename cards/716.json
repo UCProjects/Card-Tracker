@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 10+ non-{{KW:GENERATED}} monsters costing 9 or more {{GOLD}} in your Dustpile. {{KW:MAGIC}}: Add the {{ARTIFACT:62}} artifact."
-      }
-    }
+    "changed": {}
   }
 }

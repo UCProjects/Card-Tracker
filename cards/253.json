@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand {{STATS:+1|+1}} and {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

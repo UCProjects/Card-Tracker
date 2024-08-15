@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon a {{CARD:451|1}} and give it {{STATS:+1|+1}} for each 4 {{TRIBE:PLANT|4}} in your dustpile."
-      }
-    }
+    "changed": {}
   }
 }

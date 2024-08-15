@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Add 2 {{CARD:665|2}} to the top of the enemy deck."
-      }
-    }
+    "changed": {}
   }
 }

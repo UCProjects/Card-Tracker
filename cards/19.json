@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, {{KW:CATCH}} a {{CARD:4|1}}. {{KW:DUST}}: Release it."
-      }
-    }
+    "changed": {}
   }
 }

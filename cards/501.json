@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give all ally {{TRIBE:DOG|2}} a random effect: {{KW:TAUNT}}, {{KW:DODGE}} (1), {{KW:CANDY}} or {{KW:ARMOR}}."
-      }
-    }
+    "changed": {}
   }
 }

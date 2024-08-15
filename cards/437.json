@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Heal 7 {{HP}} to an ally monster. Excess healing is dealt as {{DMG}} to the monster in front of this."
-      }
-    }
+    "changed": {}
   }
 }

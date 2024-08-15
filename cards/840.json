@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:ARMOR}}. This takes +2 {{DMG}} from enemy monsters and spells."
-      }
-    }
+    "changed": {}
   }
 }

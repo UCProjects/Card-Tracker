@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:LOOP}} (1). {{KW:DELAY}}: Give the copy this card's stat buffs."
-      }
-    }
+    "changed": {}
   }
 }

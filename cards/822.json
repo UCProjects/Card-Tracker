@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 5 {{DMG}}. {{KW:BULLSEYE}}: Add {{CARD:823|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

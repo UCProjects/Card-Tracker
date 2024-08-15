@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Kill a random other monster. {{KW:SYNERGY}}: Kill a random enemy monster instead."
-      }
-    }
+    "changed": {}
   }
 }

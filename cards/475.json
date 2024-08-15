@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:DELAY}}: Heal 3 {{HP}} to this and you."
-      }
-    }
+    "changed": {}
   }
 }

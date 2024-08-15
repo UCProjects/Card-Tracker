@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add an exact copy of a random card in the enemy hand to your hand. Give it -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

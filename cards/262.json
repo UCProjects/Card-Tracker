@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Halve an ally non-{{RARITY:DETERMINATION}} monster's stats (rounded up) and summon an exact copy of it. {{KW:PROGRAM}} (4): Summon another."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Give its killer {{STATS:+2|+2}}. {{KW:TURN_END}}: Die."
-      }
-    }
+    "changed": {}
   }
 }

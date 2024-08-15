@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:PARALYZE}} a monster. {{KW:DELAY}}: If it's dead and this is alive, return to your deck with +1 base {{ATK}}. At 5, turn into {{CARD:711|1}}."
-      }
-    }
+    "changed": {}
   }
 }

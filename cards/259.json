@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give an ally monster {{STATS:+1|+1}}. Add a {{CARD:353|1}} and a {{CARD:354|1}} to your hand. Give them -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

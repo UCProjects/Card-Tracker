@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon an exact copy of this monster."
-      }
-    }
+    "changed": {}
   }
 }

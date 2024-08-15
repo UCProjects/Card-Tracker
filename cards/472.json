@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:CATCH}} a monster. {{KW:DUST}}: Release it. {{KW:TURN_START}}: {{KW:SILENCE}} this and add a {{CARD:725|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

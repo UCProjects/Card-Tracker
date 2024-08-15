@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give 2 random damaged enemy monsters {{KR}} and kill them."
-      }
-    }
+    "changed": {}
   }
 }

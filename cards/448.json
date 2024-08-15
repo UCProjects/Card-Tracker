@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Heal 7 {{HP}} to all allies."
-      }
-    }
+    "changed": {}
   }
 }

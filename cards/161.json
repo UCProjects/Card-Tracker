@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give 2 random spells in your hand -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

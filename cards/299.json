@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an enemy monster tries to attack, first deal 1 {{DMG}} to it."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If played on the left, {{SWITCH_LEFT:1|swap its stats}}. Whenever you spend {{GOLD}} on spells, gain +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

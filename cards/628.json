@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Send the 2 rightmost cards in your hand to your deck. Draw 2 cards."
-      }
-    }
+    "changed": {}
   }
 }

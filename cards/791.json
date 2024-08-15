@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: This is non-{{KW:GENERATED}} and you have no other cards in your hand or deck. {{KW:MAGIC}}: Gain {{STATS:+90|+90}} and {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

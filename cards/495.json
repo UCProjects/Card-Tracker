@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). {{KW:TURN_START}}: If there is a monster in front of this, kill this to deal 5 {{DMG}} to it and excess to the opponent."
-      }
-    }
+    "changed": {}
   }
 }

@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at 7 different 7-{{COST}} monsters (except {{CARD:545|1}}). Choose one to add to your hand with -7 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

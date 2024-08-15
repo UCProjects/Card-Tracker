@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever this attacks, add a {{CARD:598|1}} to your hand. {{KW:SHOCK}}: If this can't attack, gain {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

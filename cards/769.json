@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:SILENCE}} a monster, then give it {{STATS:-2|-1}}."
-      }
-    }
+    "changed": {}
   }
 }

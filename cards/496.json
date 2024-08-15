@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an ally {{TRIBE:SNAIL|1}} dies, draw a card."
-      }
-    }
+    "changed": {}
   }
 }

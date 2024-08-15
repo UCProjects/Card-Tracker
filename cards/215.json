@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Look at 2 other cheapest monsters in your dustpile and choose one to {{KW:CATCH}}. {{KW:DUST}}: Release it."
-      }
-    }
+    "changed": {}
   }
 }

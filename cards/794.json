@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: You Played 7+ Unique {{RARITY:TOKEN}} Cards This Game. {{KW:MAGIC}}: {{KW:BURN}} Your Hand And Deck To Add {{CARD:795|1}} To Your Hand. Equip {{ARTIFACT:63}}."
-      }
-    }
+    "changed": {}
   }
 }

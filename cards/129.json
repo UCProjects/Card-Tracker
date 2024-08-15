@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Kill an enemy monster. Deal its {{COST}} as {{DMG}} to you."
-      }
-    }
+    "changed": {}
   }
 }

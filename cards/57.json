@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Trigger all {{KW:SYNERGY}} effects you triggered this game. Can only trigger the same effect up 2 times."
-      }
-    }
+    "changed": {}
   }
 }

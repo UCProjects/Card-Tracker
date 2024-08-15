@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to this and all enemy monsters for each other ally {{TRIBE:TEMMIE|1}}."
-      }
-    }
+    "changed": {}
   }
 }

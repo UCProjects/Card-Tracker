@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever this attacks and kills a monster, deal excess {{DMG}} dealt to the opponent."
-      }
-    }
+    "changed": {}
   }
 }

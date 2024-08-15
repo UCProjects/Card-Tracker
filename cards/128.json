@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Summon 2 {{CARD:2|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If both are dead, add one to your hand with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

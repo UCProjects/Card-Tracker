@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: Deal 1 {{DMG}} to a random enemy monster. {{KW:MAGIC}}: Deal 2 {{DMG}} to all damaged enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a copy of an ally {{KW:TURBO}} monster to the top of your deck."
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal {{DMG:2}} to all enemy monsters."
-      }
-    }
+    "changed": {}
   }
 }

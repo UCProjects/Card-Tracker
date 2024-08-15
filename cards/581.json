@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add a random {{RARITY:LEGENDARY}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

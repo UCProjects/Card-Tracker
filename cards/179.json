@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all ally monsters {{STATS:+1|+1}}. If you have exactly 1 {{HP}}, kill all enemy monsters and fully heal yourself."
-      }
-    }
+    "changed": {}
   }
 }

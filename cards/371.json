@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal 3 {{DMG}} to an enemy monster. If it dies, deal 3 {{DMG}} to a random other enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

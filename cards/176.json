@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Send an enemy monster to the enemy hand. If it's full, {{KW:BURN}} it instead."
-      }
-    }
+    "changed": {}
   }
 }

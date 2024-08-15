@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} effect of a monster in your hand. If played on the left, {{SWITCH_LEFT:1|send it to your deck and draw a card}}."
-      }
-    }
+    "changed": {}
   }
 }

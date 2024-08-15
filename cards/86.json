@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Halve the stats of all enemy monsters with {{KR}} (rounded up)."
-      }
-    }
+    "changed": {}
   }
 }

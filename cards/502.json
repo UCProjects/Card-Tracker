@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:CATCH}} a copy of a non-{{RARITY:DETERMINATION}} ally monster. {{KW:PROGRAM}} (2): Gain {{KW:HASTE}}. {{KW:DUST}}: Release a {{STATS:1|1|1}} copy of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

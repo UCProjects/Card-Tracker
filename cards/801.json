@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Deal {{DMG}} to the opponent equal to half the amount of monsters in both dustpiles."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give adjacent ally monsters {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

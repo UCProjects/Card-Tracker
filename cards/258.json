@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at {{CARD:463}} and {{CARD:464|1}}. Choose one to add to your hand."
-      }
-    }
+    "changed": {}
   }
 }

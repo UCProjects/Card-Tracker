@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon a {{CARD:353|1}} and a {{CARD:354|1}} on adjacent slots."
-      }
-    }
+    "changed": {}
   }
 }

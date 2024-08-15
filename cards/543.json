@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add {{CARD:544|1}} to your hand. Give it -1 {{COST}} for each ally monster with a Tribe."
-      }
-    }
+    "changed": {}
   }
 }

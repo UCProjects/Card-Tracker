@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "An Ally Monster Gains {{KW:DODGE}} (1) And Attacks The Lowest {{ATK}} Enemy Monster."
-      }
-    }
+    "changed": {}
   }
 }

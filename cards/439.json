@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Summon a silenced copy of this with 1 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

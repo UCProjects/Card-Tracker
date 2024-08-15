@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: If it's the enemy turn, summon a {{CARD:5|1}}."
-      }
-    }
+    "changed": {}
   }
 }

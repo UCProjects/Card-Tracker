@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:BURN}} an ally monster to gain +3 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

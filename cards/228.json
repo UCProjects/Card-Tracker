@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}} to this. {{KW:SYNERGY}}: Heal 2 {{HP}} to all allies."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SHOCK}}: Summon a {{CARD:811|1}} and lose this {{KW:SHOCK}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Look at 3 random different {{RARITY:RARE}} spells. Add one to your hand with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

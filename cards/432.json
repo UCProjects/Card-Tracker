@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DISARMED}}. {{KW:ARMOR}}. {{KW:SUPPORT}}: Attack the rightmost enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

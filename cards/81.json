@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DELAY}}: Earn 3 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

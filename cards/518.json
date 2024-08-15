@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add an exact copy of a non-{{RARITY:DETERMINATION}} ally monster to your hand and 2 to your deck. Turn into {{CARD:553|1}} (keeps buffs)."
-      }
-    }
+    "changed": {}
   }
 }

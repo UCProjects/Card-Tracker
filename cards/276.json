@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you summon a monster costing 2 or more {{GOLD}}, earn 1 {{GOLD}}."
-      }
-    }
+    "changed": {}
   }
 }

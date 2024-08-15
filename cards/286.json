@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an ally monster costing 2 or more {{GOLD}} dies, heal 3 {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TRANSPARENCY}}. {{KW:MAGIC}}: Heal 2 {{HP}} to all other ally monsters. {{KW:SYNERGY}}: Give all other ally monsters +2 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

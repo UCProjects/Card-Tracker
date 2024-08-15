@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Look at {{CARD:10|1}}, {{CARD:9|1}}, and {{CARD:31|1}} and choose one. Add it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

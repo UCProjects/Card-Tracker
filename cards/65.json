@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Gain an upgraded version of the enemy Soul. Add an {{CARD:771|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TURN_END}}: Die and heal 3 {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

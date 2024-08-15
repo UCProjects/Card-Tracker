@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Choose an enemy monster. Kill all other monsters."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{CARD:129}} to the current turn player's hand. It costs 0."
-      }
-    }
+    "changed": {}
   }
 }

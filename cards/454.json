@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:BURN}} a card in your hand. Draw 3 cards."
-      }
-    }
+    "changed": {}
   }
 }

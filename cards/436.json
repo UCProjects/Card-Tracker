@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a {{KW:HASTE}} monster in your hand +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

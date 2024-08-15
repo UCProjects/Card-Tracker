@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give an ally monster {{KW:HASTE}}. It can attack again."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Whenever this attacks and kills a non-{{RARITY:DETERMINATION}} monster, add a {{STATS:5|5|5}} copy of the killed monster to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon a {{CARD:312|1}} for every 3 {{TRIBE:PIECE|2}} in your dustpile and trigger their {{KW:MAGIC}}."
-      }
-    }
+    "changed": {}
   }
 }

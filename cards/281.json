@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a {{TRIBE:TEMMIE|1}} and give it {{STATS:+1|+1}}. If you can't, gain {{STATS:+1|+1}} and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

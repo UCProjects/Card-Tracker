@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DELAY}}: Add the {{ARTIFACT:37}} artifact. If you have it, trigger its {{KW:TURN_END}} until it has no counters, then add six."
-      }
-    }
+    "changed": {}
   }
 }

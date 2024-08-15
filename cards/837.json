@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). Whenever ANY monster attacks, swap that monster's {{ATK}} and {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

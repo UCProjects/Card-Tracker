@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Deal {{DMG}} to all enemies equal to the amount of empty slots on your side of the board."
-      }
-    }
+    "changed": {}
   }
 }

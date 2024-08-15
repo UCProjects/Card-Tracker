@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Turn all other ally {{TRIBE:PLUG|2}} into {{CARD:684|2}} that {{KW:CATCH}} the {{TRIBE:PLUG|2}} and gain their stat buffs."
-      }
-    }
+    "changed": {}
   }
 }

@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CANDY}}. {{KW:TURN_END}}: Heal this monster's {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

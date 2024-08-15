@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Both players draw a monster. {{KW:DELAY}}: If yours is still in your hand, swap them!"
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

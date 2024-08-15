@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you played a card with a base cost of 6 or more {{GOLD}} this turn, gain {{STATS:+1|+1}} and {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

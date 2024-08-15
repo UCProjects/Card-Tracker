@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you have an ally {{CARD:46|1}}, gain {{STATS:+2|+3}}, {{KW:TAUNT}}, and +1 {{KW:DODGE}}."
-      }
-    }
+    "changed": {}
   }
 }

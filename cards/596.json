@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURBO}}: {{KW:BURN}} this, heal 2 {{HP}} to you and draw a card."
-      }
-    }
+    "changed": {}
   }
 }

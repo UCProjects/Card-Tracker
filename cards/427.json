@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add {{CARD:429|1}}, {{CARD:428|1}} and {{CARD:430|1}} to your deck. {{KW:DUST}}: Draw a {{RARITY:TOKEN}} card."
-      }
-    }
+    "changed": {}
   }
 }

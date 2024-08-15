@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If there is a {{KW:TAUNT}} monster on the board, gain {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

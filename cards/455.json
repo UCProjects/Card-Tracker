@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give all cards in your hand -2 {{COST}} (min 1). Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you play a monster, deal 1 {{DMG}} to it."
-      }
-    }
+    "changed": {}
   }
 }

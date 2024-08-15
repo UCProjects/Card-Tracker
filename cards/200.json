@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:MAGIC}}: Add a copy of all other different {{TRIBE:TEMMIE|2}} from your dustpile to your hand (from cheapest to most expensive)."
-      }
-    }
+    "changed": {}
   }
 }

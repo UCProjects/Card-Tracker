@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:LOOP}} (1). {{KW:DELAY}}: {{KW:SWITCH}}: Turn the copy into a spell with a {{COST}} equal to this card's {{SWITCH_LEFT:1|{{ATK}}}} or {{SWITCH_RIGHT:1|{{HP}}}}."
-      }
-    }
+    "changed": {}
   }
 }

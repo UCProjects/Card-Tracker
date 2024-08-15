@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each other ally {{CARD:386|1}} you played this game."
-      }
-    }
+    "changed": {}
   }
 }

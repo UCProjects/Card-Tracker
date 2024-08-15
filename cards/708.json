@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: {{KW:SILENCE}} and kill a random enemy {{CARD:709|1}}. If there were none, summon a {{CARD:709|1}}."
-      }
-    }
+    "changed": {}
   }
 }

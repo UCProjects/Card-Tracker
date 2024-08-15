@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: You cast a spell of every SOUL this game. {{KW:MAGIC}}: Add a {{CARD:789|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

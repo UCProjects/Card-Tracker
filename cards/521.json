@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give an ally monster {{STATS:+2|+1}}. {{KW:DUST}}: Add a {{CARD:522|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}} and {{KW:TURN_START}}: {{KW:PROGRAM}} (1): Cast {{CARD:575:1}}."
-      }
-    }
+    "changed": {}
   }
 }

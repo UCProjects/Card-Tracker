@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TRANSPARENCY}}. You are {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Add a {{CARD:376|1}} to the enemy hand."
-      }
-    }
+    "changed": {}
   }
 }

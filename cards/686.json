@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Turn a {{TRIBE:PLUG|1}} in your hand into a {{CARD:684|1}} that will {{KW:CATCH}} the {{TRIBE:PLUG|1}} and gain its stat buffs."
-      }
-    }
+    "changed": {}
   }
 }

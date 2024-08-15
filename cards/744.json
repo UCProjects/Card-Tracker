@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DELAY}}: If this is dead, summon a {{CARD:476|1}} and add a {{CARD:475|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

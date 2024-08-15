@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon an {{CARD:563|1}}."
-      }
-    }
+    "changed": {}
   }
 }

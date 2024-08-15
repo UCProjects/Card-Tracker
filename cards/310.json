@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}} to adjacent monsters and the monster in front of it."
-      }
-    }
+    "changed": {}
   }
 }

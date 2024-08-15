@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 10+ {{CARD:665|2}} in the enemy deck. {{KW:MAGIC}}: {{KW:BURN}} 10 to deal 10 {{DMG}} to an enemy monster and excess to all enemies."
-      }
-    }
+    "changed": {}
   }
 }

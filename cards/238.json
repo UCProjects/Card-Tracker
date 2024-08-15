@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Draw a card and give it -2 {{COST}}. {{KW:TURN_START}}: Trigger its {{KW:DUST}} effect and kill this."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Your {{CARD:598|2}} cost 0 {{GOLD}}. {{KW:BULLSEYE}}: Add a {{CARD:598|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

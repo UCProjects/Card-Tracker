@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 3 {{DMG}}, draw 3 cards, and heal 3 {{HP}} to you."
-      }
-    }
+    "changed": {}
   }
 }

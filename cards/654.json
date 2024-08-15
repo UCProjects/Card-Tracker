@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you have less than 15 {{HP}}, gain +1 {{ATK}} and {{KW:HASTE}}. If you have less than 10 {{HP}}, gain {{KW:CANDY}} and {{KW:TAUNT}}."
-      }
-    }
+    "changed": {}
   }
 }

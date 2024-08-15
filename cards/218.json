@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon a random enemy monster from the enemy hand for the opponent."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). {{KW:TAUNT}}. {{KW:DUST}}: Add a {{CARD:536}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you spend {{GOLD}} on spells, summon a {{CARD:370|1}}."
-      }
-    }
+    "changed": {}
   }
 }

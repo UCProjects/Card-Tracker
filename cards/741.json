@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add a copy of all other non-{{RARITY:DETERMINATION}} enemy monsters on the board to your hand. They cost 2 less."
-      }
-    }
+    "changed": {}
   }
 }

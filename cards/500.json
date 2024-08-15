@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this."
-      }
-    }
+    "changed": {}
   }
 }

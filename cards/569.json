@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, give 2 random monsters in the opponent’s hand {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

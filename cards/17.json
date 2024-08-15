@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "After this attacks and survives, heal this by the amount of {{DMG}} dealt."
-      }
-    }
+    "changed": {}
   }
 }

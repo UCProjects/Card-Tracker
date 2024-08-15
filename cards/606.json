@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a {{RARITY:COMMON}}, {{RARITY:RARE}}, and {{RARITY:EPIC}} card."
-      }
-    }
+    "changed": {}
   }
 }

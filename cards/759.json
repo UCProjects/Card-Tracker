@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Kill all enemy monsters costing less than the amount of non-{{RARITY:TOKEN}} cards you played this turn."
-      }
-    }
+    "changed": {}
   }
 }

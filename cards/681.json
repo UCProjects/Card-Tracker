@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}} and {{KW:DUST}}: Give 2 random {{TRIBE:PLUG|2}} in your hand {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

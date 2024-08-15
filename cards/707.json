@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Fill your board with {{CARD:708|2}} and enemy board with {{CARD:709|2}}. {{KW:DELAY}}: Kill all {{CARD:708|2}}."
-      }
-    }
+    "changed": {}
   }
 }

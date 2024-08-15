@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:SHOCK}}: Gain +2 {{HP}} and lose this {{KW:SHOCK}}."
-      }
-    }
+    "changed": {}
   }
 }

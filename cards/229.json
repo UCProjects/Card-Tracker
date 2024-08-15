@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:NEED}}: 10+ {{TRIBE:SNAIL|2}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:369|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: If you control 4 {{CARD:295|4}}, give them {{KW:DODGE}} (1), {{KW:TAUNT}}, and {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

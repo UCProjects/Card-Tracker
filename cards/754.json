@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:TAUNT}}. {{KW:DUST}}: Add 3 {{CARD:665|3}} to the enemy deck."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SUPPORT}}: Give the attacker +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

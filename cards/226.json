@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose a card in your hand to {{KW:BURN}} it."
-      }
-    }
+    "changed": {}
   }
 }

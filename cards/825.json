@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. {{KW:DUST}}: If this died on your turn, deal 2 {{DMG}} to the lowest {{HP}} enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

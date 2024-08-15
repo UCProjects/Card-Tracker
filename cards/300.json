@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:CATCH}} a {{CARD:375|1}}. {{KW:PROGRAM}}: (2): {{KW:CATCH}} {{CARD:451|1}}, then spend 2 {{GOLD}} to {{KW:CATCH}} a {{CARD:462|1}}. {{KW:DUST}}: Release it."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TRANSPARENCY}}. After a non-{{RARITY:TOKEN}} spell is played, deal 3 {{DMG}} to the spell's owner."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Has +1 {{COST}} in hand for each spell you cast (min 2 {{GOLD}}). {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each and look at 2 spells with equal {{COST}}. Cast one on the monster in front."
-      }
-    }
+    "changed": {}
   }
 }

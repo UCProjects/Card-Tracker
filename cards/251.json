@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SYNERGY}}: Add a {{CARD:750|1}} to your hand. {{KW:DELAY}}: {{KW:BURN}} it."
-      }
-    }
+    "changed": {}
   }
 }

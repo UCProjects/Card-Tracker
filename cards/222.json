@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give -1 {{COST}} to a random {{TRIBE:SNAIL}} in your deck."
-      }
-    }
+    "changed": {}
   }
 }

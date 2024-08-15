@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. Whenever this attacks and kills a monster, gain {{STATS:+1|+1}}. {{KW:TURN_END}}: Draw a monster. It copies this card's buffs."
-      }
-    }
+    "changed": {}
   }
 }

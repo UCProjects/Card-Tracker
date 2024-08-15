@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} (except {{CARD:435|1}})."
-      }
-    }
+    "changed": {}
   }
 }

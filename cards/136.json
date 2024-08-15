@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever a monster is damaged by this, kill it."
-      }
-    }
+    "changed": {}
   }
 }

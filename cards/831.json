@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Deal 1 {{DMG}}. {{KW:BULLSEYE}}: Deal 4 {{DMG}} to everything."
-      }
-    }
+    "changed": {}
   }
 }

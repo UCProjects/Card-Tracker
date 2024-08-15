@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you cast a {{CARD:598|1}}, give the monster in front of this {{STATS:-1|-1}}. {{KW:MAGIC}}: Add a {{CARD:598|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

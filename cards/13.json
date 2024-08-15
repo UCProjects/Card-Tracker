@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give all enemy monsters -1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

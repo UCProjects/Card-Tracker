@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Cast all {{KW:GENERATED}} spells from your hand on random targets."
-      }
-    }
+    "changed": {}
   }
 }

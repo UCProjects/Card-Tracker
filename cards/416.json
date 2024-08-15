@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever an ally monster dies (except {{CARD:399|1}}), summon a {{CARD:399|1}}."
-      }
-    }
+    "changed": {}
   }
 }

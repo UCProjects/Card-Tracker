@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give all enemy monsters {{KR}}. {{KW:PROGRAM}} (2): Give them {{STATS:-1|-1}}."
-      }
-    }
+    "changed": {}
   }
 }

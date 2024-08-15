@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give +1 {{HP}} to monsters left of this and +1 {{ATK}} to monsters right of this."
-      }
-    }
+    "changed": {}
   }
 }

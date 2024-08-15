@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TURN_END}}: Gain +1 {{HP}} for every spell you've spent {{GOLD}} on this turn."
-      }
-    }
+    "changed": {}
   }
 }

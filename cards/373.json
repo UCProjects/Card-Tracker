@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. Whenever this deals {{DMG}} to a monster, heal {{HP}} to you equal to the {{DMG}} dealt."
-      }
-    }
+    "changed": {}
   }
 }

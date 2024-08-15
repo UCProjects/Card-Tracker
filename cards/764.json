@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon a {{CARD:701|1}}. If you have less monsters than the opponent, give it {{KW:DODGE}} (1)."
-      }
-    }
+    "changed": {}
   }
 }

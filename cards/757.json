@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: {{KW:BURN}} up to 9 {{CARD:665|9}} in the enemy deck. For every 3 burned summon a {{CARD:753|1}} with {{KW:CHARGE}}."
-      }
-    }
+    "changed": {}
   }
 }

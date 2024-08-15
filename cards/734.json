@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at all non-{{RARITY:DETERMINATION}} monsters in the enemy hand and choose one. Add a copy of it to your hand."
-      }
-    }
+    "changed": {}
   }
 }

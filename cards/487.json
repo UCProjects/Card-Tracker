@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less."
-      }
-    }
+    "changed": {}
   }
 }

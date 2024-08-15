@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give a monster {{STATS:+1|+2}}. If it's a {{CARD:378|1}}, turn it into a {{CARD:380|1}} instead. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

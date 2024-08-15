@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "This has +2 {{ATK}} on the enemy turn and takes no {{DMG}} while attacking."
-      }
-    }
+    "changed": {}
   }
 }

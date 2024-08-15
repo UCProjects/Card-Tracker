@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: Swap the {{ATK}} and {{HP}} of all other monsters."
-      }
-    }
+    "changed": {}
   }
 }

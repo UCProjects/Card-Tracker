@@ -27,11 +27,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Give the opponent +8 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

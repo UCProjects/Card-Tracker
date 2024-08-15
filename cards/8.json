@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Set an enemy monster's {{ATK}} to 1 and gain {{HP}} equal to the amount of {{ATK}} decreased."
-      }
-    }
+    "changed": {}
   }
 }

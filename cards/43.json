@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DUST}}: Give all cards in your hand -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

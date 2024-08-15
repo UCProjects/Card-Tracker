@@ -33,8 +33,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "FROGGIT"
+      "FROGGIT",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -49,9 +49,15 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw the most expensive {{TRIBE:AMALGAMATE|1}} or {{TRIBE:FROGGIT|1}} in your deck. {{KW:SYNERGY}}: Give it {{STATS:+2|+1}}."
+      "tribes": {
+        "now": [
+          "FROGGIT",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "FROGGIT"
+        ]
       }
     }
   }

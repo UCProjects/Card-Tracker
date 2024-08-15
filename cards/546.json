@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Draw a card. If you spent 7+ {{GOLD}} last turn, give it -2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,19 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 12,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 12,
-        "prev": 8
-      },
-      "description": {
-        "now": "",
-        "prev": "Summon copies of your non-{{RARITY:DETERMINATION}} monsters on the board. {{KW:DELAY}}: Add any that didn't fit to your hand with -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

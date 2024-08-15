@@ -48,11 +48,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Give an enemy monster {{STATS:-2|-2}}. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
-      }
-    }
+    "changed": {}
   }
 }

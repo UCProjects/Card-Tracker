@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CANDY}}. {{KW:CHARGE}}. Carefully constructed through a successful {{ARTIFACT:36}}."
-      }
-    }
+    "changed": {}
   }
 }

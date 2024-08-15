@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:LOOP}} (3). If this has no {{KW:LOOP}}, summon a {{STATS:8|5}} {{CARD:48|1}} with {{KW:DODGE}} (1) and {{KW:HASTE}}. {{KW:PROGRAM}} (2): No additional effect."
-      }
-    }
+    "changed": {}
   }
 }

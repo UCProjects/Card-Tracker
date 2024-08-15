@@ -30,11 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Turn a non-{{RARITY:DETERMINATION}} monster into a {{CARD:373|1}} with the same stats."
-      }
-    }
+    "changed": {}
   }
 }

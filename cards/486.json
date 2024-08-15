@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Add an exact copy of a monster (except {{CARD:52|1}}) to your hand. If it was {{RARITY:LEGENDARY}} or {{RARITY:DETERMINATION}}, give it +2 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

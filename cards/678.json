@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:SHOCK}}: Summon a {{CARD:459|1}} with {{ATK}} and {{HP}} equal to the spell's {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

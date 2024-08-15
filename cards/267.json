@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Summon 2 random non-{{KW:GENERATED}} {{KW:DUST}} monsters costing 7 or less {{GOLD}} from your dustpile."
-      }
-    }
+    "changed": {}
   }
 }

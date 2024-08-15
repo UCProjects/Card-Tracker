@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DISARMED}}. {{KW:TURN_START}}: Die to give all monsters in your hand and board {{STATS:-2|-2}} (min: {{STATS:1|1}} in hand)."
-      }
-    }
+    "changed": {}
   }
 }

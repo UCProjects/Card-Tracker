@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:CHARGE}}. Whenever this attacks the opponent, give 2 random monsters in your hand +1 {{ATK}}."
-      }
-    }
+    "changed": {}
   }
 }

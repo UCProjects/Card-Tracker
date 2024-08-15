@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: Send the copy to your deck with {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

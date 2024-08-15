@@ -45,15 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "shockEnabled": {
-        "now": false,
-        "prev": true
-      },
-      "description": {
-        "now": "",
-        "prev": "{{KW:DISARMED}}. {{KW:CANDY}}. {{KW:SHOCK}}: Attack the lowest {{HP}} enemy monster."
-      }
-    }
+    "changed": {}
   }
 }

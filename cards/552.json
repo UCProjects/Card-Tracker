@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Look at the next 2 cards of your deck. Give them -1 {{COST}}. Choose one to draw. Send the other to the bottom of your deck."
-      }
-    }
+    "changed": {}
   }
 }

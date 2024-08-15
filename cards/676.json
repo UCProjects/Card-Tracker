@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, add a {{CARD:677|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

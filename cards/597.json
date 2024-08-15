@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Swap your deck and dustpile. If your dustpile had more cards, take {{DMG}} and lose max {{HP}} equal to the difference."
-      }
-    }
+    "changed": {}
   }
 }

@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Turn all spells in your hand into other random spells. Give them -1 {{COST}}."
-      }
-    }
+    "changed": {}
   }
 }

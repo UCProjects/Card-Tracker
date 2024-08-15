@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you summon a monster, give it {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

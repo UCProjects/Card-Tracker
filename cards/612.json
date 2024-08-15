@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "After an ally monster dies (except {{CARD:612|1}}), summon a copy of it and {{KW:SILENCE}} this."
-      }
-    }
+    "changed": {}
   }
 }

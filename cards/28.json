@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Equip the {{ARTIFACT:25}} artifact and add a {{CARD:537|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

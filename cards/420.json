@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever this takes {{DMG}} during the enemy turn, give a random other ally monster {{STATS:+1|+1}}."
-      }
-    }
+    "changed": {}
   }
 }

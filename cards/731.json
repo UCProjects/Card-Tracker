@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Draw 3 monsters. Give them +2 {{HP}}."
-      }
-    }
+    "changed": {}
   }
 }

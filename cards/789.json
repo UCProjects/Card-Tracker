@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Cast all {{TRIBE:CHAOS_WEAPON|2}} (except {{CARD:447|1}})!"
-      }
-    }
+    "changed": {}
   }
 }

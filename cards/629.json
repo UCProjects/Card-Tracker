@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:HASTE}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: Give the copy -1 {{COST}} for each other card with a base cost of 1+ {{GOLD}} played this turn."
-      }
-    }
+    "changed": {}
   }
 }

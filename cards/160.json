@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:DELAY}}: Draw a {{TRIBE:DOG|1}}. {{KW:DUST}}: Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

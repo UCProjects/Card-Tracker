@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Return another non-{{RARITY:DETERMINATION}} ally monster to your hand with -8 {{COST}}. {{KW:DELAY}}: {{KW:BURN}} it if it's not on the board."
-      }
-    }
+    "changed": {}
   }
 }

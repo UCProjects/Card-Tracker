@@ -47,11 +47,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}} and {{KW:DUST}}: {{KW:BURN}} 4 {{TRIBE:MOLD|4}} in your dustpile to summon a {{CARD:19|1}} and trigger its {{KW:MAGIC}}."
-      }
-    }
+    "changed": {}
   }
 }

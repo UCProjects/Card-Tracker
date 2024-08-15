@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "{{KW:MAGIC}}: Add 3 {{CARD:367|3}} to the enemy deck."
-      }
-    }
+    "changed": {}
   }
 }

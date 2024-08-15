@@ -45,11 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "",
-        "prev": "Whenever you cast a {{CARD:598|1}}, heal 2 {{HP}} to you and add a {{CARD:576|1}} to your hand. {{KW:MAGIC}}: Add a {{CARD:598|1}} to your hand."
-      }
-    }
+    "changed": {}
   }
 }

@@ -10,9 +10,10 @@
     "name": "Worsening",
     "image": "Worsening",
     "baseImage": "Worsening",
-    "cost": 5,
+    "cost": 2,
     "rarity": "BASE",
-    "originalCost": 5,
+    "originalCost": 2,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,8 +28,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 5
+      }
+    }
   }
 }

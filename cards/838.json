@@ -26,9 +26,9 @@
     "name": "Zenith Martlet",
     "image": "Zenith_Martlet",
     "baseImage": "Zenith_Martlet",
-    "cost": 15,
+    "cost": 12,
     "rarity": "DETERMINATION",
-    "originalCost": 15,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -47,6 +47,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 15
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 15
+      }
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 5,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 6,
+    "originalAttack": 5,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -26,9 +26,9 @@
     "name": "Coffee Man",
     "image": "Coffee_Man",
     "baseImage": "Coffee_Man",
-    "cost": 8,
+    "cost": 7,
     "rarity": "RARE",
-    "originalCost": 8,
+    "originalCost": 7,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -46,6 +46,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
+      }
+    }
   }
 }

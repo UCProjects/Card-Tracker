@@ -13,6 +13,7 @@
     "cost": 10,
     "rarity": "EPIC",
     "originalCost": 10,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,7 +28,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
     "changed": {}
   }

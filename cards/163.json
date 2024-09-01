@@ -26,9 +26,9 @@
     "name": "MTT Fountain",
     "image": "MTT_Fountain",
     "baseImage": "MTT_Fountain",
-    "cost": 6,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,6 +45,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

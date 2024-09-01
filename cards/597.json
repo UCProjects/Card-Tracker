@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 13,
-    "hp": 13,
-    "maxHp": 13,
-    "originalAttack": 13,
-    "originalHp": 13,
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -26,9 +26,9 @@
     "name": "DT Extractor",
     "image": "DT_Extractor",
     "baseImage": "DT_Extractor",
-    "cost": 13,
+    "cost": 10,
     "rarity": "LEGENDARY",
-    "originalCost": 13,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,6 +45,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 10,
+        "prev": 13
+      },
+      "hp": {
+        "now": 10,
+        "prev": 13
+      },
+      "maxHp": {
+        "now": 10,
+        "prev": 13
+      },
+      "originalAttack": {
+        "now": 10,
+        "prev": 13
+      },
+      "originalHp": {
+        "now": 10,
+        "prev": 13
+      },
+      "cost": {
+        "now": 10,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 13
+      }
+    }
   }
 }

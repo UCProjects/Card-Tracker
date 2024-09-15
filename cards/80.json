@@ -28,9 +28,7 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "ENEMY_MONSTER"
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

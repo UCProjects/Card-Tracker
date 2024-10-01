@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 3,
-    "originalHp": 7,
+    "attack": 5,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 5,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,51 +13,40 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 218,
-    "fixedId": 218,
+    "id": 852,
+    "fixedId": 852,
     "typeCard": 0,
-    "name": "Receptionist 3",
-    "image": "Receptionist_3",
-    "baseImage": "Receptionist_3",
-    "cost": 3,
+    "name": "Searby",
+    "image": "Searby",
+    "baseImage": "Searby",
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 3,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
+    "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

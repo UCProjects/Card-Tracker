@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 3,
-    "originalHp": 7,
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 4,
+    "originalHp": 2,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,51 +13,40 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 218,
-    "fixedId": 218,
+    "id": 849,
+    "fixedId": 849,
     "typeCard": 0,
-    "name": "Receptionist 3",
-    "image": "Receptionist_3",
-    "baseImage": "Receptionist_3",
+    "name": "Snake Miner",
+    "image": "Snake_Miner",
+    "baseImage": "Snake_Miner",
     "cost": 3,
-    "rarity": "EPIC",
+    "rarity": "RARE",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
+    "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

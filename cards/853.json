@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 7,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 3,
+    "originalAttack": 7,
     "originalHp": 7,
     "dodge": 0,
     "armor": false,
@@ -13,25 +13,25 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "id": 218,
-    "fixedId": 218,
+    "id": 853,
+    "fixedId": 853,
     "typeCard": 0,
-    "name": "Receptionist 3",
-    "image": "Receptionist_3",
-    "baseImage": "Receptionist_3",
-    "cost": 3,
+    "name": "Chujin Tombstone",
+    "image": "Chujin_Tombstone",
+    "baseImage": "Chujin_Tombstone",
+    "cost": 12,
     "rarity": "EPIC",
-    "originalCost": 3,
+    "originalCost": 12,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -43,21 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

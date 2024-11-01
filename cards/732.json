@@ -10,9 +10,9 @@
     "name": "Silly Strings",
     "image": "Silly_Strings",
     "baseImage": "Silly_Strings",
-    "cost": 10,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 9,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      }
+    }
   }
 }

@@ -20,15 +20,16 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 829,
     "fixedId": 829,
     "typeCard": 0,
     "name": "Chujin",
     "image": "Chujin",
     "baseImage": "Chujin",
-    "cost": 14,
+    "cost": 13,
     "rarity": "LEGENDARY",
-    "originalCost": 14,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -43,8 +44,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 14
+      }
+    }
   }
 }

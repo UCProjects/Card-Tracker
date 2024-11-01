@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
+    "id": 854,
+    "fixedId": 854,
+    "typeCard": 1,
+    "name": "Dual",
+    "image": "Dual",
+    "baseImage": "Dual",
+    "cost": 1,
+    "rarity": "RARE",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

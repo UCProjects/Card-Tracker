@@ -1,0 +1,37 @@
+{
+  "card": {
+    "soul": {
+      "id": 4,
+      "name": "JUSTICE"
+    },
+    "id": 855,
+    "fixedId": 855,
+    "typeCard": 1,
+    "name": "Quick Draw",
+    "image": "Quick_Draw",
+    "baseImage": "Quick_Draw",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": true,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

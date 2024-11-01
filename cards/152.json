@@ -20,6 +20,7 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 152,
     "fixedId": 152,
     "typeCard": 0,
@@ -43,7 +44,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
     "changed": {}
   }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 6,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 5,
+    "originalAttack": 6,
     "originalHp": 7,
     "dodge": 0,
     "armor": true,
@@ -20,6 +20,7 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 842,
     "fixedId": 842,
     "typeCard": 0,
@@ -43,8 +44,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   }
 }

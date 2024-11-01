@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 5,
+      "name": "KINDNESS"
+    },
+    "id": 860,
+    "fixedId": 860,
+    "typeCard": 1,
+    "name": "Bounty",
+    "image": "Bounty",
+    "baseImage": "Bounty",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -20,15 +20,16 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 590,
     "fixedId": 590,
     "typeCard": 0,
     "name": "Moldmega",
     "image": "Moldmega",
     "baseImage": "Moldmega",
-    "cost": 10,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 10,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,8 +46,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      }
+    }
   }
 }

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "soul": {
+      "lives": 1,
+      "id": 2,
+      "name": "DETERMINATION"
+    },
+    "id": 856,
+    "fixedId": 856,
+    "typeCard": 1,
+    "name": "Reminisce",
+    "image": "Reminisce",
+    "baseImage": "Reminisce",
+    "cost": 6,
+    "rarity": "RARE",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 7,
+      "name": "PERSEVERANCE"
+    },
+    "id": 858,
+    "fixedId": 858,
+    "typeCard": 1,
+    "name": "Trolley Problem",
+    "image": "Trolley_Problem",
+    "baseImage": "Trolley_Problem",
+    "cost": 7,
+    "rarity": "RARE",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

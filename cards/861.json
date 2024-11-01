@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 6,
+      "name": "PATIENCE"
+    },
+    "id": 861,
+    "fixedId": 861,
+    "typeCard": 1,
+    "name": "Oasis",
+    "image": "Oasis",
+    "baseImage": "Oasis",
+    "cost": 7,
+    "rarity": "RARE",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

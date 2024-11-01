@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 7,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 7,
-    "originalHp": 8,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,15 +20,16 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 808,
     "fixedId": 808,
     "typeCard": 0,
     "name": "Clover",
     "image": "Clover",
     "baseImage": "Clover",
-    "cost": 9,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 9,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -43,8 +44,31 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "cost": {
+        "now": 10,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 9
+      }
+    }
   }
 }

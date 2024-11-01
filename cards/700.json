@@ -10,9 +10,9 @@
     "name": "Vasebreaker",
     "image": "Vasebreaker",
     "baseImage": "Vasebreaker",
-    "cost": 2,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 1,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -23,13 +23,26 @@
     "playedTurn": 0,
     "ownerId": 0,
     "bullseyeEnabled": false,
-    "loop": 1,
+    "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "loop": {
+        "now": 0,
+        "prev": 1
+      }
+    }
   }
 }

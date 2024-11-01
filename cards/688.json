@@ -20,15 +20,16 @@
     "candy": true,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 688,
     "fixedId": 688,
     "typeCard": 0,
     "name": "Ultimathrash",
     "image": "Ultimathrash",
     "baseImage": "Ultimathrash",
-    "cost": 10,
+    "cost": 9,
     "rarity": "DETERMINATION",
-    "originalCost": 10,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -43,8 +44,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      }
+    }
   }
 }

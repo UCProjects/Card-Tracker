@@ -1,0 +1,36 @@
+{
+  "card": {
+    "soul": {
+      "id": 1,
+      "name": "BRAVERY"
+    },
+    "id": 857,
+    "fixedId": 857,
+    "typeCard": 1,
+    "name": "Sandstorm",
+    "image": "Sandstorm",
+    "baseImage": "Sandstorm",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

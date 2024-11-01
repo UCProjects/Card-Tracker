@@ -10,9 +10,9 @@
     "name": "Worm Infusion",
     "image": "Worm_Infusion",
     "baseImage": "Worm_Infusion",
-    "cost": 3,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 2,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

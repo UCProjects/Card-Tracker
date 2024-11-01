@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 2,
-    "originalHp": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,6 +20,7 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
+    "wanted": false,
     "id": 565,
     "fixedId": 565,
     "typeCard": 0,
@@ -43,8 +44,23 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "wanted": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      }
+    }
   }
 }

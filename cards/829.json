@@ -44,19 +44,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "wanted": false
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 13,
-        "prev": 14
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 14
-      }
-    }
+    "changed": {}
   }
 }

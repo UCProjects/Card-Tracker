@@ -44,19 +44,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "wanted": false
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

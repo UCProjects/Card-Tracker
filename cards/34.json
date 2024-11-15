@@ -34,8 +34,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "FROGGIT"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -47,19 +47,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "wanted": false
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "FROGGIT"
+        ],
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
         ]
       }
     }

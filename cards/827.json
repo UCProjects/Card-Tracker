@@ -27,26 +27,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "soul": {
-        "id": 3,
-        "name": "INTEGRITY"
-      }
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 0
-      },
-      "rarity": {
-        "now": "RARE",
-        "prev": "TOKEN"
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

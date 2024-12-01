@@ -34,8 +34,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "MOLD",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "MOLD"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -49,6 +49,17 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "AMALGAMATE",
+          "MOLD"
+        ],
+        "prev": [
+          "MOLD",
+          "AMALGAMATE"
+        ]
+      }
+    }
   }
 }

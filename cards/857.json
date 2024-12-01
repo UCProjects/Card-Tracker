@@ -10,9 +10,9 @@
     "name": "Sandstorm",
     "image": "Sandstorm",
     "baseImage": "Sandstorm",
-    "cost": 3,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

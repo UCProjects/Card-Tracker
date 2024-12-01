@@ -10,9 +10,9 @@
     "name": "Bounty",
     "image": "Bounty",
     "baseImage": "Bounty",
-    "cost": 3,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

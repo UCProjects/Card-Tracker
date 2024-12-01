@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 1,
-    "originalHp": 7,
+    "attack": 7,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 7,
+    "originalHp": 8,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,24 +15,24 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 608,
-    "fixedId": 608,
+    "id": 862,
+    "fixedId": 862,
     "typeCard": 0,
-    "name": "Void Laser",
-    "image": "Void_Laser",
-    "baseImage": "Void_Laser",
-    "cost": 5,
+    "name": "Arcade Samurai",
+    "image": "Arcade_Samurai",
+    "baseImage": "Arcade_Samurai",
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -44,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

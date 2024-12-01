@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 1,
-    "originalHp": 7,
+    "attack": 2,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 2,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -20,19 +20,19 @@
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
-    "wanted": false,
-    "id": 608,
-    "fixedId": 608,
+    "wanted": true,
+    "id": 863,
+    "fixedId": 863,
     "typeCard": 0,
-    "name": "Void Laser",
-    "image": "Void_Laser",
-    "baseImage": "Void_Laser",
-    "cost": 5,
-    "rarity": "EPIC",
-    "originalCost": 5,
+    "name": "Arcade Bat",
+    "image": "Arcade_Bat",
+    "baseImage": "Arcade_Bat",
+    "cost": 2,
+    "rarity": "TOKEN",
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -44,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

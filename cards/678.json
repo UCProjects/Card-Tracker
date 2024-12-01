@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 3,
-    "originalHp": 3,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,9 +27,9 @@
     "name": "Cauldron",
     "image": "Cauldron",
     "baseImage": "Cauldron",
-    "cost": 4,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

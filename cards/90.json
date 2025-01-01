@@ -10,9 +10,9 @@
     "name": "Contamination",
     "image": "Contamination",
     "baseImage": "Contamination",
-    "cost": 7,
+    "cost": 6,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

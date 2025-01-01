@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 3,
-    "originalHp": 7,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -15,62 +15,40 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 804,
-    "fixedId": 804,
+    "id": 868,
+    "fixedId": 868,
     "typeCard": 0,
-    "name": "Recycle Bin",
-    "image": "Recycle_Bin",
-    "baseImage": "Recycle_Bin",
+    "name": "Pancakes",
+    "image": "Pancakes",
+    "baseImage": "Pancakes",
     "cost": 5,
-    "rarity": "RARE",
+    "rarity": "COMMON",
     "originalCost": 5,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
     "bullseyeEnabled": false,
-    "loop": 1,
+    "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "haste": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

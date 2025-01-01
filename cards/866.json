@@ -1,0 +1,33 @@
+{
+  "card": {
+    "id": 866,
+    "fixedId": 866,
+    "typeCard": 1,
+    "name": "Hard Hat",
+    "image": "Hard_Hat",
+    "baseImage": "Hard_Hat",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

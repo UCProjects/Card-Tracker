@@ -30,6 +30,7 @@
     "cost": 6,
     "rarity": "COMMON",
     "originalCost": 6,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,7 +45,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
     "changed": {}
   }

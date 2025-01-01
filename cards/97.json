@@ -10,9 +10,10 @@
     "name": "Strafe",
     "image": "Strafe",
     "baseImage": "Strafe",
-    "cost": 4,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 6,
+    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,8 +28,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ENEMY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 4
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -21,22 +21,19 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 33,
-    "fixedId": 33,
+    "id": 867,
+    "fixedId": 867,
     "typeCard": 0,
-    "name": "Endogeny",
-    "image": "Endogeny",
-    "baseImage": "Endogeny",
-    "cost": 4,
+    "name": "Organ Piano",
+    "image": "Organ_Piano",
+    "baseImage": "Organ_Piano",
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
-    "tribes": [
-      "AMALGAMATE",
-      "DOG"
-    ],
+    "extension": "UTY",
+    "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -47,7 +44,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

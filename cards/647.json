@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 8,
-    "maxHp": 8,
-    "originalAttack": 6,
-    "originalHp": 8,
+    "attack": 5,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 5,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,9 +27,9 @@
     "name": "Queen Painting",
     "image": "Queen_Painting",
     "baseImage": "Queen_Painting",
-    "cost": 11,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 11,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 7,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      }
+    }
   }
 }

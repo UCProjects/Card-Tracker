@@ -45,9 +45,7 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

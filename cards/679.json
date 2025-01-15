@@ -48,13 +48,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLUG"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

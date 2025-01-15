@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "haste": {
-        "now": true,
-        "prev": false
-      }
-    }
+    "changed": {}
   }
 }

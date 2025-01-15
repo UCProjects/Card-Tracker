@@ -34,8 +34,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "PLANT"
+      "PLANT",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -52,12 +52,12 @@
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "PLANT"
-        ],
-        "prev": [
           "PLANT",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "PLANT"
         ]
       }
     }

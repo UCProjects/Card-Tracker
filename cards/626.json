@@ -45,30 +45,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "cost": {
-        "now": 7,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 5
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

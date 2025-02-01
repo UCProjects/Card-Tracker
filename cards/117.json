@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
@@ -27,9 +27,9 @@
     "name": "Omega Flowey",
     "image": "Omega_Flowey",
     "baseImage": "Omega_Flowey",
-    "cost": 10,
+    "cost": 11,
     "rarity": "DETERMINATION",
-    "originalCost": 10,
+    "originalCost": 11,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -48,6 +48,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "cost": {
+        "now": 11,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 10
+      }
+    }
   }
 }

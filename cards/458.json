@@ -10,9 +10,9 @@
     "name": "Carousel",
     "image": "Carousel",
     "baseImage": "Carousel",
-    "cost": 2,
+    "cost": 3,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      }
+    }
   }
 }

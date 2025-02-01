@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 7,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 7,
-    "originalHp": 8,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,26 +13,26 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
     "candy": false,
-    "shockEnabled": false,
+    "shockEnabled": true,
     "supportEnabled": false,
     "wanted": false,
-    "id": 65,
-    "fixedId": 65,
+    "id": 870,
+    "fixedId": 870,
     "typeCard": 0,
-    "name": "Frisk",
-    "image": "Frisk",
-    "baseImage": "Frisk",
-    "cost": 10,
-    "rarity": "DETERMINATION",
-    "originalCost": 10,
+    "name": "Angie",
+    "image": "Angie",
+    "baseImage": "Angie",
+    "cost": 9,
+    "rarity": "EPIC",
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -44,21 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 10,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 11
-      }
-    }
+    "changed": {}
   }
 }

@@ -27,9 +27,9 @@
     "name": "Asriel Dreemurr",
     "image": "Asriel_Dreemurr",
     "baseImage": "Asriel_Dreemurr",
-    "cost": 17,
+    "cost": 15,
     "rarity": "LEGENDARY",
-    "originalCost": 17,
+    "originalCost": 15,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 15,
+        "prev": 17
+      },
+      "originalCost": {
+        "now": 15,
+        "prev": 17
+      }
+    }
   }
 }

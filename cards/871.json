@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 7,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 7,
-    "originalHp": 8,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": true,
+    "taunt": false,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -21,15 +21,16 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 65,
-    "fixedId": 65,
+    "id": 871,
+    "fixedId": 871,
     "typeCard": 0,
-    "name": "Frisk",
-    "image": "Frisk",
-    "baseImage": "Frisk",
-    "cost": 10,
-    "rarity": "DETERMINATION",
-    "originalCost": 10,
+    "name": "Ice-E",
+    "image": "Ice-E",
+    "baseImage": "Ice-E",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -44,21 +45,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
-      "cost": {
-        "now": 10,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 11
-      }
-    }
+    "changed": {}
   }
 }

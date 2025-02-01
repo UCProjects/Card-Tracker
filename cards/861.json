@@ -10,9 +10,9 @@
     "name": "Oasis",
     "image": "Oasis",
     "baseImage": "Oasis",
-    "cost": 7,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

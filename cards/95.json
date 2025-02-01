@@ -10,9 +10,9 @@
     "name": "Test of Will",
     "image": "Test_of_Will",
     "baseImage": "Test_of_Will",
-    "cost": 7,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 7
+      }
+    }
   }
 }

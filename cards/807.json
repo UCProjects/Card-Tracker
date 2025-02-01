@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 6,
-    "originalHp": 6,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -19,7 +19,7 @@
     "transparency": false,
     "candy": false,
     "shockEnabled": true,
-    "supportEnabled": true,
+    "supportEnabled": false,
     "wanted": false,
     "id": 807,
     "fixedId": 807,
@@ -27,9 +27,9 @@
     "name": "Spamequin",
     "image": "Spamequin",
     "baseImage": "Spamequin",
-    "cost": 6,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,39 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 6
+      },
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "supportEnabled": {
+        "now": false,
+        "prev": true
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

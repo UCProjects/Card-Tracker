@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 2,
-    "originalHp": 2,
+    "attack": 5,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 5,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -21,18 +21,18 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 311,
-    "fixedId": 311,
+    "id": 872,
+    "fixedId": 872,
     "typeCard": 0,
-    "name": "Chest",
-    "image": "Chest",
-    "baseImage": "Chest",
-    "cost": 2,
+    "name": "Bryan",
+    "image": "Bryan",
+    "baseImage": "Bryan",
+    "cost": 8,
     "rarity": "COMMON",
-    "originalCost": 2,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -44,17 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 1
-      }
-    }
+    "changed": {}
   }
 }

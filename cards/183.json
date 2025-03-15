@@ -10,9 +10,9 @@
     "name": "Aftermath",
     "image": "Aftermath",
     "baseImage": "Aftermath",
-    "cost": 1,
+    "cost": 3,
     "rarity": "EPIC",
-    "originalCost": 1,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 1
+      }
+    }
   }
 }

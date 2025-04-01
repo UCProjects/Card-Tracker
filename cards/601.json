@@ -15,10 +15,10 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": false,
+    "haste": true,
     "transparency": false,
     "candy": false,
-    "shockEnabled": true,
+    "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
     "id": 601,
@@ -46,6 +46,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "haste": {
+        "now": true,
+        "prev": false
+      },
+      "shockEnabled": {
+        "now": false,
+        "prev": true
+      }
+    }
   }
 }

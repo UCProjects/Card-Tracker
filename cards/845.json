@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 3,
+    "attack": 4,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 3,
+    "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -15,7 +15,7 @@
     "charge": false,
     "taunt": false,
     "invulnerable": false,
-    "haste": true,
+    "haste": false,
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
@@ -48,6 +48,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "haste": {
+        "now": false,
+        "prev": true
+      }
+    }
   }
 }

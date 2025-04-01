@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 6,
+    "attack": 4,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 6,
+    "originalAttack": 4,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -27,9 +27,9 @@
     "name": "Burgersimp",
     "image": "Burgersimp",
     "baseImage": "Burgersimp",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 6
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

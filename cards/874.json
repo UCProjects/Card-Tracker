@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 5,
     "dodge": 0,
     "armor": false,
@@ -21,16 +21,15 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 409,
-    "fixedId": 409,
+    "id": 874,
+    "fixedId": 874,
     "typeCard": 0,
-    "name": "Action Figures",
-    "image": "Action_Figures",
-    "baseImage": "Action_Figures",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
-    "target": "ALLY_MONSTER",
+    "name": "El Undercardio",
+    "image": "El_Undercardio",
+    "baseImage": "El_Undercardio",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,21 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

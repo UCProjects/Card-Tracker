@@ -27,9 +27,9 @@
     "name": "Mo",
     "image": "Mo",
     "baseImage": "Mo",
-    "cost": 6,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -44,10 +44,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

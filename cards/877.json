@@ -1,22 +1,20 @@
 {
   "card": {
-    "soul": {
-      "id": 5,
-      "name": "KINDNESS"
-    },
-    "id": 860,
-    "fixedId": 860,
+    "id": 877,
+    "fixedId": 877,
     "typeCard": 1,
-    "name": "Bounty",
-    "image": "Bounty",
-    "baseImage": "Bounty",
-    "cost": 1,
-    "rarity": "RARE",
-    "originalCost": 1,
+    "name": "Final Pack",
+    "image": "Final_Pack",
+    "baseImage": "Final_Pack",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
-    "extension": "UTY",
-    "tribes": [],
+    "extension": "BASE",
+    "tribes": [
+      "PACK"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -27,7 +25,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

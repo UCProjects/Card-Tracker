@@ -27,9 +27,9 @@
     "name": "Seam",
     "image": "Seam",
     "baseImage": "Seam",
-    "cost": 7,
+    "cost": 6,
     "rarity": "LEGENDARY",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,21 +45,15 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "MONSTER"
-    },
+    "removed": {},
     "changed": {
-      "taunt": {
-        "now": true,
-        "prev": false
-      },
       "cost": {
-        "now": 7,
-        "prev": 8
+        "now": 6,
+        "prev": 7
       },
       "originalCost": {
-        "now": 7,
-        "prev": 8
+        "now": 6,
+        "prev": 7
       }
     }
   }

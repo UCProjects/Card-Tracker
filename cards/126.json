@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 3,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 4,
+    "originalAttack": 3,
     "originalHp": 6,
     "dodge": 0,
     "armor": false,
@@ -27,9 +27,9 @@
     "name": "Papyrus Statue",
     "image": "Papyrus_Statue",
     "baseImage": "Papyrus_Statue",
-    "cost": 5,
+    "cost": 4,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

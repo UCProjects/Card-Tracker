@@ -27,9 +27,9 @@
     "name": "Sand Dog",
     "image": "Sand_Dog",
     "baseImage": "Sand_Dog",
-    "cost": 11,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 11,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -48,6 +48,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      }
+    }
   }
 }

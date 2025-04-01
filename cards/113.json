@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 4,
-    "originalHp": 3,
+    "attack": 5,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 5,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,9 +27,9 @@
     "name": "Igloo",
     "image": "Igloo",
     "baseImage": "Igloo",
-    "cost": 3,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 4,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -47,6 +47,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "hp": {
+        "now": 4,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 3
+      },
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

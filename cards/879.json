@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -12,7 +12,7 @@
     "kr": false,
     "burn": 0,
     "cantAttack": false,
-    "charge": false,
+    "charge": true,
     "taunt": false,
     "invulnerable": false,
     "haste": false,
@@ -21,19 +21,18 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "id": 409,
-    "fixedId": 409,
+    "id": 879,
+    "fixedId": 879,
     "typeCard": 0,
-    "name": "Action Figures",
-    "image": "Action_Figures",
-    "baseImage": "Action_Figures",
+    "name": "Golden Mirror",
+    "image": "Golden_Mirror",
+    "baseImage": "Golden_Mirror",
     "cost": 4,
-    "rarity": "RARE",
+    "rarity": "TOKEN",
     "originalCost": 4,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -45,21 +44,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

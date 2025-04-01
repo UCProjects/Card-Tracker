@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 20,
-    "hp": 20,
-    "maxHp": 20,
-    "originalAttack": 20,
-    "originalHp": 20,
+    "attack": 30,
+    "hp": 30,
+    "maxHp": 30,
+    "originalAttack": 30,
+    "originalHp": 30,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,9 +27,9 @@
     "name": "The Barrier",
     "image": "The_Barrier",
     "baseImage": "The_Barrier",
-    "cost": 40,
+    "cost": 35,
     "rarity": "DETERMINATION",
-    "originalCost": 40,
+    "originalCost": 35,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 30,
+        "prev": 20
+      },
+      "hp": {
+        "now": 30,
+        "prev": 20
+      },
+      "maxHp": {
+        "now": 30,
+        "prev": 20
+      },
+      "originalAttack": {
+        "now": 30,
+        "prev": 20
+      },
+      "originalHp": {
+        "now": 30,
+        "prev": 20
+      },
+      "cost": {
+        "now": 35,
+        "prev": 40
+      },
+      "originalCost": {
+        "now": 35,
+        "prev": 40
+      }
+    }
   }
 }

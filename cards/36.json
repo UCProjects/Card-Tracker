@@ -49,17 +49,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "PLANT"
-        ],
-        "prev": [
-          "PLANT",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

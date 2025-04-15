@@ -49,17 +49,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "ARACHNID",
-          "PLANT"
-        ],
-        "prev": [
-          "PLANT",
-          "ARACHNID"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

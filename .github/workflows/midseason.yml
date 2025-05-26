@@ -5,7 +5,7 @@ on:
     - cron: "0 18 15 * *" # About 9 hours after reset (But 1-3 hours after patch)
 jobs:
   run:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Checkout
         uses: actions/checkout@v2

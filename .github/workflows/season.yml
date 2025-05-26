@@ -5,7 +5,7 @@ on:
     - cron: "0 12 1 * *" # About 3 hours after reset
 jobs:
   run:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Checkout
         uses: actions/checkout@v2

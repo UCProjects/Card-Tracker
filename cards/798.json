@@ -6,9 +6,9 @@
     "name": "GIGA Glass",
     "image": "GIGA_Glass",
     "baseImage": "GIGA_Glass",
-    "cost": 0,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 0,
+    "originalCost": 1,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -28,6 +28,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 0
+      }
+    }
   }
 }

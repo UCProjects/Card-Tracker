@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 10,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 10,
-    "originalHp": 10,
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,9 +27,9 @@
     "name": "GIGA Queen",
     "image": "GIGA_Queen",
     "baseImage": "GIGA_Queen",
-    "cost": 17,
+    "cost": 7,
     "rarity": "DETERMINATION",
-    "originalCost": 17,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 10
+      },
+      "hp": {
+        "now": 5,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 10
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 10
+      },
+      "cost": {
+        "now": 7,
+        "prev": 17
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 17
+      }
+    }
   }
 }

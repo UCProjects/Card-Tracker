@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 7,
+    "attack": 6,
     "hp": 4,
     "maxHp": 4,
-    "originalAttack": 7,
+    "originalAttack": 6,
     "originalHp": 4,
     "dodge": 0,
     "armor": false,
@@ -24,12 +24,12 @@
     "id": 773,
     "fixedId": 773,
     "typeCard": 0,
-    "name": "Shyra's Tomb",
-    "image": "Shyras_Tomb",
-    "baseImage": "Shyras_Tomb",
-    "cost": 6,
+    "name": "Shyra Tombstone",
+    "image": "Shyra_Tombstone",
+    "baseImage": "Shyra_Tombstone",
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 7
+      },
+      "name": {
+        "now": "Shyra Tombstone",
+        "prev": "Shyra's Tomb"
+      },
+      "image": {
+        "now": "Shyra_Tombstone",
+        "prev": "Shyras_Tomb"
+      },
+      "baseImage": {
+        "now": "Shyra_Tombstone",
+        "prev": "Shyras_Tomb"
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

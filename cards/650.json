@@ -28,7 +28,7 @@
     "image": "Walk_Sign",
     "baseImage": "Walk_Sign",
     "cost": 5,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 5,
     "target": "MONSTER",
     "shiny": false,
@@ -47,6 +47,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

@@ -6,10 +6,10 @@
     "name": "The Fifth Round",
     "image": "The_Fifth_Round",
     "baseImage": "The_Fifth_Round",
-    "cost": 5,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 5,
-    "target": "ALL",
+    "originalCost": 4,
+    "target": "ENEMY",
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -28,6 +28,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   }
 }

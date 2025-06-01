@@ -28,7 +28,7 @@
     "image": "Ranger_Rudinn",
     "baseImage": "Ranger_Rudinn",
     "cost": 3,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 3,
     "shiny": false,
     "quantity": 1,
@@ -46,6 +46,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

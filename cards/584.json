@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 5,
-    "originalHp": 7,
+    "attack": 4,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 4,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -27,9 +27,9 @@
     "name": "Caged Kings",
     "image": "Caged_Kings",
     "baseImage": "Caged_Kings",
-    "cost": 6,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -46,6 +46,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

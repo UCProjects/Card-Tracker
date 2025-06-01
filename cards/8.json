@@ -27,9 +27,9 @@
     "name": "Toriel",
     "image": "Toriel",
     "baseImage": "Toriel",
-    "cost": 9,
+    "cost": 8,
     "rarity": "LEGENDARY",
-    "originalCost": 9,
+    "originalCost": 8,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -47,6 +47,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   }
 }

@@ -28,7 +28,7 @@
     "image": "Ralsei_Dummy",
     "baseImage": "Ralsei_Dummy",
     "cost": 2,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 2,
     "shiny": false,
     "quantity": 1,
@@ -46,6 +46,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

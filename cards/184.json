@@ -10,9 +10,9 @@
     "name": "Soothing",
     "image": "Soothing",
     "baseImage": "Soothing",
-    "cost": 2,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 3,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 2
+      }
+    }
   }
 }

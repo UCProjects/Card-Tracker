@@ -6,10 +6,10 @@
     "name": "The First Round",
     "image": "The_First_Round",
     "baseImage": "The_First_Round",
-    "cost": 1,
+    "cost": 0,
     "rarity": "TOKEN",
-    "originalCost": 1,
-    "target": "ALL",
+    "originalCost": 0,
+    "target": "ENEMY",
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -28,6 +28,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 1
+      },
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   }
 }

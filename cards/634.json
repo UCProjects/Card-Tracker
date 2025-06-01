@@ -24,9 +24,9 @@
     "id": 634,
     "fixedId": 634,
     "typeCard": 0,
-    "name": "Burgersimp",
-    "image": "Burgersimp",
-    "baseImage": "Burgersimp",
+    "name": "Pizzasimp",
+    "image": "Pizzasimp",
+    "baseImage": "Pizzasimp",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -46,6 +46,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Pizzasimp",
+        "prev": "Burgersimp"
+      },
+      "image": {
+        "now": "Pizzasimp",
+        "prev": "Burgersimp"
+      },
+      "baseImage": {
+        "now": "Pizzasimp",
+        "prev": "Burgersimp"
+      }
+    }
   }
 }

@@ -28,7 +28,7 @@
     "image": "Big_Hat_Charles",
     "baseImage": "Big_Hat_Charles",
     "cost": 6,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 6,
     "shiny": false,
     "quantity": 1,
@@ -46,6 +46,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

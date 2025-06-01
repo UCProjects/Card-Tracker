@@ -28,7 +28,7 @@
     "image": "Bloody_Tree",
     "baseImage": "Bloody_Tree",
     "cost": 4,
-    "rarity": "COMMON",
+    "rarity": "BASE",
     "originalCost": 4,
     "shiny": false,
     "quantity": 1,
@@ -48,6 +48,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "rarity": {
+        "now": "BASE",
+        "prev": "COMMON"
+      }
+    }
   }
 }

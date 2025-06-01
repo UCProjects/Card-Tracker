@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 1,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 1,
-    "originalHp": 5,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -19,38 +19,37 @@
     "transparency": false,
     "candy": false,
     "shockEnabled": false,
-    "supportEnabled": true,
+    "supportEnabled": false,
     "wanted": false,
-    "id": 396,
-    "fixedId": 396,
+    "id": 880,
+    "fixedId": 880,
     "typeCard": 0,
-    "name": "Hathy",
-    "image": "Hathy",
-    "baseImage": "Hathy",
-    "cost": 4,
-    "rarity": "BASE",
-    "originalCost": 4,
+    "name": "Martlet",
+    "image": "Martlet",
+    "baseImage": "Martlet",
+    "cost": 8,
+    "rarity": "LEGENDARY",
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
-    "tribes": [],
+    "extension": "UTY",
+    "tribes": [
+      "ROYAL_GUARD"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
+    "bullseyeEnabled": true,
     "loop": 0,
     "program": 0,
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "rarity": {
-        "now": "BASE",
-        "prev": "COMMON"
-      }
-    }
+    "changed": {}
   }
 }

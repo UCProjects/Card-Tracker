@@ -6,10 +6,10 @@
     "name": "The Second Round",
     "image": "The_Second_Round",
     "baseImage": "The_Second_Round",
-    "cost": 2,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 2,
-    "target": "ALL",
+    "originalCost": 1,
+    "target": "ENEMY",
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -28,6 +28,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   }
 }

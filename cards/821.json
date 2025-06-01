@@ -6,10 +6,10 @@
     "name": "The Fourth Round",
     "image": "The_Fourth_Round",
     "baseImage": "The_Fourth_Round",
-    "cost": 4,
+    "cost": 3,
     "rarity": "TOKEN",
-    "originalCost": 4,
-    "target": "ALL",
+    "originalCost": 3,
+    "target": "ENEMY",
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -28,6 +28,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      },
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   }
 }

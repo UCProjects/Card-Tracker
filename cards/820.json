@@ -6,10 +6,10 @@
     "name": "The Third Round",
     "image": "The_Third_Round",
     "baseImage": "The_Third_Round",
-    "cost": 3,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 3,
-    "target": "ALL",
+    "originalCost": 2,
+    "target": "ENEMY",
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -28,6 +28,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "target": {
+        "now": "ENEMY",
+        "prev": "ALL"
+      }
+    }
   }
 }

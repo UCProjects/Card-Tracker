@@ -46,35 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 7
-      },
-      "name": {
-        "now": "Shyra Tombstone",
-        "prev": "Shyra's Tomb"
-      },
-      "image": {
-        "now": "Shyra_Tombstone",
-        "prev": "Shyras_Tomb"
-      },
-      "baseImage": {
-        "now": "Shyra_Tombstone",
-        "prev": "Shyras_Tomb"
-      },
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 5,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 4,
+    "originalAttack": 5,
     "originalHp": 7,
     "dodge": 0,
     "armor": false,
@@ -21,6 +21,7 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
+    "darkspawn": false,
     "id": 35,
     "fixedId": 35,
     "typeCard": 0,
@@ -34,8 +35,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "MOLD"
+      "MOLD",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -47,17 +48,27 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "darkspawn": false
+    },
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 4
+      },
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
           "MOLD",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
         ]
       }
     }

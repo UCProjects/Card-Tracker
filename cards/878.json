@@ -21,15 +21,16 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
+    "darkspawn": false,
     "id": 878,
     "fixedId": 878,
     "typeCard": 0,
     "name": "Ceroba Ketsukane",
     "image": "Ceroba_Ketsukane",
     "baseImage": "Ceroba_Ketsukane",
-    "cost": 12,
+    "cost": 13,
     "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -44,8 +45,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "darkspawn": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 12
+      }
+    }
   }
 }

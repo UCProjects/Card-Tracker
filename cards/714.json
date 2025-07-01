@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 7,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 5,
+    "originalAttack": 7,
     "originalHp": 7,
     "dodge": 0,
     "armor": false,
@@ -21,15 +21,16 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
+    "darkspawn": false,
     "id": 714,
     "fixedId": 714,
     "typeCard": 0,
     "name": "Caged Jester",
     "image": "Caged_Jester",
     "baseImage": "Caged_Jester",
-    "cost": 6,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -44,8 +45,27 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "darkspawn": false
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 7,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 7,
+        "prev": 5
+      },
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

@@ -21,6 +21,7 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
+    "darkspawn": false,
     "id": 36,
     "fixedId": 36,
     "typeCard": 0,
@@ -34,8 +35,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "PLANT"
+      "PLANT",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -47,17 +48,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "darkspawn": false
+    },
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "PLANT"
-        ],
-        "prev": [
           "PLANT",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "PLANT"
         ]
       }
     }

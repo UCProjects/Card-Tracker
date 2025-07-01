@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 4,
-    "originalHp": 5,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -21,20 +21,19 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
-    "darkspawn": false,
-    "id": 555,
-    "fixedId": 555,
+    "darkspawn": true,
+    "id": 897,
+    "fixedId": 897,
     "typeCard": 0,
-    "name": "Cool Vulkin",
-    "image": "Cool_Vulkin",
-    "baseImage": "Cool_Vulkin",
+    "name": "Titan Spawn",
+    "image": "Titan_Spawn",
+    "baseImage": "Titan_Spawn",
     "cost": 5,
-    "rarity": "RARE",
+    "rarity": "EPIC",
     "originalCost": 5,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -47,7 +46,7 @@
   },
   "diffs": {
     "added": {
-      "darkspawn": false
+      "new": true
     },
     "removed": {},
     "changed": {}

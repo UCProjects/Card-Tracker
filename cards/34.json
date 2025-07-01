@@ -21,6 +21,7 @@
     "shockEnabled": false,
     "supportEnabled": false,
     "wanted": false,
+    "darkspawn": false,
     "id": 34,
     "fixedId": 34,
     "typeCard": 0,
@@ -34,8 +35,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "FROGGIT"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -47,17 +48,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "darkspawn": false
+    },
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "FROGGIT"
+        ],
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
         ]
       }
     }

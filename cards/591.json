@@ -21,6 +21,7 @@
     "shockEnabled": true,
     "supportEnabled": false,
     "wanted": false,
+    "darkspawn": false,
     "id": 591,
     "fixedId": 591,
     "typeCard": 0,
@@ -45,7 +46,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "darkspawn": false
+    },
     "removed": {},
     "changed": {}
   }

@@ -45,19 +45,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "darkspawn": false
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

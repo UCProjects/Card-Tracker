@@ -28,9 +28,9 @@
     "name": "The Vessel",
     "image": "The_Vessel",
     "baseImage": "The_Vessel",
-    "cost": 9,
+    "cost": 8,
     "rarity": "DETERMINATION",
-    "originalCost": 9,
+    "originalCost": 8,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -46,10 +46,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "darkspawn": false
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 5,
-    "hp": 7,
-    "maxHp": 7,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 5,
-    "originalHp": 7,
+    "originalHp": 6,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -28,9 +28,9 @@
     "name": "Bryan",
     "image": "Bryan",
     "baseImage": "Bryan",
-    "cost": 9,
+    "cost": 8,
     "rarity": "COMMON",
-    "originalCost": 9,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -45,10 +45,29 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "darkspawn": false
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 7
+      },
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 4,
-    "originalHp": 8,
+    "originalHp": 7,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -28,9 +28,9 @@
     "name": "River Person",
     "image": "River_Person",
     "baseImage": "River_Person",
-    "cost": 8,
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 8,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -45,10 +45,29 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "darkspawn": false
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
+      }
+    }
   }
 }

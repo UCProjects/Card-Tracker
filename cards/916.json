@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 916,
+    "fixedId": 916,
+    "typeCard": 1,
+    "name": "Food Stack",
+    "image": "Food_Stack",
+    "baseImage": "Food_Stack",
+    "cost": 3,
+    "rarity": "TOKEN",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

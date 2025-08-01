@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 3,
-    "originalHp": 2,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -13,7 +13,7 @@
     "burn": 0,
     "cantAttack": false,
     "charge": false,
-    "taunt": false,
+    "taunt": true,
     "invulnerable": false,
     "haste": false,
     "transparency": false,
@@ -31,7 +31,6 @@
     "cost": 5,
     "rarity": "COMMON",
     "originalCost": 5,
-    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -47,27 +46,33 @@
   },
   "diffs": {
     "added": {},
-    "removed": {},
+    "removed": {
+      "target": "ALLY_MONSTER"
+    },
     "changed": {
       "attack": {
-        "now": 3,
-        "prev": 4
+        "now": 4,
+        "prev": 3
       },
       "hp": {
-        "now": 2,
-        "prev": 4
+        "now": 4,
+        "prev": 2
       },
       "maxHp": {
-        "now": 2,
-        "prev": 4
+        "now": 4,
+        "prev": 2
       },
       "originalAttack": {
-        "now": 3,
-        "prev": 4
+        "now": 4,
+        "prev": 3
       },
       "originalHp": {
-        "now": 2,
-        "prev": 4
+        "now": 4,
+        "prev": 2
+      },
+      "taunt": {
+        "now": true,
+        "prev": false
       }
     }
   }

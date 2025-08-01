@@ -11,9 +11,10 @@
     "name": "Another Chance",
     "image": "Another_Chance",
     "baseImage": "Another_Chance",
-    "cost": 3,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,8 +29,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "ALLY_MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 3
+      }
+    }
   }
 }

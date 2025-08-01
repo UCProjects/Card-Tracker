@@ -1,0 +1,56 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 4,
+    "originalHp": 8,
+    "dodge": 0,
+    "armor": false,
+    "paralyzed": 0,
+    "silence": false,
+    "kr": false,
+    "burn": 0,
+    "cantAttack": false,
+    "charge": false,
+    "taunt": true,
+    "invulnerable": false,
+    "haste": false,
+    "transparency": false,
+    "candy": false,
+    "shockEnabled": false,
+    "supportEnabled": false,
+    "wanted": false,
+    "darkspawn": false,
+    "id": 882,
+    "fixedId": 882,
+    "typeCard": 0,
+    "name": "Ramb",
+    "image": "Ramb",
+    "baseImage": "Ramb",
+    "cost": 8,
+    "rarity": "LEGENDARY",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "PLUG"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

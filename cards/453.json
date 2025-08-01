@@ -11,9 +11,9 @@
     "name": "Call of the Grave",
     "image": "Call_of_the_Grave",
     "baseImage": "Call_of_the_Grave",
-    "cost": 3,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -24,12 +24,25 @@
     "ownerId": 0,
     "bullseyeEnabled": false,
     "loop": 0,
-    "program": 0,
+    "program": 2,
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
+      "program": {
+        "now": 2,
+        "prev": 0
+      }
+    }
   }
 }

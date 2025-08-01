@@ -1,0 +1,33 @@
+{
+  "card": {
+    "id": 886,
+    "fixedId": 886,
+    "typeCard": 1,
+    "name": "Sharpshoot",
+    "image": "Sharpshoot",
+    "baseImage": "Sharpshoot",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 4,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

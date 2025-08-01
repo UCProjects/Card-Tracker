@@ -28,9 +28,9 @@
     "name": "Noelle",
     "image": "Noelle",
     "baseImage": "Noelle",
-    "cost": 3,
+    "cost": 4,
     "rarity": "LEGENDARY",
-    "originalCost": 3,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -47,6 +47,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 918,
+    "fixedId": 918,
+    "typeCard": 1,
+    "name": "Rock Chord",
+    "image": "Rock_Chord",
+    "baseImage": "Rock_Chord",
+    "cost": 1,
+    "rarity": "TOKEN",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "bullseyeEnabled": false,
+    "loop": 0,
+    "program": 0,
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

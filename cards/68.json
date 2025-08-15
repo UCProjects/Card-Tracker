@@ -29,19 +29,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 3
-      }
-    }
+    "changed": {}
   }
 }

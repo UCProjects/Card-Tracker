@@ -48,11 +48,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "program": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

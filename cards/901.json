@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 12,
-    "hp": 12,
-    "maxHp": 12,
-    "originalAttack": 12,
-    "originalHp": 12,
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
     "dodge": 0,
     "armor": false,
     "paralyzed": 0,
@@ -28,9 +28,9 @@
     "name": "Titan",
     "image": "Titan",
     "baseImage": "Titan",
-    "cost": 15,
+    "cost": 14,
     "rarity": "DETERMINATION",
-    "originalCost": 15,
+    "originalCost": 14,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -45,10 +45,37 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 10,
+        "prev": 12
+      },
+      "hp": {
+        "now": 10,
+        "prev": 12
+      },
+      "maxHp": {
+        "now": 10,
+        "prev": 12
+      },
+      "originalAttack": {
+        "now": 10,
+        "prev": 12
+      },
+      "originalHp": {
+        "now": 10,
+        "prev": 12
+      },
+      "cost": {
+        "now": 14,
+        "prev": 15
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 15
+      }
+    }
   }
 }

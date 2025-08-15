@@ -46,34 +46,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 4,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 2
-      },
-      "taunt": {
-        "now": true,
-        "prev": false
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

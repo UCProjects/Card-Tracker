@@ -30,27 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Star Blazing",
-        "prev": "Faded Memory"
-      },
-      "image": {
-        "now": "Star_Blazing",
-        "prev": "Faded_Memory"
-      },
-      "baseImage": {
-        "now": "Star_Blazing",
-        "prev": "Faded_Memory"
-      },
-      "cost": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 2
-      }
-    }
+    "changed": {}
   }
 }

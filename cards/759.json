@@ -5,32 +5,16 @@
     "maxHp": 5,
     "originalAttack": 4,
     "originalHp": 5,
-    "dodge": 0,
-    "armor": false,
-    "paralyzed": 0,
-    "silence": false,
-    "kr": false,
-    "burn": 0,
-    "cantAttack": false,
-    "charge": false,
-    "taunt": false,
-    "invulnerable": false,
-    "haste": false,
-    "transparency": false,
-    "candy": false,
-    "shockEnabled": false,
-    "supportEnabled": false,
-    "wanted": false,
-    "darkspawn": false,
+    "dead": false,
     "id": 759,
     "fixedId": 759,
     "typeCard": 0,
     "name": "Tasque Singer",
     "image": "Tasque_Singer",
     "baseImage": "Tasque_Singer",
-    "cost": 6,
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -39,14 +23,45 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "dead": false,
+      "statuses": []
+    },
+    "removed": {
+      "dodge": 0,
+      "armor": false,
+      "paralyzed": 0,
+      "silence": false,
+      "kr": false,
+      "burn": 0,
+      "cantAttack": false,
+      "charge": false,
+      "taunt": false,
+      "invulnerable": false,
+      "haste": false,
+      "transparency": false,
+      "candy": false,
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "wanted": false,
+      "darkspawn": false,
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

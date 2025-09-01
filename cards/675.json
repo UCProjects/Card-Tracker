@@ -5,32 +5,16 @@
     "maxHp": 6,
     "originalAttack": 6,
     "originalHp": 6,
-    "dodge": 0,
-    "armor": false,
-    "paralyzed": 0,
-    "silence": false,
-    "kr": false,
-    "burn": 0,
-    "cantAttack": false,
-    "charge": false,
-    "taunt": false,
-    "invulnerable": false,
-    "haste": false,
-    "transparency": false,
-    "candy": false,
-    "shockEnabled": false,
-    "supportEnabled": false,
-    "wanted": false,
-    "darkspawn": false,
+    "dead": false,
     "id": 675,
     "fixedId": 675,
     "typeCard": 0,
     "name": "Cyberdly",
     "image": "Cyberdly",
     "baseImage": "Cyberdly",
-    "cost": 6,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -39,14 +23,45 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "dead": false,
+      "statuses": []
+    },
+    "removed": {
+      "dodge": 0,
+      "armor": false,
+      "paralyzed": 0,
+      "silence": false,
+      "kr": false,
+      "burn": 0,
+      "cantAttack": false,
+      "charge": false,
+      "taunt": false,
+      "invulnerable": false,
+      "haste": false,
+      "transparency": false,
+      "candy": false,
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "wanted": false,
+      "darkspawn": false,
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

@@ -1,27 +1,11 @@
 {
   "card": {
     "attack": 2,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 2,
-    "originalHp": 6,
-    "dodge": 0,
-    "armor": false,
-    "paralyzed": 0,
-    "silence": false,
-    "kr": false,
-    "burn": 0,
-    "cantAttack": false,
-    "charge": false,
-    "taunt": false,
-    "invulnerable": false,
-    "haste": false,
-    "transparency": false,
-    "candy": false,
-    "shockEnabled": false,
-    "supportEnabled": false,
-    "wanted": false,
-    "darkspawn": false,
+    "originalHp": 7,
+    "dead": false,
     "id": 519,
     "fixedId": 519,
     "typeCard": 0,
@@ -41,14 +25,49 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "dead": false,
+      "statuses": []
+    },
+    "removed": {
+      "dodge": 0,
+      "armor": false,
+      "paralyzed": 0,
+      "silence": false,
+      "kr": false,
+      "burn": 0,
+      "cantAttack": false,
+      "charge": false,
+      "taunt": false,
+      "invulnerable": false,
+      "haste": false,
+      "transparency": false,
+      "candy": false,
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "wanted": false,
+      "darkspawn": false,
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

@@ -5,23 +5,7 @@
     "maxHp": 4,
     "originalAttack": 5,
     "originalHp": 4,
-    "dodge": 0,
-    "armor": true,
-    "paralyzed": 0,
-    "silence": false,
-    "kr": false,
-    "burn": 0,
-    "cantAttack": true,
-    "charge": false,
-    "taunt": false,
-    "invulnerable": false,
-    "haste": false,
-    "transparency": false,
-    "candy": false,
-    "shockEnabled": false,
-    "supportEnabled": true,
-    "wanted": false,
-    "darkspawn": false,
+    "dead": false,
     "id": 432,
     "fixedId": 432,
     "typeCard": 0,
@@ -39,14 +23,80 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "support",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "armor",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "NEGATIVE",
+        "name": "disarmed",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
+    "added": {
+      "dead": false,
+      "statuses": [
+        {
+          "statusType": "POSITIVE",
+          "name": "support",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        },
+        {
+          "statusType": "POSITIVE",
+          "name": "armor",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        },
+        {
+          "statusType": "NEGATIVE",
+          "name": "disarmed",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        }
+      ]
+    },
+    "removed": {
+      "dodge": 0,
+      "armor": true,
+      "paralyzed": 0,
+      "silence": false,
+      "kr": false,
+      "burn": 0,
+      "cantAttack": true,
+      "charge": false,
+      "taunt": false,
+      "invulnerable": false,
+      "haste": false,
+      "transparency": false,
+      "candy": false,
+      "shockEnabled": false,
+      "supportEnabled": true,
+      "wanted": false,
+      "darkspawn": false,
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "changed": {}
   }
 }

@@ -5,23 +5,7 @@
     "maxHp": 4,
     "originalAttack": 4,
     "originalHp": 4,
-    "dodge": 0,
-    "armor": false,
-    "paralyzed": 0,
-    "silence": false,
-    "kr": false,
-    "burn": 0,
-    "cantAttack": false,
-    "charge": false,
-    "taunt": true,
-    "invulnerable": false,
-    "haste": false,
-    "transparency": true,
-    "candy": false,
-    "shockEnabled": false,
-    "supportEnabled": false,
-    "wanted": false,
-    "darkspawn": false,
+    "dead": false,
     "id": 397,
     "fixedId": 397,
     "typeCard": 0,
@@ -39,14 +23,66 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "transparency",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
+    "added": {
+      "dead": false,
+      "statuses": [
+        {
+          "statusType": "POSITIVE",
+          "name": "taunt",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        },
+        {
+          "statusType": "POSITIVE",
+          "name": "transparency",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        }
+      ]
+    },
+    "removed": {
+      "dodge": 0,
+      "armor": false,
+      "paralyzed": 0,
+      "silence": false,
+      "kr": false,
+      "burn": 0,
+      "cantAttack": false,
+      "charge": false,
+      "taunt": true,
+      "invulnerable": false,
+      "haste": false,
+      "transparency": true,
+      "candy": false,
+      "shockEnabled": false,
+      "supportEnabled": false,
+      "wanted": false,
+      "darkspawn": false,
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
     "changed": {}
   }
 }

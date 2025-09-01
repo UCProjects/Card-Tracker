@@ -21,14 +21,48 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 3,
-    "program": 2,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "loop",
+        "statusBehavior": "STACKABLE",
+        "counter": 3,
+        "displayCounter": true
+      },
+      {
+        "statusType": "NEGATIVE",
+        "name": "program",
+        "statusBehavior": "STACKABLE",
+        "counter": 2,
+        "displayCounter": true
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
+    "added": {
+      "statuses": [
+        {
+          "statusType": "POSITIVE",
+          "name": "loop",
+          "statusBehavior": "STACKABLE",
+          "counter": 3,
+          "displayCounter": true
+        },
+        {
+          "statusType": "NEGATIVE",
+          "name": "program",
+          "statusBehavior": "STACKABLE",
+          "counter": 2,
+          "displayCounter": true
+        }
+      ]
+    },
+    "removed": {
+      "bullseyeEnabled": false,
+      "loop": 3,
+      "program": 2
+    },
     "changed": {}
   }
 }

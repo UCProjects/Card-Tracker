@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 930,
+    "fixedId": 930,
+    "typeCard": 1,
+    "name": "Laser Pointere",
+    "image": "Laser_Pointere",
+    "baseImage": "Laser_Pointere",
+    "cost": 3,
+    "rarity": "TOKEN",
+    "originalCost": 3,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

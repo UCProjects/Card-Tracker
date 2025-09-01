@@ -1,0 +1,36 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
+    "dead": false,
+    "id": 929,
+    "fixedId": 929,
+    "typeCard": 0,
+    "name": "Chef Rouxls",
+    "image": "Chef_Rouxls",
+    "baseImage": "Chef_Rouxls",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

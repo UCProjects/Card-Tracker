@@ -5,23 +5,7 @@
     "maxHp": 8,
     "originalAttack": 6,
     "originalHp": 8,
-    "dodge": 0,
-    "armor": false,
-    "paralyzed": 0,
-    "silence": false,
-    "kr": false,
-    "burn": 0,
-    "cantAttack": false,
-    "charge": false,
-    "taunt": false,
-    "invulnerable": false,
-    "haste": false,
-    "transparency": false,
-    "candy": false,
-    "shockEnabled": true,
-    "supportEnabled": true,
-    "wanted": false,
-    "darkspawn": false,
+    "dead": false,
     "id": 908,
     "fixedId": 908,
     "typeCard": 0,
@@ -39,27 +23,66 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "shock",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "support",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {
-      "hp": {
-        "now": 8,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "added": {
+      "dead": false,
+      "statuses": [
+        {
+          "statusType": "POSITIVE",
+          "name": "shock",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        },
+        {
+          "statusType": "POSITIVE",
+          "name": "support",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        }
+      ]
+    },
+    "removed": {
+      "dodge": 0,
+      "armor": false,
+      "paralyzed": 0,
+      "silence": false,
+      "kr": false,
+      "burn": 0,
+      "cantAttack": false,
+      "charge": false,
+      "taunt": false,
+      "invulnerable": false,
+      "haste": false,
+      "transparency": false,
+      "candy": false,
+      "shockEnabled": true,
+      "supportEnabled": true,
+      "wanted": false,
+      "darkspawn": false,
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
+    "changed": {}
   }
 }

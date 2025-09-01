@@ -10,9 +10,9 @@
     "name": "Fortune",
     "image": "Fortune",
     "baseImage": "Fortune",
-    "cost": 2,
+    "cost": 0,
     "rarity": "RARE",
-    "originalCost": 2,
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,14 +21,27 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "statuses": []
+    },
+    "removed": {
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
+    "changed": {
+      "cost": {
+        "now": 0,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 2
+      }
+    }
   }
 }

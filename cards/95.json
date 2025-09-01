@@ -10,9 +10,9 @@
     "name": "Test of Will",
     "image": "Test_of_Will",
     "baseImage": "Test_of_Will",
-    "cost": 9,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 9,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,14 +21,27 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": false,
-    "loop": 0,
-    "program": 0,
+    "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
-    "changed": {}
+    "added": {
+      "statuses": []
+    },
+    "removed": {
+      "bullseyeEnabled": false,
+      "loop": 0,
+      "program": 0
+    },
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   }
 }

@@ -22,14 +22,34 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "bullseyeEnabled": true,
-    "loop": 0,
-    "program": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "bullseye",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {},
-    "removed": {},
+    "added": {
+      "statuses": [
+        {
+          "statusType": "POSITIVE",
+          "name": "bullseye",
+          "statusBehavior": "UNIQUE",
+          "counter": 1,
+          "displayCounter": false
+        }
+      ]
+    },
+    "removed": {
+      "bullseyeEnabled": true,
+      "loop": 0,
+      "program": 0
+    },
     "changed": {}
   }
 }

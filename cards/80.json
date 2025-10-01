@@ -7,13 +7,12 @@
     "id": 80,
     "fixedId": 80,
     "typeCard": 1,
-    "name": "Ambush",
-    "image": "Ambush",
-    "baseImage": "Ambush",
-    "cost": 9,
+    "name": "Royal Signup",
+    "image": "Royal_Signup",
+    "baseImage": "Royal_Signup",
+    "cost": 0,
     "rarity": "EPIC",
-    "originalCost": 9,
-    "target": "ENEMY_MONSTER",
+    "originalCost": 0,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -22,18 +21,55 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [],
+    "statuses": [
+      {
+        "statusType": "NEGATIVE",
+        "name": "program",
+        "statusBehavior": "STACKABLE",
+        "counter": 2,
+        "displayCounter": true
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {
-      "statuses": []
-    },
+    "added": {},
     "removed": {
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 0
+      "target": "ENEMY_MONSTER"
     },
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Royal Signup",
+        "prev": "Ambush"
+      },
+      "image": {
+        "now": "Royal_Signup",
+        "prev": "Ambush"
+      },
+      "baseImage": {
+        "now": "Royal_Signup",
+        "prev": "Ambush"
+      },
+      "cost": {
+        "now": 0,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 0,
+        "prev": 9
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "NEGATIVE",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ],
+        "prev": []
+      }
+    }
   }
 }

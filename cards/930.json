@@ -6,9 +6,9 @@
     "name": "Laser Pointere",
     "image": "Laser_Pointere",
     "baseImage": "Laser_Pointere",
-    "cost": 3,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 3,
+    "originalCost": 4,
     "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -22,10 +22,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 3
+      }
+    }
   }
 }

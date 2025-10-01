@@ -33,22 +33,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "statuses": [
-        {
-          "statusType": "NEGATIVE",
-          "name": "program",
-          "statusBehavior": "STACKABLE",
-          "counter": 5,
-          "displayCounter": true
-        }
-      ]
-    },
-    "removed": {
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 8
-    },
+    "added": {},
+    "removed": {},
     "changed": {}
   }
 }

@@ -42,47 +42,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": [
-        {
-          "statusType": "NEGATIVE",
-          "name": "program",
-          "statusBehavior": "STACKABLE",
-          "counter": 2,
-          "displayCounter": true
-        },
-        {
-          "statusType": "POSITIVE",
-          "name": "charge",
-          "statusBehavior": "UNIQUE",
-          "counter": 1,
-          "displayCounter": false
-        }
-      ]
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": true,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 2
-    },
+    "added": {},
+    "removed": {},
     "changed": {}
   }
 }

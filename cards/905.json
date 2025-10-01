@@ -35,40 +35,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": [
-        {
-          "statusType": "POSITIVE",
-          "name": "transparency",
-          "statusBehavior": "UNIQUE",
-          "counter": 1,
-          "displayCounter": false
-        }
-      ]
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": true,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 1
-    },
+    "added": {},
+    "removed": {},
     "changed": {}
   }
 }

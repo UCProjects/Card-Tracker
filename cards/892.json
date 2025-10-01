@@ -27,53 +27,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": []
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 5
-      },
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "added": {},
+    "removed": {},
+    "changed": {}
   }
 }

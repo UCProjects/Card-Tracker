@@ -12,9 +12,9 @@
     "name": "Pixel Kris",
     "image": "Pixel_Kris",
     "baseImage": "Pixel_Kris",
-    "cost": 4,
+    "cost": 5,
     "rarity": "EPIC",
-    "originalCost": 4,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -27,32 +27,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": []
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
-    "changed": {}
+    "added": {},
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 4
+      }
+    }
   }
 }

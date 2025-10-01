@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 5,
-    "originalHp": 5,
+    "originalHp": 6,
     "dead": false,
     "id": 24,
     "fixedId": 24,
@@ -37,40 +37,21 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": [
-        {
-          "statusType": "POSITIVE",
-          "name": "taunt",
-          "statusBehavior": "UNIQUE",
-          "counter": 1,
-          "displayCounter": false
-        }
-      ]
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": true,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
-    "changed": {}
+    "added": {},
+    "removed": {},
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   }
 }

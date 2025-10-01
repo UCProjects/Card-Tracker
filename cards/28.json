@@ -12,9 +12,10 @@
     "name": "Chara",
     "image": "Chara",
     "baseImage": "Chara",
-    "cost": 13,
+    "cost": 14,
     "rarity": "DETERMINATION",
-    "originalCost": 13,
+    "originalCost": 14,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,31 +29,18 @@
   },
   "diffs": {
     "added": {
-      "dead": false,
-      "statuses": []
+      "target": "MONSTER"
     },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
-    "changed": {}
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 14,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 13
+      }
+    }
   }
 }

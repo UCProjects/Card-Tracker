@@ -19,8 +19,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "ARACHNID",
-      "PLANT"
+      "PLANT",
+      "ARACHNID"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -30,41 +30,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": []
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": false,
-      "loop": 0,
-      "program": 0
-    },
+    "added": {},
+    "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "ARACHNID",
-          "PLANT"
-        ],
-        "prev": [
           "PLANT",
           "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
         ]
       }
     }

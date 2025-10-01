@@ -12,9 +12,9 @@
     "name": "Martlet",
     "image": "Martlet",
     "baseImage": "Martlet",
-    "cost": 8,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 8,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -37,40 +37,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "dead": false,
-      "statuses": [
-        {
-          "statusType": "POSITIVE",
-          "name": "bullseye",
-          "statusBehavior": "UNIQUE",
-          "counter": 1,
-          "displayCounter": false
-        }
-      ]
-    },
-    "removed": {
-      "dodge": 0,
-      "armor": false,
-      "paralyzed": 0,
-      "silence": false,
-      "kr": false,
-      "burn": 0,
-      "cantAttack": false,
-      "charge": false,
-      "taunt": false,
-      "invulnerable": false,
-      "haste": false,
-      "transparency": false,
-      "candy": false,
-      "shockEnabled": false,
-      "supportEnabled": false,
-      "wanted": false,
-      "darkspawn": false,
-      "bullseyeEnabled": true,
-      "loop": 0,
-      "program": 0
-    },
-    "changed": {}
+    "added": {},
+    "removed": {},
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
+      }
+    }
   }
 }

@@ -34,42 +34,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "name": {
-        "now": "Royal Signup",
-        "prev": "Ambush"
-      },
-      "image": {
-        "now": "Royal_Signup",
-        "prev": "Ambush"
-      },
-      "baseImage": {
-        "now": "Royal_Signup",
-        "prev": "Ambush"
-      },
-      "cost": {
-        "now": 0,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 9
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          }
-        ],
-        "prev": []
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

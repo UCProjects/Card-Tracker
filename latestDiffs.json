@@ -117,20 +117,7 @@
   "24": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "25": {
     "added": {},
@@ -148,20 +135,9 @@
     "changed": {}
   },
   "28": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 14,
-        "prev": 13
-      },
-      "originalCost": {
-        "now": 14,
-        "prev": 13
-      }
-    }
+    "changed": {}
   },
   "29": {
     "added": {},
@@ -186,18 +162,7 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   },
   "34": {
     "added": {},
@@ -431,43 +396,8 @@
   },
   "80": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "name": {
-        "now": "Royal Signup",
-        "prev": "Ambush"
-      },
-      "image": {
-        "now": "Royal_Signup",
-        "prev": "Ambush"
-      },
-      "baseImage": {
-        "now": "Royal_Signup",
-        "prev": "Ambush"
-      },
-      "cost": {
-        "now": 0,
-        "prev": 9
-      },
-      "originalCost": {
-        "now": 0,
-        "prev": 9
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          }
-        ],
-        "prev": []
-      }
-    }
+    "removed": {},
+    "changed": {}
   },
   "81": {
     "added": {},
@@ -2142,18 +2072,7 @@
   "477": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT",
-          "ARACHNID"
-        ],
-        "prev": [
-          "ARACHNID",
-          "PLANT"
-        ]
-      }
-    }
+    "changed": {}
   },
   "478": {
     "added": {},
@@ -3718,35 +3637,7 @@
   "790": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "shock",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "shock",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   },
   "791": {
     "added": {},
@@ -3846,28 +3737,7 @@
   "810": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "811": {
     "added": {},
@@ -4217,16 +4087,7 @@
   "880": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "881": {
     "added": {},
@@ -4261,20 +4122,7 @@
   "887": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   },
   "888": {
     "added": {},
@@ -4334,18 +4182,7 @@
   "899": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   },
   "900": {
     "added": {},
@@ -4465,16 +4302,7 @@
   "923": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "924": {
     "added": {},
@@ -4509,16 +4337,7 @@
   "930": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "931": {
     "added": {},

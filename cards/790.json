@@ -44,34 +44,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "shock",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "shock",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

@@ -12,9 +12,9 @@
     "name": "Golden Mascot",
     "image": "Golden_Mascot",
     "baseImage": "Golden_Mascot",
-    "cost": 6,
+    "cost": 7,
     "rarity": "EPIC",
-    "originalCost": 6,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -37,6 +37,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   }
 }

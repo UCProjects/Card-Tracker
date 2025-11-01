@@ -12,9 +12,9 @@
     "name": "Martlet",
     "image": "Martlet",
     "baseImage": "Martlet",
-    "cost": 7,
+    "cost": 8,
     "rarity": "LEGENDARY",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -39,6 +39,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

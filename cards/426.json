@@ -18,7 +18,9 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -37,6 +39,13 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT"
+        ],
+        "prev": []
+      }
+    }
   }
 }

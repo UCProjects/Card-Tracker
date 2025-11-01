@@ -12,9 +12,9 @@
     "name": "Soulless Kris",
     "image": "Soulless_Kris",
     "baseImage": "Soulless_Kris",
-    "cost": 8,
+    "cost": 10,
     "rarity": "DETERMINATION",
-    "originalCost": 8,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -37,6 +37,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 8
+      }
+    }
   }
 }

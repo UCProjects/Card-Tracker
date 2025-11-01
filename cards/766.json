@@ -12,9 +12,9 @@
     "name": "Large Chest",
     "image": "Large_Chest",
     "baseImage": "Large_Chest",
-    "cost": 7,
+    "cost": 9,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,20 +23,33 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "POSITIVE",
-        "name": "taunt",
-        "statusBehavior": "UNIQUE",
-        "counter": 1,
-        "displayCounter": false
-      }
-    ],
+    "statuses": [],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 7
+      },
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

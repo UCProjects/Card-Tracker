@@ -1222,28 +1222,7 @@
   "267": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "name": {
-        "now": "Crystal Tombstone",
-        "prev": "Tombstone"
-      },
-      "image": {
-        "now": "Crystal_Tombstone",
-        "prev": "Tombstone"
-      },
-      "baseImage": {
-        "now": "Crystal_Tombstone",
-        "prev": "Tombstone"
-      }
-    }
+    "changed": {}
   },
   "270": {
     "added": {},
@@ -1838,14 +1817,7 @@
   "426": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   },
   "427": {
     "added": {},
@@ -2240,16 +2212,7 @@
   "505": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "506": {
     "added": {},
@@ -2629,16 +2592,7 @@
   "581": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "582": {
     "added": {},
@@ -3108,48 +3062,7 @@
   "675": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "cost": {
-        "now": 9,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 7
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   },
   "676": {
     "added": {},
@@ -3202,40 +3115,9 @@
     "changed": {}
   },
   "686": {
-    "added": {
-      "target": "ALLY_MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 2,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "687": {
     "added": {},
@@ -3635,28 +3517,7 @@
   "766": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 7
-      },
-      "statuses": {
-        "now": [],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   },
   "767": {
     "added": {},
@@ -4001,20 +3862,7 @@
   "835": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "836": {
     "added": {},
@@ -4239,16 +4087,7 @@
   "880": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "881": {
     "added": {},
@@ -4308,28 +4147,7 @@
   "892": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "893": {
     "added": {},

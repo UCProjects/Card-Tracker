@@ -732,7 +732,24 @@
   "147": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   },
   "148": {
     "added": {},
@@ -1202,7 +1219,35 @@
   "263": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "transparency",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   },
   "264": {
     "added": {},
@@ -1782,7 +1827,20 @@
   "419": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      }
+    }
   },
   "420": {
     "added": {},
@@ -2832,7 +2890,20 @@
   "629": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   },
   "630": {
     "added": {},
@@ -2977,7 +3048,47 @@
   "658": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "NEGATIVE",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   },
   "659": {
     "added": {},
@@ -3392,7 +3503,16 @@
   "741": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   },
   "742": {
     "added": {},
@@ -3657,7 +3777,16 @@
   "794": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   },
   "795": {
     "added": {},
@@ -3832,7 +3961,16 @@
   "829": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 13,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 14
+      }
+    }
   },
   "830": {
     "added": {},
@@ -4077,7 +4215,16 @@
   "878": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 12,
+        "prev": 13
+      },
+      "originalCost": {
+        "now": 12,
+        "prev": 13
+      }
+    }
   },
   "879": {
     "added": {},
@@ -4312,7 +4459,16 @@
   "925": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   },
   "926": {
     "added": {},
@@ -4337,7 +4493,16 @@
   "930": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
+      }
+    }
   },
   "931": {
     "added": {},
@@ -4346,6 +4511,20 @@
   },
   "932": {
     "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "933": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "934": {
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

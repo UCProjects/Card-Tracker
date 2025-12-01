@@ -1,0 +1,44 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dead": false,
+    "id": 933,
+    "fixedId": 933,
+    "typeCard": 0,
+    "name": "Meta Flowey",
+    "image": "Meta_Flowey",
+    "baseImage": "Meta_Flowey",
+    "cost": 11,
+    "rarity": "DETERMINATION",
+    "originalCost": 11,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

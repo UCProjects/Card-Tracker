@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 3,
+    "maxHp": 3,
     "originalAttack": 4,
-    "originalHp": 4,
+    "originalHp": 3,
     "dead": false,
     "id": 658,
     "fixedId": 658,
@@ -25,13 +25,6 @@
     "ownerId": 0,
     "statuses": [
       {
-        "statusType": "NEGATIVE",
-        "name": "program",
-        "statusBehavior": "STACKABLE",
-        "counter": 1,
-        "displayCounter": true
-      },
-      {
         "statusType": "POSITIVE",
         "name": "haste",
         "statusBehavior": "UNIQUE",
@@ -44,6 +37,46 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "NEGATIVE",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

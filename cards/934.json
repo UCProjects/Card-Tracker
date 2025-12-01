@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 934,
+    "fixedId": 934,
+    "typeCard": 1,
+    "name": "Fireball",
+    "image": "Fireball",
+    "baseImage": "Fireball",
+    "cost": 2,
+    "rarity": "TOKEN",
+    "originalCost": 2,
+    "target": "PLAYER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

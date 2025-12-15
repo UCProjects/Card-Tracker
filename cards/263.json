@@ -37,34 +37,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "transparency",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

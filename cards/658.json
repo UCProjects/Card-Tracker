@@ -37,46 +37,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

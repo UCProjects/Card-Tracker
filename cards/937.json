@@ -1,0 +1,36 @@
+{
+  "card": {
+    "attack": 10,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 10,
+    "originalHp": 10,
+    "dead": false,
+    "id": 937,
+    "fixedId": 937,
+    "typeCard": 0,
+    "name": "Friendliness Pellets",
+    "image": "Friendliness_Pellets",
+    "baseImage": "Friendliness_Pellets",
+    "cost": 0,
+    "rarity": "STORY",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

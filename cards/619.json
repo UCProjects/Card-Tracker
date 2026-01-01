@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 1,
-    "hp": 2,
-    "maxHp": 2,
+    "hp": 1,
+    "maxHp": 1,
     "originalAttack": 1,
-    "originalHp": 2,
+    "originalHp": 1,
     "dead": false,
     "id": 619,
     "fixedId": 619,
@@ -29,6 +29,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 1,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 1,
+        "prev": 2
+      }
+    }
   }
 }

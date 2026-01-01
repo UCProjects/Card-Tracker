@@ -1,0 +1,38 @@
+{
+  "card": {
+    "id": 936,
+    "fixedId": 936,
+    "typeCard": 1,
+    "name": "Black Knife",
+    "image": "Black_Knife",
+    "baseImage": "Black_Knife",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "darkspawn",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

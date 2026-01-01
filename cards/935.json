@@ -1,20 +1,20 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 4,
-    "originalHp": 10,
+    "attack": 12,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 12,
+    "originalHp": 8,
     "dead": false,
-    "id": 263,
-    "fixedId": 263,
+    "id": 935,
+    "fixedId": 935,
     "typeCard": 0,
-    "name": "Kris",
-    "image": "Kris",
-    "baseImage": "Kris",
-    "cost": 9,
+    "name": "Roaring Knight",
+    "image": "Roaring_Knight",
+    "baseImage": "Roaring_Knight",
+    "cost": 20,
     "rarity": "DETERMINATION",
-    "originalCost": 9,
+    "originalCost": 20,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -26,7 +26,7 @@
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "haste",
+        "name": "darkspawn",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -35,17 +35,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 10
-      }
-    }
+    "changed": {}
   }
 }

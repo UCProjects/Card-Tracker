@@ -12,9 +12,9 @@
     "name": "Clover",
     "image": "Clover",
     "baseImage": "Clover",
-    "cost": 8,
+    "cost": 9,
     "rarity": "DETERMINATION",
-    "originalCost": 8,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -29,6 +29,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 8
+      }
+    }
   }
 }

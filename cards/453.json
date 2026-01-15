@@ -24,7 +24,7 @@
     "ownerId": 0,
     "statuses": [
       {
-        "statusType": "NEGATIVE",
+        "statusType": "NEUTRAL",
         "name": "program",
         "statusBehavior": "STACKABLE",
         "counter": 2,
@@ -36,6 +36,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "NEGATIVE",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

@@ -25,7 +25,7 @@
     "ownerId": 0,
     "statuses": [
       {
-        "statusType": "NEGATIVE",
+        "statusType": "NEUTRAL",
         "name": "program",
         "statusBehavior": "STACKABLE",
         "counter": 3,
@@ -41,7 +41,7 @@
       "statuses": {
         "now": [
           {
-            "statusType": "NEGATIVE",
+            "statusType": "NEUTRAL",
             "name": "program",
             "statusBehavior": "STACKABLE",
             "counter": 3,
@@ -53,7 +53,7 @@
             "statusType": "NEGATIVE",
             "name": "program",
             "statusBehavior": "STACKABLE",
-            "counter": 2,
+            "counter": 3,
             "displayCounter": true
           }
         ]

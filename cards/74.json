@@ -30,7 +30,7 @@
         "displayCounter": true
       },
       {
-        "statusType": "NEGATIVE",
+        "statusType": "NEUTRAL",
         "name": "program",
         "statusBehavior": "STACKABLE",
         "counter": 2,
@@ -42,6 +42,41 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 3,
+            "displayCounter": true
+          },
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 3,
+            "displayCounter": true
+          },
+          {
+            "statusType": "NEGATIVE",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

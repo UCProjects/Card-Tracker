@@ -6,6 +6,7 @@
     "originalAttack": 4,
     "originalHp": 4,
     "dead": false,
+    "boardPosition": -1,
     "id": 262,
     "fixedId": 262,
     "typeCard": 0,
@@ -36,29 +37,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

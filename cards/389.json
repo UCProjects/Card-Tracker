@@ -6,15 +6,16 @@
     "originalAttack": 5,
     "originalHp": 6,
     "dead": false,
+    "boardPosition": -1,
     "id": 389,
     "fixedId": 389,
     "typeCard": 0,
     "name": "Mirror",
     "image": "Mirror",
     "baseImage": "Mirror",
-    "cost": 10,
+    "cost": 9,
     "rarity": "COMMON",
-    "originalCost": 10,
+    "originalCost": 9,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -35,8 +36,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 10
+      }
+    }
   }
 }

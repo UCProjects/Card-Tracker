@@ -6,12 +6,13 @@
     "originalAttack": 3,
     "originalHp": 5,
     "dead": false,
+    "boardPosition": -1,
     "id": 500,
     "fixedId": 500,
     "typeCard": 0,
-    "name": "Ice E Mascot",
-    "image": "Ice_E_Mascot",
-    "baseImage": "Ice_E_Mascot",
+    "name": "Ice-E Mascot",
+    "image": "Ice-E_Mascot",
+    "baseImage": "Ice-E_Mascot",
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
@@ -35,8 +36,23 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Ice-E Mascot",
+        "prev": "Ice E Mascot"
+      },
+      "image": {
+        "now": "Ice-E_Mascot",
+        "prev": "Ice_E_Mascot"
+      },
+      "baseImage": {
+        "now": "Ice-E_Mascot",
+        "prev": "Ice_E_Mascot"
+      }
+    }
   }
 }

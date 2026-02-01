@@ -1,11 +1,12 @@
 {
   "card": {
     "attack": 2,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 4,
+    "maxHp": 4,
     "originalAttack": 2,
-    "originalHp": 5,
+    "originalHp": 4,
     "dead": false,
+    "boardPosition": -1,
     "id": 521,
     "fixedId": 521,
     "typeCard": 0,
@@ -36,8 +37,23 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      }
+    }
   }
 }

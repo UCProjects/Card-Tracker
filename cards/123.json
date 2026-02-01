@@ -1,20 +1,21 @@
 {
   "card": {
-    "attack": 7,
+    "attack": 9,
     "hp": 7,
     "maxHp": 7,
-    "originalAttack": 7,
+    "originalAttack": 9,
     "originalHp": 7,
     "dead": false,
+    "boardPosition": -1,
     "id": 123,
     "fixedId": 123,
     "typeCard": 0,
-    "name": "Onion San",
-    "image": "Onion_San",
-    "baseImage": "Onion_San",
-    "cost": 8,
+    "name": "Onionsan",
+    "image": "Onionsan",
+    "baseImage": "Onionsan",
+    "cost": 11,
     "rarity": "EPIC",
-    "originalCost": 8,
+    "originalCost": 11,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,8 +28,39 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 9,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 9,
+        "prev": 7
+      },
+      "name": {
+        "now": "Onionsan",
+        "prev": "Onion San"
+      },
+      "image": {
+        "now": "Onionsan",
+        "prev": "Onion_San"
+      },
+      "baseImage": {
+        "now": "Onionsan",
+        "prev": "Onion_San"
+      },
+      "cost": {
+        "now": 11,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 8
+      }
+    }
   }
 }

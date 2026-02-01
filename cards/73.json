@@ -10,9 +10,9 @@
     "name": "Cold Winter",
     "image": "Cold_Winter",
     "baseImage": "Cold_Winter",
-    "cost": 5,
+    "cost": 6,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,6 +27,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   }
 }

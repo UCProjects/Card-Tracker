@@ -6,6 +6,7 @@
     "originalAttack": 6,
     "originalHp": 5,
     "dead": false,
+    "boardPosition": -1,
     "id": 556,
     "fixedId": 556,
     "typeCard": 0,
@@ -23,12 +24,35 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [],
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      }
+    }
   }
 }

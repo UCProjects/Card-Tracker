@@ -6,12 +6,13 @@
     "originalAttack": 5,
     "originalHp": 5,
     "dead": false,
+    "boardPosition": -1,
     "id": 570,
     "fixedId": 570,
     "typeCard": 0,
-    "name": "First Starwalker",
-    "image": "First_Starwalker",
-    "baseImage": "First_Starwalker",
+    "name": "The Original",
+    "image": "The_Original",
+    "baseImage": "The_Original",
     "cost": 6,
     "rarity": "RARE",
     "originalCost": 6,
@@ -27,8 +28,23 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "The Original",
+        "prev": "First Starwalker"
+      },
+      "image": {
+        "now": "The_Original",
+        "prev": "First_Starwalker"
+      },
+      "baseImage": {
+        "now": "The_Original",
+        "prev": "First_Starwalker"
+      }
+    }
   }
 }

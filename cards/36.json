@@ -6,6 +6,7 @@
     "originalAttack": 4,
     "originalHp": 5,
     "dead": false,
+    "boardPosition": -1,
     "id": 36,
     "fixedId": 36,
     "typeCard": 0,
@@ -38,19 +39,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "PLANT"
-        ],
-        "prev": [
-          "PLANT",
-          "AMALGAMATE"
-        ]
-      }
-    }
+    "changed": {}
   }
 }

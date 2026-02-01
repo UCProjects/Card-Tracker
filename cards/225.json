@@ -6,6 +6,7 @@
     "originalAttack": 3,
     "originalHp": 4,
     "dead": false,
+    "boardPosition": -1,
     "id": 225,
     "fixedId": 225,
     "typeCard": 0,
@@ -27,7 +28,9 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "boardPosition": -1
+    },
     "removed": {},
     "changed": {}
   }

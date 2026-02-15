@@ -36,19 +36,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 10
-      }
-    }
+    "changed": {}
   }
 }

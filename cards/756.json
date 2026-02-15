@@ -36,39 +36,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

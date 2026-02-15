@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [
-      "AMALGAMATE",
-      "DOG"
+      "DOG",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -31,10 +31,19 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "DOG",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "DOG"
+        ]
+      }
+    }
   }
 }

@@ -36,39 +36,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 2,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      }
-    }
+    "changed": {}
   }
 }

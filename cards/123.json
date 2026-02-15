@@ -28,39 +28,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 9,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 9,
-        "prev": 7
-      },
-      "name": {
-        "now": "Onionsan",
-        "prev": "Onion San"
-      },
-      "image": {
-        "now": "Onionsan",
-        "prev": "Onion_San"
-      },
-      "baseImage": {
-        "now": "Onionsan",
-        "prev": "Onion_San"
-      },
-      "cost": {
-        "now": 11,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 8
-      }
-    }
+    "changed": {}
   }
 }

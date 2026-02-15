@@ -28,35 +28,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "name": {
-        "now": "Deflated Mascot",
-        "prev": "Shrine Mascot"
-      },
-      "image": {
-        "now": "Deflated_Mascot",
-        "prev": "Shrine_Mascot"
-      },
-      "baseImage": {
-        "now": "Deflated_Mascot",
-        "prev": "Shrine_Mascot"
-      }
-    }
+    "changed": {}
   }
 }

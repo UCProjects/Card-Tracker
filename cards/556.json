@@ -36,23 +36,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

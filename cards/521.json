@@ -37,23 +37,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

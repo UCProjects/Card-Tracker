@@ -36,23 +36,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Ice-E Mascot",
-        "prev": "Ice E Mascot"
-      },
-      "image": {
-        "now": "Ice-E_Mascot",
-        "prev": "Ice_E_Mascot"
-      },
-      "baseImage": {
-        "now": "Ice-E_Mascot",
-        "prev": "Ice_E_Mascot"
-      }
-    }
+    "changed": {}
   }
 }

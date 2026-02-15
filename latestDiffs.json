@@ -1,465 +1,359 @@
 {
   "1": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "2": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "3": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "4": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "5": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "6": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "7": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "8": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "9": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "10": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "11": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "12": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "13": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "14": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "15": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "16": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "17": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "18": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "19": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "20": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "21": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "22": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "23": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "24": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "25": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "26": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "27": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "28": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "29": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "30": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "31": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "32": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "33": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "DOG",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "DOG"
+        ]
+      }
+    }
   },
   "34": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "35": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "MOLD",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
+        ]
+      }
+    }
   },
   "36": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "PLANT"
+        ]
+      }
+    }
   },
   "37": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "38": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "39": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "40": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "41": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "42": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "43": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "44": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "45": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "46": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "47": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "48": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "49": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "50": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "51": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "52": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "53": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "54": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "55": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "56": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "57": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "58": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "59": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "60": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "61": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "62": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "63": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "64": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "65": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -501,16 +395,7 @@
   "73": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "74": {
     "added": {},
@@ -645,236 +530,140 @@
   "100": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Headshot",
-        "prev": "HeadShot"
-      },
-      "image": {
-        "now": "Headshot",
-        "prev": "HeadShot"
-      },
-      "baseImage": {
-        "now": "Headshot",
-        "prev": "HeadShot"
-      }
-    }
+    "changed": {}
   },
   "101": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "102": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "103": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "104": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "105": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "106": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "107": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "108": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "109": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "110": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "111": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "112": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "113": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "114": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "115": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "116": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "117": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "118": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "119": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "120": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "121": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "122": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "123": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 9,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 9,
-        "prev": 7
-      },
-      "name": {
-        "now": "Onionsan",
-        "prev": "Onion San"
-      },
-      "image": {
-        "now": "Onionsan",
-        "prev": "Onion_San"
-      },
-      "baseImage": {
-        "now": "Onionsan",
-        "prev": "Onion_San"
-      },
-      "cost": {
-        "now": 11,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "124": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "125": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "126": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "127": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -914,268 +703,192 @@
     "changed": {}
   },
   "135": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "136": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "137": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "138": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "139": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "140": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "141": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "142": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "143": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "144": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "145": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "146": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "147": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "148": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "149": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "150": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "151": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "152": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "153": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "154": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "160": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "161": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "162": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "163": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "164": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "165": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "166": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "167": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "168": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "169": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "170": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "171": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "172": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "173": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "174": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "175": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "176": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "177": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -1215,373 +928,267 @@
     "changed": {}
   },
   "185": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "186": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "187": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "188": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "191": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "192": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "193": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "194": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "195": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "196": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "197": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "198": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "199": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "200": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "201": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "202": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "203": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "214": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "215": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "216": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "217": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "218": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "219": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "220": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "221": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "222": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "223": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "224": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "225": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "226": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "227": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "228": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "229": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "235": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "236": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "237": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "238": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "239": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "240": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "241": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "242": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "243": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "244": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "245": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "246": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "247": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "248": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "249": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "250": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "251": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "252": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "253": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "254": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -1621,373 +1228,267 @@
     "changed": {}
   },
   "262": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "263": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "264": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "265": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "266": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "267": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "270": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "271": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "272": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "273": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "274": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "275": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "276": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "277": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "278": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "279": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "280": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "281": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "282": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "285": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "286": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "287": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "288": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "289": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "290": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "291": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "292": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "293": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "294": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "295": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "296": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "297": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "298": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "299": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "300": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "301": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "302": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "303": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "306": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "307": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "308": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "309": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "310": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "311": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "312": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "313": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "314": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "315": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "316": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "317": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "318": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "349": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "350": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -1997,44 +1498,32 @@
     "changed": {}
   },
   "352": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "353": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "354": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "355": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "356": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "357": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2044,51 +1533,37 @@
     "changed": {}
   },
   "359": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "360": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "361": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "362": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "363": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "364": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "365": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2113,9 +1588,7 @@
     "changed": {}
   },
   "370": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2125,30 +1598,22 @@
     "changed": {}
   },
   "372": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "373": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "374": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "375": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2158,16 +1623,12 @@
     "changed": {}
   },
   "377": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "378": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2177,109 +1638,72 @@
     "changed": {}
   },
   "380": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "381": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "384": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "385": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "386": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "389": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 10
-      }
-    }
+    "changed": {}
   },
   "390": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "391": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "392": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "393": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "394": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "395": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "396": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "397": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2289,349 +1713,232 @@
     "changed": {}
   },
   "399": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "400": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "401": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "402": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "403": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "404": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "name": {
-        "now": "Deflated Mascot",
-        "prev": "Shrine Mascot"
-      },
-      "image": {
-        "now": "Deflated_Mascot",
-        "prev": "Shrine_Mascot"
-      },
-      "baseImage": {
-        "now": "Deflated_Mascot",
-        "prev": "Shrine_Mascot"
-      }
-    }
+    "changed": {}
   },
   "405": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "406": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "407": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "408": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "409": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "410": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "411": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "412": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "413": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "414": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "415": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "416": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "417": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "418": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "419": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "420": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "421": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "422": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "423": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "424": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "425": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "426": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "427": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "428": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "429": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "430": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "431": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "432": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "433": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "434": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "435": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "436": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "437": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "438": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "439": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "440": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "441": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "442": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "443": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "444": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2661,16 +1968,12 @@
     "changed": {}
   },
   "450": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "451": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2692,16 +1995,7 @@
   "455": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "456": {
     "added": {},
@@ -2719,9 +2013,7 @@
     "changed": {}
   },
   "459": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2736,9 +2028,7 @@
     "changed": {}
   },
   "462": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2753,114 +2043,93 @@
     "changed": {}
   },
   "465": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "466": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "467": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "468": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "469": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "470": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "471": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "472": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "473": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "474": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "475": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "476": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "477": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT",
+          "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
+        ]
+      }
+    }
   },
   "478": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "479": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "480": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -2905,169 +2174,112 @@
     "changed": {}
   },
   "489": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "490": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "491": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "492": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "493": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "494": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "495": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "496": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "497": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "498": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "499": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "500": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Ice-E Mascot",
-        "prev": "Ice E Mascot"
-      },
-      "image": {
-        "now": "Ice-E_Mascot",
-        "prev": "Ice_E_Mascot"
-      },
-      "baseImage": {
-        "now": "Ice-E_Mascot",
-        "prev": "Ice_E_Mascot"
-      }
-    }
+    "changed": {}
   },
   "501": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "502": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "503": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "504": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "505": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "506": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "507": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "508": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "509": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "510": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3077,30 +2289,22 @@
     "changed": {}
   },
   "512": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "513": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "514": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "515": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3110,141 +2314,92 @@
     "changed": {}
   },
   "517": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "518": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "519": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "520": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "521": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "522": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "523": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "524": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "525": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "526": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "527": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "528": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "529": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "530": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "531": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "532": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "533": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "534": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3264,44 +2419,32 @@
     "changed": {}
   },
   "538": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "539": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "540": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "541": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "542": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "543": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3311,44 +2454,32 @@
     "changed": {}
   },
   "545": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "546": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "547": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "548": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "549": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "550": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3363,182 +2494,112 @@
     "changed": {}
   },
   "553": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "554": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "555": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "556": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   },
   "557": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "558": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "559": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "560": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "561": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "562": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "563": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "564": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "565": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "566": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "567": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "568": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "569": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "570": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "The Original",
-        "prev": "First Starwalker"
-      },
-      "image": {
-        "now": "The_Original",
-        "prev": "First_Starwalker"
-      },
-      "baseImage": {
-        "now": "The_Original",
-        "prev": "First_Starwalker"
-      }
-    }
+    "changed": {}
   },
   "571": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "572": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "573": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "574": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3563,44 +2624,32 @@
     "changed": {}
   },
   "579": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "580": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "581": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "582": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "583": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "584": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3610,72 +2659,52 @@
     "changed": {}
   },
   "586": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "587": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "588": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "589": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "590": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "591": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "592": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "593": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "594": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "595": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3685,9 +2714,7 @@
     "changed": {}
   },
   "597": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3697,100 +2724,72 @@
     "changed": {}
   },
   "599": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "600": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "601": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "602": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "603": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "604": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "605": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "606": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "607": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "608": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "609": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "610": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "611": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "612": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -3805,198 +2804,142 @@
     "changed": {}
   },
   "615": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "616": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "617": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "618": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "619": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "620": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "621": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "622": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "623": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "624": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "625": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "626": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "627": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "628": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "629": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "630": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "631": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "632": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "633": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "634": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "635": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "636": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "637": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "638": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "639": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "640": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "641": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "642": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4006,149 +2949,107 @@
     "changed": {}
   },
   "644": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "645": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "646": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "647": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "648": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "649": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "650": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "651": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "652": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "653": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "654": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "655": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "656": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "657": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "658": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "659": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "660": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "661": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "662": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "663": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "664": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4158,16 +3059,12 @@
     "changed": {}
   },
   "666": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "667": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4177,58 +3074,42 @@
     "changed": {}
   },
   "669": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "670": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "671": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "672": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "673": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "674": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "675": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "676": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4238,128 +3119,92 @@
     "changed": {}
   },
   "678": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "679": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "680": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "681": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "682": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "683": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "684": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "685": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "686": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "687": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "688": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "689": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "690": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "691": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "692": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "693": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "694": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "695": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4369,9 +3214,7 @@
     "changed": {}
   },
   "697": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4391,9 +3234,7 @@
     "changed": {}
   },
   "701": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4418,37 +3259,27 @@
     "changed": {}
   },
   "706": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "707": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "708": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "709": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "710": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4458,9 +3289,7 @@
     "changed": {}
   },
   "712": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4470,9 +3299,7 @@
     "changed": {}
   },
   "714": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4482,16 +3309,12 @@
     "changed": {}
   },
   "716": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "717": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4526,9 +3349,7 @@
     "changed": {}
   },
   "724": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4538,37 +3359,27 @@
     "changed": {}
   },
   "726": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "727": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "728": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "729": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "730": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4598,9 +3409,7 @@
     "changed": {}
   },
   "736": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4615,51 +3424,37 @@
     "changed": {}
   },
   "739": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "740": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "741": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "742": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "743": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "744": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "745": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4689,171 +3484,102 @@
     "changed": {}
   },
   "751": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "752": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "753": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "754": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "755": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "756": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   },
   "757": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "758": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "759": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "760": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "761": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "762": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "763": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "764": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "765": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "766": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "767": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "768": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "769": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "770": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4868,72 +3594,52 @@
     "changed": {}
   },
   "773": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "774": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "775": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "776": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "777": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "778": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "779": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "780": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "781": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "782": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4943,37 +3649,27 @@
     "changed": {}
   },
   "784": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "785": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "786": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "787": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "788": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -4983,37 +3679,27 @@
     "changed": {}
   },
   "790": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "791": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "792": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "793": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "794": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5043,128 +3729,92 @@
     "changed": {}
   },
   "800": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "801": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "802": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "803": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "804": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "805": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "806": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "807": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "808": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "809": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "810": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "811": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "812": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "813": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "814": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "815": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "816": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "817": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5199,23 +3849,17 @@
     "changed": {}
   },
   "824": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "825": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "826": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5225,184 +3869,132 @@
     "changed": {}
   },
   "828": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "829": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "830": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "831": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "832": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "833": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "834": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "835": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "836": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "837": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "838": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "839": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "840": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "841": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "842": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "843": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "844": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "845": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "846": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "847": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "848": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "849": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "850": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "851": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "852": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "853": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5432,9 +4024,7 @@
     "changed": {}
   },
   "859": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5449,30 +4039,22 @@
     "changed": {}
   },
   "862": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "863": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "864": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "865": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5482,58 +4064,42 @@
     "changed": {}
   },
   "867": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "868": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "869": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "870": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "871": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "872": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "873": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "874": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5553,58 +4119,42 @@
     "changed": {}
   },
   "878": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "879": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "880": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "881": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "882": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "883": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "884": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "885": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5614,108 +4164,80 @@
     "changed": {}
   },
   "887": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "888": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "889": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "890": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "891": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "892": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "893": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "894": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "895": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "896": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "897": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "898": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "899": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "DOG",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "DOG"
+        ]
+      }
+    }
   },
   "900": {
     "added": {},
@@ -5723,136 +4245,77 @@
     "changed": {}
   },
   "901": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "902": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "903": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "904": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "905": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "906": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "907": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "908": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "909": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "910": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 2,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "cost": {
-        "now": 5,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "911": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "912": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "913": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "914": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "915": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5862,9 +4325,7 @@
     "changed": {}
   },
   "917": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5874,79 +4335,57 @@
     "changed": {}
   },
   "919": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "920": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "921": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "922": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "923": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "924": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "925": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "926": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "927": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "928": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "929": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5956,23 +4395,17 @@
     "changed": {}
   },
   "931": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "932": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "933": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5982,9 +4415,7 @@
     "changed": {}
   },
   "935": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
@@ -5994,9 +4425,7 @@
     "changed": {}
   },
   "937": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

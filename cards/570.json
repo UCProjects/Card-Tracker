@@ -28,23 +28,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "boardPosition": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "The Original",
-        "prev": "First Starwalker"
-      },
-      "image": {
-        "now": "The_Original",
-        "prev": "First_Starwalker"
-      },
-      "baseImage": {
-        "now": "The_Original",
-        "prev": "First_Starwalker"
-      }
-    }
+    "changed": {}
   }
 }

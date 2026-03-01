@@ -7,15 +7,15 @@
     "originalHp": 9,
     "dead": false,
     "boardPosition": -1,
-    "id": 571,
-    "fixedId": 571,
+    "id": 941,
+    "fixedId": 941,
     "typeCard": 0,
-    "name": "Sad Dummy",
-    "image": "Sad_Dummy",
-    "baseImage": "Sad_Dummy",
-    "cost": 7,
-    "rarity": "COMMON",
-    "originalCost": 7,
+    "name": "Jogboy Papyrus",
+    "image": "Jogboy_Papyrus",
+    "baseImage": "Jogboy_Papyrus",
+    "cost": 8,
+    "rarity": "LEGENDARY",
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,17 +28,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

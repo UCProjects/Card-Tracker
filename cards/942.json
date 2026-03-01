@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 942,
+    "fixedId": 942,
+    "typeCard": 0,
+    "name": "Wall of Fire",
+    "image": "Wall_of_Fire",
+    "baseImage": "Wall_of_Fire",
+    "cost": 9,
+    "rarity": "EPIC",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

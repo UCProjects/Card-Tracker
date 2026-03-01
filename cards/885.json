@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 6,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 5,
+    "originalAttack": 6,
     "originalHp": 6,
     "dead": false,
     "boardPosition": -1,
@@ -13,9 +13,9 @@
     "name": "Zoot Kris",
     "image": "Zoot_Kris",
     "baseImage": "Zoot_Kris",
-    "cost": 7,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -38,6 +38,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      }
+    }
   }
 }

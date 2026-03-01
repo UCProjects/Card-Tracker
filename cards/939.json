@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 939,
+    "fixedId": 939,
+    "typeCard": 1,
+    "name": "Throw the Stick",
+    "image": "Throw_the_Stick",
+    "baseImage": "Throw_the_Stick",
+    "cost": 0,
+    "rarity": "STORY",
+    "originalCost": 0,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

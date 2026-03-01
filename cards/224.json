@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 1,
     "hp": 1,
     "maxHp": 1,
-    "originalAttack": 2,
+    "originalAttack": 1,
     "originalHp": 1,
     "dead": false,
     "boardPosition": -1,
@@ -32,6 +32,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 2
+      }
+    }
   }
 }

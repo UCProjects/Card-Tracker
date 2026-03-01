@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 4,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 940,
+    "fixedId": 940,
+    "typeCard": 0,
+    "name": "Strange Machine",
+    "image": "Strange_Machine",
+    "baseImage": "Strange_Machine",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 0,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 938,
+    "fixedId": 938,
+    "typeCard": 0,
+    "name": "Suspicious Poff",
+    "image": "Suspicious_Poff",
+    "baseImage": "Suspicious_Poff",
+    "cost": 4,
+    "rarity": "STORY",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

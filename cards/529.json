@@ -26,20 +26,25 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "POSITIVE",
-        "name": "taunt",
-        "statusBehavior": "UNIQUE",
-        "counter": 1,
-        "displayCounter": false
-      }
-    ],
+    "statuses": [],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

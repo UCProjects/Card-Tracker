@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 6,
-    "hp": 13,
-    "maxHp": 13,
-    "originalAttack": 6,
-    "originalHp": 13,
+    "attack": 4,
+    "hp": 10,
+    "maxHp": 10,
+    "originalAttack": 4,
+    "originalHp": 10,
     "dead": false,
     "boardPosition": -1,
     "id": 831,
@@ -13,9 +13,9 @@
     "name": "TNT Man",
     "image": "TNT_Man",
     "baseImage": "TNT_Man",
-    "cost": 12,
+    "cost": 11,
     "rarity": "EPIC",
-    "originalCost": 12,
+    "originalCost": 11,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -39,6 +39,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 6
+      },
+      "hp": {
+        "now": 10,
+        "prev": 13
+      },
+      "maxHp": {
+        "now": 10,
+        "prev": 13
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 10,
+        "prev": 13
+      },
+      "cost": {
+        "now": 11,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 12
+      }
+    }
   }
 }

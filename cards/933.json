@@ -19,7 +19,9 @@
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -38,6 +40,13 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "PLANT"
+        ],
+        "prev": []
+      }
+    }
   }
 }

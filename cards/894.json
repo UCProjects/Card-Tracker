@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 8,
-    "maxHp": 8,
-    "originalAttack": 5,
-    "originalHp": 8,
+    "attack": 6,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 6,
+    "originalHp": 6,
     "dead": false,
     "boardPosition": -1,
     "id": 894,
@@ -13,9 +13,9 @@
     "name": "Winglade",
     "image": "Winglade",
     "baseImage": "Winglade",
-    "cost": 7,
+    "cost": 8,
     "rarity": "RARE",
-    "originalCost": 7,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -24,12 +24,61 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [],
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "armor",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 5
+      },
+      "hp": {
+        "now": 6,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 8
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 8
+      },
+      "cost": {
+        "now": 8,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 7
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "armor",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      }
+    }
   }
 }

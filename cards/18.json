@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 3,
-    "originalHp": 6,
+    "originalHp": 5,
     "dead": false,
     "boardPosition": -1,
     "id": 18,
@@ -13,9 +13,9 @@
     "name": "Pyrope",
     "image": "Pyrope",
     "baseImage": "Pyrope",
-    "cost": 5,
+    "cost": 4,
     "rarity": "COMMON",
-    "originalCost": 5,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,20 +24,45 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "POSITIVE",
-        "name": "transparency",
-        "statusBehavior": "UNIQUE",
-        "counter": 1,
-        "displayCounter": false
-      }
-    ],
+    "statuses": [],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 6
+      },
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
+      },
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "transparency",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

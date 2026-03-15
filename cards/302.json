@@ -45,15 +45,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   }
 }

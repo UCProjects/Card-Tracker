@@ -30,39 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      },
-      "statuses": {
-        "now": [],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "transparency",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

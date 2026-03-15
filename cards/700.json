@@ -36,31 +36,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 1
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 1
-      },
-      "target": {
-        "now": "MONSTER",
-        "prev": "ENEMY_MONSTER"
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          }
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

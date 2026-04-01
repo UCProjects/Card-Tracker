@@ -1,0 +1,30 @@
+{
+  "card": {
+    "id": 944,
+    "fixedId": 944,
+    "typeCard": 1,
+    "name": "Absolute Pack",
+    "image": "Absolute_Pack",
+    "baseImage": "Absolute_Pack",
+    "cost": 0,
+    "rarity": "STORY",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

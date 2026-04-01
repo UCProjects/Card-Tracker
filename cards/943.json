@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 943,
+    "fixedId": 943,
+    "typeCard": 0,
+    "name": "Fire-E",
+    "image": "Fire-E",
+    "baseImage": "Fire-E",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "target": "ALLY_SLOT",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

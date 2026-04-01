@@ -10,9 +10,9 @@
     "id": 707,
     "fixedId": 707,
     "typeCard": 0,
-    "name": "Captn Rouxl",
-    "image": "Captn_Rouxl",
-    "baseImage": "Captn_Rouxl",
+    "name": "Captain Rouxls",
+    "image": "Captain_Rouxls",
+    "baseImage": "Captain_Rouxls",
     "cost": 6,
     "rarity": "LEGENDARY",
     "originalCost": 6,
@@ -30,6 +30,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Captain Rouxls",
+        "prev": "Captn Rouxl"
+      },
+      "image": {
+        "now": "Captain_Rouxls",
+        "prev": "Captn_Rouxl"
+      },
+      "baseImage": {
+        "now": "Captain_Rouxls",
+        "prev": "Captn_Rouxl"
+      }
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 0,
+    "attack": 1,
     "hp": 2,
     "maxHp": 2,
-    "originalAttack": 0,
+    "originalAttack": 1,
     "originalHp": 2,
     "dead": false,
     "boardPosition": -1,
@@ -13,13 +13,15 @@
     "name": "Temmie Egg",
     "image": "Temmie_Egg",
     "baseImage": "Temmie_Egg",
-    "cost": 0,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 0,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
-    "tribes": [],
+    "tribes": [
+      "TEMMIE"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": 0,
@@ -30,6 +32,29 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalAttack": {
+        "now": 1,
+        "prev": 0
+      },
+      "cost": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 0
+      },
+      "tribes": {
+        "now": [
+          "TEMMIE"
+        ],
+        "prev": []
+      }
+    }
   }
 }

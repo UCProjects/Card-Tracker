@@ -13,9 +13,9 @@
     "name": "Mauswheel",
     "image": "Mauswheel",
     "baseImage": "Mauswheel",
-    "cost": 2,
+    "cost": 4,
     "rarity": "TOKEN",
-    "originalCost": 2,
+    "originalCost": 4,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -29,7 +29,7 @@
         "statusType": "POSITIVE",
         "name": "loop",
         "statusBehavior": "STACKABLE",
-        "counter": 3,
+        "counter": 1,
         "displayCounter": true
       }
     ],
@@ -38,6 +38,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 4,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 2
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 3,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

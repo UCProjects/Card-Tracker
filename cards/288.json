@@ -10,9 +10,9 @@
     "id": 288,
     "fixedId": 288,
     "typeCard": 0,
-    "name": "Groom",
-    "image": "Groom",
-    "baseImage": "Groom",
+    "name": "Pippin",
+    "image": "Pippin",
+    "baseImage": "Pippin",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -30,6 +30,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Pippin",
+        "prev": "Groom"
+      },
+      "image": {
+        "now": "Pippin",
+        "prev": "Groom"
+      },
+      "baseImage": {
+        "now": "Pippin",
+        "prev": "Groom"
+      }
+    }
   }
 }

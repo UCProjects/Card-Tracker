@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 4,
-    "hp": 8,
-    "maxHp": 8,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 4,
-    "originalHp": 8,
+    "originalHp": 7,
     "dead": false,
     "boardPosition": -1,
     "id": 864,
@@ -13,9 +13,9 @@
     "name": "Axis",
     "image": "Axis",
     "baseImage": "Axis",
-    "cost": 8,
+    "cost": 7,
     "rarity": "LEGENDARY",
-    "originalCost": 8,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -45,6 +45,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 8
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 8
+      },
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
+      }
+    }
   }
 }

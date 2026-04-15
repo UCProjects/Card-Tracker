@@ -30,19 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Captain Rouxls",
-        "prev": "Captn Rouxl"
-      },
-      "image": {
-        "now": "Captain_Rouxls",
-        "prev": "Captn_Rouxl"
-      },
-      "baseImage": {
-        "now": "Captain_Rouxls",
-        "prev": "Captn_Rouxl"
-      }
-    }
+    "changed": {}
   }
 }

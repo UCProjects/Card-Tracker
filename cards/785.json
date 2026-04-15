@@ -32,29 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
-      },
-      "cost": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 0
-      },
-      "tribes": {
-        "now": [
-          "TEMMIE"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   }
 }

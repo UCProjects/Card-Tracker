@@ -30,19 +30,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Pippin",
-        "prev": "Groom"
-      },
-      "image": {
-        "now": "Pippin",
-        "prev": "Groom"
-      },
-      "baseImage": {
-        "now": "Pippin",
-        "prev": "Groom"
-      }
-    }
+    "changed": {}
   }
 }

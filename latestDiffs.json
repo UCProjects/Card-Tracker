@@ -162,34 +162,12 @@
   "33": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "DOG"
-        ]
-      }
-    }
+    "changed": {}
   },
   "34": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "FROGGIT"
-        ]
-      }
-    }
+    "changed": {}
   },
   "35": {
     "added": {},
@@ -199,18 +177,7 @@
   "36": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "PLANT"
-        ]
-      }
-    }
+    "changed": {}
   },
   "37": {
     "added": {},
@@ -835,16 +802,7 @@
   "166": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "167": {
     "added": {},
@@ -1349,20 +1307,7 @@
   "288": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Pippin",
-        "prev": "Groom"
-      },
-      "image": {
-        "now": "Pippin",
-        "prev": "Groom"
-      },
-      "baseImage": {
-        "now": "Pippin",
-        "prev": "Groom"
-      }
-    }
+    "changed": {}
   },
   "289": {
     "added": {},
@@ -1422,16 +1367,7 @@
   "300": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "301": {
     "added": {},
@@ -1751,24 +1687,7 @@
   "400": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 2
-      },
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "401": {
     "added": {},
@@ -2123,20 +2042,7 @@
   "471": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "472": {
     "added": {},
@@ -2166,18 +2072,7 @@
   "477": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "PLANT",
-          "ARACHNID"
-        ],
-        "prev": [
-          "ARACHNID",
-          "PLANT"
-        ]
-      }
-    }
+    "changed": {}
   },
   "478": {
     "added": {},
@@ -2532,16 +2427,7 @@
   "548": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "549": {
     "added": {},
@@ -2801,20 +2687,7 @@
   "600": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "shock",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   },
   "601": {
     "added": {},
@@ -2924,36 +2797,7 @@
   "622": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 2
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   },
   "623": {
     "added": {},
@@ -3378,20 +3222,7 @@
   "707": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Captain Rouxls",
-        "prev": "Captn Rouxl"
-      },
-      "image": {
-        "now": "Captain_Rouxls",
-        "prev": "Captn_Rouxl"
-      },
-      "baseImage": {
-        "now": "Captain_Rouxls",
-        "prev": "Captn_Rouxl"
-      }
-    }
+    "changed": {}
   },
   "708": {
     "added": {},
@@ -3781,30 +3612,7 @@
   "785": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
-      },
-      "cost": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 0
-      },
-      "tribes": {
-        "now": [
-          "TEMMIE"
-        ],
-        "prev": []
-      }
-    }
+    "changed": {}
   },
   "786": {
     "added": {},
@@ -4039,40 +3847,7 @@
   "832": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 6
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "shock",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "bullseye",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   },
   "833": {
     "added": {},
@@ -4087,55 +3862,7 @@
   "835": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 2,
-        "prev": 3
-      },
-      "hp": {
-        "now": 6,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 4
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "bullseye",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "bullseye",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "dodge",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   },
   "836": {
     "added": {},
@@ -4265,16 +3992,7 @@
   "861": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      }
-    }
+    "changed": {}
   },
   "862": {
     "added": {},
@@ -4289,28 +4007,7 @@
   "864": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "865": {
     "added": {},
@@ -4485,18 +4182,7 @@
   "899": {
     "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "DOG",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "DOG"
-        ]
-      }
-    }
+    "changed": {}
   },
   "900": {
     "added": {},
@@ -4714,16 +4400,12 @@
     "changed": {}
   },
   "943": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "944": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

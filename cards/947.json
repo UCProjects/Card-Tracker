@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 947,
+    "fixedId": 947,
+    "typeCard": 1,
+    "name": "Wild Revolver",
+    "image": "Wild_Revolver",
+    "baseImage": "Wild_Revolver",
+    "cost": 4,
+    "rarity": "TOKEN",
+    "originalCost": 4,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

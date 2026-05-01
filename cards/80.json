@@ -10,9 +10,9 @@
     "name": "Royal Signup",
     "image": "Royal_Signup",
     "baseImage": "Royal_Signup",
-    "cost": 0,
+    "cost": 2,
     "rarity": "EPIC",
-    "originalCost": 0,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -21,20 +21,33 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "NEUTRAL",
-        "name": "program",
-        "statusBehavior": "STACKABLE",
-        "counter": 2,
-        "displayCounter": true
-      }
-    ],
+    "statuses": [],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

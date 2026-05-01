@@ -24,20 +24,25 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "POSITIVE",
-        "name": "loop",
-        "statusBehavior": "STACKABLE",
-        "counter": 1,
-        "displayCounter": true
-      }
-    ],
+    "statuses": [],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

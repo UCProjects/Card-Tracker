@@ -7,19 +7,18 @@
     "originalHp": 6,
     "dead": false,
     "boardPosition": -1,
-    "id": 25,
-    "fixedId": 25,
+    "id": 948,
+    "fixedId": 948,
     "typeCard": 0,
-    "name": "Astigmatism",
-    "image": "Astigmatism",
-    "baseImage": "Astigmatism",
+    "name": "Blackjack",
+    "image": "Blackjack",
+    "baseImage": "Blackjack",
     "cost": 6,
-    "rarity": "COMMON",
+    "rarity": "EPIC",
     "originalCost": 6,
-    "target": "ALL",
     "shiny": false,
     "quantity": 1,
-    "extension": "BASE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -29,21 +28,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

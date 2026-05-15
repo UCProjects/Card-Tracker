@@ -37,50 +37,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ALLY_MONSTER"
-    },
-    "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 6
-      },
-      "hp": {
-        "now": 1,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 1,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 1,
-        "prev": 6
-      },
-      "cost": {
-        "now": 1,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 8
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ],
-        "prev": []
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

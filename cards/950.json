@@ -7,19 +7,19 @@
     "originalHp": 7,
     "dead": false,
     "boardPosition": -1,
-    "id": 697,
-    "fixedId": 697,
+    "id": 950,
+    "fixedId": 950,
     "typeCard": 0,
-    "name": "Queen",
-    "image": "Queen",
-    "baseImage": "Queen",
-    "cost": 10,
-    "rarity": "LEGENDARY",
-    "originalCost": 10,
-    "target": "ENEMY_MONSTER",
+    "name": "Plague Doctor",
+    "image": "Plague_Doctor",
+    "baseImage": "Plague_Doctor",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
+    "target": "ALLY_SLOT",
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "UTY",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -27,8 +27,8 @@
     "ownerId": 0,
     "statuses": [
       {
-        "statusType": "POSITIVE",
-        "name": "taunt",
+        "statusType": "NEGATIVE",
+        "name": "kr",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -37,17 +37,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 10,
-        "prev": 11
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 11
-      }
-    }
+    "changed": {}
   }
 }

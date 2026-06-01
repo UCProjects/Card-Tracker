@@ -13,7 +13,7 @@
     "cost": 2,
     "rarity": "COMMON",
     "originalCost": 2,
-    "target": "MONSTER",
+    "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -28,6 +28,11 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ALLY_MONSTER",
+        "prev": "MONSTER"
+      }
+    }
   }
 }

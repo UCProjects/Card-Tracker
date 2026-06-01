@@ -13,9 +13,9 @@
     "name": "Wall of Fire",
     "image": "Wall_of_Fire",
     "baseImage": "Wall_of_Fire",
-    "cost": 9,
+    "cost": 8,
     "rarity": "EPIC",
-    "originalCost": 9,
+    "originalCost": 8,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -30,6 +30,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   }
 }

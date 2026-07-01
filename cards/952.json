@@ -1,21 +1,21 @@
 {
   "card": {
     "attack": 4,
-    "hp": 10,
-    "maxHp": 10,
+    "hp": 8,
+    "maxHp": 8,
     "originalAttack": 4,
-    "originalHp": 10,
+    "originalHp": 8,
     "dead": false,
     "boardPosition": -1,
-    "id": 505,
-    "fixedId": 505,
+    "id": 952,
+    "fixedId": 952,
     "typeCard": 0,
-    "name": "Soulless Kris",
-    "image": "Soulless_Kris",
-    "baseImage": "Soulless_Kris",
-    "cost": 9,
-    "rarity": "DETERMINATION",
-    "originalCost": 9,
+    "name": "Miss Mizzle",
+    "image": "Miss_Mizzle",
+    "baseImage": "Miss_Mizzle",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -27,7 +27,7 @@
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "charge",
+        "name": "haste",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -36,17 +36,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 9,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 8
-      }
-    }
+    "changed": {}
   }
 }

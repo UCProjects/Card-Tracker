@@ -1,24 +1,24 @@
 {
   "card": {
     "attack": 3,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 3,
-    "originalHp": 6,
+    "originalHp": 7,
     "dead": false,
     "boardPosition": -1,
-    "id": 824,
-    "fixedId": 824,
+    "id": 958,
+    "fixedId": 958,
     "typeCard": 0,
-    "name": "Dalv",
-    "image": "Dalv",
-    "baseImage": "Dalv",
-    "cost": 6,
-    "rarity": "LEGENDARY",
-    "originalCost": 6,
+    "name": "Rockstar Susie",
+    "image": "Rockstar_Susie",
+    "baseImage": "Rockstar_Susie",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
-    "extension": "UTY",
+    "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
@@ -34,7 +34,7 @@
       },
       {
         "statusType": "POSITIVE",
-        "name": "transparency",
+        "name": "support",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -43,21 +43,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

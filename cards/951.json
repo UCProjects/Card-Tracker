@@ -1,21 +1,21 @@
 {
   "card": {
-    "attack": 7,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 7,
-    "originalHp": 7,
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
     "dead": false,
     "boardPosition": -1,
-    "id": 57,
-    "fixedId": 57,
+    "id": 951,
+    "fixedId": 951,
     "typeCard": 0,
-    "name": "Gaster",
-    "image": "Gaster",
-    "baseImage": "Gaster",
-    "cost": 11,
-    "rarity": "LEGENDARY",
-    "originalCost": 11,
+    "name": "Fire Fountain",
+    "image": "Fire_Fountain",
+    "baseImage": "Fire_Fountain",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -36,17 +36,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 11,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 12
-      }
-    }
+    "changed": {}
   }
 }

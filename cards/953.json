@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 953,
+    "fixedId": 953,
+    "typeCard": 0,
+    "name": "Maus Hand",
+    "image": "Maus_Hand",
+    "baseImage": "Maus_Hand",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

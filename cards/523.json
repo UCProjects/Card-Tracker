@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 7,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 7,
-    "originalHp": 6,
+    "attack": 6,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 6,
+    "originalHp": 7,
     "dead": false,
     "boardPosition": -1,
     "id": 523,
@@ -13,9 +13,10 @@
     "name": "Snoring Monsters",
     "image": "Snoring_Monsters",
     "baseImage": "Snoring_Monsters",
-    "cost": 6,
+    "cost": 10,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 10,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -28,8 +29,39 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 7
+      },
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "cost": {
+        "now": 10,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 6
+      }
+    }
   }
 }

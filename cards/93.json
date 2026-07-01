@@ -21,20 +21,25 @@
     "typeSkin": 0,
     "playedTurn": 0,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "NEUTRAL",
-        "name": "program",
-        "statusBehavior": "STACKABLE",
-        "counter": 2,
-        "displayCounter": true
-      }
-    ],
+    "statuses": [],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

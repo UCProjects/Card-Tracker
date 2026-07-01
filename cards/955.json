@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 6,
+    "originalHp": 5,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 955,
+    "fixedId": 955,
+    "typeCard": 0,
+    "name": "Hammer of Justice",
+    "image": "Hammer_of_Justice",
+    "baseImage": "Hammer_of_Justice",
+    "cost": 12,
+    "rarity": "DETERMINATION",
+    "originalCost": 12,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": 0,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "dodge",
+        "statusBehavior": "STACKABLE",
+        "counter": 1,
+        "displayCounter": true
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

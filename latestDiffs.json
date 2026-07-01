@@ -282,7 +282,16 @@
   "57": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 11,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 11,
+        "prev": 12
+      }
+    }
   },
   "58": {
     "added": {},
@@ -462,7 +471,20 @@
   "93": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   },
   "94": {
     "added": {},
@@ -1962,7 +1984,16 @@
   "455": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 5,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 8
+      }
+    }
   },
   "456": {
     "added": {},
@@ -2212,7 +2243,16 @@
   "505": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 9,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 9,
+        "prev": 8
+      }
+    }
   },
   "506": {
     "added": {},
@@ -2300,9 +2340,40 @@
     "changed": {}
   },
   "523": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 7
+      },
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "cost": {
+        "now": 10,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 6
+      }
+    }
   },
   "524": {
     "added": {},
@@ -2717,7 +2788,16 @@
   "606": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   },
   "607": {
     "added": {},
@@ -2842,7 +2922,56 @@
   "631": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          },
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 3,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          },
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 4,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   },
   "632": {
     "added": {},
@@ -2912,7 +3041,36 @@
   "645": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 8,
+        "prev": 9
+      },
+      "originalCost": {
+        "now": 8,
+        "prev": 9
+      }
+    }
   },
   "646": {
     "added": {},
@@ -3017,7 +3175,20 @@
   "666": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   },
   "667": {
     "added": {},
@@ -3317,7 +3488,28 @@
   "726": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 9,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      }
+    }
   },
   "727": {
     "added": {},
@@ -3807,7 +3999,20 @@
   "824": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      }
+    }
   },
   "825": {
     "added": {},
@@ -4087,7 +4292,20 @@
   "880": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      }
+    }
   },
   "881": {
     "added": {},
@@ -4192,7 +4410,16 @@
   "901": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 15,
+        "prev": 14
+      },
+      "originalCost": {
+        "now": 15,
+        "prev": 14
+      }
+    }
   },
   "902": {
     "added": {},
@@ -4436,6 +4663,62 @@
   },
   "950": {
     "added": {},
+    "removed": {},
+    "changed": {}
+  },
+  "951": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "952": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "953": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "954": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "955": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "956": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "957": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  },
+  "958": {
+    "added": {
+      "new": true
+    },
     "removed": {},
     "changed": {}
   }

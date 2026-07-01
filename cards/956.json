@@ -1,21 +1,21 @@
 {
   "card": {
-    "attack": 4,
+    "attack": 3,
     "hp": 6,
     "maxHp": 6,
-    "originalAttack": 4,
+    "originalAttack": 3,
     "originalHp": 6,
     "dead": false,
     "boardPosition": -1,
-    "id": 666,
-    "fixedId": 666,
+    "id": 956,
+    "fixedId": 956,
     "typeCard": 0,
-    "name": "Stoned Lancer",
-    "image": "Stoned_Lancer",
-    "baseImage": "Stoned_Lancer",
-    "cost": 4,
-    "rarity": "RARE",
-    "originalCost": 4,
+    "name": "Tuning Fork",
+    "image": "Tuning_Fork",
+    "baseImage": "Tuning_Fork",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -27,7 +27,7 @@
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "candy",
+        "name": "haste",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -36,21 +36,10 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "new": true
+    },
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   }
 }

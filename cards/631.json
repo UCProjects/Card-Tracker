@@ -52,55 +52,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          },
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          },
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 4,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,39 +29,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "MONSTER"
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 7
-      },
-      "hp": {
-        "now": 7,
-        "prev": 6
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 6
-      },
-      "cost": {
-        "now": 10,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 10,
-        "prev": 6
-      }
-    }
+    "changed": {}
   }
 }

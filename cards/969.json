@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 969,
+    "fixedId": 969,
+    "typeCard": 1,
+    "name": "Mew Mew Magic",
+    "image": "Mew_Mew_Magic",
+    "baseImage": "Mew_Mew_Magic",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

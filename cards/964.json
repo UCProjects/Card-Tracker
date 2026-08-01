@@ -1,0 +1,39 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 3,
+    "originalHp": 6,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 964,
+    "fixedId": 964,
+    "typeCard": 0,
+    "name": "Mantis Dancer",
+    "image": "Mantis_Dancer",
+    "baseImage": "Mantis_Dancer",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

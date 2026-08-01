@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 5,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 975,
+    "fixedId": 975,
+    "typeCard": 0,
+    "name": "Trial Ralsei",
+    "image": "Trial_Ralsei",
+    "baseImage": "Trial_Ralsei",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

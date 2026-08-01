@@ -1,0 +1,48 @@
+{
+  "card": {
+    "attack": 0,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 0,
+    "originalHp": 8,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 979,
+    "fixedId": 979,
+    "typeCard": 0,
+    "name": "Green",
+    "image": "Green",
+    "baseImage": "Green",
+    "cost": 5,
+    "rarity": "LEGENDARY",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

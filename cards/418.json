@@ -16,20 +16,30 @@
     "cost": 6,
     "rarity": "EPIC",
     "originalCost": 6,
+    "target": "HAND",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "HAND",
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      }
+    }
   }
 }

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 2,
+    "attack": 3,
     "hp": 2,
     "maxHp": 2,
-    "originalAttack": 2,
+    "originalAttack": 3,
     "originalHp": 2,
     "dead": false,
     "boardPosition": -1,
@@ -23,14 +23,30 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      }
+    }
   }
 }

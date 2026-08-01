@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 3,
+    "originalHp": 7,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 973,
+    "fixedId": 973,
+    "typeCard": 0,
+    "name": "Trial Susie",
+    "image": "Trial_Susie",
+    "baseImage": "Trial_Susie",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

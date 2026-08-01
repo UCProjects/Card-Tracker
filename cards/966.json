@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 3,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 966,
+    "fixedId": 966,
+    "typeCard": 0,
+    "name": "Hopschef",
+    "image": "Hopschef",
+    "baseImage": "Hopschef",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

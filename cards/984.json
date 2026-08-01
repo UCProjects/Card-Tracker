@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 984,
+    "fixedId": 984,
+    "typeCard": 0,
+    "name": "Terakota Archer",
+    "image": "Terakota_Archer",
+    "baseImage": "Terakota_Archer",
+    "cost": 6,
+    "rarity": "COMMON",
+    "originalCost": 6,
+    "target": "ENEMY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Bullseye",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

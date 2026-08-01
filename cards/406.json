@@ -16,20 +16,30 @@
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
+    "target": "HAND_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "HAND_MONSTER",
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      }
+    }
   }
 }

@@ -10,28 +10,52 @@
     "id": 375,
     "fixedId": 375,
     "typeCard": 0,
-    "name": "Green Flower",
-    "image": "Green_Flower",
-    "baseImage": "Green_Flower",
+    "name": "Green Clover",
+    "image": "Green_Clover",
+    "baseImage": "Green_Clover",
     "cost": 0,
     "rarity": "TOKEN",
     "originalCost": 0,
     "shiny": false,
     "quantity": 1,
-    "extension": "DELTARUNE",
+    "extension": "BASE",
     "tribes": [
       "PLANT"
     ],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Green Clover",
+        "prev": "Green Flower"
+      },
+      "image": {
+        "now": "Green_Clover",
+        "prev": "Green_Flower"
+      },
+      "baseImage": {
+        "now": "Green_Clover",
+        "prev": "Green_Flower"
+      },
+      "extension": {
+        "now": "BASE",
+        "prev": "DELTARUNE"
+      },
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      }
+    }
   }
 }

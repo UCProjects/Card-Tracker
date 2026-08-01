@@ -10,9 +10,9 @@
     "id": 391,
     "fixedId": 391,
     "typeCard": 0,
-    "name": "Scissor Dancer",
-    "image": "Scissor_Dancer",
-    "baseImage": "Scissor_Dancer",
+    "name": "Sheary",
+    "image": "Sheary",
+    "baseImage": "Sheary",
     "cost": 6,
     "rarity": "BASE",
     "originalCost": 6,
@@ -23,14 +23,34 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Sheary",
+        "prev": "Scissor Dancer"
+      },
+      "image": {
+        "now": "Sheary",
+        "prev": "Scissor_Dancer"
+      },
+      "baseImage": {
+        "now": "Sheary",
+        "prev": "Scissor_Dancer"
+      },
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      }
+    }
   }
 }

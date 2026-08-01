@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 7,
+    "originalHp": 6,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 977,
+    "fixedId": 977,
+    "typeCard": 0,
+    "name": "Pink",
+    "image": "Pink",
+    "baseImage": "Pink",
+    "cost": 9,
+    "rarity": "DETERMINATION",
+    "originalCost": 9,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

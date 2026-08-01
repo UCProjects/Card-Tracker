@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 1,
+    "originalHp": 7,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 963,
+    "fixedId": 963,
+    "typeCard": 0,
+    "name": "Strengthmeter",
+    "image": "Strengthmeter",
+    "baseImage": "Strengthmeter",
+    "cost": 5,
+    "rarity": "COMMON",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

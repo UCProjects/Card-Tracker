@@ -1,0 +1,31 @@
+{
+  "card": {
+    "id": 983,
+    "fixedId": 983,
+    "typeCard": 1,
+    "name": "Our OMEGA",
+    "image": "Our_OMEGA",
+    "baseImage": "Our_OMEGA",
+    "cost": 0,
+    "rarity": "TOKEN",
+    "originalCost": 0,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 982,
+    "fixedId": 982,
+    "typeCard": 0,
+    "name": "Yellow",
+    "image": "Yellow",
+    "baseImage": "Yellow",
+    "cost": 7,
+    "rarity": "LEGENDARY",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

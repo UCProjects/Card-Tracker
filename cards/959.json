@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 3,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 959,
+    "fixedId": 959,
+    "typeCard": 0,
+    "name": "Sauerdough",
+    "image": "Sauerdough",
+    "baseImage": "Sauerdough",
+    "cost": 3,
+    "rarity": "TOKEN",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Dodge",
+        "statusBehavior": "STACKABLE",
+        "counter": 1,
+        "displayCounter": true
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

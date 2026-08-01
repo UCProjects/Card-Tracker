@@ -10,9 +10,9 @@
     "id": 291,
     "fixedId": 291,
     "typeCard": 0,
-    "name": "Striped Bird",
-    "image": "Striped_Bird",
-    "baseImage": "Striped_Bird",
+    "name": "Normal NPC",
+    "image": "Normal_NPC",
+    "baseImage": "Normal_NPC",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -22,12 +22,13 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "haste",
+        "name": "Haste",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -36,8 +37,47 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Normal NPC",
+        "prev": "Striped Bird"
+      },
+      "image": {
+        "now": "Normal_NPC",
+        "prev": "Striped_Bird"
+      },
+      "baseImage": {
+        "now": "Normal_NPC",
+        "prev": "Striped_Bird"
+      },
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

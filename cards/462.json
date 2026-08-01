@@ -10,9 +10,9 @@
     "id": 462,
     "fixedId": 462,
     "typeCard": 0,
-    "name": "Blue Flower",
-    "image": "Blue_Flower",
-    "baseImage": "Blue_Flower",
+    "name": "Blue Rose",
+    "image": "Blue_Rose",
+    "baseImage": "Blue_Rose",
     "cost": 5,
     "rarity": "TOKEN",
     "originalCost": 5,
@@ -24,12 +24,13 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "taunt",
+        "name": "Taunt",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -38,8 +39,47 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Blue Rose",
+        "prev": "Blue Flower"
+      },
+      "image": {
+        "now": "Blue_Rose",
+        "prev": "Blue_Flower"
+      },
+      "baseImage": {
+        "now": "Blue_Rose",
+        "prev": "Blue_Flower"
+      },
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 5,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 962,
+    "fixedId": 962,
+    "typeCard": 0,
+    "name": "Trial Kris",
+    "image": "Trial_Kris",
+    "baseImage": "Trial_Kris",
+    "cost": 4,
+    "rarity": "EPIC",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

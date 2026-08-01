@@ -24,12 +24,13 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "dodge",
+        "name": "Dodge",
         "statusBehavior": "STACKABLE",
         "counter": 1,
         "displayCounter": true
@@ -38,8 +39,35 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Dodge",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "dodge",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

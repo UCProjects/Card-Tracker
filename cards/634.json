@@ -22,19 +22,20 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [
       {
         "statusType": "NEUTRAL",
-        "name": "program",
+        "name": "Program",
         "statusBehavior": "STACKABLE",
         "counter": 6,
         "displayCounter": true
       },
       {
         "statusType": "POSITIVE",
-        "name": "taunt",
+        "name": "Taunt",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -43,8 +44,49 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "Program",
+            "statusBehavior": "STACKABLE",
+            "counter": 6,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 6,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

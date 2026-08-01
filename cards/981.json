@@ -1,0 +1,40 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 2,
+    "originalHp": 1,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 981,
+    "fixedId": 981,
+    "typeCard": 0,
+    "name": "Orange",
+    "image": "Orange",
+    "baseImage": "Orange",
+    "cost": 3,
+    "rarity": "LEGENDARY",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

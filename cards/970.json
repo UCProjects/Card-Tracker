@@ -1,0 +1,40 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 1,
+    "originalHp": 1,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 970,
+    "fixedId": 970,
+    "typeCard": 0,
+    "name": "Aqua",
+    "image": "Aqua",
+    "baseImage": "Aqua",
+    "cost": 1,
+    "rarity": "LEGENDARY",
+    "originalCost": 1,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

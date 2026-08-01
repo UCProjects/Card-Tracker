@@ -20,29 +20,36 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "FROGGIT",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "FROGGIT"
     ],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ],
-        "prev": [
           "AMALGAMATE",
           "FROGGIT"
+        ],
+        "prev": [
+          "FROGGIT",
+          "AMALGAMATE"
         ]
+      },
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
       }
     }
   }

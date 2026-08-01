@@ -16,6 +16,7 @@
     "cost": 3,
     "rarity": "COMMON",
     "originalCost": 3,
+    "target": "HAND",
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -24,19 +25,20 @@
     ],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "haste",
+        "name": "Haste",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
       },
       {
         "statusType": "POSITIVE",
-        "name": "taunt",
+        "name": "Taunt",
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
@@ -45,8 +47,50 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "HAND",
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      }
+    }
   }
 }

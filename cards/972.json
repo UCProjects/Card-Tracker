@@ -1,0 +1,54 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 6,
+    "originalHp": 7,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 972,
+    "fixedId": 972,
+    "typeCard": 0,
+    "name": "Terakota",
+    "image": "Terakota",
+    "baseImage": "Terakota",
+    "cost": 10,
+    "rarity": "COMMON",
+    "originalCost": 10,
+    "target": "ALLY_SLOT",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Armor",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

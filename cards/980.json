@@ -1,0 +1,40 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 980,
+    "fixedId": 980,
+    "typeCard": 0,
+    "name": "Seth",
+    "image": "Seth",
+    "baseImage": "Seth",
+    "cost": 6,
+    "rarity": "LEGENDARY",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [
+      "PLANT"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

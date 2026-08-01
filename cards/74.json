@@ -19,19 +19,20 @@
     "tribes": [],
     "selectCards": [],
     "typeSkin": 0,
-    "playedTurn": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [
       {
         "statusType": "POSITIVE",
-        "name": "loop",
+        "name": "Loop",
         "statusBehavior": "STACKABLE",
         "counter": 3,
         "displayCounter": true
       },
       {
         "statusType": "NEUTRAL",
-        "name": "program",
+        "name": "Program",
         "statusBehavior": "STACKABLE",
         "counter": 2,
         "displayCounter": true
@@ -40,8 +41,49 @@
     "description": ""
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "drawnTurn": -1
+    },
     "removed": {},
-    "changed": {}
+    "changed": {
+      "playedTurn": {
+        "now": -1,
+        "prev": 0
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 3,
+            "displayCounter": true
+          },
+          {
+            "statusType": "NEUTRAL",
+            "name": "Program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 3,
+            "displayCounter": true
+          },
+          {
+            "statusType": "NEUTRAL",
+            "name": "program",
+            "statusBehavior": "STACKABLE",
+            "counter": 2,
+            "displayCounter": true
+          }
+        ]
+      }
+    }
   }
 }

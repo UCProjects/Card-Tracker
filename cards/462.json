@@ -39,47 +39,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Blue Rose",
-        "prev": "Blue Flower"
-      },
-      "image": {
-        "now": "Blue_Rose",
-        "prev": "Blue_Flower"
-      },
-      "baseImage": {
-        "now": "Blue_Rose",
-        "prev": "Blue_Flower"
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

@@ -38,35 +38,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "KR",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "kr",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

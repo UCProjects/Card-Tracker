@@ -32,25 +32,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "FROGGIT"
-        ],
-        "prev": [
-          "FROGGIT",
-          "AMALGAMATE"
-        ]
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

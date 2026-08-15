@@ -30,27 +30,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Sheary",
-        "prev": "Scissor Dancer"
-      },
-      "image": {
-        "now": "Sheary",
-        "prev": "Scissor_Dancer"
-      },
-      "baseImage": {
-        "now": "Sheary",
-        "prev": "Scissor_Dancer"
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

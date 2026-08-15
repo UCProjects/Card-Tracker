@@ -31,35 +31,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 4,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "loop",
-            "statusBehavior": "STACKABLE",
-            "counter": 4,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

@@ -38,36 +38,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "HAND",
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

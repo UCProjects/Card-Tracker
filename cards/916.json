@@ -22,23 +22,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 3
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

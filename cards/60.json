@@ -44,49 +44,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "Program",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Charge",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 2,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "charge",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

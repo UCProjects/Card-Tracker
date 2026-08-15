@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "PLANT"
+      "PLANT",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -40,43 +40,17 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "PLANT"
-        ],
-        "prev": [
           "PLANT",
           "AMALGAMATE"
-        ]
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
         ],
         "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
+          "AMALGAMATE",
+          "PLANT"
         ]
       }
     }

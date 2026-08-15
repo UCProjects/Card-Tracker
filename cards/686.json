@@ -30,23 +30,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

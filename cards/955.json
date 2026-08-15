@@ -38,43 +38,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 11,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 11,
-        "prev": 12
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Dodge",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "dodge",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

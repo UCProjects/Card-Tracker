@@ -31,31 +31,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Green Clover",
-        "prev": "Green Flower"
-      },
-      "image": {
-        "now": "Green_Clover",
-        "prev": "Green_Flower"
-      },
-      "baseImage": {
-        "now": "Green_Clover",
-        "prev": "Green_Flower"
-      },
-      "extension": {
-        "now": "BASE",
-        "prev": "DELTARUNE"
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      }
-    }
+    "changed": {}
   }
 }

@@ -51,63 +51,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Support",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Armor",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "Disarmed",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "support",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "armor",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "disarmed",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

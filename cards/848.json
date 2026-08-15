@@ -37,35 +37,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Dodge",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "dodge",
-            "statusBehavior": "STACKABLE",
-            "counter": 3,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

@@ -21,8 +21,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "DOG",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "DOG"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -33,15 +33,18 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "target": "HAND",
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
+      "tribes": {
+        "now": [
+          "AMALGAMATE",
+          "DOG"
+        ],
+        "prev": [
+          "DOG",
+          "AMALGAMATE"
+        ]
       }
     }
   }

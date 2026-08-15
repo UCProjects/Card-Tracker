@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "ARACHNID",
-      "PLANT"
+      "PLANT",
+      "ARACHNID"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -32,14 +32,18 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
+      "tribes": {
+        "now": [
+          "PLANT",
+          "ARACHNID"
+        ],
+        "prev": [
+          "ARACHNID",
+          "PLANT"
+        ]
       }
     }
   }

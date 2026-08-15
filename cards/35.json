@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "MOLD"
+      "MOLD",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -32,24 +32,18 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
     "changed": {
       "tribes": {
         "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
           "MOLD",
           "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
         ]
-      },
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
       }
     }
   }

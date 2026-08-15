@@ -37,35 +37,8 @@
     "description": ""
   },
   "diffs": {
-    "added": {
-      "drawnTurn": -1
-    },
+    "added": {},
     "removed": {},
-    "changed": {
-      "playedTurn": {
-        "now": -1,
-        "prev": 0
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "Program",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "program",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          }
-        ]
-      }
-    }
+    "changed": {}
   }
 }

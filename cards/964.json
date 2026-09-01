@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 3,
-    "hp": 6,
-    "maxHp": 6,
+    "hp": 7,
+    "maxHp": 7,
     "originalAttack": 3,
-    "originalHp": 6,
+    "originalHp": 7,
     "dead": false,
     "boardPosition": -1,
     "id": 964,
@@ -13,9 +13,9 @@
     "name": "Mantis Dancer",
     "image": "Mantis_Dancer",
     "baseImage": "Mantis_Dancer",
-    "cost": 7,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 6,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -32,6 +32,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 7,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 6
+      },
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      }
+    }
   }
 }

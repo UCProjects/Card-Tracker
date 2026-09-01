@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 10,
-    "hp": 10,
-    "maxHp": 10,
-    "originalAttack": 10,
-    "originalHp": 10,
+    "attack": 9,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 9,
+    "originalHp": 9,
     "dead": false,
     "boardPosition": -1,
     "id": 28,
@@ -13,9 +13,9 @@
     "name": "Chara",
     "image": "Chara",
     "baseImage": "Chara",
-    "cost": 15,
+    "cost": 14,
     "rarity": "DETERMINATION",
-    "originalCost": 15,
+    "originalCost": 14,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -32,6 +32,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 9,
+        "prev": 10
+      },
+      "hp": {
+        "now": 9,
+        "prev": 10
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalAttack": {
+        "now": 9,
+        "prev": 10
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 10
+      },
+      "cost": {
+        "now": 14,
+        "prev": 15
+      },
+      "originalCost": {
+        "now": 14,
+        "prev": 15
+      }
+    }
   }
 }

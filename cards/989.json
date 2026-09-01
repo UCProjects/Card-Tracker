@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 5,
+    "originalHp": 5,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 989,
+    "fixedId": 989,
+    "typeCard": 0,
+    "name": "Vampire Alvin",
+    "image": "Vampire_Alvin",
+    "baseImage": "Vampire_Alvin",
+    "cost": 8,
+    "rarity": "EPIC",
+    "originalCost": 8,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 1,
+    "originalHp": 3,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 991,
+    "fixedId": 991,
+    "typeCard": 0,
+    "name": "Raincoat Spider",
+    "image": "Raincoat_Spider",
+    "baseImage": "Raincoat_Spider",
+    "cost": 2,
+    "rarity": "EPIC",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [
+      "ARACHNID"
+    ],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

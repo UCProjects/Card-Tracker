@@ -13,9 +13,9 @@
     "name": "Werewerewire",
     "image": "Werewerewire",
     "baseImage": "Werewerewire",
-    "cost": 11,
+    "cost": 10,
     "rarity": "EPIC",
-    "originalCost": 11,
+    "originalCost": 10,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -41,6 +41,15 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 10,
+        "prev": 11
+      },
+      "originalCost": {
+        "now": 10,
+        "prev": 11
+      }
+    }
   }
 }

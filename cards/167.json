@@ -10,9 +10,9 @@
     "id": 167,
     "fixedId": 167,
     "typeCard": 0,
-    "name": "Receptionist 1",
-    "image": "Receptionist_1",
-    "baseImage": "Receptionist_1",
+    "name": "Fish Receptionist",
+    "image": "Fish_Receptionist",
+    "baseImage": "Fish_Receptionist",
     "cost": 5,
     "rarity": "COMMON",
     "originalCost": 5,
@@ -31,6 +31,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Fish Receptionist",
+        "prev": "Receptionist 1"
+      },
+      "image": {
+        "now": "Fish_Receptionist",
+        "prev": "Receptionist_1"
+      },
+      "baseImage": {
+        "now": "Fish_Receptionist",
+        "prev": "Receptionist_1"
+      }
+    }
   }
 }

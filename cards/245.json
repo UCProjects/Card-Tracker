@@ -10,9 +10,9 @@
     "id": 245,
     "fixedId": 245,
     "typeCard": 0,
-    "name": "Editor 1",
-    "image": "Editor_1",
-    "baseImage": "Editor_1",
+    "name": "Scarf Lady",
+    "image": "Scarf_Lady",
+    "baseImage": "Scarf_Lady",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -31,6 +31,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Scarf Lady",
+        "prev": "Editor 1"
+      },
+      "image": {
+        "now": "Scarf_Lady",
+        "prev": "Editor_1"
+      },
+      "baseImage": {
+        "now": "Scarf_Lady",
+        "prev": "Editor_1"
+      }
+    }
   }
 }

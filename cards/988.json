@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 2,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 988,
+    "fixedId": 988,
+    "typeCard": 0,
+    "name": "Wind Struggler",
+    "image": "Wind_Struggler",
+    "baseImage": "Wind_Struggler",
+    "cost": 3,
+    "rarity": "RARE",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

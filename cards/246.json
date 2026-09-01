@@ -10,9 +10,9 @@
     "id": 246,
     "fixedId": 246,
     "typeCard": 0,
-    "name": "Editor 2",
-    "image": "Editor_2",
-    "baseImage": "Editor_2",
+    "name": "Lady Garf",
+    "image": "Lady_Garf",
+    "baseImage": "Lady_Garf",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -31,6 +31,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Lady Garf",
+        "prev": "Editor 2"
+      },
+      "image": {
+        "now": "Lady_Garf",
+        "prev": "Editor_2"
+      },
+      "baseImage": {
+        "now": "Lady_Garf",
+        "prev": "Editor_2"
+      }
+    }
   }
 }

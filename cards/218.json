@@ -10,9 +10,9 @@
     "id": 218,
     "fixedId": 218,
     "typeCard": 0,
-    "name": "Receptionist 3",
-    "image": "Receptionist_3",
-    "baseImage": "Receptionist_3",
+    "name": "Hand Receptionist",
+    "image": "Hand_Receptionist",
+    "baseImage": "Hand_Receptionist",
     "cost": 3,
     "rarity": "EPIC",
     "originalCost": 3,
@@ -39,6 +39,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Hand Receptionist",
+        "prev": "Receptionist 3"
+      },
+      "image": {
+        "now": "Hand_Receptionist",
+        "prev": "Receptionist_3"
+      },
+      "baseImage": {
+        "now": "Hand_Receptionist",
+        "prev": "Receptionist_3"
+      }
+    }
   }
 }

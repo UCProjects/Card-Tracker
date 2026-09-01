@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 8,
+    "hp": 8,
+    "maxHp": 8,
+    "originalAttack": 8,
+    "originalHp": 8,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 993,
+    "fixedId": 993,
+    "typeCard": 0,
+    "name": "Lost Noelle",
+    "image": "Lost_Noelle",
+    "baseImage": "Lost_Noelle",
+    "cost": 8,
+    "rarity": "DETERMINATION",
+    "originalCost": 8,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

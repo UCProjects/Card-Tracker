@@ -1,0 +1,39 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 990,
+    "fixedId": 990,
+    "typeCard": 0,
+    "name": "Kawkaw",
+    "image": "Kawkaw",
+    "baseImage": "Kawkaw",
+    "cost": 1,
+    "rarity": "COMMON",
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

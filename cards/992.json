@@ -1,0 +1,39 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 992,
+    "fixedId": 992,
+    "typeCard": 0,
+    "name": "Ice-E Banner",
+    "image": "Ice-E_Banner",
+    "baseImage": "Ice-E_Banner",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
+    "target": "MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

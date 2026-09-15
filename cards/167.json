@@ -31,19 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Fish Receptionist",
-        "prev": "Receptionist 1"
-      },
-      "image": {
-        "now": "Fish_Receptionist",
-        "prev": "Receptionist_1"
-      },
-      "baseImage": {
-        "now": "Fish_Receptionist",
-        "prev": "Receptionist_1"
-      }
-    }
+    "changed": {}
   }
 }

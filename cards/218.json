@@ -39,19 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Hand Receptionist",
-        "prev": "Receptionist 3"
-      },
-      "image": {
-        "now": "Hand_Receptionist",
-        "prev": "Receptionist_3"
-      },
-      "baseImage": {
-        "now": "Hand_Receptionist",
-        "prev": "Receptionist_3"
-      }
-    }
+    "changed": {}
   }
 }

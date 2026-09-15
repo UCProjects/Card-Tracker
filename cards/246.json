@@ -31,19 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Lady Garf",
-        "prev": "Editor 2"
-      },
-      "image": {
-        "now": "Lady_Garf",
-        "prev": "Editor_2"
-      },
-      "baseImage": {
-        "now": "Lady_Garf",
-        "prev": "Editor_2"
-      }
-    }
+    "changed": {}
   }
 }

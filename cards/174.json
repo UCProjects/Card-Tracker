@@ -39,19 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Diamond Receptionist",
-        "prev": "Receptionist 2"
-      },
-      "image": {
-        "now": "Diamond_Receptionist",
-        "prev": "Receptionist_2"
-      },
-      "baseImage": {
-        "now": "Diamond_Receptionist",
-        "prev": "Receptionist_2"
-      }
-    }
+    "changed": {}
   }
 }

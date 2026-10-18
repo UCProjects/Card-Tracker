@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 3,
+    "hp": 1,
+    "maxHp": 1,
+    "originalAttack": 3,
+    "originalHp": 1,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 996,
+    "fixedId": 996,
+    "typeCard": 0,
+    "name": "Magic Dummy",
+    "image": "Magic_Dummy",
+    "baseImage": "Magic_Dummy",
+    "cost": 3,
+    "rarity": "STORY",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

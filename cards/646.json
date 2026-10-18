@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 3,
-    "originalHp": 4,
+    "attack": 5,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 5,
+    "originalHp": 3,
     "dead": false,
     "boardPosition": -1,
     "id": 646,
@@ -25,12 +25,235 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
+    "statuses": [
+      {
+        "statusType": "NEGATIVE",
+        "name": "KR",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "NEGATIVE",
+        "name": "MoldSpore",
+        "statusBehavior": "STACKABLE",
+        "counter": 0,
+        "displayCounter": true
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "FloweryPower",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Invulnerable",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Dodge",
+        "statusBehavior": "STACKABLE",
+        "counter": 1,
+        "displayCounter": true
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Charge",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Armor",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "NEGATIVE",
+        "name": "Disarmed",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Transparency",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Candy",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "NEGATIVE",
+        "name": "Wanted",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Darkspawn",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 5,
+        "prev": 3
+      },
+      "hp": {
+        "now": 3,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 5,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 4
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "NEGATIVE",
+            "name": "KR",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "NEGATIVE",
+            "name": "MoldSpore",
+            "statusBehavior": "STACKABLE",
+            "counter": 0,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "FloweryPower",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Invulnerable",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Dodge",
+            "statusBehavior": "STACKABLE",
+            "counter": 1,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Charge",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Armor",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "NEGATIVE",
+            "name": "Disarmed",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Transparency",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Candy",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "NEGATIVE",
+            "name": "Wanted",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Darkspawn",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      }
+    }
   }
 }

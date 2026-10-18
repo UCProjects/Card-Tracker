@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 995,
+    "fixedId": 995,
+    "typeCard": 1,
+    "name": "Cotton Madness",
+    "image": "Cotton_Madness",
+    "baseImage": "Cotton_Madness",
+    "cost": 2,
+    "rarity": "STORY",
+    "originalCost": 2,
+    "target": "ALL",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

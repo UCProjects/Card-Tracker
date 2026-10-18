@@ -3,9 +3,9 @@
     "id": 367,
     "fixedId": 367,
     "typeCard": 1,
-    "name": "Mine",
-    "image": "Mine",
-    "baseImage": "Mine",
+    "name": "Explosion",
+    "image": "Explosion",
+    "baseImage": "Explosion",
     "cost": 0,
     "rarity": "TOKEN",
     "originalCost": 0,
@@ -24,6 +24,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Explosion",
+        "prev": "Mine"
+      },
+      "image": {
+        "now": "Explosion",
+        "prev": "Mine"
+      },
+      "baseImage": {
+        "now": "Explosion",
+        "prev": "Mine"
+      }
+    }
   }
 }

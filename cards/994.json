@@ -1,0 +1,32 @@
+{
+  "card": {
+    "id": 994,
+    "fixedId": 994,
+    "typeCard": 1,
+    "name": "Woshing Soap",
+    "image": "Woshing_Soap",
+    "baseImage": "Woshing_Soap",
+    "cost": 1,
+    "rarity": "STORY",
+    "originalCost": 1,
+    "target": "ALLY_MONSTER",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": ""
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 4,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 5,
+    "originalAttack": 4,
     "originalHp": 5,
     "dead": false,
     "boardPosition": -1,
@@ -13,9 +13,9 @@
     "name": "Everyman",
     "image": "Everyman",
     "baseImage": "Everyman",
-    "cost": 6,
+    "cost": 5,
     "rarity": "COMMON",
-    "originalCost": 6,
+    "originalCost": 5,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -34,6 +34,23 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      }
+    }
   }
 }

@@ -20,20 +20,51 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "MOLD",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "MOLD"
     ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
     "description": ""
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "tribes": {
+        "now": [
+          "AMALGAMATE",
+          "MOLD"
+        ],
+        "prev": [
+          "MOLD",
+          "AMALGAMATE"
+        ]
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      }
+    }
   }
 }

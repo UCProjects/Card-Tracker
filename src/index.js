@@ -39,6 +39,7 @@ async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${o
       console.warn('Translations not found');
     }
     const promises = cards.map((card) => {
+      sortTribes(card);
       card.description = (lang[`card-${card.id}`] || '').trim();
       const path = `./cards/${card.id}.json`;
       return access(path, fs.constants.F_OK | fs.constants.W_OK)
@@ -51,6 +52,7 @@ async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${o
       }).then(({card: old} = {}) => {
         const diffs = [];
         if (old) {
+          sortTribes(old);
           Object.keys(card).forEach((key) => {
             const prev = old[key];
             const now = card[key];
@@ -96,6 +98,10 @@ async function fetchCards(from) {
   const { body } = await needle('get', from);
   if (!body.url) return body;
   return needle('get', `${origin}${body.url}`).then(res => res.body);
+}
+
+function sortTribes(card) {
+  if (Array.isArray(card.tribes)) card.tribes.sort();
 }
 
 function equality(a, b) {

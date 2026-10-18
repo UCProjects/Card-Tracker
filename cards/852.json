@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 5 {{DMG}} to the monster in front of this. {{KW:BULLSEYE}}: Draw a card with -2 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

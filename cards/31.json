@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Add a copy of this to your hand with -1 base {{COST}} and {{HP}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

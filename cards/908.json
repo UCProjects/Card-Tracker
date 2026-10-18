@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SUPPORT}}: Draw up to 1 card. {{KW:SHOCK}}: Give the top monster in your deck -1 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -38,11 +38,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (1). Deal 3 {{DMG}} to a monster. {{KW:DELAY}}: {{KW:ERASE}} the copy from your hand to heal 4 {{HP}} to you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

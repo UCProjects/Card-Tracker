@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Fully heal a monster and heal the same amount of {{HP}} to you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

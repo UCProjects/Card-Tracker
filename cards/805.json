@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemies.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

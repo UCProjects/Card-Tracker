@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Add 3 copies of random non-{{RARITY:DETERMINATION}} monsters costing 1 or less {{GOLD}} from your dustpile to your deck.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

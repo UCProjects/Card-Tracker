@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. After this attacks, {{KW:PARALYZE}} it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

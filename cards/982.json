@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: 2+ monsters were killed by spells or effects this turn. {{KW:MAGIC}}: Add a {{CARD:855|1}} with {{KW:LOOP}} (2) to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

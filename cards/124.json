@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 3 random non-{{RARITY:TOKEN}} spells you've cast this game. Choose one to add to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 4 random monsters. Choose one to add to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

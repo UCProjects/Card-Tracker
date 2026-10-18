@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 3 {{DMG}} To All Enemies.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

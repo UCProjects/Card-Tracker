@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If its {{HP}} is equal to its {{ATK}}, gain +2 {{ATK}} and fully heal this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose an enemy {{TRIBE:DOG|1}}. Draw 2 cards and send it to your hand. All {{TRIBE:DOG|2}} love to play fetch!",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

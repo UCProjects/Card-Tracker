@@ -34,15 +34,15 @@
         "displayCounter": false
       }
     ],
-    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add a {{CARD:825|1}} to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Add a 1-{{COST}} {{CARD:825|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
       "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Add a {{CARD:825|1}} to your hand.",
-        "prev": ""
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Add a 1-{{COST}} {{CARD:825|1}} to your hand.",
+        "prev": "{{KW:TAUNT}}. {{KW:DUST}}: Add a {{CARD:825|1}} to your hand."
       }
     }
   }

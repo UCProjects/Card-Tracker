@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give a random {{RARITY:DETERMINATION}}, {{RARITY:LEGENDARY}}, and {{RARITY:TOKEN}} card in your hand or deck -2 {{cost}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

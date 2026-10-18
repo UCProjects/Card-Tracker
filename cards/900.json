@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 4 random cards of the current {{ARTIFACT:66}} rarity and add one to your hand. Give a counter to {{ARTIFACT:66}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

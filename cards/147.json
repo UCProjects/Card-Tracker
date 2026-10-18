@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to the monster in front of this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After you cast a non-{{KW:GENERATED}} spell, add a copy of it to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

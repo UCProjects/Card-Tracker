@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After you summon an {{TRIBE:ARACHNID|1}}, gain +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{RARITY:TOKEN}} {{TRIBE:ARACHNID|1}} from your deck.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. After this takes {{DMG}}, summon a {{CARD:513|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

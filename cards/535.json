@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at all {{TRIBE:THRASHING_PART|2}} and choose one to add to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

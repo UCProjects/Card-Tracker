@@ -25,16 +25,36 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
-    "description": "{{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}."
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      },
       "description": {
-        "now": "{{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}.",
-        "prev": ""
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}.",
+        "prev": "{{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}."
       }
     }
   }

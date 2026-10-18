@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "DEAL 99 {{DMG}} TO ALL ALLIES 99 TIMES!",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

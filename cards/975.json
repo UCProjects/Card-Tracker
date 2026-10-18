@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DELAY}}: Summon a {{STATS:3|3}} copy of all non-{{RARITY:DETERMINATION}} ally monsters that died this turn.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

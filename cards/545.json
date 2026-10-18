@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: 7+ 7-{{COST}} or 7-{{HP}} monsters in your dustpile. {{KW:MAGIC}}: {{KW:ERASE}} up to 5 of them and add {{CARD:613|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

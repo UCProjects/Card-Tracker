@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Take the {{ARTIFACT:64}}! Kill all enemy monsters, give all cards in your hand -1 {{COST}}, and draw up to 7 cards.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

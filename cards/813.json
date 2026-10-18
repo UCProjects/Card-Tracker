@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give {{KW:CANDY}} to its killer.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

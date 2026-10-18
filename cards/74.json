@@ -43,11 +43,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (3). If this has no {{KW:LOOP}}, summon a base {{STATS:8|5}} {{CARD:48|1}} with {{KW:HASTE}} and +1 {{KW:DODGE}}. {{KW:PROGRAM}} (2): No additional effect.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

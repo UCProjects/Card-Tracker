@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SUPPORT}}: Copy the {{ATK}} of the attacker.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

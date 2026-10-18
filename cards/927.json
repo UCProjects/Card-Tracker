@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at 5 random non-{{RARITY:DETERMINATION}} monsters with a {{COST}} equal to the enemy {{GOLD}} (max. 15 {{GOLD}}). Choose one to summon.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

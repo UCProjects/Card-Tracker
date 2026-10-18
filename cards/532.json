@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After this attacks and survives, turn it into a random monster with {{STATS:4|6}} base stats.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

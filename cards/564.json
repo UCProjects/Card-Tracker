@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon 2 base {{STATS:3|3}} {{CARD:459|2}}. If you have 3 or less cards in your deck, turn them into base {{STATS:5|5}} {{CARD:431|2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

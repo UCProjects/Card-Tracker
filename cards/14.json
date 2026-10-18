@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. This takes 1 less {{DMG}} from monsters costing 4 or less {{GOLD}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

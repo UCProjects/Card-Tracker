@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for every 2 monsters with a unique {{COST}} in your dustpile.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

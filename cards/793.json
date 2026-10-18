@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: If you spent 5+ {{GOLD}} on spells this turn, add a {{CARD:793|1}} with {{STATS:-1|+1|+1}} base stats to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

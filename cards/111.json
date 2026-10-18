@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Before this attacks a monster, {{KW:SILENCE}} it. {{KW:MAGIC}}: If you have equal or less monsters than the opponent, gain {{KW:HASTE}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:QUEST}}: {{QUEST:80}}. {{KW:MAGIC}}: Kill all other ally monsters. Add a 2-{{COST}} {{CARD:712|1}} to your hand for each.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

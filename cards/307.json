@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_START}}: Gain +1 {{ATK}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

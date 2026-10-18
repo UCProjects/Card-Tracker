@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Remove negative effects from all other ally monsters and fully heal them.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -36,11 +36,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Summon 2 {{CARD:574|2}}. They attack the lowest-{{ATK}} enemy monsters. {{KW:PROGRAM}} (5): Set their stats to {{STATS:5|7}} first.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

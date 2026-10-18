@@ -53,11 +53,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:LOOP}} (1). {{KW:MAGIC}}: {{KW:PROGRAM}} (3): If a copy with no {{KW:LOOP}} is in your hand, {{KW:ERASE}} it to gain {{STATS:+3|+4}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

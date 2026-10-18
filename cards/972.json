@@ -20,7 +20,9 @@
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
-    "tribes": [],
+    "tribes": [
+      "PLANT"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": -1,
@@ -48,9 +50,11 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. {{KW:HASTE}}. {{KW:MAGIC}}: Enchant an ally slot with {{ENCHANT:SOIL|1}}.",
-        "prev": ""
+      "tribes": {
+        "now": [
+          "PLANT"
+        ],
+        "prev": []
       }
     }
   }

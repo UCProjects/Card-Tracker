@@ -37,11 +37,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (2). Deal 2 {{DMG}} to a monster. If it killed, summon a {{CARD:701|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 4 {{DMG}} to a monster. {{KW:BULLSEYE}}: Deal 3 {{DMG}} to its adjacent monsters and add a {{CARD:452|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

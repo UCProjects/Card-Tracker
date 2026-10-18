@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Look at the top 3 cards in the enemy deck. Give one +2 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

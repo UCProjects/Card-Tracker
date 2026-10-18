@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Give a monster with a Tribe in your hand {{STATS:+1|+1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

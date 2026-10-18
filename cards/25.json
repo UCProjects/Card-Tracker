@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After this kills a monster, add a {{CARD:7|1}} to your hand. {{KW:MAGIC}}: Deal 2 {{DMG}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

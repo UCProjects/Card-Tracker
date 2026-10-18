@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon a {{CARD:907|1}} from your deck or hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

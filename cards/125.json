@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Deal 1 {{DMG}} to everything other than this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

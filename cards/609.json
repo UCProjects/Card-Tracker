@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DELAY}}: If this is dead, add a {{CARD:351}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

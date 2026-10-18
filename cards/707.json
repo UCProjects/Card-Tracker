@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Fillst thy board with {{CARD:708|2}} and enemy board with {{CARD:709|2}}. {{KW:DELAY}}: Killeth all {{CARD:708|2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{CARD:969|1}} can be used on enemy monsters. {{KW:QUEST}}: Let's fill the {{QUEST:76}}, mew!",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

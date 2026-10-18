@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give a monster {{KW:ARMOR}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

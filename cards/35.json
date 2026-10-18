@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "MOLD"
+      "MOLD",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -43,9 +43,15 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give all enemy monsters +1 {{KW:MOLD_SPORE}} for every {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} you played this turn.",
-        "prev": ""
+      "tribes": {
+        "now": [
+          "MOLD",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "MOLD"
+        ]
       }
     }
   }

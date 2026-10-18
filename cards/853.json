@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Send 3 random different non-{{RARITY:DETERMINATION}} non-{{KW:GENERATED}} monsters from your dustpile to your hand with -3 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

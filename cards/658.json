@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Earn 1 {{GOLD}} for each {{KW:GENERATED}} ally monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

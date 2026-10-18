@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "DELTARUNE",
     "tribes": [
-      "AMALGAMATE",
-      "DOG"
+      "DOG",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -35,9 +35,15 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a card. If this has {{ATK}} buffs, draw another. If this has {{HP}} buffs, gain {{KW:DARKSPAWN}}.",
-        "prev": ""
+      "tribes": {
+        "now": [
+          "DOG",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "DOG"
+        ]
       }
     }
   }

@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at a {{RARITY:COMMON}}, {{RARITY:RARE}}, {{RARITY:EPIC}}, and {{RARITY:LEGENDARY}} monster. Choose one to add to your hand with -2 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

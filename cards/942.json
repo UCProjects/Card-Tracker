@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Enchant all empty and unenchanted enemy slots with {{ENCHANT:THE_FLAME|2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

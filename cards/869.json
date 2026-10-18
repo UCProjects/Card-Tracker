@@ -53,11 +53,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:WANTED}}. {{KW:HASTE}}. {{KW:BULLSEYE}}: Make the target's adjacent monsters {{KW:WANTED}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

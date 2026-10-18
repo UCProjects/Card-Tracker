@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SUPPORT}}: Give the attacker {{STATS:+2|+2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. {{KW:HASTE}}. After this survives {{DMG}}, gain +1 base {{ATK}}. At 6+ base {{ATK}}, {{CARD:178|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

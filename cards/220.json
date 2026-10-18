@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "At the start of its every 3rd turn, the opponent skips their next turn.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

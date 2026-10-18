@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}} to a monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

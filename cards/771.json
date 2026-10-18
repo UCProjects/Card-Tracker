@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL. Choose one to add to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

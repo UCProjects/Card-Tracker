@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Draw a {{RARITY:BASE}} card.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

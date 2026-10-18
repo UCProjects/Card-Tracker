@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: If you spent {{GOLD}} on {{RARITY:TOKEN}} cards (except {{CARD:825|1}}) this turn, add a {{CARD:825|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

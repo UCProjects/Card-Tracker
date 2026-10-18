@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Add every {{RARITY:BASE}} Deltarune monster to your hand (from cheapest to most expensive). {{KW:DELAY}}: {{KW:ERASE}} them from your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

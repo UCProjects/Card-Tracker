@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a monster in your hand {{STATS:+2|+2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

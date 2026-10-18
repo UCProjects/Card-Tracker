@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give the opponent {{ARTIFACT:46}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ERASE}} your dustpile. Summon the next {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}} and {{KW:TAUNT}} for every 7 monsters {{KW:ERASE|override=Erased}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

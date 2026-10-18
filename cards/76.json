@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give all ally monsters {{STATS:+1|+1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

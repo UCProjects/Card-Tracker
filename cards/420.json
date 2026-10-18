@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. After this takes {{DMG}} during the enemy turn, give a random other ally monster {{STATS:+1|+1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

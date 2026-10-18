@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. Before this attacks a monster, deal 2 {{DMG}} to its adjacent monsters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

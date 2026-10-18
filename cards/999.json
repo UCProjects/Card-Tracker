@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
-    "originalAttack": 2,
-    "originalHp": 3,
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 3,
+    "originalHp": 2,
     "dead": false,
     "boardPosition": -1,
     "id": 999,
@@ -19,7 +19,9 @@
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
-    "tribes": [],
+    "tribes": [
+      "MOLD"
+    ],
     "selectCards": [],
     "typeSkin": 0,
     "playedTurn": -1,
@@ -40,9 +42,31 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:MOLD_SPORE}} (0).",
-        "prev": ""
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 2,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "tribes": {
+        "now": [
+          "MOLD"
+        ],
+        "prev": []
       }
     }
   }

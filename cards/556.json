@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give all other ally monsters +2 {{ATK}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

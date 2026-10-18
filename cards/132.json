@@ -37,11 +37,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (1). Fully heal a monster. If it was already full, give it +2 {{HP}} instead.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DODGE}} (1). {{KW:MAGIC}}: Summon 2 {{CARD:879|2}} adjacent to this. They {{KW:CATCH}} the monsters in front of them. {{KW:TURN_START}}: Gain +1 {{KW:DODGE}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

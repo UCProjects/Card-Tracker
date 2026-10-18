@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: {{KW:PARALYZE}} its killer.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

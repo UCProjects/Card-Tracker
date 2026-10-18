@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: {{KW:PROGRAM}} (3): Summon 2 {{CARD:753|2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

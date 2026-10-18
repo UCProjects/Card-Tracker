@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DELAY}} and {{KW:BULLSEYE}}: Add a {{CARD:578|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: 6+ non-{{KW:GENERATED}} monsters costing 1 or less {{GOLD}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:622|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

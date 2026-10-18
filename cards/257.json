@@ -37,11 +37,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (1). Spend all your {{GOLD}} to deal {{DMG}} to an enemy monster equal to the {{GOLD}} spent. Earn {{GOLD}} equal to excess {{DMG}} dealt.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give a non-{{RARITY:DETERMINATION}} monster {{STATS:-3|-3|-3}} (min. 1 {{HP}}). {{KW:DELAY}}: If it's alive, add an exact copy of it to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

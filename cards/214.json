@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. Whenever this attacks and kills, deal excess {{DMG}} to the monsters adjacent to the target. {{KW:BULLSEYE}}: Summon a {{CARD:574|1}}. It attacks the opponent.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Choose an ally monster costing 3 or less. Turn it into a {{STATS:2|1}} {{CARD:684|1}} that {{KW:CATCH|override=Catches}} it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: If this didn't attack this turn, deal 4 {{DMG}} to a random enemy monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

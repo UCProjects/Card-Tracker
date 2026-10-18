@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Attain {{ARTIFACT:45}} to give it a counter for every different non-{{RARITY:TOKEN}} spell of another SOUL you cast this game.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

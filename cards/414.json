@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give all enemy monsters {{KR}}. {{KW:PROGRAM}} (3): Also give them {{STATS:-1|-1}} (min. 1 {{HP}}).",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Give its killer {{KR}} and {{STATS:-1|-1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

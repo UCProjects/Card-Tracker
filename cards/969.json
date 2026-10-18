@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Halve an ally monster's {{ATK}} and {{HP}}. Gain {{QUEST:76|override=Doki}} equal to the amount of stats reduced.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

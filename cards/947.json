@@ -6,9 +6,9 @@
     "name": "Wild Revolver",
     "image": "Wild_Revolver",
     "baseImage": "Wild_Revolver",
-    "cost": 4,
+    "cost": 3,
     "rarity": "TOKEN",
-    "originalCost": 4,
+    "originalCost": 3,
     "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -26,9 +26,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "Deal 6 {{DMG}} to a monster. For every excess {{DMG}}, give a random different monster in your hand {{STATS:-1|+1|+1}} and {{KW:WANTED}}.",
-        "prev": ""
+      "cost": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 4
       }
     }
   }

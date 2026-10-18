@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:ERASE}} all {{CARD:753|2}} in your dustpile. Add a {{CARD:753|1}} with {{KW:HASTE}} to your hand for each one {{KW:ERASE|override=Erased}}. Give them {{STATS:+1|+1}} for each one not added.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

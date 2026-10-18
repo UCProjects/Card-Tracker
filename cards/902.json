@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Make a monster {{KW:WANTED}}. If it’s already {{KW:WANTED}}, reveal 3 random monsters in the enemy hand and make them {{KW:WANTED}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

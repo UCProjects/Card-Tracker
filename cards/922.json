@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SHOCK}}: Deal 2 {{DMG}} to this to summon a {{CARD:924|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

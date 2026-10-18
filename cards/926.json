@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster and its adjacent monsters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

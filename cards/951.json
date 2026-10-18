@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Enchant this slot with {{ENCHANT:THE_FLAME|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

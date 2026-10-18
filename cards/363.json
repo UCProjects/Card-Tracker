@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Heal 3 {{HP}} to a random damaged ally monster and you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

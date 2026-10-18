@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SILENCE}} and kill a monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

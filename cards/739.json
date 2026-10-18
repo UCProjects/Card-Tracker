@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DISARMED}}. {{KW:TURN_END}}: Die. {{KW:DUST}}: Deal 2 {{DMG}} to all allies.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

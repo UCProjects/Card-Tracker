@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:SILENCE}} a non-{{RARITY:DETERMINATION}} monster. It attacks all of its enemy monsters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

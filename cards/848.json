@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DODGE}} (3). {{KW:MAGIC}}: Summon/Cast a random {{RARITY:TOKEN}} card.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

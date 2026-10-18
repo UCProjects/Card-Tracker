@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. After this attacks and survives, set all monsters' {{HP}} to this card's {{HP}} and {{KW:SILENCE}} this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

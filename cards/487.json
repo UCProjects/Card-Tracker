@@ -10,9 +10,10 @@
     "name": "Royal Justice",
     "image": "Royal_Justice",
     "baseImage": "Royal_Justice",
-    "cost": 2,
+    "cost": 1,
     "rarity": "TOKEN",
-    "originalCost": 2,
+    "originalCost": 1,
+    "target": "MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -24,16 +25,60 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
-    "description": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less."
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Bullseye",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Loop",
+        "statusBehavior": "STACKABLE",
+        "counter": 5,
+        "displayCounter": true
+      }
+    ],
+    "description": "{{KW:LOOP}} (5). Deal 1 {{DMG}} to a monster. {{KW:BULLSEYE}}: Earn 1 {{GOLD}}."
   },
   "diffs": {
-    "added": {},
+    "added": {
+      "target": "MONSTER"
+    },
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 2
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 2
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Bullseye",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Loop",
+            "statusBehavior": "STACKABLE",
+            "counter": 5,
+            "displayCounter": true
+          }
+        ],
+        "prev": []
+      },
       "description": {
-        "now": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less.",
-        "prev": ""
+        "now": "{{KW:LOOP}} (5). Deal 1 {{DMG}} to a monster. {{KW:BULLSEYE}}: Earn 1 {{GOLD}}.",
+        "prev": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less."
       }
     }
   }

@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: Gain +1 {{HP}} for each spell you've spent {{GOLD}} on this turn.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

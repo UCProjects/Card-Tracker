@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a monster +3 {{HP}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

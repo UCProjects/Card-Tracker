@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DODGE}} (1). {{KW:TURN_START}}: Die to deal 3 {{DMG}} to all enemies.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

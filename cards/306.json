@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CANDY}}. {{KW:MAGIC}}: Give a monster {{KW:CANDY}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:ERASE}} a monster. Start the {{ARTIFACT:25}} route.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

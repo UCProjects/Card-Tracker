@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TURN_END}}: Die. {{KW:DUST}}: Heal 1 {{HP}} to you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

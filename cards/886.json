@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (4). Choose a monster. Give it {{KW:TAUNT}} and make it {{KW:WANTED}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

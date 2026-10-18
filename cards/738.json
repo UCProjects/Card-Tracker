@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Kill an enemy monster to summon a {{CARD:739|1}} for the opponent.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

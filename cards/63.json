@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Heal 30 {{HP}} to you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Add an exact copy of each ally {{TRIBE:SNAIL|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

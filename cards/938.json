@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Can only take 1 {{DMG}} at a time. {{KW:DUST}}: Summon a {{CARD:48|1}} for whoever's turn it is.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

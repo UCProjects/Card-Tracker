@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: If you have 3+ 6-{{COST}} monsters in your hand or dustpile, heal 5 {{HP}} to you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

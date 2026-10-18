@@ -41,11 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. {{KW:DELAY}}: Deal 4 {{DMG}} to a random enemy monster. Excess {{DMG}} is dealt to the opponent.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

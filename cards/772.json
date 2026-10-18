@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 2 3-{{COST}} monsters (max. {{RARITY:EPIC}}) and add one to your hand with 0 {{COST}}. {{KW:DELAY}}: Add a {{CARD:772|1}} to your hand if you have none.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

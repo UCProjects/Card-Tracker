@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DODGE}} (1). {{KW:MAGIC}}: {{KW:SWITCH}}: Reveal a random spell costing 1+ {{GOLD}} in {{SWITCH_LEFT:1|your}} or {{SWITCH_RIGHT:1|the enemy}} hand. Turn it into a {{CARD:351|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

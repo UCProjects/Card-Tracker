@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Gain an {{KW:UPGRADED_SOULS|override=upgraded version}} of the enemy SOUL. Add an {{CARD:771|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

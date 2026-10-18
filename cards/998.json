@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Your opponent skips their next turn. Set {{ARTIFACT:81}} and {{ARTIFACT:82}} to 0 counters. Reset your {{QUEST:85}} quest.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

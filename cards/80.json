@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose a card in your hand. Turn the other cards in your hand into {{CARD:577|2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

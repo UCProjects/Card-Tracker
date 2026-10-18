@@ -26,11 +26,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give all ally {{TRIBE:PLANT|2}} {{KW:TAUNT}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

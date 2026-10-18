@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give an enemy monster {{KR}} and {{STATS:-1|-1}}. {{KW:DELAY}}: If it's dead, summon 3 {{CARD:115|3}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

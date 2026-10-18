@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Copy the {{HP}} of the attacker.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

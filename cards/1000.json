@@ -41,11 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. {{KW:MAGIC}}: For each unique non-{{KW:GENERATED}} {{TRIBE:ROYAL_GUARD|1}} in your dustpile, summon a {{CARD:574|1}} that attacks the lowest {{HP}} enemy.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

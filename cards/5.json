@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give adjacent monsters +1 {{HP}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

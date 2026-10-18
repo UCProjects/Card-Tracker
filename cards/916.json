@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ERASE}} the copy. Deal 3 {{DMG}} to a random enemy monster. Repeat for every {{KW:LOOP}} this has.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

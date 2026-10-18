@@ -25,11 +25,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "If it's the first time you cast this, {{KW:SILENCE}} and kill a monster. Fill your hand with {{CARD:712|2}} with its {{ATK}} and {{HP}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

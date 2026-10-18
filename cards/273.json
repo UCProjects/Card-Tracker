@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: You've spent {{GOLD}} on 4 different spells this game. {{KW:MAGIC}}: Look at a random {{RARITY:EPIC}} spell of each SOUL. Add one to your hand with -2 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

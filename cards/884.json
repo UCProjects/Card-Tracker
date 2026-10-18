@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Set an ally monster’s stats to {{STATS:3|3}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

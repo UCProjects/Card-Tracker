@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After this attacks and survives, heal {{HP}} to this equal to the {{DMG}} dealt.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

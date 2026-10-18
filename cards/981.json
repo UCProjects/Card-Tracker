@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:NEED}}: Your monsters attacked 3+ times this turn. {{KW:MAGIC}}: Give all ally monsters +1 {{ATK}} and {{KW:HASTE}}. They can attack again.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

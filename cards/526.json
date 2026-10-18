@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. After this takes {{DMG}}, deal 1 {{DMG}} to the opponent.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

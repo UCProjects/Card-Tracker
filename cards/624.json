@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each other card with a base {{COST}} of 1+ {{GOLD}} you played this turn.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

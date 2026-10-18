@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose a {{TRIBE:DANCE|1}} to cast.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

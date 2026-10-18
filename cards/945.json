@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Halve the stats of the non-{{RARITY:DETERMINATION}} monster in front of this and summon an exact copy of it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

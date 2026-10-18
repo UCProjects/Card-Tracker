@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose an non-{{RARITY:DETERMINATION}} ally monster to summon a {{CARD:684|1}} that {{KW:CATCH|override=Catches}} it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

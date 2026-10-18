@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Summon a copy of all enemy monsters that died this turn for you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

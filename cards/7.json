@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If it targeted an ally, gain +1 {{ATK}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

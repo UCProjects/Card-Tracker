@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: If you have none, open a {{ARTIFACT:34}} and give it a counter for every different non-{{RARITY:TOKEN}} card you played this game.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

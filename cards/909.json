@@ -53,11 +53,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Gain {{STATS:+2|+2}} and lose this {{KW:SUPPORT}}. {{KW:SHOCK}}: Regain this {{KW:SUPPORT}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give all ally monsters +1 {{HP}} and draw a card.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

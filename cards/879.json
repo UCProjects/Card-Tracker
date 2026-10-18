@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. Non-{{RARITY:TOKEN}} spells in the enemy hand have +1 {{COST}}. {{KW:DUST}}: Release the caught monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

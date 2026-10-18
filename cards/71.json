@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Give a monster {{STATS:+2|+2}} and {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

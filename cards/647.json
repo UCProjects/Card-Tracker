@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn Into A {{CARD:648|1}} With The Same Base Stats As This.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

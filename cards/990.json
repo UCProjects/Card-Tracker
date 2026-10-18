@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give a monster {{STATS:+1|+3}} and {{KW:PARALYZE}} it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

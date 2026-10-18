@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Kill a non-{{RARITY:DETERMINATION}} enemy monster. Add a 1-{{COST}} copy of it to the top of your deck.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

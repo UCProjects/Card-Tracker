@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the lowest {{HP}} enemy monster 4 times. For each enemy killed, summon a base {{STATS:2|3}} {{CARD:574|1}} with {{KW:TAUNT}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

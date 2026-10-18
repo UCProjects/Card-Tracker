@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:BULLSEYE}}: Fully heal this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

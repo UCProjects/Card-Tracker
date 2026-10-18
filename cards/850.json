@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Add a {{CARD:367|1}} to the enemy deck.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

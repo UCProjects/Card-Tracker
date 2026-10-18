@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon 3 {{CARD:617|3}} with {{KW:HASTE}}. Give them {{STATS:+1|+1}} for each other card you spent {{GOLD}} on this turn (max. {{STATS:+3|+3}}).",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

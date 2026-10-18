@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: {{KW:ERASE}} this and draw a card. Deal 6 {{DMG}} randomly split among all ally monsters. Take any {{DMG}} not dealt.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

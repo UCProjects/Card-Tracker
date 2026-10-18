@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Choose a non-{{RARITY:DETERMINATION}} monster in the enemy hand. {{KW:DELAY}}: Summon a {{IMAGE:Grand_Prize|Grand Prize|144|22|891}} that {{KW:CATCH|override=Catches}} it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: If this died during the enemy turn, give its killer {{STATS:-1|-1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

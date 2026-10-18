@@ -34,11 +34,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each ally {{TRIBE:PLANT|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

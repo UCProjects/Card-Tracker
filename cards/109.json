@@ -34,11 +34,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give an ally {{TRIBE:AMALGAMATE|1}} (except {{CARD:109|1}}) {{STATS:+1|+1}} and add a copy of it to your hand. {{KW:SYNERGY}}: Give both {{STATS:+1|+1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

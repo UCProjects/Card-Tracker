@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon 3 random non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

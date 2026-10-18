@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Repeat all {{KW:SYNERGY}} effects you triggered this game (max 2 per unique effect).",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

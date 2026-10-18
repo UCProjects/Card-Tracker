@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Give all allies +2 {{HP}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

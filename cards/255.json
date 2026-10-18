@@ -10,9 +10,9 @@
     "name": "Overgrowth",
     "image": "Overgrowth",
     "baseImage": "Overgrowth",
-    "cost": 3,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,15 +23,23 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card."
+    "description": "Give all ally {{KW:GENERATED}} monsters {{STATS:+1|+1}} wherever they are."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      },
       "description": {
-        "now": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card.",
-        "prev": ""
+        "now": "Give all ally {{KW:GENERATED}} monsters {{STATS:+1|+1}} wherever they are.",
+        "prev": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card."
       }
     }
   }

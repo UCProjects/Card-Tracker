@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Cast {{CARD:995|1}} on the highest {{HP}} character.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

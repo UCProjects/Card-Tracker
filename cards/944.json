@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 10 almost random cards. Choose one to add to your hand with -1 {{COST}}. Give an extra -1 {{COST}} for every 10 {{HP}} you are missing.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

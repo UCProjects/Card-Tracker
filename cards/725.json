@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at all {{RARITY:LEGENDARY}} monsters (except {{CARD:472|1}}) and choose one. {{KW:DELAY}}: Add it to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

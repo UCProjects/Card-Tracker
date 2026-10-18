@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:NEED}}: No non-{{KW:GENERATED}} {{RARITY:LEGENDARY}} monsters in your deck or dustpile. {{KW:MAGIC}}: Add 2 {{CARD:725|2}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

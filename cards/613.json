@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at 7 random non-{{RARITY:DETERMINATION}} 7-{{COST}} monsters (except {{CARD:545|1}}). Choose one to add to your hand with -7 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

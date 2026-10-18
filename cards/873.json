@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Add 3 random non-{{RARITY:DETERMINATION}} cards costing 5+ {{GOLD}} to your hand and give them -3 {{COST}}. {{KW:DELAY}}: {{KW:ERASE}} them from your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

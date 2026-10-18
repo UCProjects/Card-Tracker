@@ -41,11 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. Immune to {{DMG}} if there's a {{CARD:54|1}} and this doesn't have {{KW:TAUNT}}. {{KW:MAGIC}}: Summon a {{CARD:54|1}} in EVERY empty board space.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

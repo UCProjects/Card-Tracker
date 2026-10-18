@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:MAGIC}}: Turn all other monsters into random other monsters of the same {{COST}} if possible.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

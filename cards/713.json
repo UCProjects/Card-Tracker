@@ -24,11 +24,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Add 4 0-{{COST}} {{CARD:598|2}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:ARMOR}}. {{KW:BULLSEYE}} and {{KW:DUST}}: Add a {{CARD:866|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

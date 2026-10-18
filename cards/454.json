@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Choose a card in your hand to {{KW:ERASE}}. Draw 3 cards.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

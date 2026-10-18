@@ -10,9 +10,9 @@
     "name": "Overheat",
     "image": "Overheat",
     "baseImage": "Overheat",
-    "cost": 5,
+    "cost": 4,
     "rarity": "EPIC",
-    "originalCost": 5,
+    "originalCost": 4,
     "target": "ALLY_MONSTER",
     "shiny": false,
     "quantity": 1,
@@ -30,9 +30,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "Kill an ally monster. Deal its {{ATK}} as {{DMG}} to all enemy monsters.",
-        "prev": ""
+      "cost": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 4,
+        "prev": 5
       }
     }
   }

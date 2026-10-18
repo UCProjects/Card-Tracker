@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at the top 2 cards in your deck and choose one to draw. Send the other to the bottom of your deck and give both -1 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

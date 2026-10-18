@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal 3 {{DMG}} to a monster. Draw a monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

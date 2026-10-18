@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Both players enter a {{ARTIFACT:69}}. Yours starts with 6 less counters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

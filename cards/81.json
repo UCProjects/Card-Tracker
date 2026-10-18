@@ -10,9 +10,9 @@
     "name": "Fortune",
     "image": "Fortune",
     "baseImage": "Fortune",
-    "cost": 0,
+    "cost": 1,
     "rarity": "RARE",
-    "originalCost": 0,
+    "originalCost": 1,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -23,15 +23,23 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "Both players earn 1 {{GOLD}}."
+    "description": "Earn 2 {{GOLD}}. The opponent earns 1 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "cost": {
+        "now": 1,
+        "prev": 0
+      },
+      "originalCost": {
+        "now": 1,
+        "prev": 0
+      },
       "description": {
-        "now": "Both players earn 1 {{GOLD}}.",
-        "prev": ""
+        "now": "Earn 2 {{GOLD}}. The opponent earns 1 {{GOLD}}.",
+        "prev": "Both players earn 1 {{GOLD}}."
       }
     }
   }

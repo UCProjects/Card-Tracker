@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Add 3 {{CARD:552|3}} to your hand. {{KW:DELAY}}: {{KW:ERASE}} all {{CARD:552|2}} in your hand to heal 3 {{HP}} to you for each.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

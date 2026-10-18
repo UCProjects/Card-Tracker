@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Release a copy of the caught monster to both hands. Give yours -1 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

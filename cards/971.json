@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:BULLSEYE}}: Kill all other monsters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

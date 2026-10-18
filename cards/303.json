@@ -41,11 +41,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. This has +1 {{ATK}} for each other ally {{TRIBE:PLANT|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

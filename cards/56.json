@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Can only take up to 3 {{DMG}} at a time.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

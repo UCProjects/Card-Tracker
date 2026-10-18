@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give an ally monster +3 {{ATK}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

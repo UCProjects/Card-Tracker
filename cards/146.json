@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "The opponent takes 2 less {{DMG}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

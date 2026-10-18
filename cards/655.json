@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give a random monster in your hand {{STATS:+1|+1}} for each unique Tribe in your dustpile.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

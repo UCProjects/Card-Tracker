@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DELAY}} and {{KW:TURN_END}}: Give a random monster in your hand {{STATS:+1|+1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: If this card has {{ATK}} buffs, gain {{KW:TAUNT}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

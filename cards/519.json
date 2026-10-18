@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After an ally {{TRIBE:PLANT|1}} dies, gain +1 {{ATK}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

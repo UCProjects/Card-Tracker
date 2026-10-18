@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After an enemy monster dies during your turn, set a random enemy monster's {{HP}} to 1. {{KW:SHOCK}}: Add a 0-{{COST}} {{CARD:598|1}} to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

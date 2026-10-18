@@ -13,9 +13,9 @@
     "name": "Lightning Bolt",
     "image": "Lightning_Bolt",
     "baseImage": "Lightning_Bolt",
-    "cost": 1,
+    "cost": 2,
     "rarity": "TOKEN",
-    "originalCost": 1,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -40,9 +40,13 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:DUST}}: If this died during your turn, deal 2 {{DMG}} to the lowest {{HP}} enemy monster.",
-        "prev": ""
+      "cost": {
+        "now": 2,
+        "prev": 1
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 1
       }
     }
   }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 6,
-    "maxHp": 6,
-    "originalAttack": 5,
-    "originalHp": 6,
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
     "dead": false,
     "boardPosition": -1,
     "id": 290,
@@ -13,9 +13,9 @@
     "name": "Snowy",
     "image": "Snowy",
     "baseImage": "Snowy",
-    "cost": 6,
+    "cost": 2,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 2,
     "target": "ALL",
     "shiny": false,
     "quantity": 1,
@@ -27,15 +27,43 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "{{KW:MAGIC}}: Deal 2 {{DMG}}. If the target dies, add a random spell of the same {{COST}} to your hand."
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If the target dies, add a random spell of the same {{COST}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
+      "attack": {
+        "now": 2,
+        "prev": 5
+      },
+      "hp": {
+        "now": 2,
+        "prev": 6
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 6
+      },
+      "originalAttack": {
+        "now": 2,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 6
+      },
+      "cost": {
+        "now": 2,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 6
+      },
       "description": {
-        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}}. If the target dies, add a random spell of the same {{COST}} to your hand.",
-        "prev": ""
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}}. If the target dies, add a random spell of the same {{COST}} to your hand.",
+        "prev": "{{KW:MAGIC}}: Deal 2 {{DMG}}. If the target dies, add a random spell of the same {{COST}} to your hand."
       }
     }
   }

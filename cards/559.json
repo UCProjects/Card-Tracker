@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Monsters in your hand have +1 {{COST}}. After you play a monster, give it {{STATS:+1|+2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

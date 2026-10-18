@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all other ally {{TRIBE:FROGGIT|2}} {{SWITCH_LEFT:1|{{KW:TAUNT}}}} or {{SWITCH_RIGHT:1|{{KW:ARMOR}}}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

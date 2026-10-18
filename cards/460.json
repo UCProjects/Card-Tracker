@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Turn a non-{{RARITY:DETERMINATION}} ally monster into a {{CARD:373|1}} with its stats as base stats.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "In your hand, this has +3 {{COST}} for each {{CARD:920|1}} you played this game. {{KW:DODGE}} (1). {{KW:MAGIC}}: Attack all enemy monsters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

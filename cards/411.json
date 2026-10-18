@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{KW:HASTE}}}} or {{SWITCH_RIGHT:1|Give the top 3 monsters in your deck {{STATS:+1|+1}}}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

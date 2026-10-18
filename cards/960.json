@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. This has -1 {{ATK}} for each other ally monster. {{KW:BULLSEYE}}: This gains +1 {{HP}} and {{KW:HASTE}} and can attack again.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

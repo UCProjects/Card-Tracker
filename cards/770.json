@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Return a non-{{RARITY:DETERMINATION}} ally monster to your hand (except {{CARD:770|1}}) with -8 {{COST}}. {{KW:DELAY}}: {{KW:ERASE}} it from your hand or deck.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

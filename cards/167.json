@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After this takes {{DMG}}, give a random card in your hand -1 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If you have a non-{{RARITY:TOKEN}} spell from another SOUL in your hand, deal 3 {{DMG}} to a monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

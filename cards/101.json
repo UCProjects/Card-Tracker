@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Deal an ally monster's {{HP}} as {{DMG}} to the monster in front of it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

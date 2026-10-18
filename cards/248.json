@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:TURN_END}}: Spend all your {{GOLD}}. Gain {{STATS:+1|+1}} for each {{GOLD}} spent.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

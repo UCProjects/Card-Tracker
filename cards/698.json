@@ -28,11 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Equip the {{ARTIFACT:44}} artifact and give it 4 counters. Deal 1 {{DMG}} to all monsters.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

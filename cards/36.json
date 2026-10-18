@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "AMALGAMATE",
-      "PLANT"
+      "PLANT",
+      "AMALGAMATE"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -43,9 +43,15 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has any {{ATK}} buffs.",
-        "prev": ""
+      "tribes": {
+        "now": [
+          "PLANT",
+          "AMALGAMATE"
+        ],
+        "prev": [
+          "AMALGAMATE",
+          "PLANT"
+        ]
       }
     }
   }

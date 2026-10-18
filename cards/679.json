@@ -49,11 +49,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:MAGIC}}: {{KW:SWITCH}}: Give a {{TRIBE:PLUG|1}} in your hand {{SWITCH_LEFT:1|{{KW:HASTE}}}} or {{SWITCH_RIGHT:1|{{KW:TAUNT}}}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

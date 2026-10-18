@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Both players draw 2 cards.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

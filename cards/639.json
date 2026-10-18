@@ -40,11 +40,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SILENCE}} and kill an ally monster to gain +3 {{HP}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

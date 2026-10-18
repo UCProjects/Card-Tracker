@@ -46,11 +46,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:BULLSEYE}}: Summon a copy of this with +2 {{ATK}} (keeps stat buffs). {{KW:TURN_END}}: Lose this {{KW:BULLSEYE}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

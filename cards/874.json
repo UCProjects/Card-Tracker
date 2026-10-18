@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Fill your hand with random {{TRIBE:PACK|2}} {{KW:PACK_ODDS|override=(The better, the rarer!)}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

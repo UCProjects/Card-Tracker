@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 5,
-    "maxHp": 5,
-    "originalAttack": 5,
-    "originalHp": 5,
+    "attack": 4,
+    "hp": 4,
+    "maxHp": 4,
+    "originalAttack": 4,
+    "originalHp": 4,
     "dead": false,
     "boardPosition": -1,
     "id": 794,
@@ -13,9 +13,9 @@
     "name": "GIGA Queen",
     "image": "GIGA_Queen",
     "baseImage": "GIGA_Queen",
-    "cost": 8,
+    "cost": 7,
     "rarity": "DETERMINATION",
-    "originalCost": 8,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "DELTARUNE",
@@ -40,9 +40,33 @@
     "added": {},
     "removed": {},
     "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look At All {{TRIBE:GIGA_ATTACK|2}} You Haven't Cast And Add One To Your Hand. Begin Your {{ARTIFACT:63}}!",
-        "prev": ""
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "hp": {
+        "now": 4,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 4,
+        "prev": 5
+      },
+      "cost": {
+        "now": 7,
+        "prev": 8
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 8
       }
     }
   }

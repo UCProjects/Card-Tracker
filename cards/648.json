@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Give all other ally monsters {{KW:TAUNT}}. {{KW:SUPPORT}}: Turn into a {{CARD:647|1}} with the same base stats as this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

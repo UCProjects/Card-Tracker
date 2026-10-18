@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give all monsters in your hand and deck with equal or less {{COST}} than this {{STATS:+1|+1|+1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

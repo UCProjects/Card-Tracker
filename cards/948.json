@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DELAY}}: Add a {{CARD:947|1}} to the top 6 cards of your deck. If a monster died with exactly 0 {{HP}} remaining this turn, add it to your hand instead.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

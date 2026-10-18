@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal {{DMG:2}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

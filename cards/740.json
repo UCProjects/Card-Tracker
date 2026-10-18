@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After you draw a card, turn it into a random Undertale {{RARITY:LEGENDARY}} with -2 {{COST}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

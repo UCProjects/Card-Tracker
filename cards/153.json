@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "After you summon a monster while you have 5 or less cards in your hand, draw a card.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -29,11 +29,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Summon a base {{STATS:3|3}} copy of a non-{{RARITY:DETERMINATION}} monster. Give it {{KW:HASTE}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

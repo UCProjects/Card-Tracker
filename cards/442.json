@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon an exact copy of this.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

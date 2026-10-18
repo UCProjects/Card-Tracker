@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon a {{STATS:1|2}} {{CARD:959|1}} for the opponent. {{KW:DELAY}}: If it's dead, summon a {{CARD:959|1}} for you. Otherwise, kill it.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

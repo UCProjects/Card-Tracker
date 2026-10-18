@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Give -4 {{COST}} to the most expensive card in both players' hands.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_END}}: Turn the cheapest non-{{KW:GENERATED}} card in your hand into a {{CARD:631|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "The first time this attacks a monster each turn, this can attack a monster again. {{KW:SYNERGY}}: Gain +2 {{ATK}} and {{KW:HASTE}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

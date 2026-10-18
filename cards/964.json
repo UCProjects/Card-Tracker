@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}}. If it kills, cast {{CARD:458|1}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

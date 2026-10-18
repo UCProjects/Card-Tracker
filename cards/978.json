@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. Before this attacks a monster, halve its stats. If it's non-{{RARITY:DETERMINATION}}, add an exact copy of it to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

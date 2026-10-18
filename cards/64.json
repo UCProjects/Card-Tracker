@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: If either player has 10+ {{GOLD}} (after spending {{GOLD}} on this), set both players' {{GOLD}} to 0.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

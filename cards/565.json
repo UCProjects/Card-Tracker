@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Give 2 random monsters in your hand +1 {{ATK}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:CATCH}} a non-{{RARITY:TOKEN}} ally monster costing 2+ {{GOLD}} to gain {{KW:HASTE}}, {{KW:CANDY}}, and {{STATS:+1|+1}}. {{KW:DUST}}: Release it to your hand.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

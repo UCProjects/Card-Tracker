@@ -39,11 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DELAY}}: Cast {{CARD:371|1}} on the lowest {{HP}} enemy monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

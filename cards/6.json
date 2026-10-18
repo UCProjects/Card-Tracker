@@ -33,11 +33,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_START}}: Heal 5 {{HP}} to you.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

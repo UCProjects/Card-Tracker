@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:DUST}}: Cast {{CARD:995|1}} on the monster in front of this. Targets the opponent if there is no monster.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

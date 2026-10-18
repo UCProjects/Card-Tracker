@@ -32,11 +32,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Then {{KW:PARALYZE}} it, give it {{KR}}, and make it {{KW:WANTED}}.",
-        "prev": ""
-      }
-    }
+    "changed": {}
   }
 }

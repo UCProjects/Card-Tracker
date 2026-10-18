@@ -25,7 +25,7 @@ async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${o
     // console.log(now);
     if (typeof cards === 'string') return JSON.parse(cards);
     if (Array.isArray(cards)) return cards;
-  }).then((cards) => language.then(JSON.parse).then((lang) => ({cards, lang})).catch((e) => {
+  }).then((cards) => language.then(parseJson).then((lang) => ({cards, lang})).catch((e) => {
     console.error(e);
     return {cards};
   })).then(({
@@ -85,6 +85,10 @@ async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${o
       return writeFile('latestDiffs.json', JSON.stringify(diffs, replacer, 2));
     });
   });
+}
+
+function parseJson(data) {
+  return typeof data === 'object' && !Buffer.isBuffer(data) ? data : JSON.parse(data);
 }
 
 async function fetchCards(from) {

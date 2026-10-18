@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn Into A {{CARD:648|1}} With The Same Base Stats As This."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Turn Into A {{CARD:648|1}} With The Same Base Stats As This.",
+        "prev": ""
+      }
+    }
   }
 }

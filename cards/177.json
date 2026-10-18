@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give an enemy monster {{STATS:-2|-2}}. {{KW:SYNERGY}}: Gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an enemy monster {{STATS:-2|-2}}. {{KW:SYNERGY}}: Gain {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

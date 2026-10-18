@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}} and {{KW:DUST}}: Add the {{RARITY:BASE}} spell of your SOUL to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:DUST}}: Add the {{RARITY:BASE}} spell of your SOUL to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you spend {{GOLD}} on spells, gain +1 {{ATK}}. {{KW:MAGIC}}: If played on the left, {{SWITCH_LEFT:1|swap its stats}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you spend {{GOLD}} on spells, gain +1 {{ATK}}. {{KW:MAGIC}}: If played on the left, {{SWITCH_LEFT:1|swap its stats}}.",
+        "prev": ""
+      }
+    }
   }
 }

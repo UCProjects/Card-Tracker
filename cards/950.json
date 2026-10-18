@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KR}}. {{KW:MAGIC}}: Enchant an ally slot with {{ENCHANT:THE_CURE|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KR}}. {{KW:MAGIC}}: Enchant an ally slot with {{ENCHANT:THE_CURE|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. After this attacks and kills a monster, heal 4 {{HP}} to you and summon a {{CARD:359|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this attacks and kills a monster, heal 4 {{HP}} to you and summon a {{CARD:359|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

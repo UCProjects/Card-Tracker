@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Draw up to 2 cards and give all cards in your hand -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Draw up to 2 cards and give all cards in your hand -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Cast 4 {{CARD:598|2}} on random alive enemy monsters. If you spent {{GOLD}} on spells last turn, add a {{CARD:713|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Cast 4 {{CARD:598|2}} on random alive enemy monsters. If you spent {{GOLD}} on spells last turn, add a {{CARD:713|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Turn a non-{{RARITY:DETERMINATION}} ally monster into a {{CARD:373|1}} with its stats as base stats."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Turn a non-{{RARITY:DETERMINATION}} ally monster into a {{CARD:373|1}} with its stats as base stats.",
+        "prev": ""
+      }
+    }
   }
 }

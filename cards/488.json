@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at the enemy hand. Choose a card to give it +1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at the enemy hand. Choose a card to give it +1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

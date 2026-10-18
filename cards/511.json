@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Heal 4 {{HP}}. If this targeted a monster also give it {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Heal 4 {{HP}}. If this targeted a monster also give it {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

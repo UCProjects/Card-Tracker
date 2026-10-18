@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: If this has {{ATK}} buffs, {{KW:PARALYZE}} the monster in front of this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: If this has {{ATK}} buffs, {{KW:PARALYZE}} the monster in front of this.",
+        "prev": ""
+      }
+    }
   }
 }

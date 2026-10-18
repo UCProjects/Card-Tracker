@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it. Give the ally monster {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it. Give the ally monster {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

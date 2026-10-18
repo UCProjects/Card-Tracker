@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give a random {{TRIBE:SNAIL}} in your deck -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a random {{TRIBE:SNAIL}} in your deck -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

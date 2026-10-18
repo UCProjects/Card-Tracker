@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "DEAL 99 {{DMG}} TO ALL ALLIES 99 TIMES!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "DEAL 99 {{DMG}} TO ALL ALLIES 99 TIMES!",
+        "prev": ""
+      }
+    }
   }
 }

@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose a {{TRIBE:DANCE|1}} to cast."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose a {{TRIBE:DANCE|1}} to cast.",
+        "prev": ""
+      }
+    }
   }
 }

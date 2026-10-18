@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at 3 non-{{KW:GENERATED}} monsters in your dustpile and choose one. {{KW:ERASE}} it and add a copy of it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 3 non-{{KW:GENERATED}} monsters in your dustpile and choose one. {{KW:ERASE}} it and add a copy of it to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: Your hand has no cards of the same rarity. {{KW:MAGIC}}: Give all cards in your hand -3 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your hand has no cards of the same rarity. {{KW:MAGIC}}: Give all cards in your hand -3 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

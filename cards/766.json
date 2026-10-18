@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: 6+ unique rarities in your dustpile. {{KW:MAGIC}}: {{KW:ERASE}} them and add 6 random monsters to your hand with {{STATS:-2|+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: 6+ unique rarities in your dustpile. {{KW:MAGIC}}: {{KW:ERASE}} them and add 6 random monsters to your hand with {{STATS:-2|+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

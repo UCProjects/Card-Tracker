@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you have an ally {{CARD:46|1}}, gain {{STATS:+2|+3}}, {{KW:TAUNT}}, and +1 {{KW:DODGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have an ally {{CARD:46|1}}, gain {{STATS:+2|+3}}, {{KW:TAUNT}}, and +1 {{KW:DODGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

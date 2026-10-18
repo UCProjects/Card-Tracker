@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Draw 2 cards costing 1 or less {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Draw 2 cards costing 1 or less {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

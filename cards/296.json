@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. If you spent {{GOLD}} on spells last turn, summon another."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a {{CARD:373|1}}. If you spent {{GOLD}} on spells last turn, summon another.",
+        "prev": ""
+      }
+    }
   }
 }

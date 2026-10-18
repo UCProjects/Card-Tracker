@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Both players earn 1 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Both players earn 1 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a {{KW:HASTE}} monster in your hand +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Give a {{KW:HASTE}} monster in your hand +1 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

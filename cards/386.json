@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each other ally {{CARD:386|1}} you played this game."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each other ally {{CARD:386|1}} you played this game.",
+        "prev": ""
+      }
+    }
   }
 }

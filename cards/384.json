@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add a copy of an ally {{KW:TURBO}} monster to the top of your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a copy of an ally {{KW:TURBO}} monster to the top of your deck.",
+        "prev": ""
+      }
+    }
   }
 }

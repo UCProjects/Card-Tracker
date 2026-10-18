@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at all non-{{RARITY:DETERMINATION}} monsters in the enemy hand. Choose one to add an exact copy of it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at all non-{{RARITY:DETERMINATION}} monsters in the enemy hand. Choose one to add an exact copy of it to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

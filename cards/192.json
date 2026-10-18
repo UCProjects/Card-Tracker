@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add 3 {{CARD:367|3}} to the enemy deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add 3 {{CARD:367|3}} to the enemy deck.",
+        "prev": ""
+      }
+    }
   }
 }

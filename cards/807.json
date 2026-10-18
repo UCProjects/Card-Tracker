@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:MAGIC}}, {{KW:DUST}}, {{KW:SHOCK}}, and {{KW:TURN_START}}: Add a {{CARD:753|1}} with {{KW:HASTE}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}, {{KW:DUST}}, {{KW:SHOCK}}, and {{KW:TURN_START}}: Add a {{CARD:753|1}} with {{KW:HASTE}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

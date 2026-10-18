@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you have less than 15 {{HP}}, gain +1 {{ATK}} and {{KW:HASTE}}. If you have less than 10 {{HP}}, gain {{KW:CANDY}} and {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have less than 15 {{HP}}, gain +1 {{ATK}} and {{KW:HASTE}}. If you have less than 10 {{HP}}, gain {{KW:CANDY}} and {{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

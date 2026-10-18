@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Both players enter a {{ARTIFACT:69}}. Yours starts with 6 less counters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Both players enter a {{ARTIFACT:69}}. Yours starts with 6 less counters.",
+        "prev": ""
+      }
+    }
   }
 }

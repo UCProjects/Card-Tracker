@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Instead of dying, {{KW:ERASE}} 5 monsters in your dustpile to return with {{STATS:-1|-2}} base stats. {{KW:MAGIC}}: Gain {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Instead of dying, {{KW:ERASE}} 5 monsters in your dustpile to return with {{STATS:-1|-2}} base stats. {{KW:MAGIC}}: Gain {{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

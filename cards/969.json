@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Halve an ally monster's {{ATK}} and {{HP}}. Gain {{QUEST:76|override=Doki}} equal to the amount of stats reduced."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Halve an ally monster's {{ATK}} and {{HP}}. Gain {{QUEST:76|override=Doki}} equal to the amount of stats reduced.",
+        "prev": ""
+      }
+    }
   }
 }

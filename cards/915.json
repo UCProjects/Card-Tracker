@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Add a {{CARD:916|1}} to your hand. If you already have a {{CARD:916|1}}, give it +1 {{KW:LOOP}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add a {{CARD:916|1}} to your hand. If you already have a {{CARD:916|1}}, give it +1 {{KW:LOOP}} instead.",
+        "prev": ""
+      }
+    }
   }
 }

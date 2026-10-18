@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand {{STATS:+3|+3}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand {{STATS:+3|+3}}.",
+        "prev": ""
+      }
+    }
   }
 }

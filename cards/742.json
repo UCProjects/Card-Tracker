@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw a {{TRIBE:ROYAL_GUARD|1}} with {{KW:DUST}}. Trigger it. If this is your only monster, gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:ROYAL_GUARD|1}} with {{KW:DUST}}. Trigger it. If this is your only monster, gain {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

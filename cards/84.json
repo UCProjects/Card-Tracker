@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Send an enemy monster to the top of the enemy deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Send an enemy monster to the top of the enemy deck.",
+        "prev": ""
+      }
+    }
   }
 }

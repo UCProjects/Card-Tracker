@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill an enemy monster. Deal its {{COST}} as {{DMG}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an enemy monster. Deal its {{COST}} as {{DMG}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

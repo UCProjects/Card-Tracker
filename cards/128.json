@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Summon 2 {{CARD:2|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If both are dead, add a 0-{{COST}} {{CARD:2|1}} with {{KW:HASTE}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon 2 {{CARD:2|2}} with {{KW:HASTE}}. {{KW:DELAY}}: If both are dead, add a 0-{{COST}} {{CARD:2|1}} with {{KW:HASTE}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

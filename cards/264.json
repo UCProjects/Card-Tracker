@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Choose a non-{{RARITY:DETERMINATION}} monster in your hand. Summon a base {{STATS:3|3}} copy of it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose a non-{{RARITY:DETERMINATION}} monster in your hand. Summon a base {{STATS:3|3}} copy of it.",
+        "prev": ""
+      }
+    }
   }
 }

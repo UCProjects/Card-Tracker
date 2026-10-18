@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add 3 copies of random non-{{RARITY:DETERMINATION}} monsters costing 1 or less {{GOLD}} from your dustpile to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add 3 copies of random non-{{RARITY:DETERMINATION}} monsters costing 1 or less {{GOLD}} from your dustpile to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

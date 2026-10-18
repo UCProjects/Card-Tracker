@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal its {{ATK}} as {{DMG}} randomly split among all enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal its {{ATK}} as {{DMG}} randomly split among all enemy monsters.",
+        "prev": ""
+      }
+    }
   }
 }

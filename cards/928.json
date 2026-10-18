@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: {{KW:ERASE}} the enemy hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: {{KW:ERASE}} the enemy hand.",
+        "prev": ""
+      }
+    }
   }
 }

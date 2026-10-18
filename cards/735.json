@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal {{DMG}} randomly split among all enemy monsters equal to your missing {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal {{DMG}} randomly split among all enemy monsters equal to your missing {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

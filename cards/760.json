@@ -48,11 +48,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:SUPPORT}}: {{KW:PROGRAM}} (1): Give the attacker +2 {{HP}} and trigger the {{KW:SHOCK}}. {{KW:SHOCK}}: Give yourself +2 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: {{KW:PROGRAM}} (1): Give the attacker +2 {{HP}} and trigger the {{KW:SHOCK}}. {{KW:SHOCK}}: Give yourself +2 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

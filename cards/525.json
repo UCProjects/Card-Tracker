@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have no {{CARD:525|1}} in your hand, fill your hand with {{CARD:349|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If you have no {{CARD:525|1}} in your hand, fill your hand with {{CARD:349|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

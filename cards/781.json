@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Summon 2 random monsters from your hand with a base {{COST}} of 3 or less {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Summon 2 random monsters from your hand with a base {{COST}} of 3 or less {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

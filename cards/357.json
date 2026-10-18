@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Give all ally {{CARD:169|2}} +3 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give all ally {{CARD:169|2}} +3 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

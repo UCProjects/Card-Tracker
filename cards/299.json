@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal an ally monster's {{ATK}} as {{DMG}} to the monster in front of it.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:TURN_END}}: {{KW:PROGRAM}} (1): Add a random Undertale Yellow {{RARITY:LEGENDARY}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: {{KW:PROGRAM}} (1): Add a random Undertale Yellow {{RARITY:LEGENDARY}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

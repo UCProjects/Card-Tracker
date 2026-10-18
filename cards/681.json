@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}} and {{KW:DUST}}: Give 2 random {{TRIBE:PLUG|2}} in your hand {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:DUST}}: Give 2 random {{TRIBE:PLUG|2}} in your hand {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

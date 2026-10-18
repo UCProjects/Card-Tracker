@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon 2 {{CARD:863|2}} for the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Summon 2 {{CARD:863|2}} for the opponent.",
+        "prev": ""
+      }
+    }
   }
 }

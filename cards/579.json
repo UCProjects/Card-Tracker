@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Kill a damaged monster. Heal {{HP}} to you equal to its {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill a damaged monster. Heal {{HP}} to you equal to its {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

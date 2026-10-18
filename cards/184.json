@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Set a monster's stats to {{STATS:3|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Set a monster's stats to {{STATS:3|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Deal its {{ATK}} as {{DMG}} to all enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Deal its {{ATK}} as {{DMG}} to all enemy monsters.",
+        "prev": ""
+      }
+    }
   }
 }

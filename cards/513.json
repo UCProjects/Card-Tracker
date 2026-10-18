@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CHARGE}}. {{KW:DUST}}: Deal 1 {{DMG}} to a random enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:DUST}}: Deal 1 {{DMG}} to a random enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

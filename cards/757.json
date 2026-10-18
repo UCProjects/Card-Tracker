@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:ERASE}} up to 9 {{CARD:665|2}} in the enemy deck. Summon a {{CARD:753|1}} with {{KW:CHARGE}} for every 3 {{KW:ERASE|override=Erased}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:ERASE}} up to 9 {{CARD:665|2}} in the enemy deck. Summon a {{CARD:753|1}} with {{KW:CHARGE}} for every 3 {{KW:ERASE|override=Erased}}.",
+        "prev": ""
+      }
+    }
   }
 }

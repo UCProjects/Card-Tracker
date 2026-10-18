@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{STYLE:yellow|Starwalker}}. {{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} {{RARITY:COMMON}} cards. {{KW:MAGIC}}: Give all monsters in your hand {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{STYLE:yellow|Starwalker}}. {{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} {{RARITY:COMMON}} cards. {{KW:MAGIC}}: Give all monsters in your hand {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

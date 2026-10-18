@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: 18+ non-{{RARITY:TOKEN}} {{TRIBE:PIECE|2}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:728|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: 18+ non-{{RARITY:TOKEN}} {{TRIBE:PIECE|2}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:728|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

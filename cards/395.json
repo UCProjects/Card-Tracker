@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: Give 2 random {{KW:TURBO}} monsters in your hand -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you summon a {{KW:TURBO}} monster, add a copy to your deck. {{KW:TURBO}}: Give 2 random {{KW:TURBO}} monsters in your hand -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

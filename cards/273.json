@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: You've spent {{GOLD}} on 4 different spells this game. {{KW:MAGIC}}: Look at a random {{RARITY:EPIC}} spell of each SOUL. Add one to your hand with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: You've spent {{GOLD}} on 4 different spells this game. {{KW:MAGIC}}: Look at a random {{RARITY:EPIC}} spell of each SOUL. Add one to your hand with -2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

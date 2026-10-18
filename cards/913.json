@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "YOUR TAKING TOO LONG"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "YOUR TAKING TOO LONG",
+        "prev": ""
+      }
+    }
   }
 }

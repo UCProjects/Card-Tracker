@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at the 2 most expensive monsters in your dustpile costing 5 or less {{GOLD}} (except {{CARD:102|1}}) and {{KW:CATCH}} one. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at the 2 most expensive monsters in your dustpile costing 5 or less {{GOLD}} (except {{CARD:102|1}}) and {{KW:CATCH}} one. {{KW:DUST}}: Release it.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Before this attacks a monster, deal 3 {{DMG}} to the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Before this attacks a monster, deal 3 {{DMG}} to the opponent.",
+        "prev": ""
+      }
+    }
   }
 }

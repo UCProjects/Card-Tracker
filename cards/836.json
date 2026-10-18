@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a card in your hand. {{KW:DELAY}}: {{KW:ERASE}} it from your hand to fully heal this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Choose a card in your hand. {{KW:DELAY}}: {{KW:ERASE}} it from your hand to fully heal this.",
+        "prev": ""
+      }
+    }
   }
 }

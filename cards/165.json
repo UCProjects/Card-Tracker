@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: A non-{{RARITY:TOKEN}} spell of another SOUL in your hand. {{KW:MAGIC}}: Summon a {{CARD:175|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: A non-{{RARITY:TOKEN}} spell of another SOUL in your hand. {{KW:MAGIC}}: Summon a {{CARD:175|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

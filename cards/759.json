@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Kill all enemy monsters costing less than or equal to the amount of non-{{RARITY:TOKEN}} cards you played this turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill all enemy monsters costing less than or equal to the amount of non-{{RARITY:TOKEN}} cards you played this turn.",
+        "prev": ""
+      }
+    }
   }
 }

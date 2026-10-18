@@ -34,23 +34,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. After this takes {{DMG}}, deal 1 {{DMG}} to the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Armor",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
+      "description": {
+        "now": "{{KW:ARMOR}}. After this takes {{DMG}}, deal 1 {{DMG}} to the opponent.",
+        "prev": ""
       }
     }
   }

@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. Add a random non-{{RARITY:DETERMINATION}} card of a {{COST}} equal to the monster's new {{ATK}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. Add a random non-{{RARITY:DETERMINATION}} card of a {{COST}} equal to the monster's new {{ATK}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

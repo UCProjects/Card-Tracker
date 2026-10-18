@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it and give it {{KR}} and {{KW:CANDY}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Set a non-{{RARITY:DETERMINATION}} monster's {{ATK}} to 1. {{KW:DELAY}}: {{KW:SILENCE}} it and give it {{KR}} and {{KW:CANDY}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Heal 4 {{HP}} randomly split among all ally monsters. Give 4 random monsters in your hand {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Heal 4 {{HP}} randomly split among all ally monsters. Give 4 random monsters in your hand {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

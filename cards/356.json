@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal 7 {{DMG}} to an enemy monster. Excess {{DMG}} is dealt to its adjacent monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 7 {{DMG}} to an enemy monster. Excess {{DMG}} is dealt to its adjacent monsters.",
+        "prev": ""
+      }
+    }
   }
 }

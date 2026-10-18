@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Enchant 2 random occupied enemy slots with {{ENCHANT:SCATTERING_DUST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Enchant 2 random occupied enemy slots with {{ENCHANT:SCATTERING_DUST}}.",
+        "prev": ""
+      }
+    }
   }
 }

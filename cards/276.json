@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you summon a monster costing 2+ {{GOLD}}, earn 1 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you summon a monster costing 2+ {{GOLD}}, earn 1 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

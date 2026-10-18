@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}}. {{KW:SYNERGY}}: Summon 2 base {{STATS:2|2}} {{CARD:355|2}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Summon 2 {{CARD:355|2}}. {{KW:SYNERGY}}: Summon 2 base {{STATS:2|2}} {{CARD:355|2}} instead.",
+        "prev": ""
+      }
+    }
   }
 }

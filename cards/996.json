@@ -26,13 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Cast {{CARD:995|1}} on the monster in front of this. Targets the opponent if there is no monster."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Cast {{CARD:995|1}} on the monster in front of this. Targets the opponent if there is no monster.",
+        "prev": ""
+      }
+    }
   }
 }

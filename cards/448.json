@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Heal 7 {{HP}} to all allies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Heal 7 {{HP}} to all allies.",
+        "prev": ""
+      }
+    }
   }
 }

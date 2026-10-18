@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give all other ally {{TRIBE:SNAIL|2}} +1 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give all other ally {{TRIBE:SNAIL|2}} +1 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

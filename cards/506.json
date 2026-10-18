@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a 1-{{COST}} {{CARD:129|1}} to the current turn player's hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a 1-{{COST}} {{CARD:129|1}} to the current turn player's hand.",
+        "prev": ""
+      }
+    }
   }
 }

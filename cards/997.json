@@ -26,13 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Cast {{CARD:995|1}} on the highest {{HP}} character."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Cast {{CARD:995|1}} on the highest {{HP}} character.",
+        "prev": ""
+      }
+    }
   }
 }

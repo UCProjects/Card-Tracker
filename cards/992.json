@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Then {{KW:PARALYZE}} it, give it {{KR}}, and make it {{KW:WANTED}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Then {{KW:PARALYZE}} it, give it {{KR}}, and make it {{KW:WANTED}}.",
+        "prev": ""
+      }
+    }
   }
 }

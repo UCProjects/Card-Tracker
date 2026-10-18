@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:ERASE}} up to 9 monsters in your dustpile. Draw a card for every 3 {{KW:ERASE|override=Erased}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:ERASE}} up to 9 monsters in your dustpile. Draw a card for every 3 {{KW:ERASE|override=Erased}}.",
+        "prev": ""
+      }
+    }
   }
 }

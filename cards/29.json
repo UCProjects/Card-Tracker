@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:ERASE}} the cheapest non-{{KW:GENERATED}} card in your hand to deal 3 {{DMG}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:ERASE}} the cheapest non-{{KW:GENERATED}} card in your hand to deal 3 {{DMG}}.",
+        "prev": ""
+      }
+    }
   }
 }

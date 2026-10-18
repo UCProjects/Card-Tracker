@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. {{KW:MAGIC}}: Trigger the {{KW:DUST}} effects of all non-{{RARITY:TOKEN}} monsters costing 9 or less in your dustpile (max 3 per unique effect)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}}. {{KW:MAGIC}}: Trigger the {{KW:DUST}} effects of all non-{{RARITY:TOKEN}} monsters costing 9 or less in your dustpile (max 3 per unique effect).",
+        "prev": ""
+      }
+    }
   }
 }

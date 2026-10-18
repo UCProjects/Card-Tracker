@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: {{KW:SILENCE}} and kill a random enemy {{CARD:709|1}}. If there were none, summon a {{CARD:709|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: {{KW:SILENCE}} and kill a random enemy {{CARD:709|1}}. If there were none, summon a {{CARD:709|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

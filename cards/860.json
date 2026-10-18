@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Make 2 random enemy monsters {{KW:WANTED}}. {{KW:DELAY}}: If both are dead, give 4 random monsters in your hand {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Make 2 random enemy monsters {{KW:WANTED}}. {{KW:DELAY}}: If both are dead, give 4 random monsters in your hand {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

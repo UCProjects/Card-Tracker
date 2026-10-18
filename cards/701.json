@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: If this died during the enemy turn, give its killer {{STATS:-1|-1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: If this died during the enemy turn, give its killer {{STATS:-1|-1}}.",
+        "prev": ""
+      }
+    }
   }
 }

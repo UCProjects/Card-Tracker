@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:ERASE}} the copy. Deal 3 {{DMG}} to a random enemy monster. Repeat for every {{KW:LOOP}} this has."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ERASE}} the copy. Deal 3 {{DMG}} to a random enemy monster. Repeat for every {{KW:LOOP}} this has.",
+        "prev": ""
+      }
+    }
   }
 }

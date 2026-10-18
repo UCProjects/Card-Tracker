@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Remove negative effects from all other ally monsters and fully heal them."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Remove negative effects from all other ally monsters and fully heal them.",
+        "prev": ""
+      }
+    }
   }
 }

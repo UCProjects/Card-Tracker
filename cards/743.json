@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. In your hand, this has -3 {{COST}} if you played a card with a base {{COST}} of 9+ {{GOLD}} this turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. In your hand, this has -3 {{COST}} if you played a card with a base {{COST}} of 9+ {{GOLD}} this turn.",
+        "prev": ""
+      }
+    }
   }
 }

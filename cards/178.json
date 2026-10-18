@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill an ally monster. Deal its {{ATK}} as {{DMG}} to all enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an ally monster. Deal its {{ATK}} as {{DMG}} to all enemy monsters.",
+        "prev": ""
+      }
+    }
   }
 }

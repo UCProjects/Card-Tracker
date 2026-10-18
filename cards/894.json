@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. After an enemy monster with {{KW:HASTE}} or {{KW:CHARGE}} is summoned, attack it. {{KW:MAGIC}}: If there's a {{KW:TAUNT}} monster, gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}}. After an enemy monster with {{KW:HASTE}} or {{KW:CHARGE}} is summoned, attack it. {{KW:MAGIC}}: If there's a {{KW:TAUNT}} monster, gain {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

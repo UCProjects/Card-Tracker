@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Deal its {{ATK}} as {{DMG}} to a random enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Deal its {{ATK}} as {{DMG}} to a random enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

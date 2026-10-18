@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Trigger the {{KW:DUST}} effect of the next {{TRIBE:LOST_SOUL|1}}. {{KW:DELAY}}: Repeat."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Trigger the {{KW:DUST}} effect of the next {{TRIBE:LOST_SOUL|1}}. {{KW:DELAY}}: Repeat.",
+        "prev": ""
+      }
+    }
   }
 }

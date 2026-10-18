@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Draw 2 cards from the bottom of your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Draw 2 cards from the bottom of your deck.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. Adjacent {{TRIBE:PLANT|2}} have {{STATS:+2|+2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. Adjacent {{TRIBE:PLANT|2}} have {{STATS:+2|+2}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After a {{KW:WANTED}} monster dies during your turn and {{KW:MAGIC}}: Add a {{CARD:855|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After a {{KW:WANTED}} monster dies during your turn and {{KW:MAGIC}}: Add a {{CARD:855|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

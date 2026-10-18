@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at the enemy hand. Choose a card to send to the enemy deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at the enemy hand. Choose a card to send to the enemy deck.",
+        "prev": ""
+      }
+    }
   }
 }

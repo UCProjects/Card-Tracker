@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Add an exact copy of it to the top of your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Choose a {{TRIBE:DOG|1}} in your hand. Add an exact copy of it to the top of your deck.",
+        "prev": ""
+      }
+    }
   }
 }

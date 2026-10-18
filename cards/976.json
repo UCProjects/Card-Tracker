@@ -36,23 +36,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SUPPORT}}: If this wasn't triggered by a {{CARD:375|1}}, {{KW:ERASE}} 2 non-{{RARITY:TOKEN}} monsters in your dustpile to summon a {{STATS:2|2}} {{CARD:375|1}} that attacks the target."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
+      "description": {
+        "now": "{{KW:SUPPORT}}: If this wasn't triggered by a {{CARD:375|1}}, {{KW:ERASE}} 2 non-{{RARITY:TOKEN}} monsters in your dustpile to summon a {{STATS:2|2}} {{CARD:375|1}} that attacks the target.",
+        "prev": ""
       }
     }
   }

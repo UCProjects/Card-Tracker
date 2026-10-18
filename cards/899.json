@@ -29,21 +29,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw a card. If this has {{ATK}} buffs, draw another. If this has {{HP}} buffs, gain {{KW:DARKSPAWN}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a card. If this has {{ATK}} buffs, draw another. If this has {{HP}} buffs, gain {{KW:DARKSPAWN}}.",
+        "prev": ""
       }
     }
   }

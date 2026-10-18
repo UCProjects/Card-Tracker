@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:SILENCE}} all enemy {{CARD:287|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SILENCE}} all enemy {{CARD:287|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

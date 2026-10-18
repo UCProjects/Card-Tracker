@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at {{CARD:10|1}}, {{CARD:9|1}}, and {{CARD:31|1}} and choose one. Add it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at {{CARD:10|1}}, {{CARD:9|1}}, and {{CARD:31|1}} and choose one. Add it to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

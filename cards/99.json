@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give all non-{{RARITY:TOKEN}} spells in your hand (except {{CARD:99|1}}) +1 {{KW:LOOP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all non-{{RARITY:TOKEN}} spells in your hand (except {{CARD:99|1}}) +1 {{KW:LOOP}}.",
+        "prev": ""
+      }
+    }
   }
 }

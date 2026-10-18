@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Add a copy of a damaged non-{{RARITY:DETERMINATION}} ally monster to your hand with its current {{HP}}. It costs 1 less per {{HP}} missing."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add a copy of a damaged non-{{RARITY:DETERMINATION}} ally monster to your hand with its current {{HP}}. It costs 1 less per {{HP}} missing.",
+        "prev": ""
+      }
+    }
   }
 }

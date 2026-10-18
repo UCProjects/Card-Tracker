@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}.",
+        "prev": ""
+      }
+    }
   }
 }

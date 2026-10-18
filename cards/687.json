@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Turn all other ally {{TRIBE:PLUG|2}} into {{CARD:684|2}} that {{KW:CATCH}} the {{TRIBE:PLUG|2}} and gain their {{ATK}} and {{HP}} buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Turn all other ally {{TRIBE:PLUG|2}} into {{CARD:684|2}} that {{KW:CATCH}} the {{TRIBE:PLUG|2}} and gain their {{ATK}} and {{HP}} buffs.",
+        "prev": ""
+      }
+    }
   }
 }

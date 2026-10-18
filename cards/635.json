@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_START}}: Attack a random enemy monster if there are any."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_START}}: Attack a random enemy monster if there are any.",
+        "prev": ""
+      }
+    }
   }
 }

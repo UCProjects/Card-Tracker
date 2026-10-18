@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Take 1 {{DMG}}. Draw a card (except {{CARD:665|1}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Take 1 {{DMG}}. Draw a card (except {{CARD:665|1}}).",
+        "prev": ""
+      }
+    }
   }
 }

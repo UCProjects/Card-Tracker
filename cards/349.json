@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: If this card has {{ATK}} buffs, gain {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: If this card has {{ATK}} buffs, gain {{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

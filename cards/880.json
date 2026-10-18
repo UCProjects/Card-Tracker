@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: Deal {{SWITCH_LEFT:1|7 {{DMG}} to the monster in front}} or {{SWITCH_RIGHT:1|1 {{DMG}} to all enemies and gain {{KW:HASTE}}}}. {{KW:BULLSEYE}}: If this is alive, return to your hand with -1 base {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: Deal {{SWITCH_LEFT:1|7 {{DMG}} to the monster in front}} or {{SWITCH_RIGHT:1|1 {{DMG}} to all enemies and gain {{KW:HASTE}}}}. {{KW:BULLSEYE}}: If this is alive, return to your hand with -1 base {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

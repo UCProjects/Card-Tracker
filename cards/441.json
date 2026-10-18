@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After this takes {{DMG}}, {{KW:SWITCH}}: Gain {{SWITCH_LEFT:1|+1 {{KW:DODGE}}}} or {{SWITCH_RIGHT:1|{{KW:TRANSPARENCY}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After this takes {{DMG}}, {{KW:SWITCH}}: Gain {{SWITCH_LEFT:1|+1 {{KW:DODGE}}}} or {{SWITCH_RIGHT:1|{{KW:TRANSPARENCY}}}}.",
+        "prev": ""
+      }
+    }
   }
 }

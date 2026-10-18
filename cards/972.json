@@ -42,31 +42,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. {{KW:HASTE}}. {{KW:MAGIC}}: Enchant an ally slot with {{ENCHANT:SOIL|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 7
-      },
-      "cost": {
-        "now": 9,
-        "prev": 10
-      },
-      "originalCost": {
-        "now": 9,
-        "prev": 10
+      "description": {
+        "now": "{{KW:ARMOR}}. {{KW:HASTE}}. {{KW:MAGIC}}: Enchant an ally slot with {{ENCHANT:SOIL|1}}.",
+        "prev": ""
       }
     }
   }

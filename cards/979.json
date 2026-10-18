@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:NEED}}: Allies healed 12+ {{HP}} this game. {{KW:MAGIC}}: Give all other ally monsters {{STATS:+1|+1}} and {{KW:CANDY}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:NEED}}: Allies healed 12+ {{HP}} this game. {{KW:MAGIC}}: Give all other ally monsters {{STATS:+1|+1}} and {{KW:CANDY}}.",
+        "prev": ""
+      }
+    }
   }
 }

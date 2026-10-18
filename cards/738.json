@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill an enemy monster to summon a {{CARD:739|1}} for the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an enemy monster to summon a {{CARD:739|1}} for the opponent.",
+        "prev": ""
+      }
+    }
   }
 }

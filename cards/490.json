@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Give its killer {{STATS:+2|+2}}. {{KW:TURN_END}}: Die."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give its killer {{STATS:+2|+2}}. {{KW:TURN_END}}: Die.",
+        "prev": ""
+      }
+    }
   }
 }

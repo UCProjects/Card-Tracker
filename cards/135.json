@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}} and {{KW:TURN_START}}: Kill a random enemy monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:TURN_START}}: Kill a random enemy monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

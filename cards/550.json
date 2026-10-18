@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{KW:SILENCE|override=Silenced}} {{CARD:550|1}} with {{STATS:+3|+3|+3}} base stats and {{KW:HASTE}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Add a {{KW:SILENCE|override=Silenced}} {{CARD:550|1}} with {{STATS:+3|+3|+3}} base stats and {{KW:HASTE}} to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

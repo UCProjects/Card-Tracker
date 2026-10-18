@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose a {{TRIBE:BARGAIN}} to cast. Give a counter to {{ARTIFACT:46}}. {{STYLE:red|Accept the deal or you will DIE!}}"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose a {{TRIBE:BARGAIN}} to cast. Give a counter to {{ARTIFACT:46}}. {{STYLE:red|Accept the deal or you will DIE!}}",
+        "prev": ""
+      }
+    }
   }
 }

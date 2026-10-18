@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After a non-{{KW:GENERATED}} monster dies, deal 1 {{DMG}} to the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After a non-{{KW:GENERATED}} monster dies, deal 1 {{DMG}} to the opponent.",
+        "prev": ""
+      }
+    }
   }
 }

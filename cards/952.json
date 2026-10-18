@@ -34,23 +34,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. Monsters heal 2 more {{HP}} to allies. {{KW:MAGIC}} and {{KW:DUST}}: Summon a {{STATS:1|1}} {{CARD:924|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 7,
-        "prev": 8
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 8
+      "description": {
+        "now": "{{KW:HASTE}}. Monsters heal 2 more {{HP}} to allies. {{KW:MAGIC}} and {{KW:DUST}}: Summon a {{STATS:1|1}} {{CARD:924|1}}.",
+        "prev": ""
       }
     }
   }

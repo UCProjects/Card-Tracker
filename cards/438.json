@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Gain +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Gain +2 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

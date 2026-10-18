@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:SUPPORT}}: Copy the {{HP}} of the attacker."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Copy the {{HP}} of the attacker.",
+        "prev": ""
+      }
+    }
   }
 }

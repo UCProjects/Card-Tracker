@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:DELAY}}: Add a copy of a random ally {{TRIBE:MOLD|1}} (except {{CARD:491|1}}) to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Add a copy of a random ally {{TRIBE:MOLD|1}} (except {{CARD:491|1}}) to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

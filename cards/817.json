@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all other ally {{TRIBE:FROGGIT|2}} {{SWITCH_LEFT:1|{{KW:TAUNT}}}} or {{SWITCH_RIGHT:1|{{KW:ARMOR}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: Give all other ally {{TRIBE:FROGGIT|2}} {{SWITCH_LEFT:1|{{KW:TAUNT}}}} or {{SWITCH_RIGHT:1|{{KW:ARMOR}}}}.",
+        "prev": ""
+      }
+    }
   }
 }

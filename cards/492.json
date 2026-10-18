@@ -36,19 +36,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1 {{ATK}} for each adjacent ally {{TRIBE:SNAIL|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 1,
-        "prev": 0
-      },
-      "originalAttack": {
-        "now": 1,
-        "prev": 0
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Gain +1 {{ATK}} for each adjacent ally {{TRIBE:SNAIL|1}}.",
+        "prev": ""
       }
     }
   }

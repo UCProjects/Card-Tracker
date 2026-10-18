@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DELAY}}: If its {{HP}} is equal to its {{ATK}}, gain +2 {{ATK}} and fully heal this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If its {{HP}} is equal to its {{ATK}}, gain +2 {{ATK}} and fully heal this.",
+        "prev": ""
+      }
+    }
   }
 }

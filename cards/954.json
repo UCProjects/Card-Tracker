@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a {{CARD:462|1}} to your hand. Give it -1 {{COST}} for each other ally monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a {{CARD:462|1}} to your hand. Give it -1 {{COST}} for each other ally monster.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill a monster. Kill all {{KW:PARALYZE|override=Paralyzed}} enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill a monster. Kill all {{KW:PARALYZE|override=Paralyzed}} enemy monsters.",
+        "prev": ""
+      }
+    }
   }
 }

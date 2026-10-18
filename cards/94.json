@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give all ally monsters with 4 or less {{HP}} +2 {{HP}}. {{KW:DELAY}}: Give all ally monsters with 4 or less {{ATK}} +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all ally monsters with 4 or less {{HP}} +2 {{HP}}. {{KW:DELAY}}: Give all ally monsters with 4 or less {{ATK}} +2 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

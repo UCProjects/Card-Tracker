@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Your {{TRIBE:ROUND|2}} cost 0. {{KW:MAGIC}}: Add {{CARD:818|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Your {{TRIBE:ROUND|2}} cost 0. {{KW:MAGIC}}: Add {{CARD:818|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

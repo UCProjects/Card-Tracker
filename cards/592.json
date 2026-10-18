@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at all non-{{RARITY:DETERMINATION}} monsters in the enemy hand and choose one. Halve its {{ATK}} and {{HP}} and add an exact copy to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at all non-{{RARITY:DETERMINATION}} monsters in the enemy hand and choose one. Halve its {{ATK}} and {{HP}} and add an exact copy to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

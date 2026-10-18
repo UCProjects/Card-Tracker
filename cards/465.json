@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After a card is played, give its opponent +1 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After a card is played, give its opponent +1 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

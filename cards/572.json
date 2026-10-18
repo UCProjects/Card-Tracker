@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Gain +1 base {{ATK}} for every monster you played this game with a base {{HP}} of 7."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Gain +1 base {{ATK}} for every monster you played this game with a base {{HP}} of 7.",
+        "prev": ""
+      }
+    }
   }
 }

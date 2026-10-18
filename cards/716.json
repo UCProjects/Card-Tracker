@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:NEED}}: 10+ non-{{KW:GENERATED}} monsters costing 9+ {{GOLD}} in your dustpile. {{KW:MAGIC}}: Equip the {{ARTIFACT:62}} artifact."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:NEED}}: 10+ non-{{KW:GENERATED}} monsters costing 9+ {{GOLD}} in your dustpile. {{KW:MAGIC}}: Equip the {{ARTIFACT:62}} artifact.",
+        "prev": ""
+      }
+    }
   }
 }

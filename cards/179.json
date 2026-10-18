@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give all ally monsters {{STATS:+1|+1}}. If you have exactly 1 {{HP}}, kill all enemy monsters and fully heal yourself."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all ally monsters {{STATS:+1|+1}}. If you have exactly 1 {{HP}}, kill all enemy monsters and fully heal yourself.",
+        "prev": ""
+      }
+    }
   }
 }

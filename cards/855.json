@@ -32,11 +32,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "Make a monster {{KW:WANTED}} and deal 3 {{DMG}} to it. {{KW:BULLSEYE}}: Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Make a monster {{KW:WANTED}} and deal 3 {{DMG}} to it. {{KW:BULLSEYE}}: Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

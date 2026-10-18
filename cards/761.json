@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:HASTE}}. In your hand, this has -1 {{COST}} for each {{RARITY:TOKEN}} card costing 1+ {{GOLD}} you played this game (max. -8 {{COST}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. In your hand, this has -1 {{COST}} for each {{RARITY:TOKEN}} card costing 1+ {{GOLD}} you played this game (max. -8 {{COST}}).",
+        "prev": ""
+      }
+    }
   }
 }

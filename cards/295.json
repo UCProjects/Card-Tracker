@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you control 4 {{CARD:295|4}}, give them {{KW:DODGE}} (1), {{KW:TAUNT}}, and {{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you control 4 {{CARD:295|4}}, give them {{KW:DODGE}} (1), {{KW:TAUNT}}, and {{KW:CHARGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

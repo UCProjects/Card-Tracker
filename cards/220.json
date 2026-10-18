@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "At the start of its every 3rd turn, the opponent skips their next turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "At the start of its every 3rd turn, the opponent skips their next turn.",
+        "prev": ""
+      }
+    }
   }
 }

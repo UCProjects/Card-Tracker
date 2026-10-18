@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "WAITING FOR A NEW EFFECT"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "WAITING FOR A NEW EFFECT",
+        "prev": ""
+      }
+    }
   }
 }

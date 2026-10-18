@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose an enemy monster to kill all other monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose an enemy monster to kill all other monsters.",
+        "prev": ""
+      }
+    }
   }
 }

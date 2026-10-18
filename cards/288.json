@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURBO}}: If you have 6 or less cards in your hand, draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: If you have 6 or less cards in your hand, draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

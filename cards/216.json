@@ -26,19 +26,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_START}}: Enchant a random empty enemy slot with {{ENCHANT:THE_FLAME|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 1
+      "description": {
+        "now": "{{KW:TURN_START}}: Enchant a random empty enemy slot with {{ENCHANT:THE_FLAME|1}}.",
+        "prev": ""
       }
     }
   }

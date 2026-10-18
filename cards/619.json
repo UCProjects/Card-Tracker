@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} 1-{{COST}} cards. Choose one to add to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random non-{{RARITY:DETERMINATION}} 1-{{COST}} cards. Choose one to add to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

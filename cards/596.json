@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURBO}}: {{KW:ERASE}} this, heal 2 {{HP}} to you and draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: {{KW:ERASE}} this, heal 2 {{HP}} to you and draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

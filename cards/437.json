@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Heal 7 {{HP}} to a damaged ally monster. Excess healing is dealt as {{DMG}} to the monster in front of this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Heal 7 {{HP}} to a damaged ally monster. Excess healing is dealt as {{DMG}} to the monster in front of this.",
+        "prev": ""
+      }
+    }
   }
 }

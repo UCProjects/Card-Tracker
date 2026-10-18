@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you play a monster, deal 1 {{DMG}} to it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you play a monster, deal 1 {{DMG}} to it.",
+        "prev": ""
+      }
+    }
   }
 }

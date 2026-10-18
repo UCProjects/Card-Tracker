@@ -32,11 +32,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (1). Give a monster {{KR}}. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). Give a monster {{KR}}. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

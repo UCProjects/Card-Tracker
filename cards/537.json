@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill an enemy monster. Give a counter to {{ARTIFACT:25}} and lose 1 max {{HP}} for each counter."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill an enemy monster. Give a counter to {{ARTIFACT:25}} and lose 1 max {{HP}} for each counter.",
+        "prev": ""
+      }
+    }
   }
 }

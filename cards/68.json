@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill a non-{{RARITY:DETERMINATION}} ally monster. {{KW:DELAY}}: Summon it again with {{STATS:-2|-2}} (min. 1 {{HP}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill a non-{{RARITY:DETERMINATION}} ally monster. {{KW:DELAY}}: Summon it again with {{STATS:-2|-2}} (min. 1 {{HP}}).",
+        "prev": ""
+      }
+    }
   }
 }

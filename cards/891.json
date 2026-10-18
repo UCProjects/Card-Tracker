@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Release a copy of the caught monster to both hands. Give yours -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Release a copy of the caught monster to both hands. Give yours -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

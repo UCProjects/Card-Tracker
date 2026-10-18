@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} {{KW:HASTE}} or {{KW:CHARGE}} monsters. {{KW:MAGIC}}: {{KW:PARALYZE}} the monster in front of this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your deck has no non-{{KW:GENERATED}} {{KW:HASTE}} or {{KW:CHARGE}} monsters. {{KW:MAGIC}}: {{KW:PARALYZE}} the monster in front of this.",
+        "prev": ""
+      }
+    }
   }
 }

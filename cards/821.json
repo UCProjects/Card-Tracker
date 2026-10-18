@@ -30,11 +30,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "Deal 4 {{DMG}} to an enemy. {{KW:BULLSEYE}}: Add {{CARD:822|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 4 {{DMG}} to an enemy. {{KW:BULLSEYE}}: Add {{CARD:822|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

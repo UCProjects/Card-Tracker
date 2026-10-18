@@ -36,11 +36,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:DODGE}} (1). {{KW:TURN_END}}: If this has {{ATK}} or {{HP}} buffs, gain {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (1). {{KW:TURN_END}}: If this has {{ATK}} or {{HP}} buffs, gain {{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

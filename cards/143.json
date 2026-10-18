@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SUPPORT}}: Gain +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Gain +1 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

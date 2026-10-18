@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Send your hand to your deck. Add a copy of each different {{TRIBE:AMALGAMATE}} in your dustpile to your hand with {{STATS:-1|+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send your hand to your deck. Add a copy of each different {{TRIBE:AMALGAMATE}} in your dustpile to your hand with {{STATS:-1|+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

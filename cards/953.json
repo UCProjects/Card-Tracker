@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a copy of a monster with a base {{COST}} of 2 or less {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a copy of a monster with a base {{COST}} of 2 or less {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill all enemy monsters under {{KR}}. Give all enemy monsters {{KR}}.",
+        "prev": ""
+      }
+    }
   }
 }

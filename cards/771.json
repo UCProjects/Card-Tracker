@@ -27,11 +27,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL. Choose one to add to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (2). Look at all spells of the enemy SOUL. Choose one to add to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. After this attacks and kills a non-{{RARITY:DETERMINATION}} monster, add a base {{STATS:3|4|5}} copy of it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this attacks and kills a non-{{RARITY:DETERMINATION}} monster, add a base {{STATS:3|4|5}} copy of it to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

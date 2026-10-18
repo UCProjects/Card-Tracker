@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Deal 4 {{DMG}} to a random damaged living enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Deal 4 {{DMG}} to a random damaged living enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

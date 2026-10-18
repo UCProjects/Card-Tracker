@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:DELAY}}: Give {{STATS:+1|+1}} to all other {{KW:GENERATED}} ally monsters. {{KW:PROGRAM}} (1): Repeat."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Give {{STATS:+1|+1}} to all other {{KW:GENERATED}} ally monsters. {{KW:PROGRAM}} (1): Repeat.",
+        "prev": ""
+      }
+    }
   }
 }

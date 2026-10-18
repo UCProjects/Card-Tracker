@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at all {{TRIBE:THRASHING_PART|2}} and choose one to add to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at all {{TRIBE:THRASHING_PART|2}} and choose one to add to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

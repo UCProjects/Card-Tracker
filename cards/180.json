@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Equip the {{ARTIFACT:38}} artifact. Give it 6 counters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Equip the {{ARTIFACT:38}} artifact. Give it 6 counters.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Halve the stats of the non-{{RARITY:DETERMINATION}} monster in front of this and summon an exact copy of it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Halve the stats of the non-{{RARITY:DETERMINATION}} monster in front of this and summon an exact copy of it.",
+        "prev": ""
+      }
+    }
   }
 }

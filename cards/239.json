@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Look at 3 random {{RARITY:RARE}} spells. Add one to your hand with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: You spent {{GOLD}} on spells last turn. {{KW:MAGIC}}: Look at 3 random {{RARITY:RARE}} spells. Add one to your hand with -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

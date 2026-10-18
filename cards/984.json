@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal {{DMG}} to an enemy monster equal to the number of cards in your hand. {{KW:BULLSEYE}}: Summon a {{STATS:2|3}} {{CARD:375|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal {{DMG}} to an enemy monster equal to the number of cards in your hand. {{KW:BULLSEYE}}: Summon a {{STATS:2|3}} {{CARD:375|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

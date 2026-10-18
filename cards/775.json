@@ -48,11 +48,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CANDY}}. {{KW:DISARMED}}. {{KW:SHOCK}}: Attack the lowest {{HP}} enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CANDY}}. {{KW:DISARMED}}. {{KW:SHOCK}}: Attack the lowest {{HP}} enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

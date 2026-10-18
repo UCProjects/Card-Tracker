@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}} and {{KW:DUST}}: {{KW:ERASE}} 5 {{TRIBE:MOLD|2}} in your dustpile to summon a {{CARD:19|1}} and trigger its {{KW:MAGIC}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}} and {{KW:DUST}}: {{KW:ERASE}} 5 {{TRIBE:MOLD|2}} in your dustpile to summon a {{CARD:19|1}} and trigger its {{KW:MAGIC}}.",
+        "prev": ""
+      }
+    }
   }
 }

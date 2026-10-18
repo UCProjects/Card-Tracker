@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give +1 {{HP}} to monsters left of this and +1 {{ATK}} to monsters right of this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give +1 {{HP}} to monsters left of this and +1 {{ATK}} to monsters right of this.",
+        "prev": ""
+      }
+    }
   }
 }

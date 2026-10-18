@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: If this was killed by a monster, {{KW:PROGRAM}} (3): Summon a base {{STATS:4|4}} copy of it with {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: If this was killed by a monster, {{KW:PROGRAM}} (3): Summon a base {{STATS:4|4}} copy of it with {{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -48,11 +48,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:SUPPORT}}: Gain {{STATS:+2|+2}} and lose this {{KW:SUPPORT}}. {{KW:SHOCK}}: Regain this {{KW:SUPPORT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:SUPPORT}}: Gain {{STATS:+2|+2}} and lose this {{KW:SUPPORT}}. {{KW:SHOCK}}: Regain this {{KW:SUPPORT}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Cast all {{TRIBE:CHAOS_WEAPON|2}} (except {{CARD:447|1}})!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Cast all {{TRIBE:CHAOS_WEAPON|2}} (except {{CARD:447|1}})!",
+        "prev": ""
+      }
+    }
   }
 }

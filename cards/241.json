@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at the 3 top different {{TRIBE:AMALGAMATE|2}} in your deck (except {{CARD:241|1}}). Add a copy of one to the top of your deck with {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at the 3 top different {{TRIBE:AMALGAMATE|2}} in your deck (except {{CARD:241|1}}). Add a copy of one to the top of your deck with {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

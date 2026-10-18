@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (2). {{CARD:881|2}} in your hand have +1 {{COST}}. This has {{STATS:+1|+1}} for each other ally {{CARD:881|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (2). {{CARD:881|2}} in your hand have +1 {{COST}}. This has {{STATS:+1|+1}} for each other ally {{CARD:881|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

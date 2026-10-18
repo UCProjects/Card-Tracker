@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Can only take 1 {{DMG}} at a time. {{KW:DUST}}: Summon a {{CARD:48|1}} for whoever's turn it is."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Can only take 1 {{DMG}} at a time. {{KW:DUST}}: Summon a {{CARD:48|1}} for whoever's turn it is.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Kill an ally monster to add a {{CARD:351|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Kill an ally monster to add a {{CARD:351|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

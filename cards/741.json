@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add a copy of all non-{{RARITY:DETERMINATION}} enemy monsters (except {{CARD:741|1}}) to your hand with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a copy of all non-{{RARITY:DETERMINATION}} enemy monsters (except {{CARD:741|1}}) to your hand with -2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

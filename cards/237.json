@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURBO}}: If this is {{KW:GENERATED}}, deal 4 {{DMG}} to you. {{KW:DUST}}: Add a {{CARD:237|1}} to the enemy deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: If this is {{KW:GENERATED}}, deal 4 {{DMG}} to you. {{KW:DUST}}: Add a {{CARD:237|1}} to the enemy deck.",
+        "prev": ""
+      }
+    }
   }
 }

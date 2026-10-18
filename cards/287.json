@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. Thou art {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Addeth a {{CARD:376|1}} to the enemy hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. Thou art {{KW:INVULNERABLE}}. {{KW:MAGIC}}: Addeth a {{CARD:376|1}} to the enemy hand.",
+        "prev": ""
+      }
+    }
   }
 }

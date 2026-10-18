@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a {{TRIBE:MOLD|1}} (except {{CARD:37|1}}) and give it +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}} and {{KW:DUST}}: Draw a {{TRIBE:MOLD|1}} (except {{CARD:37|1}}) and give it +1 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

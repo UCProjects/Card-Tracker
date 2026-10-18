@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Turn a monster into an {{CARD:372|1}} with {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Turn a monster into an {{CARD:372|1}} with {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

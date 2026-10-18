@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at 3 random non-{{RARITY:TOKEN}} {{KW:DUST}} monsters in your dustpile (max. 9 {{COST}}). Choose one to summon with {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 3 random non-{{RARITY:TOKEN}} {{KW:DUST}} monsters in your dustpile (max. 9 {{COST}}). Choose one to summon with {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

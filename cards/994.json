@@ -20,13 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Remove all negative effects from an ally monster and give it {{STATS:+1|+1}}. If you played 7+ {{CARD:994|7}} this game, win."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Remove all negative effects from an ally monster and give it {{STATS:+1|+1}}. If you played 7+ {{CARD:994|7}} this game, win.",
+        "prev": ""
+      }
+    }
   }
 }

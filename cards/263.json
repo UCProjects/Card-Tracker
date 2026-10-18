@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. Before this attacks a monster, {{KW:SILENCE}} it. If the attack killed, gain {{STATS:+1|+1}}. {{KW:TURN_END}}: Draw a monster. Give it this card's stat buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. Before this attacks a monster, {{KW:SILENCE}} it. If the attack killed, gain {{STATS:+1|+1}}. {{KW:TURN_END}}: Draw a monster. Give it this card's stat buffs.",
+        "prev": ""
+      }
+    }
   }
 }

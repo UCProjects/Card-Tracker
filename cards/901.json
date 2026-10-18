@@ -48,11 +48,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:DARKSPAWN}}. {{KW:TAUNT}}. {{KW:HASTE}}. {{KW:MAGIC}}: {{ARTIFACT:67|override=Darkness}} constricts you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DARKSPAWN}}. {{KW:TAUNT}}. {{KW:HASTE}}. {{KW:MAGIC}}: {{ARTIFACT:67|override=Darkness}} constricts you.",
+        "prev": ""
+      }
+    }
   }
 }

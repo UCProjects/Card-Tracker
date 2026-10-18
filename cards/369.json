@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Summon 4 different 1-{{COST}} {{TRIBE:SNAIL|4}} from your dustpile. Trigger their {{KW:MAGIC}}, give them {{KW:HASTE}} and {{KW:DODGE}} (1)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon 4 different 1-{{COST}} {{TRIBE:SNAIL|4}} from your dustpile. Trigger their {{KW:MAGIC}}, give them {{KW:HASTE}} and {{KW:DODGE}} (1).",
+        "prev": ""
+      }
+    }
   }
 }

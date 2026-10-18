@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add a {{CARD:115|1}} to your hand and deck. {{KW:SYNERGY}}: Add a {{CARD:475|1}} and a {{CARD:476|1}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add a {{CARD:115|1}} to your hand and deck. {{KW:SYNERGY}}: Add a {{CARD:475|1}} and a {{CARD:476|1}} instead.",
+        "prev": ""
+      }
+    }
   }
 }

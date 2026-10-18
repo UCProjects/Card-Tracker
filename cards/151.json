@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:DARKSPAWN}}, {{KW:DODGE}}, and {{KW:TRANSPARENCY}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Copy an enemy monster's current {{ATK}}, {{HP}}, {{KW:TAUNT}}, {{KW:CANDY}}, {{KW:CHARGE}}, {{KW:HASTE}}, {{KW:DARKSPAWN}}, {{KW:DODGE}}, and {{KW:TRANSPARENCY}}.",
+        "prev": ""
+      }
+    }
   }
 }

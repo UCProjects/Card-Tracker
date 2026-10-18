@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{CARD:969|1}} can be used on enemy monsters. {{KW:QUEST}}: Let's fill the {{QUEST:76}}, mew!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{CARD:969|1}} can be used on enemy monsters. {{KW:QUEST}}: Let's fill the {{QUEST:76}}, mew!",
+        "prev": ""
+      }
+    }
   }
 }

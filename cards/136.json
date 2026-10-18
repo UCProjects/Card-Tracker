@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After this deals {{DMG}} to a monster, kill it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After this deals {{DMG}} to a monster, kill it.",
+        "prev": ""
+      }
+    }
   }
 }

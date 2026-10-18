@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each ally {{TRIBE:PLANT|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} for each ally {{TRIBE:PLANT|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

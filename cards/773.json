@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:NEED}}: 7+ monsters in your dustpile. {{KW:MAGIC}}: Gain +3 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:NEED}}: 7+ monsters in your dustpile. {{KW:MAGIC}}: Gain +3 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

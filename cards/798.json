@@ -22,11 +22,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill An Enemy Monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill An Enemy Monster.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Before this attacks a monster, {{KW:SILENCE}} it. {{KW:MAGIC}}: If you have equal or less monsters than the opponent, gain {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Before this attacks a monster, {{KW:SILENCE}} it. {{KW:MAGIC}}: If you have equal or less monsters than the opponent, gain {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

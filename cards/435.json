@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} (except {{CARD:435|1}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a {{TRIBE:PLANT|1}} (except {{CARD:435|1}}).",
+        "prev": ""
+      }
+    }
   }
 }

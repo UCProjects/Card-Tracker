@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you have {{CARD:428|1}} and {{CARD:430|1}} in your dustpile, {{KW:ERASE}} them and bake a {{CARD:431|1}}!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have {{CARD:428|1}} and {{CARD:430|1}} in your dustpile, {{KW:ERASE}} them and bake a {{CARD:431|1}}!",
+        "prev": ""
+      }
+    }
   }
 }

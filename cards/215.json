@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at the 2 cheapest monsters in your dustpile (except {{CARD:215|1}}) and choose one to {{KW:CATCH}}. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at the 2 cheapest monsters in your dustpile (except {{CARD:215|1}}) and choose one to {{KW:CATCH}}. {{KW:DUST}}: Release it.",
+        "prev": ""
+      }
+    }
   }
 }

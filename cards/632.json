@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "This has +2 {{ATK}} on the enemy turn and takes no {{DMG}} while attacking."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "This has +2 {{ATK}} on the enemy turn and takes no {{DMG}} while attacking.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. After this takes {{DMG}}, heal the {{DMG}} taken as {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this takes {{DMG}}, heal the {{DMG}} taken as {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

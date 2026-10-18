@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand {{STATS:+1|+1}} and {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand {{STATS:+1|+1}} and {{KW:TAUNT}}.",
+        "prev": ""
+      }
+    }
   }
 }

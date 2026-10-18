@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you have 6+ monsters in your dustpile, {{KW:ERASE}} 6 of them to deal 4 {{DMG}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have 6+ monsters in your dustpile, {{KW:ERASE}} 6 of them to deal 4 {{DMG}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "This takes 1 less {{DMG}} for each enemy slot enchantment. {{KW:MAGIC}}: Enchant enemy slots with a {{ENCHANT:GREEN_TILE||override=Green}}, {{ENCHANT:YELLOW_TILE||override=Yellow}}, {{ENCHANT:PURPLE_TILE||override=Purple}}, and {{ENCHANT:ORANGE_TILE|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "This takes 1 less {{DMG}} for each enemy slot enchantment. {{KW:MAGIC}}: Enchant enemy slots with a {{ENCHANT:GREEN_TILE||override=Green}}, {{ENCHANT:YELLOW_TILE||override=Yellow}}, {{ENCHANT:PURPLE_TILE||override=Purple}}, and {{ENCHANT:ORANGE_TILE|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

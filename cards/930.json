@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose an enemy monster. Its adjacent monsters attack it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose an enemy monster. Its adjacent monsters attack it.",
+        "prev": ""
+      }
+    }
   }
 }

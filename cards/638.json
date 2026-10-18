@@ -35,11 +35,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Heal 2 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Heal 2 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

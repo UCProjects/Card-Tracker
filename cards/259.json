@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give an ally monster {{STATS:+1|+1}}. Add a 1-{{COST}} {{CARD:353|1}} and {{CARD:354|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give an ally monster {{STATS:+1|+1}}. Add a 1-{{COST}} {{CARD:353|1}} and {{CARD:354|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

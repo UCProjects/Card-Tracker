@@ -32,11 +32,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (1). Spend all your {{GOLD}} to deal {{DMG}} to an enemy monster equal to the {{GOLD}} spent. Earn {{GOLD}} equal to excess {{DMG}} dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). Spend all your {{GOLD}} to deal {{DMG}} to an enemy monster equal to the {{GOLD}} spent. Earn {{GOLD}} equal to excess {{DMG}} dealt.",
+        "prev": ""
+      }
+    }
   }
 }

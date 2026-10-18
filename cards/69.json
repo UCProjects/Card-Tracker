@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:ERASE}} up to 15 random monsters not {{KW:GENERATED}} by {{CARD:69|1}} in your dustpile. Summon a {{CARD:706|1}} for every 3 {{KW:ERASE|override=Erased}}. Give them {{STATS:+1|+1}} for each not summoned."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ERASE}} up to 15 random monsters not {{KW:GENERATED}} by {{CARD:69|1}} in your dustpile. Summon a {{CARD:706|1}} for every 3 {{KW:ERASE|override=Erased}}. Give them {{STATS:+1|+1}} for each not summoned.",
+        "prev": ""
+      }
+    }
   }
 }

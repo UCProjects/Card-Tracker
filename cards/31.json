@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Add a copy of this to your hand with -1 base {{COST}} and {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add a copy of this to your hand with -1 base {{COST}} and {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

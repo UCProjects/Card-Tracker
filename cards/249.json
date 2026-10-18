@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:DODGE}} (98). {{KW:TURN_END}}: Lose 97 {{KW:DODGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (98). {{KW:TURN_END}}: Lose 97 {{KW:DODGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

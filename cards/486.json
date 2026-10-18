@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Add an exact copy of a monster (except {{CARD:52|1}}) to your hand. If it was {{RARITY:LEGENDARY}} or {{RARITY:DETERMINATION}}, give it +2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add an exact copy of a monster (except {{CARD:52|1}}) to your hand. If it was {{RARITY:LEGENDARY}} or {{RARITY:DETERMINATION}}, give it +2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

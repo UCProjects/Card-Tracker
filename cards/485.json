@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at all cards in your deck and choose one to draw."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at all cards in your deck and choose one to draw.",
+        "prev": ""
+      }
+    }
   }
 }

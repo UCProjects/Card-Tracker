@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Draw 3 cards costing 5 {{GOLD}} or less."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Draw 3 cards costing 5 {{GOLD}} or less.",
+        "prev": ""
+      }
+    }
   }
 }

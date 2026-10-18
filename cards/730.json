@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 3 random spells you've cast this game from other SOULS. Add one to your hand with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random spells you've cast this game from other SOULS. Add one to your hand with -2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After this attacks and survives, heal {{HP}} to this equal to the {{DMG}} dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After this attacks and survives, heal {{HP}} to this equal to the {{DMG}} dealt.",
+        "prev": ""
+      }
+    }
   }
 }

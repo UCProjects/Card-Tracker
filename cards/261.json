@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give a monster -2 {{HP}} to give the monster in front of it +3 {{HP}}. If this killed, add a {{CARD:577|1}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster -2 {{HP}} to give the monster in front of it +3 {{HP}}. If this killed, add a {{CARD:577|1}} to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

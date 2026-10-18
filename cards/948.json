@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: Add a {{CARD:947|1}} to the top 6 cards of your deck. If a monster died with exactly 0 {{HP}} remaining this turn, add it to your hand instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Add a {{CARD:947|1}} to the top 6 cards of your deck. If a monster died with exactly 0 {{HP}} remaining this turn, add it to your hand instead.",
+        "prev": ""
+      }
+    }
   }
 }

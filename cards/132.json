@@ -32,11 +32,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (1). Fully heal a monster. If it was already full, give it +2 {{HP}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). Fully heal a monster. If it was already full, give it +2 {{HP}} instead.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. After this attacks and survives, add 2 {{CARD:672|2}} to your hand. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each unique Tribe in your dustpile."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this attacks and survives, add 2 {{CARD:672|2}} to your hand. {{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each unique Tribe in your dustpile.",
+        "prev": ""
+      }
+    }
   }
 }

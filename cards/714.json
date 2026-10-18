@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Attain {{ARTIFACT:45}} to give it a counter for every different non-{{RARITY:TOKEN}} spell of another SOUL you cast this game."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Attain {{ARTIFACT:45}} to give it a counter for every different non-{{RARITY:TOKEN}} spell of another SOUL you cast this game.",
+        "prev": ""
+      }
+    }
   }
 }

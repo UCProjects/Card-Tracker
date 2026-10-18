@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. After you take {{DMG}} during your turn, gain {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. After you take {{DMG}} during your turn, gain {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

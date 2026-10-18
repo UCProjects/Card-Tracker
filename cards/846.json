@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Give -4 {{COST}} to the most expensive card in both players' hands."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give -4 {{COST}} to the most expensive card in both players' hands.",
+        "prev": ""
+      }
+    }
   }
 }

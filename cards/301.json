@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_START}} and {{KW:TURN_END}}: Swap its {{ATK}} and {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_START}} and {{KW:TURN_END}}: Swap its {{ATK}} and {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

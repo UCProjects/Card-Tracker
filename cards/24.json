@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give all ally {{TRIBE:FROGGIT|2}} (except {{CARD:24|1}}) {{STATS:+1|+1}} wherever they are."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give all ally {{TRIBE:FROGGIT|2}} (except {{CARD:24|1}}) {{STATS:+1|+1}} wherever they are.",
+        "prev": ""
+      }
+    }
   }
 }

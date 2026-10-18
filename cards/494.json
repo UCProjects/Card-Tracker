@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal its {{ATK}} as {{DMG}} to an enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal its {{ATK}} as {{DMG}} to an enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

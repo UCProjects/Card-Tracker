@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add an exact copy of each ally {{TRIBE:SNAIL|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add an exact copy of each ally {{TRIBE:SNAIL|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

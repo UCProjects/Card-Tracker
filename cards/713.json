@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Add 4 0-{{COST}} {{CARD:598|2}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add 4 0-{{COST}} {{CARD:598|2}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

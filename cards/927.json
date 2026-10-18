@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 5 random non-{{RARITY:DETERMINATION}} monsters with a {{COST}} equal to the enemy {{GOLD}} (max. 15 {{GOLD}}). Choose one to summon."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 5 random non-{{RARITY:DETERMINATION}} monsters with a {{COST}} equal to the enemy {{GOLD}} (max. 15 {{GOLD}}). Choose one to summon.",
+        "prev": ""
+      }
+    }
   }
 }

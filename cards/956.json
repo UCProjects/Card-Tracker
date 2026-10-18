@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DELAY}}: If this monster's {{HP}} equals the amount of cards in your hand, gain {{STATS:+1|+1}} and draw 2 cards."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If this monster's {{HP}} equals the amount of cards in your hand, gain {{STATS:+1|+1}} and draw 2 cards.",
+        "prev": ""
+      }
+    }
   }
 }

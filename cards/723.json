@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: Summon a {{CARD:724|1}}. If you can't, turn a random ally monster into {{CARD:724|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Summon a {{CARD:724|1}}. If you can't, turn a random ally monster into {{CARD:724|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

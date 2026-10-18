@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: Lose 1 {{ATK}}. If this has 0 {{ATK}}, kill this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Lose 1 {{ATK}}. If this has 0 {{ATK}}, kill this.",
+        "prev": ""
+      }
+    }
   }
 }

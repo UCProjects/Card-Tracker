@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give a monster {{STATS:+2|+2}} and {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster {{STATS:+2|+2}} and {{KW:HASTE}}. {{KW:DELAY}}: {{KW:PARALYZE}} it.",
+        "prev": ""
+      }
+    }
   }
 }

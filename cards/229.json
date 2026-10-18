@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: 10+ {{TRIBE:SNAIL|2}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:369|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: 10+ {{TRIBE:SNAIL|2}} in your dustpile. {{KW:MAGIC}}: Add a {{CARD:369|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

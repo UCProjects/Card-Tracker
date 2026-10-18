@@ -41,38 +41,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. Whenever this attacks and kills, deal excess {{DMG}} to the monsters adjacent to the target. {{KW:BULLSEYE}}: Summon a {{CARD:574|1}}. It attacks the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Bullseye",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
+      "description": {
+        "now": "{{KW:HASTE}}. Whenever this attacks and kills, deal excess {{DMG}} to the monsters adjacent to the target. {{KW:BULLSEYE}}: Summon a {{CARD:574|1}}. It attacks the opponent.",
+        "prev": ""
       }
     }
   }

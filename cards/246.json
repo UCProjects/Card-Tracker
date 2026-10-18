@@ -26,23 +26,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to your hand.",
+        "prev": ""
       }
     }
   }

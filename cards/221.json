@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DELAY}}: If this attacked and survived, return to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If this attacked and survived, return to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

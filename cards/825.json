@@ -34,19 +34,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CHARGE}}. {{KW:DUST}}: If this died during your turn, deal 2 {{DMG}} to the lowest {{HP}} enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 1,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 1,
-        "prev": 2
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:DUST}}: If this died during your turn, deal 2 {{DMG}} to the lowest {{HP}} enemy monster.",
+        "prev": ""
       }
     }
   }

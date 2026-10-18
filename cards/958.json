@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SHOCK}}: Deal 2 {{DMG}} to this and all enemies. Lose this {{KW:SHOCK}}. {{KW:SUPPORT}}: Fully heal this and regain this {{KW:SHOCK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: Deal 2 {{DMG}} to this and all enemies. Lose this {{KW:SHOCK}}. {{KW:SUPPORT}}: Fully heal this and regain this {{KW:SHOCK}}.",
+        "prev": ""
+      }
+    }
   }
 }

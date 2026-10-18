@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:BULLSEYE}}: Fully heal this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:BULLSEYE}}: Fully heal this.",
+        "prev": ""
+      }
+    }
   }
 }

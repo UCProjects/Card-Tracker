@@ -32,11 +32,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "Summon the next base {{STATS:1|1}} {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}}. {{KW:PROGRAM}} (2): Spend all counters on your {{ARTIFACT:33}} artifact to give it {{STATS:+1|+1}} for every 4 spent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon the next base {{STATS:1|1}} {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}}. {{KW:PROGRAM}} (2): Spend all counters on your {{ARTIFACT:33}} artifact to give it {{STATS:+1|+1}} for every 4 spent.",
+        "prev": ""
+      }
+    }
   }
 }

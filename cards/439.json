@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Summon a {{KW:SILENCE|override=Silenced}} copy of this with 1 base {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Summon a {{KW:SILENCE|override=Silenced}} copy of this with 1 base {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

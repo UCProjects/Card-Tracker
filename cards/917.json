@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SHOCK}}: Add a random spell of your SOUL that you haven't cast this game to your hand. If you cast them all, add a {{CARD:918|1}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: Add a random spell of your SOUL that you haven't cast this game to your hand. If you cast them all, add a {{CARD:918|1}} instead.",
+        "prev": ""
+      }
+    }
   }
 }

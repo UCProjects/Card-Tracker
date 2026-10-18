@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:QUEST}}: {{QUEST:80}}. {{KW:MAGIC}}: Kill all other ally monsters. Add a 2-{{COST}} {{CARD:712|1}} to your hand for each."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:QUEST}}: {{QUEST:80}}. {{KW:MAGIC}}: Kill all other ally monsters. Add a 2-{{COST}} {{CARD:712|1}} to your hand for each.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Heal 3 {{HP}} to a random damaged ally monster and you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Heal 3 {{HP}} to a random damaged ally monster and you.",
+        "prev": ""
+      }
+    }
   }
 }

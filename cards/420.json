@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. After this takes {{DMG}} during the enemy turn, give a random other ally monster {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. After this takes {{DMG}} during the enemy turn, give a random other ally monster {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Enchant an ally board slot with {{ENCHANT:INCINERATOR|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Enchant an ally board slot with {{ENCHANT:INCINERATOR|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Earn 1 {{GOLD}} for each ally {{TRIBE:PLANT|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:TURN_START}}: Earn 1 {{GOLD}} for each ally {{TRIBE:PLANT|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal 3 {{DMG}} to an enemy monster. If it dies, deal 3 {{DMG}} to a random other enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 3 {{DMG}} to an enemy monster. If it dies, deal 3 {{DMG}} to a random other enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

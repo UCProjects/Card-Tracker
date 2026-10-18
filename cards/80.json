@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose a card in your hand. Turn the other cards in your hand into {{CARD:577|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose a card in your hand. Turn the other cards in your hand into {{CARD:577|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

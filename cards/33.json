@@ -30,21 +30,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand +1 {{ATK}} and {{KW:HASTE}} or an {{TRIBE:AMALGAMATE|1}} in your hand +1 {{HP}} and {{KW:TAUNT}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "DOG"
-        ],
-        "prev": [
-          "DOG",
-          "AMALGAMATE"
-        ]
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a {{TRIBE:DOG|1}} in your hand +1 {{ATK}} and {{KW:HASTE}} or an {{TRIBE:AMALGAMATE|1}} in your hand +1 {{HP}} and {{KW:TAUNT}}.",
+        "prev": ""
       }
     }
   }

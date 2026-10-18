@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand.",
+        "prev": ""
+      }
+    }
   }
 }

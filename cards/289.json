@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:CATCH}} an ally monster. {{KW:DUST}}: Release it to your deck with {{STATS:+3|+3}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:CATCH}} an ally monster. {{KW:DUST}}: Release it to your deck with {{STATS:+3|+3}}.",
+        "prev": ""
+      }
+    }
   }
 }

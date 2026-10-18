@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Summon all 9-{{COST}} {{TRIBE:ROYAL_GUARD|2}} with {{STATS:-4|-4}} base stats."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon all 9-{{COST}} {{TRIBE:ROYAL_GUARD|2}} with {{STATS:-4|-4}} base stats.",
+        "prev": ""
+      }
+    }
   }
 }

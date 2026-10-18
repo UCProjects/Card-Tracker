@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you spend {{GOLD}} on spells, return to your hand with {{STATS:+2|+1}} (keeps {{ATK}} and {{HP}} buffs)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you spend {{GOLD}} on spells, return to your hand with {{STATS:+2|+1}} (keeps {{ATK}} and {{HP}} buffs).",
+        "prev": ""
+      }
+    }
   }
 }

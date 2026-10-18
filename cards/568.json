@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (2). {{KW:MAGIC}}: Add a {{CARD:569|1}} to the enemy hand.",
+        "prev": ""
+      }
+    }
   }
 }

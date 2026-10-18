@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "In your hand, this has +3 {{COST}} for each {{CARD:920|1}} you played this game. {{KW:DODGE}} (1). {{KW:MAGIC}}: Attack all enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "In your hand, this has +3 {{COST}} for each {{CARD:920|1}} you played this game. {{KW:DODGE}} (1). {{KW:MAGIC}}: Attack all enemy monsters.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: 3+ other monsters with negative effects. {{KW:MAGIC}}: Give all enemy monsters {{STATS:-2|-2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: 3+ other monsters with negative effects. {{KW:MAGIC}}: Give all enemy monsters {{STATS:-2|-2}}.",
+        "prev": ""
+      }
+    }
   }
 }

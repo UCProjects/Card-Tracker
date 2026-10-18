@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give a monster {{STATS:+1|+2}}. If it's a {{CARD:378|1}}, turn it into a {{CARD:380|1}} instead. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster {{STATS:+1|+2}}. If it's a {{CARD:378|1}}, turn it into a {{CARD:380|1}} instead. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

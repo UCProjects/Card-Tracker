@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at {{CARD:970|1}}, {{CARD:980|1}}, {{CARD:979|1}}, {{CARD:982|1}}, {{CARD:965|1}} and {{CARD:981|1}}. Add one to your hand. {{KW:DELAY}}: Send it from your hand to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at {{CARD:970|1}}, {{CARD:980|1}}, {{CARD:979|1}}, {{CARD:982|1}}, {{CARD:965|1}} and {{CARD:981|1}}. Add one to your hand. {{KW:DELAY}}: Send it from your hand to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

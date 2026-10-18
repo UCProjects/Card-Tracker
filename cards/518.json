@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (3). {{KW:MAGIC}}: Send the copy to your deck, turn into {{CARD:553|1}}. Add a copy of the last other non-{{RARITY:TOKEN}} card you played to your hand. If this has no {{KW:LOOP}}, the copy is exact (min. 1 {{HP}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (3). {{KW:MAGIC}}: Send the copy to your deck, turn into {{CARD:553|1}}. Add a copy of the last other non-{{RARITY:TOKEN}} card you played to your hand. If this has no {{KW:LOOP}}, the copy is exact (min. 1 {{HP}}).",
+        "prev": ""
+      }
+    }
   }
 }

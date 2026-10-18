@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 2 random 1-{{COST}}, 2-{{COST}}, and 3-{{COST}} {{KW:DUST}} monsters. Choose one to summon and kill."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 2 random 1-{{COST}}, 2-{{COST}}, and 3-{{COST}} {{KW:DUST}} monsters. Choose one to summon and kill.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give a monster {{STATS:-1|-2}}. {{KW:DELAY}}: If it's dead and this is non-{{KW:GENERATED}}, add a {{CARD:86|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster {{STATS:-1|-2}}. {{KW:DELAY}}: If it's dead and this is non-{{KW:GENERATED}}, add a {{CARD:86|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

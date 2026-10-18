@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give an ally monster {{KW:HASTE}}. It can attack again."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an ally monster {{KW:HASTE}}. It can attack again.",
+        "prev": ""
+      }
+    }
   }
 }

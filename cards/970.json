@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: You've drawn 3+ cards this turn. {{KW:MAGIC}}: Deal 1 {{DMG}} to all enemies and draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: You've drawn 3+ cards this turn. {{KW:MAGIC}}: Deal 1 {{DMG}} to all enemies and draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

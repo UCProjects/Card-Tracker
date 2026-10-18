@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, heal 3 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TURN_END}}: If this didn't attack this turn, heal 3 {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Fill your hand with random {{TRIBE:PACK|2}} {{KW:PACK_ODDS|override=(The better, the rarer!)}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Fill your hand with random {{TRIBE:PACK|2}} {{KW:PACK_ODDS|override=(The better, the rarer!)}}.",
+        "prev": ""
+      }
+    }
   }
 }

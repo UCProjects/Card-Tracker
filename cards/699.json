@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose an non-{{RARITY:DETERMINATION}} ally monster to summon a {{CARD:684|1}} that {{KW:CATCH|override=Catches}} it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose an non-{{RARITY:DETERMINATION}} ally monster to summon a {{CARD:684|1}} that {{KW:CATCH|override=Catches}} it.",
+        "prev": ""
+      }
+    }
   }
 }

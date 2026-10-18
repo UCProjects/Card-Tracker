@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give 2 random damaged enemy monsters {{KR}} and kill them."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give 2 random damaged enemy monsters {{KR}} and kill them.",
+        "prev": ""
+      }
+    }
   }
 }

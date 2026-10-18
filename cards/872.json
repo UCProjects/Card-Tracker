@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After an enemy monster dies during your turn and {{KW:MAGIC}}: Summon a {{CARD:513|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After an enemy monster dies during your turn and {{KW:MAGIC}}: Summon a {{CARD:513|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

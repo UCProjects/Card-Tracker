@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}} and {{KW:SYNERGY}}: Add a {{CARD:136|1}} to your hand with +2 {{HP}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}} and {{KW:SYNERGY}}: Add a {{CARD:136|1}} to your hand with +2 {{HP}} and {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

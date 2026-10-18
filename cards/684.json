@@ -37,11 +37,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If this has no monster caught, {{KW:CATCH}} an ally {{TRIBE:PLUG|1}}. {{KW:DUST}}: Release it with this card's {{ATK}} and {{HP}} buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If this has no monster caught, {{KW:CATCH}} an ally {{TRIBE:PLUG|1}}. {{KW:DUST}}: Release it with this card's {{ATK}} and {{HP}} buffs.",
+        "prev": ""
+      }
+    }
   }
 }

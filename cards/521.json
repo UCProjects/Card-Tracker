@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give an ally monster {{STATS:+2|+1}}. {{KW:DUST}}: Add a {{CARD:522|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give an ally monster {{STATS:+2|+1}}. {{KW:DUST}}: Add a {{CARD:522|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

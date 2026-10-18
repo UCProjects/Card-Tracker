@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CANDY}}. {{KW:TURN_END}}: Heal this card's {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CANDY}}. {{KW:TURN_END}}: Heal this card's {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

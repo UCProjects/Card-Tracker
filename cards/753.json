@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Add 2 {{CARD:665|2}} to the top of the enemy deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Add 2 {{CARD:665|2}} to the top of the enemy deck.",
+        "prev": ""
+      }
+    }
   }
 }

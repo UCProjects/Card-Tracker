@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Kill a non-{{RARITY:DETERMINATION}} enemy monster. Add a 1-{{COST}} copy of it to the top of your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Kill a non-{{RARITY:DETERMINATION}} enemy monster. Add a 1-{{COST}} copy of it to the top of your deck.",
+        "prev": ""
+      }
+    }
   }
 }

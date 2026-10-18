@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Send the 2 rightmost cards in your hand to your deck. Draw 3 cards."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Send the 2 rightmost cards in your hand to your deck. Draw 3 cards.",
+        "prev": ""
+      }
+    }
   }
 }

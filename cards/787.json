@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Cast {{CARD:575|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Cast {{CARD:575|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

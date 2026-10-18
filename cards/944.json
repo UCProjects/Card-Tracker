@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at 10 almost random cards. Choose one to add to your hand with -1 {{COST}}. Give an extra -1 {{COST}} for every 10 {{HP}} you are missing."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 10 almost random cards. Choose one to add to your hand with -1 {{COST}}. Give an extra -1 {{COST}} for every 10 {{HP}} you are missing.",
+        "prev": ""
+      }
+    }
   }
 }

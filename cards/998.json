@@ -19,13 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Your opponent skips their next turn. Set {{ARTIFACT:81}} and {{ARTIFACT:82}} to 0 counters. Reset your {{QUEST:85}} quest."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Your opponent skips their next turn. Set {{ARTIFACT:81}} and {{ARTIFACT:82}} to 0 counters. Reset your {{QUEST:85}} quest.",
+        "prev": ""
+      }
+    }
   }
 }

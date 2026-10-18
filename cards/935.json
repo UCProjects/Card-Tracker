@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:DARKSPAWN}}. {{KW:MAGIC}}: Deal 12 {{DMG}} to all enemies. Add a {{CARD:936|1}} to the enemy deck (except the top) for every 10 {{DMG}} not dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DARKSPAWN}}. {{KW:MAGIC}}: Deal 12 {{DMG}} to all enemies. Add a {{CARD:936|1}} to the enemy deck (except the top) for every 10 {{DMG}} not dealt.",
+        "prev": ""
+      }
+    }
   }
 }

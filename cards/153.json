@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you summon a monster while you have 5 or less cards in your hand, draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you summon a monster while you have 5 or less cards in your hand, draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

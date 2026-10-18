@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: Deal 5 {{DMG}} to yourself. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

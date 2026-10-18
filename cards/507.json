@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Heal 3 {{HP}} to this.",
+        "prev": ""
+      }
+    }
   }
 }

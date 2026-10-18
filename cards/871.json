@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was an ally monster costing 2+ {{GOLD}}, summon 2 {{CARD:10|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was an ally monster costing 2+ {{GOLD}}, summon 2 {{CARD:10|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

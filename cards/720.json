@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give the highest {{HP}} ally monster -6 {{HP}}. Excess {{HP}} lost is dealt as {{DMG}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give the highest {{HP}} ally monster -6 {{HP}}. Excess {{HP}} lost is dealt as {{DMG}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

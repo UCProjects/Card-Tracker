@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SUPPORT}}: Give the attacker +1 {{HP}}. If it's a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Give the attacker +1 {{HP}}. If it's a {{TRIBE:PLANT|1}}, give it +1 {{ATK}} as well.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: Your dustpile has a monster of each {{COST}} from 1 to 10 {{GOLD}}. {{KW:MAGIC}}: {{KW:ERASE}} them and add 3 {{CARD:783|3}} to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: Your dustpile has a monster of each {{COST}} from 1 to 10 {{GOLD}}. {{KW:MAGIC}}: {{KW:ERASE}} them and add 3 {{CARD:783|3}} to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

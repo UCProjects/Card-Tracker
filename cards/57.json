@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: Repeat all {{KW:SYNERGY}} effects you triggered this game (max 2 per unique effect)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Repeat all {{KW:SYNERGY}} effects you triggered this game (max 2 per unique effect).",
+        "prev": ""
+      }
+    }
   }
 }

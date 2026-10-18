@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: You have a {{RARITY:TOKEN}} card with a base {{COST}} of 3+ {{GOLD}} in your hand. {{KW:MAGIC}}: Add a {{CARD:672|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: You have a {{RARITY:TOKEN}} card with a base {{COST}} of 3+ {{GOLD}} in your hand. {{KW:MAGIC}}: Add a {{CARD:672|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

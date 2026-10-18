@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After an ally monster costing 2+ {{GOLD}} dies, heal 3 {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After an ally monster costing 2+ {{GOLD}} dies, heal 3 {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

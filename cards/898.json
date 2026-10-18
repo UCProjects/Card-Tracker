@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:DARKSPAWN}}. {{KW:HASTE}}. After this attacks a monster and survives, summon an exact copy of this with {{KW:HASTE}} and halve its stats."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DARKSPAWN}}. {{KW:HASTE}}. After this attacks a monster and survives, summon an exact copy of this with {{KW:HASTE}} and halve its stats.",
+        "prev": ""
+      }
+    }
   }
 }

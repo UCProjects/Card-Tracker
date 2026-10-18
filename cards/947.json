@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal 6 {{DMG}} to a monster. For every excess {{DMG}}, give a random different monster in your hand {{STATS:-1|+1|+1}} and {{KW:WANTED}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 6 {{DMG}} to a monster. For every excess {{DMG}}, give a random different monster in your hand {{STATS:-1|+1|+1}} and {{KW:WANTED}}.",
+        "prev": ""
+      }
+    }
   }
 }

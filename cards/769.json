@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:SILENCE}} a monster, then give it {{STATS:-2|-1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: {{KW:SILENCE}} a monster, then give it {{STATS:-2|-1}}.",
+        "prev": ""
+      }
+    }
   }
 }

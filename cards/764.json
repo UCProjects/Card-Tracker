@@ -26,23 +26,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a {{CARD:701|1}} with {{KW:TAUNT}}. If you have less monsters than the opponent, give it {{KW:DODGE}} (1)."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a {{CARD:701|1}} with {{KW:TAUNT}}. If you have less monsters than the opponent, give it {{KW:DODGE}} (1).",
+        "prev": ""
       }
     }
   }

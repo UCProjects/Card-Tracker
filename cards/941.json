@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

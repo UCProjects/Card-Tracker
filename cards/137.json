@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. After this survives {{DMG}} during your turn, summon a 0-{{COST}} {{CARD:137|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}}. After this survives {{DMG}} during your turn, summon a 0-{{COST}} {{CARD:137|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Can only be damaged by 4+ {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and the opponent. Excess {{DMG}} is healed as {{HP}} to you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Can only be damaged by 4+ {{DMG}}. {{KW:MAGIC}}: Deal 3 {{DMG}} to all monsters and the opponent. Excess {{DMG}} is healed as {{HP}} to you.",
+        "prev": ""
+      }
+    }
   }
 }

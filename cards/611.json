@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Give all ally {{TRIBE:DOG|2}} {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Give all ally {{TRIBE:DOG|2}} {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

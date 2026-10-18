@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SILENCE}} a non-{{RARITY:DETERMINATION}} ally monster and add a {{KW:SILENCE|override=Silenced}} copy of it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a non-{{RARITY:DETERMINATION}} ally monster and add a {{KW:SILENCE|override=Silenced}} copy of it to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

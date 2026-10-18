@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a {{CARD:353|1}} and a {{CARD:354|1}} with {{STATS:+2|+2}} adjacent to this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a {{CARD:353|1}} and a {{CARD:354|1}} with {{STATS:+2|+2}} adjacent to this.",
+        "prev": ""
+      }
+    }
   }
 }

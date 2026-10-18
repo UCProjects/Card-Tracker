@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give all ally {{TRIBE:ROYAL_GUARD|2}} +1 {{KW:DODGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

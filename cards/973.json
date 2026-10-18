@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. After this attacks and survives, set all monsters' {{HP}} to this card's {{HP}} and {{KW:SILENCE}} this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this attacks and survives, set all monsters' {{HP}} to this card's {{HP}} and {{KW:SILENCE}} this.",
+        "prev": ""
+      }
+    }
   }
 }

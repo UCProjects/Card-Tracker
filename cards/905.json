@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. {{KW:DUST}}: Give all other ally monsters +1 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:DUST}}: Give all other ally monsters +1 {{ATK}} and {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

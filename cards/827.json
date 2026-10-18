@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Summon the cheapest monster from the enemy hand for the opponent. {{KW:PARALYZE}} it and make it {{KW:WANTED}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon the cheapest monster from the enemy hand for the opponent. {{KW:PARALYZE}} it and make it {{KW:WANTED}}.",
+        "prev": ""
+      }
+    }
   }
 }

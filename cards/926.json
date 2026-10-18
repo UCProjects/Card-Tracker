@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster and its adjacent monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} an enemy monster and its adjacent monsters.",
+        "prev": ""
+      }
+    }
   }
 }

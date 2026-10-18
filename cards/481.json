@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give all ally monsters {{KW:HASTE}} and {{KW:INVULNERABLE}} for this turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all ally monsters {{KW:HASTE}} and {{KW:INVULNERABLE}} for this turn.",
+        "prev": ""
+      }
+    }
   }
 }

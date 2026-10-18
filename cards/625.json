@@ -35,11 +35,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Give a card and the one to its left in your hand -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: Give a card and the one to its left in your hand -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

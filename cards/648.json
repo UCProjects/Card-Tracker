@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TURN_END}}: Give all other ally monsters {{KW:TAUNT}}. {{KW:SUPPORT}}: Turn into a {{CARD:647|1}} with the same base stats as this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Give all other ally monsters {{KW:TAUNT}}. {{KW:SUPPORT}}: Turn into a {{CARD:647|1}} with the same base stats as this.",
+        "prev": ""
+      }
+    }
   }
 }

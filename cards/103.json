@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an enemy monster -2 {{ATK}}. If it has 0 {{ATK}}, kill it.",
+        "prev": ""
+      }
+    }
   }
 }

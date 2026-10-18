@@ -36,11 +36,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Set the copy's stats to {{STATS:2|3|3}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (2). {{KW:MAGIC}}: Set the copy's stats to {{STATS:2|3|3}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: Give its {{ATK}} and max {{HP}} as buffs to a random monster in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Give its {{ATK}} and max {{HP}} as buffs to a random monster in your hand.",
+        "prev": ""
+      }
+    }
   }
 }

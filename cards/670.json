@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give a monster {{KW:TAUNT}}. Give yourself +3 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give a monster {{KW:TAUNT}}. Give yourself +3 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

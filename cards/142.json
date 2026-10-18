@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Before an enemy monster attacks, deal 1 {{DMG}} to it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Before an enemy monster attacks, deal 1 {{DMG}} to it.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -29,27 +29,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give an ally {{TRIBE:AMALGAMATE|1}} (except {{CARD:109|1}}) {{STATS:+1|+1}} and add a copy of it to your hand. {{KW:SYNERGY}}: Give both {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
+      "description": {
+        "now": "{{KW:MAGIC}}: Give an ally {{TRIBE:AMALGAMATE|1}} (except {{CARD:109|1}}) {{STATS:+1|+1}} and add a copy of it to your hand. {{KW:SYNERGY}}: Give both {{STATS:+1|+1}}.",
+        "prev": ""
       }
     }
   }

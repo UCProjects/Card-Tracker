@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at 3 random cards in your deck. Give them -1 {{COST}} and choose one to draw."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 3 random cards in your deck. Give them -1 {{COST}} and choose one to draw.",
+        "prev": ""
+      }
+    }
   }
 }

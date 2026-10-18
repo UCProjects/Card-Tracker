@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give a monster +1 {{HP}} and {{KW:TAUNT}}. Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give a monster +1 {{HP}} and {{KW:TAUNT}}. Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

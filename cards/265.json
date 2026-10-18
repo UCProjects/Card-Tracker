@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Enemy monsters take +2 {{DMG}} from spells. {{KW:MAGIC}}: Add 2 {{CARD:371|2}} to your hand with -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Enemy monsters take +2 {{DMG}} from spells. {{KW:MAGIC}}: Add 2 {{CARD:371|2}} to your hand with -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

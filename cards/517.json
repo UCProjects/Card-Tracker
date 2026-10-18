@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to both players hands and give yours -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look at 5 random monsters and choose one. Add it to both players hands and give yours -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

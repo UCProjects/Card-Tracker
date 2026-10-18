@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:MAGIC}}: Turn all other monsters into random other monsters of the same {{COST}} if possible."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:MAGIC}}: Turn all other monsters into random other monsters of the same {{COST}} if possible.",
+        "prev": ""
+      }
+    }
   }
 }

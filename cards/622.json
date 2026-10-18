@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon 3 {{CARD:617|3}} with {{KW:HASTE}}. Give them {{STATS:+1|+1}} for each other card you spent {{GOLD}} on this turn (max. {{STATS:+3|+3}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon 3 {{CARD:617|3}} with {{KW:HASTE}}. Give them {{STATS:+1|+1}} for each other card you spent {{GOLD}} on this turn (max. {{STATS:+3|+3}}).",
+        "prev": ""
+      }
+    }
   }
 }

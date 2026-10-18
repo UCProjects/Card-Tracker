@@ -41,11 +41,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:SHOCK}}: {{KW:PROGRAM}} (1): Fill your board with {{CARD:359|2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: {{KW:PROGRAM}} (1): Fill your board with {{CARD:359|2}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give all ally monsters +1 {{HP}} and draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give all ally monsters +1 {{HP}} and draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

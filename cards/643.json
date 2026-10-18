@@ -20,11 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:PARALYZE}} an enemy monster. Deal 1 {{DMG}} to all other enemies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:PARALYZE}} an enemy monster. Deal 1 {{DMG}} to all other enemies.",
+        "prev": ""
+      }
+    }
   }
 }

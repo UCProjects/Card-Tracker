@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, {{KW:CATCH}} a {{CARD:4|1}}. {{KW:DUST}}: Release it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have an ally {{TRIBE:MOLD|1}}, {{KW:CATCH}} a {{CARD:4|1}}. {{KW:DUST}}: Release it.",
+        "prev": ""
+      }
+    }
   }
 }

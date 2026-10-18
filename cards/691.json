@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CHARGE}}. {{KW:MAGIC}}: Draw a card. Send your hand to your deck and draw the same number of cards."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Draw a card. Send your hand to your deck and draw the same number of cards.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give the opponent +8 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give the opponent +8 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

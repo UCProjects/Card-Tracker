@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Summon a base {{STATS:3|3}} copy of a non-{{RARITY:DETERMINATION}} monster. Give it {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon a base {{STATS:3|3}} copy of a non-{{RARITY:DETERMINATION}} monster. Give it {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

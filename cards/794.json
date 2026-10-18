@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look At All {{TRIBE:GIGA_ATTACK|2}} You Haven't Cast And Add One To Your Hand. Begin Your {{ARTIFACT:63}}!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Look At All {{TRIBE:GIGA_ATTACK|2}} You Haven't Cast And Add One To Your Hand. Begin Your {{ARTIFACT:63}}!",
+        "prev": ""
+      }
+    }
   }
 }

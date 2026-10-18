@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add an exact copy of a random card in the enemy hand to your hand. Give it -1 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add an exact copy of a random card in the enemy hand to your hand. Give it -1 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

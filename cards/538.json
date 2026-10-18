@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SUPPORT}}: Kill this to give 2 random monsters in your hand {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Kill this to give 2 random monsters in your hand {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 2 {{DMG}} to an ally monster and give it +2 {{ATK}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 2 {{DMG}} to an ally monster and give it +2 {{ATK}} and {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

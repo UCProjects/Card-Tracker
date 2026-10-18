@@ -41,11 +41,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:DODGE}} (1). {{KR}}. After this loses a {{KW:DODGE}}, give 2 random monsters in the enemy hand {{STATS:+1|+1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (1). {{KR}}. After this loses a {{KW:DODGE}}, give 2 random monsters in the enemy hand {{STATS:+1|+1}}.",
+        "prev": ""
+      }
+    }
   }
 }

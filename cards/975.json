@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: Summon a {{STATS:3|3}} copy of all non-{{RARITY:DETERMINATION}} ally monsters that died this turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Summon a {{STATS:3|3}} copy of all non-{{RARITY:DETERMINATION}} ally monsters that died this turn.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -31,11 +31,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "Summon an {{CARD:372|1}} and add an {{CARD:372|1}} to your hand. {{KW:PROGRAM}} (3): Summon another."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon an {{CARD:372|1}} and add an {{CARD:372|1}} to your hand. {{KW:PROGRAM}} (3): Summon another.",
+        "prev": ""
+      }
+    }
   }
 }

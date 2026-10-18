@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:ERASE}} a monster. Start the {{ARTIFACT:25}} route."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:ERASE}} a monster. Start the {{ARTIFACT:25}} route.",
+        "prev": ""
+      }
+    }
   }
 }

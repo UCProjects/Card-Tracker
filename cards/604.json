@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you cast a {{CARD:598|1}} not {{KW:GENERATED}} by {{CARD:604|1}}, add another to your hand. {{KW:DUST}}: Add 2 {{CARD:598|2}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you cast a {{CARD:598|1}} not {{KW:GENERATED}} by {{CARD:604|1}}, add another to your hand. {{KW:DUST}}: Add 2 {{CARD:598|2}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

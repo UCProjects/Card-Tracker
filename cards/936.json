@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURBO}}: {{KW:ERASE}} this and draw a card. Deal 6 {{DMG}} randomly split among all ally monsters. Take any {{DMG}} not dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURBO}}: {{KW:ERASE}} this and draw a card. Deal 6 {{DMG}} randomly split among all ally monsters. Take any {{DMG}} not dealt.",
+        "prev": ""
+      }
+    }
   }
 }

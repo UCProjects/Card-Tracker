@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal 2 {{DMG}} to a monster. If it killed, {{KW:PARALYZE}} the adjacent ones."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 2 {{DMG}} to a monster. If it killed, {{KW:PARALYZE}} the adjacent ones.",
+        "prev": ""
+      }
+    }
   }
 }

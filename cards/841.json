@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_START}}: Turn into {{CARD:842|1}} and set its base {{HP}} to this card's remaining {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_START}}: Turn into {{CARD:842|1}} and set its base {{HP}} to this card's remaining {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

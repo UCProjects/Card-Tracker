@@ -48,11 +48,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:DISARMED}}. {{KW:ARMOR}}. {{KW:SUPPORT}}: Attack the rightmost enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DISARMED}}. {{KW:ARMOR}}. {{KW:SUPPORT}}: Attack the rightmost enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

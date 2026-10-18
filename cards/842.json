@@ -48,11 +48,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:ARMOR}}. {{KW:CHARGE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:ARMOR}}. {{KW:CHARGE}}.",
+        "prev": ""
+      }
+    }
   }
 }

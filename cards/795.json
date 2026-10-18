@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Add All {{TRIBE:GIGA_ATTACK|2}} To Your Hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add All {{TRIBE:GIGA_ATTACK|2}} To Your Hand.",
+        "prev": ""
+      }
+    }
   }
 }

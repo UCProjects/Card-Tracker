@@ -43,11 +43,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DELAY}}: Heal 3 {{HP}} to this and you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DELAY}}: Heal 3 {{HP}} to this and you.",
+        "prev": ""
+      }
+    }
   }
 }

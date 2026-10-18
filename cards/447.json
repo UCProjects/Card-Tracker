@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Cast 7 random spells costing 4 or less {{GOLD}} on random targets."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Cast 7 random spells costing 4 or less {{GOLD}} on random targets.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Add a {{CARD:855|1}} to both players' hands."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add a {{CARD:855|1}} to both players' hands.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After the opponent summons a monster, gain +1 {{ATK}}. After you summon a monster, gain +1 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After the opponent summons a monster, gain +1 {{ATK}}. After you summon a monster, gain +1 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

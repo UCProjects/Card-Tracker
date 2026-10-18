@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: If this didn't attack this turn, deal 4 {{DMG}} to a random enemy monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: If this didn't attack this turn, deal 4 {{DMG}} to a random enemy monster.",
+        "prev": ""
+      }
+    }
   }
 }

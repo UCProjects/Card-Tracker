@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Draw a card and give it -2 {{COST}}. {{KW:TURN_START}}: Trigger its {{KW:DUST}} effect and kill this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Draw a card and give it -2 {{COST}}. {{KW:TURN_START}}: Trigger its {{KW:DUST}} effect and kill this.",
+        "prev": ""
+      }
+    }
   }
 }

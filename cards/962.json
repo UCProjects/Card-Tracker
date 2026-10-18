@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: Equip the {{ARTIFACT:37}} artifact and give it a counter for every monster that died this turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Equip the {{ARTIFACT:37}} artifact and give it a counter for every monster that died this turn.",
+        "prev": ""
+      }
+    }
   }
 }

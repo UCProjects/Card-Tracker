@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Give all ally {{TRIBE:DOG|2}} a random effect: {{KW:TAUNT}}, {{KW:DODGE}} (1), {{KW:CANDY}}, or {{KW:ARMOR}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Give all ally {{TRIBE:DOG|2}} a random effect: {{KW:TAUNT}}, {{KW:DODGE}} (1), {{KW:CANDY}}, or {{KW:ARMOR}}.",
+        "prev": ""
+      }
+    }
   }
 }

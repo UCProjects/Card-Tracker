@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:DELAY}}: Draw a {{TRIBE:DOG|1}}. {{KW:DUST}}: Draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Draw a {{TRIBE:DOG|1}}. {{KW:DUST}}: Draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

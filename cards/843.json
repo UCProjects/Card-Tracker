@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Earn 2 {{GOLD}} and add a {{CARD:577|1}} to your hand for every 3 {{GOLD}} the opponent has."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Earn 2 {{GOLD}} and add a {{CARD:577|1}} to your hand for every 3 {{GOLD}} the opponent has.",
+        "prev": ""
+      }
+    }
   }
 }

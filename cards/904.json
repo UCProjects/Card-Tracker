@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After an enemy {{KW:WANTED}} monster dies, summon a base {{STATS:2|3}} copy of it. {{KW:MAGIC}}: Make an enemy monster {{KW:WANTED}} and deal 1 {{DMG}} to it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After an enemy {{KW:WANTED}} monster dies, summon a base {{STATS:2|3}} copy of it. {{KW:MAGIC}}: Make an enemy monster {{KW:WANTED}} and deal 1 {{DMG}} to it.",
+        "prev": ""
+      }
+    }
   }
 }

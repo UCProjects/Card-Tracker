@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Deal {{DMG}} to the opponent equal to half the amount of monsters in both dustpiles (rounded down)."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Deal {{DMG}} to the opponent equal to half the amount of monsters in both dustpiles (rounded down).",
+        "prev": ""
+      }
+    }
   }
 }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you draw a card, turn it into a random Undertale {{RARITY:LEGENDARY}} with -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you draw a card, turn it into a random Undertale {{RARITY:LEGENDARY}} with -2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "In your hand, this has -1 {{COST}} for each {{TRIBE:PLANT|1}} you've played this game (max. -9 {{COST}})."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "In your hand, this has -1 {{COST}} for each {{TRIBE:PLANT|1}} you've played this game (max. -9 {{COST}}).",
+        "prev": ""
+      }
+    }
   }
 }

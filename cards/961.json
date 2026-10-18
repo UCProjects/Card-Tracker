@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:DISARMED}}. {{KW:TURN_START}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Give all other ally monsters {{STATS:+1|+1}}}} or {{SWITCH_RIGHT:1|Deal 1 {{DMG}} to all enemies}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DISARMED}}. {{KW:TURN_START}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Give all other ally monsters {{STATS:+1|+1}}}} or {{SWITCH_RIGHT:1|Deal 1 {{DMG}} to all enemies}}.",
+        "prev": ""
+      }
+    }
   }
 }

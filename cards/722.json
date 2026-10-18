@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Lose 6 {{GOLD}}. The opponent earns 6 {{GOLD}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Lose 6 {{GOLD}}. The opponent earns 6 {{GOLD}}.",
+        "prev": ""
+      }
+    }
   }
 }

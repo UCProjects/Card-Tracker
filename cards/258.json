@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at {{CARD:463}} and {{CARD:464|1}}. Choose one to add to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at {{CARD:463}} and {{CARD:464|1}}. Choose one to add to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

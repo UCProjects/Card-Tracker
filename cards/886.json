@@ -28,11 +28,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (4). Choose a monster. Give it {{KW:TAUNT}} and make it {{KW:WANTED}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (4). Choose a monster. Give it {{KW:TAUNT}} and make it {{KW:WANTED}}.",
+        "prev": ""
+      }
+    }
   }
 }

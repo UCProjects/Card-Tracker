@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: 7+ {{RARITY:TOKEN}} monsters in your dustpile. {{KW:MAGIC}}: {{KW:ERASE}} them and add a 2-{{COST}} {{CARD:712|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: 7+ {{RARITY:TOKEN}} monsters in your dustpile. {{KW:MAGIC}}: {{KW:ERASE}} them and add a 2-{{COST}} {{CARD:712|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

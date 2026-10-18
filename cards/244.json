@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the leftmost and rightmost living enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 1 {{DMG}} to the leftmost and rightmost living enemy monsters.",
+        "prev": ""
+      }
+    }
   }
 }

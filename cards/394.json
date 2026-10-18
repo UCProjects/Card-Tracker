@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{STATS:+1|+1}} and {{KW:ARMOR}}}} or {{SWITCH_RIGHT:1|Summon a copy of this with {{KW:HASTE}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Gain {{STATS:+1|+1}} and {{KW:ARMOR}}}} or {{SWITCH_RIGHT:1|Summon a copy of this with {{KW:HASTE}}}}.",
+        "prev": ""
+      }
+    }
   }
 }

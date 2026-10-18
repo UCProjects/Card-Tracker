@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:DODGE}} (1). After this attacks and kills a monster, deal 1 {{DMG}} to a random enemy monster. If it died, repeat."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DODGE}} (1). After this attacks and kills a monster, deal 1 {{DMG}} to a random enemy monster. If it died, repeat.",
+        "prev": ""
+      }
+    }
   }
 }

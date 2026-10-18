@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an ally monster to deal 3 {{DMG}} to the opponent."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an ally monster to deal 3 {{DMG}} to the opponent.",
+        "prev": ""
+      }
+    }
   }
 }

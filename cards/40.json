@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Add a {{CARD:349|1}} to your hand. {{KW:DELAY}}: If this has {{ATK}} buffs, add another."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Add a {{CARD:349|1}} to your hand. {{KW:DELAY}}: If this has {{ATK}} buffs, add another.",
+        "prev": ""
+      }
+    }
   }
 }

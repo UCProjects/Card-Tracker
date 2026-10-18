@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SHOCK}}: Summon a {{CARD:811|1}}. {{KW:TURN_END}}: Lose this {{KW:SHOCK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: Summon a {{CARD:811|1}}. {{KW:TURN_END}}: Lose this {{KW:SHOCK}}.",
+        "prev": ""
+      }
+    }
   }
 }

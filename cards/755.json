@@ -34,31 +34,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw a spell. {{KW:SHOCK}}: Add {{CARD:665|1}} to your opponent's deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 6
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw a spell. {{KW:SHOCK}}: Add {{CARD:665|1}} to your opponent's deck.",
+        "prev": ""
       }
     }
   }

@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Both players draw a monster. {{KW:DELAY}}: If yours is still in your hand, swap them!"
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Both players draw a monster. {{KW:DELAY}}: If yours is still in your hand, swap them!",
+        "prev": ""
+      }
+    }
   }
 }

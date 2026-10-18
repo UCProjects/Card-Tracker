@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:SYNERGY}}: Summon a {{CARD:119|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

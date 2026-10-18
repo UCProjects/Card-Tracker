@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SHOCK}}: Deal 2 {{DMG}} to this to summon a {{CARD:924|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: Deal 2 {{DMG}} to this to summon a {{CARD:924|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

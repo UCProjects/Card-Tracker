@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SHOCK}}: Add a {{CARD:577|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SHOCK}}: Add a {{CARD:577|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

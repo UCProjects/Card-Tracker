@@ -27,19 +27,15 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give an ally monster +3 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 5
+      "description": {
+        "now": "{{KW:MAGIC}}: Deal 3 {{DMG}} to an enemy or give an ally monster +3 {{ATK}}.",
+        "prev": ""
       }
     }
   }

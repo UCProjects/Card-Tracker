@@ -36,11 +36,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:QUEST}}: Obtain the {{QUEST:77}}. After this attacks and kills a monster and {{KW:MAGIC}}: Add an {{CARD:983|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:QUEST}}: Obtain the {{QUEST:77}}. After this attacks and kills a monster and {{KW:MAGIC}}: Add an {{CARD:983|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

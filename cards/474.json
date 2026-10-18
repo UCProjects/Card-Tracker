@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you summon an {{TRIBE:ARACHNID|1}}, gain +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{RARITY:TOKEN}} {{TRIBE:ARACHNID|1}} from your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you summon an {{TRIBE:ARACHNID|1}}, gain +1 {{ATK}}. {{KW:MAGIC}} and {{KW:TURN_START}}: Summon a {{RARITY:TOKEN}} {{TRIBE:ARACHNID|1}} from your deck.",
+        "prev": ""
+      }
+    }
   }
 }

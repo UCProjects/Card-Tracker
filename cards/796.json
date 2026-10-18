@@ -22,11 +22,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Give An Ally Monster +1 {{KW:DODGE}}. It Attacks The Lowest {{ATK}} Enemy Monster."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Give An Ally Monster +1 {{KW:DODGE}}. It Attacks The Lowest {{ATK}} Enemy Monster.",
+        "prev": ""
+      }
+    }
   }
 }

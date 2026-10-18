@@ -20,13 +20,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal 5 {{DMG}}. Excess {{DMG}} goes to Mad Dummy."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal 5 {{DMG}}. Excess {{DMG}} goes to Mad Dummy.",
+        "prev": ""
+      }
+    }
   }
 }

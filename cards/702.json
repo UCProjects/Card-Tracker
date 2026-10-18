@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Summon a copy of all enemy monsters that died this turn for you."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Summon a copy of all enemy monsters that died this turn for you.",
+        "prev": ""
+      }
+    }
   }
 }

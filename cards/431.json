@@ -48,11 +48,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CANDY}}. {{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Heal 5 {{HP}} to all allies."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CANDY}}. {{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Heal 5 {{HP}} to all allies.",
+        "prev": ""
+      }
+    }
   }
 }

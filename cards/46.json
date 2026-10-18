@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: If you have an ally {{CARD:47|1}}, give all {{TRIBE:DOG|2}} in your hand {{STATS:+2|+2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: If you have an ally {{CARD:47|1}}, give all {{TRIBE:DOG|2}} in your hand {{STATS:+2|+2}}.",
+        "prev": ""
+      }
+    }
   }
 }

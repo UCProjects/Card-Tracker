@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Add 3 {{CARD:312|3}} to your hand}} or {{SWITCH_RIGHT:1|Give all {{CARD:312|2}} in your hand and board {{STATS:+1|+1}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{SWITCH_LEFT:1|Add 3 {{CARD:312|3}} to your hand}} or {{SWITCH_RIGHT:1|Give all {{CARD:312|2}} in your hand and board {{STATS:+1|+1}}}}.",
+        "prev": ""
+      }
+    }
   }
 }

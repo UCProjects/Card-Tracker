@@ -27,11 +27,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} effect of a monster in your hand. If played on the left, {{SWITCH_LEFT:1|send it to your deck and draw a card}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Trigger the {{KW:TURBO}} effect of a monster in your hand. If played on the left, {{SWITCH_LEFT:1|send it to your deck and draw a card}}.",
+        "prev": ""
+      }
+    }
   }
 }

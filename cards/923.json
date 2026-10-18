@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:NEED}}: A monster with base {{COST}} of 2+ {{GOLD}} died this turn. {{KW:MAGIC}}: Gain {{ATK}} equal to the {{ATK}} of the monster in front of this. If it's non-{{RARITY:DETERMINATION}}, make it {{CARD:703|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:NEED}}: A monster with base {{COST}} of 2+ {{GOLD}} died this turn. {{KW:MAGIC}}: Gain {{ATK}} equal to the {{ATK}} of the monster in front of this. If it's non-{{RARITY:DETERMINATION}}, make it {{CARD:703|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

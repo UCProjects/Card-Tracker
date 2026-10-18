@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. After this takes {{DMG}}, summon a {{CARD:513|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}}. After this takes {{DMG}}, summon a {{CARD:513|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

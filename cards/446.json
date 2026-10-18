@@ -21,11 +21,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Draw up to 3 cards and give them -2 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Draw up to 3 cards and give them -2 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

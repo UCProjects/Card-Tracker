@@ -37,33 +37,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give all enemy monsters +1 {{KW:MOLD_SPORE}} for every {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} you played this turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "AMALGAMATE",
-          "MOLD"
-        ],
-        "prev": [
-          "MOLD",
-          "AMALGAMATE"
-        ]
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:MAGIC}}: Give all enemy monsters +1 {{KW:MOLD_SPORE}} for every {{TRIBE:MOLD|1}} or {{TRIBE:AMALGAMATE|1}} you played this turn.",
+        "prev": ""
       }
     }
   }

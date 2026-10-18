@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:ERASE}} your dustpile. Summon the next {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}} and {{KW:TAUNT}} for every 7 monsters {{KW:ERASE|override=Erased}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ERASE}} your dustpile. Summon the next {{TRIBE:LOST_SOUL|1}} with {{KW:HASTE}} and {{KW:TAUNT}} for every 7 monsters {{KW:ERASE|override=Erased}}.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -36,11 +36,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, draw a {{TRIBE:PLUG|1}} with {{STATS:+2|+2}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DODGE}} (1). After this loses a {{KW:DODGE}}, draw a {{TRIBE:PLUG|1}} with {{STATS:+2|+2}}.",
+        "prev": ""
+      }
+    }
   }
 }

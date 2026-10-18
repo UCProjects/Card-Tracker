@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After an ally {{TRIBE:PLANT|1}} dies, gain +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After an ally {{TRIBE:PLANT|1}} dies, gain +1 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

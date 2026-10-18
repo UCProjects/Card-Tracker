@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After this attacks and survives, turn it into a random monster with {{STATS:4|6}} base stats."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After this attacks and survives, turn it into a random monster with {{STATS:4|6}} base stats.",
+        "prev": ""
+      }
+    }
   }
 }

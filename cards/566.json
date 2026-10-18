@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a {{CARD:244|1}} and trigger its {{KW:MAGIC}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DUST}}: Summon a {{CARD:244|1}} and trigger its {{KW:MAGIC}}.",
+        "prev": ""
+      }
+    }
   }
 }

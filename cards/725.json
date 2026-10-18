@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at all {{RARITY:LEGENDARY}} monsters (except {{CARD:472|1}}) and choose one. {{KW:DELAY}}: Add it to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at all {{RARITY:LEGENDARY}} monsters (except {{CARD:472|1}}) and choose one. {{KW:DELAY}}: Add it to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -34,13 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:MOLD_SPORE}} (0)."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MOLD_SPORE}} (0).",
+        "prev": ""
+      }
+    }
   }
 }

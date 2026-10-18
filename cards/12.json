@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: Draw {{SWITCH_LEFT:1|a monster}} or {{SWITCH_RIGHT:1|a spell}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: Draw {{SWITCH_LEFT:1|a monster}} or {{SWITCH_RIGHT:1|a spell}}.",
+        "prev": ""
+      }
+    }
   }
 }

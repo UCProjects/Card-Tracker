@@ -34,19 +34,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:NEED}}: You spent {{GOLD}} on a spell and a monster last turn. {{KW:MAGIC}}: Add 3 {{CARD:576|3}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:NEED}}: You spent {{GOLD}} on a spell and a monster last turn. {{KW:MAGIC}}: Add 3 {{CARD:576|3}} to your hand.",
+        "prev": ""
       }
     }
   }

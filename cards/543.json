@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Add {{CARD:544|1}} to your hand. Give it -1 {{COST}} for each ally monster with a Tribe."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Add {{CARD:544|1}} to your hand. Give it -1 {{COST}} for each ally monster with a Tribe.",
+        "prev": ""
+      }
+    }
   }
 }

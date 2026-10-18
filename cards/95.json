@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Deal {{DMG}} to all monsters equal to their {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Deal {{DMG}} to all monsters equal to their {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

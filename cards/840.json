@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:ARMOR}}. This takes +2 {{DMG}} from enemy monsters and spells."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:ARMOR}}. This takes +2 {{DMG}} from enemy monsters and spells.",
+        "prev": ""
+      }
+    }
   }
 }

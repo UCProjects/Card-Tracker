@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at 3 random spells costing 2+ {{GOLD}}. Choose one to add to your hand with -1 {{COST}} for each {{CARD:598|1}} you cast this turn. {{KW:SHOCK}}: Add a {{CARD:598|1}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at 3 random spells costing 2+ {{GOLD}}. Choose one to add to your hand with -1 {{COST}} for each {{CARD:598|1}} you cast this turn. {{KW:SHOCK}}: Add a {{CARD:598|1}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

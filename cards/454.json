@@ -24,11 +24,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Choose a card in your hand to {{KW:ERASE}}. Draw 3 cards."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Choose a card in your hand to {{KW:ERASE}}. Draw 3 cards.",
+        "prev": ""
+      }
+    }
   }
 }

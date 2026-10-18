@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After you spend {{GOLD}} on spells, summon a {{CARD:370|1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After you spend {{GOLD}} on spells, summon a {{CARD:370|1}}.",
+        "prev": ""
+      }
+    }
   }
 }

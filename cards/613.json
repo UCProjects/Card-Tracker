@@ -19,11 +19,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Look at 7 random non-{{RARITY:DETERMINATION}} 7-{{COST}} monsters (except {{CARD:545|1}}). Choose one to add to your hand with -7 {{COST}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Look at 7 random non-{{RARITY:DETERMINATION}} 7-{{COST}} monsters (except {{CARD:545|1}}). Choose one to add to your hand with -7 {{COST}}.",
+        "prev": ""
+      }
+    }
   }
 }

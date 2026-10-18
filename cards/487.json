@@ -25,11 +25,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Add 1 of every non-{{RARITY:TOKEN}} {{SOUL:JUSTICE}} spell you cast this game to your hand. They {{COST}} 1 less.",
+        "prev": ""
+      }
+    }
   }
 }

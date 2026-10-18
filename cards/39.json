@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Give {{KW:HASTE}} to 4 random {{TRIBE:ROYAL_GUARD|4}} in your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Give {{KW:HASTE}} to 4 random {{TRIBE:ROYAL_GUARD|4}} in your hand.",
+        "prev": ""
+      }
+    }
   }
 }

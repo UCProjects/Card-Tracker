@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Can only take up to 3 {{DMG}} at a time."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Can only take up to 3 {{DMG}} at a time.",
+        "prev": ""
+      }
+    }
   }
 }

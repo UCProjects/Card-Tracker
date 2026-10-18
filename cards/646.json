@@ -125,134 +125,15 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KR}}. {{KW:MOLD_SPORE}} (0). {{KW:CHARGE}}. {{KW:HASTE}}. {{KW:ARMOR}}. {{KW:DISARMED}}. {{KW:CANDY}}. {{KW:TRANSPARENCY}}. {{KW:TAUNT}}. {{KW:DODGE}} (1). {{KW:WANTED}}. {{KW:DARKSPAWN}}. {{KW:FLOWERY_POWER}}. {{KW:INVULNERABLE}} for one turn."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 3
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEGATIVE",
-            "name": "KR",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "MoldSpore",
-            "statusBehavior": "STACKABLE",
-            "counter": 0,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "FloweryPower",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Invulnerable",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Dodge",
-            "statusBehavior": "STACKABLE",
-            "counter": 1,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Charge",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Armor",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "Disarmed",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Transparency",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Candy",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "NEGATIVE",
-            "name": "Wanted",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Darkspawn",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
+      "description": {
+        "now": "{{KR}}. {{KW:MOLD_SPORE}} (0). {{KW:CHARGE}}. {{KW:HASTE}}. {{KW:ARMOR}}. {{KW:DISARMED}}. {{KW:CANDY}}. {{KW:TRANSPARENCY}}. {{KW:TAUNT}}. {{KW:DODGE}} (1). {{KW:WANTED}}. {{KW:DARKSPAWN}}. {{KW:FLOWERY_POWER}}. {{KW:INVULNERABLE}} for one turn.",
+        "prev": ""
       }
     }
   }

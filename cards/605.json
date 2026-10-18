@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Draw up to 3 cards. {{KW:DELAY}}: Send them from your hand to your deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Draw up to 3 cards. {{KW:DELAY}}: Send them from your hand to your deck.",
+        "prev": ""
+      }
+    }
   }
 }

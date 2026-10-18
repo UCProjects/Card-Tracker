@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CHARGE}}. After this attacks and kills a monster, this can attack another monster. {{KW:MAGIC}}: {{KW:PROGRAM}} (2): Gain {{KW:ARMOR}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CHARGE}}. After this attacks and kills a monster, this can attack another monster. {{KW:MAGIC}}: {{KW:PROGRAM}} (2): Gain {{KW:ARMOR}}.",
+        "prev": ""
+      }
+    }
   }
 }

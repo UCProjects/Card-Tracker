@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. After an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. After an enemy monster is summoned, {{KW:PARALYZE}} it and give it -1 {{ATK}}. {{KW:SILENCE}} this.",
+        "prev": ""
+      }
+    }
   }
 }

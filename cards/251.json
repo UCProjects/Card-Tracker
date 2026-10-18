@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:SYNERGY}}: Add a {{CARD:750|1}} to your hand. {{KW:DELAY}}: {{KW:ERASE}} it from your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SYNERGY}}: Add a {{CARD:750|1}} to your hand. {{KW:DELAY}}: {{KW:ERASE}} it from your hand.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -36,11 +36,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (1). {{KW:DELAY}}: Give the copy this card's stat buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). {{KW:DELAY}}: Give the copy this card's stat buffs.",
+        "prev": ""
+      }
+    }
   }
 }

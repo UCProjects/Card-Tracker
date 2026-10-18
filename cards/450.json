@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TAUNT}}. {{KW:DODGE}} (1). {{KW:DUST}}: Add a {{CARD:536}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DODGE}} (1). {{KW:DUST}}: Add a {{CARD:536}} to your hand.",
+        "prev": ""
+      }
+    }
   }
 }

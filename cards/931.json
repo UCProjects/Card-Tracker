@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:DARKSPAWN}}. {{KW:SHOCK}}: Gain {{STATS:+1|+1}} for every 2 {{GOLD}} the spell costs and gain {{KW:HASTE}}. This can attack again."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DARKSPAWN}}. {{KW:SHOCK}}: Gain {{STATS:+1|+1}} for every 2 {{GOLD}} the spell costs and gain {{KW:HASTE}}. This can attack again.",
+        "prev": ""
+      }
+    }
   }
 }

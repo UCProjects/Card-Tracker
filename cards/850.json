@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:TURN_END}}: Add a {{CARD:367|1}} to the enemy deck."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TURN_END}}: Add a {{CARD:367|1}} to the enemy deck.",
+        "prev": ""
+      }
+    }
   }
 }

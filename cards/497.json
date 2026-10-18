@@ -34,11 +34,16 @@
         "displayCounter": true
       }
     ],
-    "description": ""
+    "description": "{{KW:LOOP}} (1). {{KW:MAGIC}}: If you played a card with a base {{COST}} of 6+ {{GOLD}} this turn, gain {{STATS:+1|+1}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:LOOP}} (1). {{KW:MAGIC}}: If you played a card with a base {{COST}} of 6+ {{GOLD}} this turn, gain {{STATS:+1|+1}} and {{KW:HASTE}}.",
+        "prev": ""
+      }
+    }
   }
 }

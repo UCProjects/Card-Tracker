@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "Draw 3 monsters. Give them +2 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "Draw 3 monsters. Give them +2 {{HP}}.",
+        "prev": ""
+      }
+    }
   }
 }

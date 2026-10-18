@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DUST}}: Equip the {{ARTIFACT:38}} artifact. Give it 3 counters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DUST}}: Equip the {{ARTIFACT:38}} artifact. Give it 3 counters.",
+        "prev": ""
+      }
+    }
   }
 }

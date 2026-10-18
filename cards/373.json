@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. After this deals {{DMG}} to a monster, heal {{HP}} to you equal to the {{DMG}} dealt."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. After this deals {{DMG}} to a monster, heal {{HP}} to you equal to the {{DMG}} dealt.",
+        "prev": ""
+      }
+    }
   }
 }

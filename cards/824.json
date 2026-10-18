@@ -41,11 +41,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Summon a {{CARD:825|1}} and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: Regain this {{KW:SHOCK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:SHOCK}}: Summon a {{CARD:825|1}} and lose this {{KW:SHOCK}}. {{KW:TURN_END}}: Regain this {{KW:SHOCK}}.",
+        "prev": ""
+      }
+    }
   }
 }

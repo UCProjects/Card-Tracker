@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:SUPPORT}}: Copy the {{ATK}} of the attacker."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:SUPPORT}}: Copy the {{ATK}} of the attacker.",
+        "prev": ""
+      }
+    }
   }
 }

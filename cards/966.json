@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a {{STATS:1|2}} {{CARD:959|1}} for the opponent. {{KW:DELAY}}: If it's dead, summon a {{CARD:959|1}} for you. Otherwise, kill it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a {{STATS:1|2}} {{CARD:959|1}} for the opponent. {{KW:DELAY}}: If it's dead, summon a {{CARD:959|1}} for you. Otherwise, kill it.",
+        "prev": ""
+      }
+    }
   }
 }

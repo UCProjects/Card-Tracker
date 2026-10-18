@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Look at all other {{TRIBE:G_FOLLOWER|2}} and add one to your hand. {{KW:SYNERGY}}: Add it to your hand with -1 {{COST}} instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Look at all other {{TRIBE:G_FOLLOWER|2}} and add one to your hand. {{KW:SYNERGY}}: Add it to your hand with -1 {{COST}} instead.",
+        "prev": ""
+      }
+    }
   }
 }

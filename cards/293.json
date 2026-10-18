@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:HASTE}}. {{KW:MAGIC}}: If there are 7+ monsters in the enemy dustpile, gain +2 {{ATK}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: If there are 7+ monsters in the enemy dustpile, gain +2 {{ATK}}.",
+        "prev": ""
+      }
+    }
   }
 }

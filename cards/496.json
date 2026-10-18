@@ -28,11 +28,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "After an ally {{TRIBE:SNAIL|1}} dies, draw a card."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "After an ally {{TRIBE:SNAIL|1}} dies, draw a card.",
+        "prev": ""
+      }
+    }
   }
 }

@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: Summon a base {{STATS:1|1}} exact copy of a {{TRIBE:PLUG|1}} in your hand with its {{ATK}} and {{HP}} buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon a base {{STATS:1|1}} exact copy of a {{TRIBE:PLUG|1}} in your hand with its {{ATK}} and {{HP}} buffs.",
+        "prev": ""
+      }
+    }
   }
 }

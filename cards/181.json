@@ -23,11 +23,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:DELAY}}: Equip the {{ARTIFACT:37}} artifact and give it 6 counters. If you have it, trigger its {{KW:TURN_END}} until it has no counters, then give it 6."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:DELAY}}: Equip the {{ARTIFACT:37}} artifact and give it 6 counters. If you have it, trigger its {{KW:TURN_END}} until it has no counters, then give it 6.",
+        "prev": ""
+      }
+    }
   }
 }

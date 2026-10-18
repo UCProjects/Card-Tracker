@@ -29,11 +29,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": ""
+    "description": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was already {{KW:PARALYZE|override=Paralyzed}}, deal 2 {{DMG}} to it."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was already {{KW:PARALYZE|override=Paralyzed}}, deal 2 {{DMG}} to it.",
+        "prev": ""
+      }
+    }
   }
 }

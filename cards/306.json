@@ -35,11 +35,16 @@
         "displayCounter": false
       }
     ],
-    "description": ""
+    "description": "{{KW:CANDY}}. {{KW:MAGIC}}: Give a monster {{KW:CANDY}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:CANDY}}. {{KW:MAGIC}}: Give a monster {{KW:CANDY}}.",
+        "prev": ""
+      }
+    }
   }
 }

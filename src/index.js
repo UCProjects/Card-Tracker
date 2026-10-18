@@ -11,12 +11,15 @@ const writeFile = util.promisify(fs.writeFile);
 const origin = 'https://undercards.net';
 const [from, lang] = process.argv.slice(2);
 
-loadChanges(from, lang);
+loadChanges(from, lang).catch((e) => {
+  console.error(e);
+  process.exit(1);
+});
 
 async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${origin}/translation/en.json`) {
   const language = lang.startsWith('https://') ? needle(lang).then(res => res.body) : readFile(lang);
   const allCards = fetchCards(from);
-  allCards.then(({cards} = {}) => {
+  return allCards.then(({cards} = {}) => {
     // TODO: compare hash from latest.json, only process if new things
     // const now = hash(cards);
     // console.log(now);
@@ -30,8 +33,7 @@ async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${o
     lang = {},
   } = {}) => {
     if (!cards.length) {
-      console.log('Cards not found');
-      return;
+      throw new Error('Cards not found');
     }
     if (!Object.keys(lang).length) {
       console.warn('Translations not found');
@@ -82,7 +84,7 @@ async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${o
       console.log(count, 'changes.');
       return writeFile('latestDiffs.json', JSON.stringify(diffs, replacer, 2));
     });
-  }).catch(console.error);
+  });
 }
 
 async function fetchCards(from) {

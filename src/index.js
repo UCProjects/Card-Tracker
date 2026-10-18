@@ -8,13 +8,14 @@ const commit = true;
 const readFile = util.promisify(fs.readFile);
 const access = util.promisify(fs.access);
 const writeFile = util.promisify(fs.writeFile);
+const origin = 'https://undercards.net';
 const [from, lang] = process.argv.slice(2);
 
 loadChanges(from, lang);
 
-async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'https://undercards.net/translation/en.json') {
+async function loadChanges(from = `${origin}/card-data/latest.json`, lang = `${origin}/translation/en.json`) {
   const language = lang.startsWith('https://') ? needle(lang).then(res => res.body) : readFile(lang);
-  const allCards = from.startsWith('https://') ? needle(from).then(res => res.body) : readFile(from).then(JSON.parse);
+  const allCards = fetchCards(from);
   allCards.then(({cards} = {}) => {
     // TODO: compare hash from latest.json, only process if new things
     // const now = hash(cards);
@@ -82,6 +83,13 @@ async function loadChanges(from = 'https://undercards.net/AllCards', lang = 'htt
       return writeFile('latestDiffs.json', JSON.stringify(diffs, replacer, 2));
     });
   }).catch(console.error);
+}
+
+async function fetchCards(from) {
+  if (!from.startsWith('https://')) return readFile(from).then(JSON.parse);
+  const { body } = await needle('get', from);
+  if (!body.url) return body;
+  return needle('get', `${origin}${body.url}`).then(res => res.body);
 }
 
 function equality(a, b) {

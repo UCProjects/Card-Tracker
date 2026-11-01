@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1007,
+    "fixedId": 1007,
+    "typeCard": 0,
+    "name": "Shuttah",
+    "image": "Shuttah",
+    "baseImage": "Shuttah",
+    "cost": 5,
+    "rarity": "EPIC",
+    "originalCost": 5,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": "{{KW:MAGIC}}: Enchant all ally slots with {{ENCHANT:PHOTO_SHOOT|1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

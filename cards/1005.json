@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 2,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 2,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1005,
+    "fixedId": 1005,
+    "typeCard": 0,
+    "name": "Steam Vent",
+    "image": "Steam_Vent",
+    "baseImage": "Steam_Vent",
+    "cost": 2,
+    "rarity": "RARE",
+    "originalCost": 2,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "BASE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": "{{KW:DUST}}: Enchant this slot with {{ENCHANT:GATHERING_STEAM|1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 7,
+    "originalHp": 7,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1002,
+    "fixedId": 1002,
+    "typeCard": 0,
+    "name": "The Tropical",
+    "image": "The_Tropical",
+    "baseImage": "The_Tropical",
+    "cost": 7,
+    "rarity": "EPIC",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": "{{STYLE:tropical|Starwalker}}. {{KW:MAGIC}}: If you have 4+ unique rarities in your dustpile, gain {{KW:HASTE}} and {{KW:TAUNT}}. If you have 6+, {{KW:ERASE}} them to gain {{STATS:+1|+1}} and {{KW:DODGE}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

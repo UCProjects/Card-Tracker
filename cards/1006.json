@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 4,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1006,
+    "fixedId": 1006,
+    "typeCard": 0,
+    "name": "Bibliox",
+    "image": "Bibliox",
+    "baseImage": "Bibliox",
+    "cost": 3,
+    "rarity": "COMMON",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": "{{KW:MAGIC}}: Look at 4 spells with {{COST}} equal to your current {{GOLD}} (max 12). Add one to your hand."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

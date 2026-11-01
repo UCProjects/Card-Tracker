@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 5,
-    "hp": 7,
-    "maxHp": 7,
-    "originalAttack": 5,
-    "originalHp": 7,
+    "attack": 3,
+    "hp": 9,
+    "maxHp": 9,
+    "originalAttack": 3,
+    "originalHp": 9,
     "dead": false,
     "boardPosition": -1,
     "id": 35,
@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "MOLD",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "MOLD"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -43,15 +43,25 @@
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "MOLD",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "MOLD"
-        ]
+      "attack": {
+        "now": 3,
+        "prev": 5
+      },
+      "hp": {
+        "now": 9,
+        "prev": 7
+      },
+      "maxHp": {
+        "now": 9,
+        "prev": 7
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 9,
+        "prev": 7
       }
     }
   }

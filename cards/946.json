@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "{{KW:MAGIC}}: Summon 3 random non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile."
+    "description": "{{KW:MAGIC}}: Summon 3 unique non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile and give them {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon 3 unique non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile and give them {{KW:HASTE}}.",
+        "prev": "{{KW:MAGIC}}: Summon 3 random non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile."
+      }
+    }
   }
 }

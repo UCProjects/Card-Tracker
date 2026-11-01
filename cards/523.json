@@ -16,7 +16,7 @@
     "cost": 10,
     "rarity": "COMMON",
     "originalCost": 10,
-    "target": "MONSTER",
+    "target": "ALL",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -27,11 +27,20 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}} to a monster."
+    "description": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "target": {
+        "now": "ALL",
+        "prev": "MONSTER"
+      },
+      "description": {
+        "now": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}}.",
+        "prev": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}} to a monster."
+      }
+    }
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 8,
-    "hp": 5,
-    "maxHp": 5,
+    "hp": 6,
+    "maxHp": 6,
     "originalAttack": 8,
-    "originalHp": 5,
+    "originalHp": 6,
     "dead": false,
     "boardPosition": -1,
     "id": 878,
@@ -13,9 +13,9 @@
     "name": "Ceroba Ketsukane",
     "image": "Ceroba_Ketsukane",
     "baseImage": "Ceroba_Ketsukane",
-    "cost": 12,
+    "cost": 13,
     "rarity": "DETERMINATION",
-    "originalCost": 12,
+    "originalCost": 13,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -39,6 +39,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 6,
+        "prev": 5
+      },
+      "maxHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "originalHp": {
+        "now": 6,
+        "prev": 5
+      },
+      "cost": {
+        "now": 13,
+        "prev": 12
+      },
+      "originalCost": {
+        "now": 13,
+        "prev": 12
+      }
+    }
   }
 }

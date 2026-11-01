@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 3,
-    "hp": 1,
-    "maxHp": 1,
-    "originalAttack": 3,
-    "originalHp": 1,
+    "attack": 4,
+    "hp": 7,
+    "maxHp": 7,
+    "originalAttack": 4,
+    "originalHp": 7,
     "dead": false,
     "boardPosition": -1,
     "id": 479,
@@ -13,9 +13,9 @@
     "name": "Fly",
     "image": "Fly",
     "baseImage": "Fly",
-    "cost": 4,
+    "cost": 7,
     "rarity": "COMMON",
-    "originalCost": 4,
+    "originalCost": 7,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -39,6 +39,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 3
+      },
+      "hp": {
+        "now": 7,
+        "prev": 1
+      },
+      "maxHp": {
+        "now": 7,
+        "prev": 1
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 7,
+        "prev": 1
+      },
+      "cost": {
+        "now": 7,
+        "prev": 4
+      },
+      "originalCost": {
+        "now": 7,
+        "prev": 4
+      }
+    }
   }
 }

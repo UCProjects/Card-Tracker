@@ -26,20 +26,29 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [
-      {
-        "statusType": "POSITIVE",
-        "name": "Taunt",
-        "statusBehavior": "UNIQUE",
-        "counter": 1,
-        "displayCounter": false
-      }
-    ],
-    "description": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SILENCE}} and kill an ally monster to gain +3 {{HP}}."
+    "statuses": [],
+    "description": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{KW:SILENCE}} and kill an ally monster to gain {{SWITCH_LEFT:1|+3 {{HP}} and {{KW:TAUNT}}}} or {{SWITCH_RIGHT:1|+2 {{ATK}} and {{KW:HASTE}}}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      },
+      "description": {
+        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{KW:SILENCE}} and kill an ally monster to gain {{SWITCH_LEFT:1|+3 {{HP}} and {{KW:TAUNT}}}} or {{SWITCH_RIGHT:1|+2 {{ATK}} and {{KW:HASTE}}}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SILENCE}} and kill an ally monster to gain +3 {{HP}}."
+      }
+    }
   }
 }

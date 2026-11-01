@@ -1,0 +1,53 @@
+{
+  "card": {
+    "attack": 1,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 1,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1013,
+    "fixedId": 1013,
+    "typeCard": 0,
+    "name": "Cap'n",
+    "image": "Capn",
+    "baseImage": "Capn",
+    "cost": 3,
+    "rarity": "EPIC",
+    "originalCost": 3,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Transparency",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. Your {{KW:SUPPORT}} effects trigger an additional time."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

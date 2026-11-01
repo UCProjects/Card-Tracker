@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 4,
-    "hp": 4,
-    "maxHp": 4,
-    "originalAttack": 4,
-    "originalHp": 4,
+    "attack": 3,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 3,
+    "originalHp": 2,
     "dead": false,
     "boardPosition": -1,
     "id": 954,
@@ -13,9 +13,9 @@
     "name": "Violetta",
     "image": "Violetta",
     "baseImage": "Violetta",
-    "cost": 5,
+    "cost": 3,
     "rarity": "RARE",
-    "originalCost": 5,
+    "originalCost": 3,
     "shiny": false,
     "quantity": 1,
     "extension": "UTY",
@@ -39,6 +39,35 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 4
+      },
+      "hp": {
+        "now": 2,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 4
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 4
+      },
+      "cost": {
+        "now": 3,
+        "prev": 5
+      },
+      "originalCost": {
+        "now": 3,
+        "prev": 5
+      }
+    }
   }
 }

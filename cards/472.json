@@ -34,11 +34,16 @@
         "displayCounter": false
       }
     ],
-    "description": "{{KW:TAUNT}}. {{KW:NEED}}: No non-{{KW:GENERATED}} {{RARITY:LEGENDARY}} monsters in your deck or dustpile. {{KW:MAGIC}}: Add 2 {{CARD:725|2}} to your hand."
+    "description": "{{KW:TAUNT}}. {{KW:NEED}}: Your starting deck has no other {{RARITY:LEGENDARY}} monsters. {{KW:MAGIC}}: If this is the first time you play this, add 2 {{CARD:725|2}} to your hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:NEED}}: Your starting deck has no other {{RARITY:LEGENDARY}} monsters. {{KW:MAGIC}}: If this is the first time you play this, add 2 {{CARD:725|2}} to your hand.",
+        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: No non-{{KW:GENERATED}} {{RARITY:LEGENDARY}} monsters in your deck or dustpile. {{KW:MAGIC}}: Add 2 {{CARD:725|2}} to your hand."
+      }
+    }
   }
 }

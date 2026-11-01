@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 4,
-    "maxHp": 4,
+    "hp": 5,
+    "maxHp": 5,
     "originalAttack": 2,
-    "originalHp": 4,
+    "originalHp": 5,
     "dead": false,
     "boardPosition": -1,
     "id": 247,
@@ -16,7 +16,6 @@
     "cost": 4,
     "rarity": "COMMON",
     "originalCost": 4,
-    "target": "ENEMY_MONSTER",
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -26,12 +25,65 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
-    "description": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this."
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Transparency",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. {{KW:TURBO}}: Gain +1 {{ATK}}."
   },
   "diffs": {
     "added": {},
-    "removed": {},
-    "changed": {}
+    "removed": {
+      "target": "ENEMY_MONSTER"
+    },
+    "changed": {
+      "hp": {
+        "now": 5,
+        "prev": 4
+      },
+      "maxHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "originalHp": {
+        "now": 5,
+        "prev": 4
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Transparency",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. {{KW:TURBO}}: Gain +1 {{ATK}}.",
+        "prev": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this."
+      }
+    }
   }
 }

@@ -25,12 +25,37 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
-    "description": "{{KW:MAGIC}}: Both players draw cards until they have 6 in their hand."
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Transparency",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:TRANSPARENCY}}. {{KW:MAGIC}}: Both players draw cards until they have 6 in their hand."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Transparency",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:MAGIC}}: Both players draw cards until they have 6 in their hand.",
+        "prev": "{{KW:MAGIC}}: Both players draw cards until they have 6 in their hand."
+      }
+    }
   }
 }

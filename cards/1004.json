@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 5,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 5,
+    "originalHp": 6,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1004,
+    "fixedId": 1004,
+    "typeCard": 0,
+    "name": "Addison",
+    "image": "Addison",
+    "baseImage": "Addison",
+    "cost": 4,
+    "rarity": "RARE",
+    "originalCost": 4,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "NEUTRAL",
+        "name": "Program",
+        "statusBehavior": "STACKABLE",
+        "counter": 2,
+        "displayCounter": true
+      }
+    ],
+    "description": "{{KW:MAGIC}}: Add 3 {{CARD:665|3}} to your hand and ones that didn't fit to the top of your deck. {{KW:DELAY}}: If you haven't used any, {{KW:PROGRAM}} (2): Give them -1 {{COST}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

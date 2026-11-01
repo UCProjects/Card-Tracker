@@ -7,9 +7,9 @@
     "id": 89,
     "fixedId": 89,
     "typeCard": 1,
-    "name": "Pollutant Gas",
-    "image": "Pollutant_Gas",
-    "baseImage": "Pollutant_Gas",
+    "name": "Pollutant Spores",
+    "image": "Pollutant_Spores",
+    "baseImage": "Pollutant_Spores",
     "cost": 4,
     "rarity": "RARE",
     "originalCost": 4,
@@ -28,6 +28,19 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Pollutant Spores",
+        "prev": "Pollutant Gas"
+      },
+      "image": {
+        "now": "Pollutant_Spores",
+        "prev": "Pollutant_Gas"
+      },
+      "baseImage": {
+        "now": "Pollutant_Spores",
+        "prev": "Pollutant_Gas"
+      }
+    }
   }
 }

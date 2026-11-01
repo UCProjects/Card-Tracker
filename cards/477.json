@@ -1,10 +1,10 @@
 {
   "card": {
     "attack": 2,
-    "hp": 3,
-    "maxHp": 3,
+    "hp": 2,
+    "maxHp": 2,
     "originalAttack": 2,
-    "originalHp": 3,
+    "originalHp": 2,
     "dead": false,
     "boardPosition": -1,
     "id": 477,
@@ -13,15 +13,15 @@
     "name": "Spider Flower",
     "image": "Spider_Flower",
     "baseImage": "Spider_Flower",
-    "cost": 3,
+    "cost": 2,
     "rarity": "COMMON",
-    "originalCost": 3,
+    "originalCost": 2,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "PLANT",
-      "ARACHNID"
+      "ARACHNID",
+      "PLANT"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -34,6 +34,27 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "hp": {
+        "now": 2,
+        "prev": 3
+      },
+      "maxHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalHp": {
+        "now": 2,
+        "prev": 3
+      },
+      "cost": {
+        "now": 2,
+        "prev": 3
+      },
+      "originalCost": {
+        "now": 2,
+        "prev": 3
+      }
+    }
   }
 }

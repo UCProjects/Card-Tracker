@@ -13,9 +13,9 @@
     "name": "Yandereplane",
     "image": "Yandereplane",
     "baseImage": "Yandereplane",
-    "cost": 7,
+    "cost": 6,
     "rarity": "COMMON",
-    "originalCost": 7,
+    "originalCost": 6,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -34,11 +34,24 @@
         "displayCounter": false
       }
     ],
-    "description": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemies."
+    "description": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemy monsters."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "cost": {
+        "now": 6,
+        "prev": 7
+      },
+      "originalCost": {
+        "now": 6,
+        "prev": 7
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemy monsters.",
+        "prev": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemies."
+      }
+    }
   }
 }

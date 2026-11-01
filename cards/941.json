@@ -39,23 +39,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}.",
-        "prev": "{{KW:MAGIC}}: Enchant all enemy slots with {{ENCHANT:BLUE_BONES|2}}."
-      }
-    }
+    "changed": {}
   }
 }

@@ -1,10 +1,10 @@
 {
   "card": {
-    "attack": 2,
-    "hp": 2,
-    "maxHp": 2,
-    "originalAttack": 2,
-    "originalHp": 2,
+    "attack": 3,
+    "hp": 3,
+    "maxHp": 3,
+    "originalAttack": 3,
+    "originalHp": 3,
     "dead": false,
     "boardPosition": -1,
     "id": 49,
@@ -13,9 +13,9 @@
     "name": "Glyde",
     "image": "Glyde",
     "baseImage": "Glyde",
-    "cost": 6,
+    "cost": 5,
     "rarity": "RARE",
-    "originalCost": 6,
+    "originalCost": 5,
     "shiny": false,
     "quantity": 1,
     "extension": "BASE",
@@ -25,12 +25,93 @@
     "playedTurn": -1,
     "drawnTurn": -1,
     "ownerId": 0,
-    "statuses": [],
-    "description": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand."
+    "statuses": [
+      {
+        "statusType": "NEUTRAL",
+        "name": "Program",
+        "statusBehavior": "STACKABLE",
+        "counter": 4,
+        "displayCounter": true
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      },
+      {
+        "statusType": "POSITIVE",
+        "name": "Taunt",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Steal {{STATS:1|1}} from every monster in your hand (min. 1 {{HP}}). {{KW:PROGRAM}} (4): Target the enemy hand instead."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 3,
+        "prev": 2
+      },
+      "hp": {
+        "now": 3,
+        "prev": 2
+      },
+      "maxHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalAttack": {
+        "now": 3,
+        "prev": 2
+      },
+      "originalHp": {
+        "now": 3,
+        "prev": 2
+      },
+      "cost": {
+        "now": 5,
+        "prev": 6
+      },
+      "originalCost": {
+        "now": 5,
+        "prev": 6
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "NEUTRAL",
+            "name": "Program",
+            "statusBehavior": "STACKABLE",
+            "counter": 4,
+            "displayCounter": true
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": []
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Steal {{STATS:1|1}} from every monster in your hand (min. 1 {{HP}}). {{KW:PROGRAM}} (4): Target the enemy hand instead.",
+        "prev": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand."
+      }
+    }
   }
 }

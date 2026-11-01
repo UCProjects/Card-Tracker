@@ -1,0 +1,38 @@
+{
+  "card": {
+    "attack": 4,
+    "hp": 5,
+    "maxHp": 5,
+    "originalAttack": 4,
+    "originalHp": 5,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1012,
+    "fixedId": 1012,
+    "typeCard": 0,
+    "name": "Dina",
+    "image": "Dina",
+    "baseImage": "Dina",
+    "cost": 6,
+    "rarity": "EPIC",
+    "originalCost": 6,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [],
+    "description": "{{KW:NEED}}: Your opponent has taken 18+ {{DMG}} this game. {{KW:MAGIC}}: Give 3 random monsters in your hand {{STATS:+2|+2}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

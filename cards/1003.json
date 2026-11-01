@@ -1,0 +1,46 @@
+{
+  "card": {
+    "attack": 6,
+    "hp": 2,
+    "maxHp": 2,
+    "originalAttack": 6,
+    "originalHp": 2,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1003,
+    "fixedId": 1003,
+    "typeCard": 0,
+    "name": "Sousborg",
+    "image": "Sousborg",
+    "baseImage": "Sousborg",
+    "cost": 7,
+    "rarity": "COMMON",
+    "originalCost": 7,
+    "shiny": false,
+    "quantity": 1,
+    "extension": "UTY",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Haste",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: For every excess {{DMG}} this took, give a random different monster in your hand {{STATS:+1|+1}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

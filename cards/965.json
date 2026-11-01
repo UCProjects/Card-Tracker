@@ -1,9 +1,9 @@
 {
   "card": {
-    "attack": 5,
+    "attack": 4,
     "hp": 5,
     "maxHp": 5,
-    "originalAttack": 5,
+    "originalAttack": 4,
     "originalHp": 5,
     "dead": false,
     "boardPosition": -1,
@@ -36,11 +36,24 @@
         "displayCounter": false
       }
     ],
-    "description": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}."
+    "description": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}. Add any not summoned to your hand with {{STATS:+1|+1}} and {{KW:HASTE}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "attack": {
+        "now": 4,
+        "prev": 5
+      },
+      "originalAttack": {
+        "now": 4,
+        "prev": 5
+      },
+      "description": {
+        "now": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}. Add any not summoned to your hand with {{STATS:+1|+1}} and {{KW:HASTE}}.",
+        "prev": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}."
+      }
+    }
   }
 }

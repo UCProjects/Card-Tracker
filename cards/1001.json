@@ -1,0 +1,47 @@
+{
+  "card": {
+    "attack": 7,
+    "hp": 6,
+    "maxHp": 6,
+    "originalAttack": 7,
+    "originalHp": 6,
+    "dead": false,
+    "boardPosition": -1,
+    "id": 1001,
+    "fixedId": 1001,
+    "typeCard": 0,
+    "name": "Balthizard",
+    "image": "Balthizard",
+    "baseImage": "Balthizard",
+    "cost": 9,
+    "rarity": "RARE",
+    "originalCost": 9,
+    "target": "HAND",
+    "shiny": false,
+    "quantity": 1,
+    "extension": "DELTARUNE",
+    "tribes": [],
+    "selectCards": [],
+    "typeSkin": 0,
+    "playedTurn": -1,
+    "drawnTurn": -1,
+    "ownerId": 0,
+    "statuses": [
+      {
+        "statusType": "POSITIVE",
+        "name": "Armor",
+        "statusBehavior": "UNIQUE",
+        "counter": 1,
+        "displayCounter": false
+      }
+    ],
+    "description": "{{KW:ARMOR}}. {{KW:MAGIC}}: {{KW:ERASE}} a card in your hand to summon 3 {{CARD:615|3}}."
+  },
+  "diffs": {
+    "added": {
+      "new": true
+    },
+    "removed": {},
+    "changed": {}
+  }
+}

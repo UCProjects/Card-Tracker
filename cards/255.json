@@ -28,19 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 3
-      },
-      "description": {
-        "now": "Give all ally {{KW:GENERATED}} monsters {{STATS:+1|+1}} wherever they are.",
-        "prev": "Give all {{KW:GENERATED}} ally monsters {{STATS:+1|+1}} wherever they are. Draw a card."
-      }
-    }
+    "changed": {}
   }
 }

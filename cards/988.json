@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "All other monsters take +1 {{DMG}}."
+    "description": "All monsters take +1 {{DMG}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "All monsters take +1 {{DMG}}.",
+        "prev": "All other monsters take +1 {{DMG}}."
+      }
+    }
   }
 }

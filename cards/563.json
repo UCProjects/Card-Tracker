@@ -26,11 +26,16 @@
     "drawnTurn": -1,
     "ownerId": 0,
     "statuses": [],
-    "description": "{{KW:MAGIC}}: Summon an {{CARD:563|1}}."
+    "description": "{{KW:MAGIC}}: Summon an {{CARD:563|1}} with +1 {{HP}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "description": {
+        "now": "{{KW:MAGIC}}: Summon an {{CARD:563|1}} with +1 {{HP}}.",
+        "prev": "{{KW:MAGIC}}: Summon an {{CARD:563|1}}."
+      }
+    }
   }
 }

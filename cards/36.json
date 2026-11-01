@@ -20,8 +20,8 @@
     "quantity": 1,
     "extension": "BASE",
     "tribes": [
-      "PLANT",
-      "AMALGAMATE"
+      "AMALGAMATE",
+      "PLANT"
     ],
     "selectCards": [],
     "typeSkin": 0,
@@ -37,21 +37,15 @@
         "displayCounter": false
       }
     ],
-    "description": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has any {{ATK}} buffs."
+    "description": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has {{ATK}} buffs."
   },
   "diffs": {
     "added": {},
     "removed": {},
     "changed": {
-      "tribes": {
-        "now": [
-          "PLANT",
-          "AMALGAMATE"
-        ],
-        "prev": [
-          "AMALGAMATE",
-          "PLANT"
-        ]
+      "description": {
+        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has {{ATK}} buffs.",
+        "prev": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has any {{ATK}} buffs."
       }
     }
   }

@@ -10,9 +10,9 @@
     "id": 615,
     "fixedId": 615,
     "typeCard": 0,
-    "name": "Toxic Cloud",
-    "image": "Toxic_Cloud",
-    "baseImage": "Toxic_Cloud",
+    "name": "Toxic Spores",
+    "image": "Toxic_Spores",
+    "baseImage": "Toxic_Spores",
     "cost": 1,
     "rarity": "TOKEN",
     "originalCost": 1,
@@ -32,20 +32,57 @@
         "statusBehavior": "UNIQUE",
         "counter": 1,
         "displayCounter": false
-      },
-      {
-        "statusType": "POSITIVE",
-        "name": "Taunt",
-        "statusBehavior": "UNIQUE",
-        "counter": 1,
-        "displayCounter": false
       }
     ],
-    "description": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Give its killer {{KR}} and {{STATS:-1|-1}}."
+    "description": "{{KW:HASTE}}. {{KW:DUST}}: Give its killer +1 {{KW:MOLD_SPORE}}, {{KR}} and {{STATS:-1|-1}}."
   },
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {}
+    "changed": {
+      "name": {
+        "now": "Toxic Spores",
+        "prev": "Toxic Cloud"
+      },
+      "image": {
+        "now": "Toxic_Spores",
+        "prev": "Toxic_Cloud"
+      },
+      "baseImage": {
+        "now": "Toxic_Spores",
+        "prev": "Toxic_Cloud"
+      },
+      "statuses": {
+        "now": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ],
+        "prev": [
+          {
+            "statusType": "POSITIVE",
+            "name": "Haste",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          },
+          {
+            "statusType": "POSITIVE",
+            "name": "Taunt",
+            "statusBehavior": "UNIQUE",
+            "counter": 1,
+            "displayCounter": false
+          }
+        ]
+      },
+      "description": {
+        "now": "{{KW:HASTE}}. {{KW:DUST}}: Give its killer +1 {{KW:MOLD_SPORE}}, {{KR}} and {{STATS:-1|-1}}.",
+        "prev": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Give its killer {{KR}} and {{STATS:-1|-1}}."
+      }
+    }
   }
 }

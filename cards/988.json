@@ -31,11 +31,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "All monsters take +1 {{DMG}}.",
-        "prev": "All other monsters take +1 {{DMG}}."
-      }
-    }
+    "changed": {}
   }
 }

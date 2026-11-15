@@ -28,19 +28,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Pollutant Spores",
-        "prev": "Pollutant Gas"
-      },
-      "image": {
-        "now": "Pollutant_Spores",
-        "prev": "Pollutant_Gas"
-      },
-      "baseImage": {
-        "now": "Pollutant_Spores",
-        "prev": "Pollutant_Gas"
-      }
-    }
+    "changed": {}
   }
 }

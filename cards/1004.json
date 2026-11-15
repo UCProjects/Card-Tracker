@@ -37,9 +37,7 @@
     "description": "{{KW:MAGIC}}: Add 3 {{CARD:665|3}} to your hand and ones that didn't fit to the top of your deck. {{KW:DELAY}}: If you haven't used any, {{KW:PROGRAM}} (2): Give them -1 {{COST}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

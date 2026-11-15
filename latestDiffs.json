@@ -102,40 +102,7 @@
   "21": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 6
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 1 {{DMG}} to all enemy monsters and 2 {{DMG}} to the opponent.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 1 {{DMG}} to all enemy monsters and 3 {{DMG}} to the opponent."
-      }
-    }
+    "changed": {}
   },
   "22": {
     "added": {},
@@ -160,12 +127,7 @@
   "26": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it's already {{KW:PARALYZE|override=Paralyzed}}, deal 2 {{DMG}} to it.",
-        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was already {{KW:PARALYZE|override=Paralyzed}}, deal 2 {{DMG}} to it."
-      }
-    }
+    "changed": {}
   },
   "27": {
     "added": {},
@@ -210,38 +172,12 @@
   "35": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 5
-      },
-      "hp": {
-        "now": 9,
-        "prev": 7
-      },
-      "maxHp": {
-        "now": 9,
-        "prev": 7
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 9,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "36": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has {{ATK}} buffs.",
-        "prev": "{{KW:TAUNT}}. {{KW:DELAY}}: Summon a {{CARD:6|1}}. Give it {{STATS:+1|+1}} and {{KW:TRANSPARENCY}} if this has any {{ATK}} buffs."
-      }
-    }
+    "changed": {}
   },
   "37": {
     "added": {},
@@ -306,66 +242,7 @@
   "49": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "Program",
-            "statusBehavior": "STACKABLE",
-            "counter": 4,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Steal {{STATS:1|1}} from every monster in your hand (min. 1 {{HP}}). {{KW:PROGRAM}} (4): Target the enemy hand instead.",
-        "prev": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand."
-      }
-    }
+    "changed": {}
   },
   "50": {
     "added": {},
@@ -395,12 +272,7 @@
   "55": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:MAGIC}}: Add a {{CARD:475|1}} to your hand and a {{CARD:476|1}} to your deck. {{KW:TURN_END}}: Add another {{CARD:475|1}}.",
-        "prev": "{{KW:HASTE}}. {{KW:DELAY}}: Add a {{CARD:475|1}} to your hand and a {{CARD:476|1}} to your deck. {{KW:TURN_END}}: Add another {{CARD:475|1}}."
-      }
-    }
+    "changed": {}
   },
   "56": {
     "added": {},
@@ -500,12 +372,7 @@
   "75": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:PARALYZE}} a monster. {{KW:DELAY}}: If it's an ally, give it {{KW:CANDY}} and {{STATS:+1|+1}}. If it's an enemy, add a {{CARD:551|1}} to your hand.",
-        "prev": "{{KW:PARALYZE}} a monster. {{KW:DELAY}}: If it was an ally, give it {{KW:CANDY}} and {{STATS:+1|+1}}. If it was an enemy, add a {{CARD:551|1}} to your hand."
-      }
-    }
+    "changed": {}
   },
   "76": {
     "added": {},
@@ -575,20 +442,7 @@
   "89": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Pollutant Spores",
-        "prev": "Pollutant Gas"
-      },
-      "image": {
-        "now": "Pollutant_Spores",
-        "prev": "Pollutant_Gas"
-      },
-      "baseImage": {
-        "now": "Pollutant_Spores",
-        "prev": "Pollutant_Gas"
-      }
-    }
+    "changed": {}
   },
   "90": {
     "added": {},
@@ -803,12 +657,7 @@
   "132": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:LOOP}} (1). Fully heal a monster. If it's already full, give it +2 {{HP}} instead.",
-        "prev": "{{KW:LOOP}} (1). Fully heal a monster. If it was already full, give it +2 {{HP}} instead."
-      }
-    }
+    "changed": {}
   },
   "133": {
     "added": {},
@@ -823,12 +672,7 @@
   "135": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}} and {{KW:TURN_START}}: Kill a random enemy monster costing 2 or less {{GOLD}} to heal 3 {{HP}} to you.",
-        "prev": "{{KW:MAGIC}} and {{KW:TURN_START}}: Kill a random enemy monster costing 2 or less {{GOLD}} to heal 2 {{HP}} to you."
-      }
-    }
+    "changed": {}
   },
   "136": {
     "added": {},
@@ -923,24 +767,7 @@
   "154": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Transparency",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. {{KW:MAGIC}}: Both players draw cards until they have 6 in their hand.",
-        "prev": "{{KW:MAGIC}}: Both players draw cards until they have 6 in their hand."
-      }
-    }
+    "changed": {}
   },
   "160": {
     "added": {},
@@ -1155,12 +982,7 @@
   "214": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:HASTE}}. Whenever this attacks and kills a monster, deal excess {{DMG}} to its adjacent monsters. {{KW:BULLSEYE}}: Summon a {{CARD:574|1}}. It attacks the opponent.",
-        "prev": "{{KW:HASTE}}. Whenever this attacks and kills, deal excess {{DMG}} to the monsters adjacent to the target. {{KW:BULLSEYE}}: Summon a {{CARD:574|1}}. It attacks the opponent."
-      }
-    }
+    "changed": {}
   },
   "215": {
     "added": {},
@@ -1170,12 +992,7 @@
   "216": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURN_START}}: Enchant a random enemy slot with {{ENCHANT:THE_FLAME|1}}.",
-        "prev": "{{KW:TURN_START}}: Enchant a random empty enemy slot with {{ENCHANT:THE_FLAME|1}}."
-      }
-    }
+    "changed": {}
   },
   "217": {
     "added": {},
@@ -1295,20 +1112,7 @@
   "245": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "246": {
     "added": {},
@@ -1317,46 +1121,8 @@
   },
   "247": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Transparency",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. {{KW:TURBO}}: Gain +1 {{ATK}}.",
-        "prev": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this."
-      }
-    }
+    "removed": {},
+    "changed": {}
   },
   "248": {
     "added": {},
@@ -1371,12 +1137,7 @@
   "250": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster. If it's already {{KW:SILENCE|override=Silenced}}, kill it instead.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster. If it was already {{KW:SILENCE|override=Silenced}}, kill it instead."
-      }
-    }
+    "changed": {}
   },
   "251": {
     "added": {},
@@ -1426,12 +1187,7 @@
   "260": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it's an ally, give it -2 {{COST}}.",
-        "prev": "{{KW:PARALYZE}} a non-{{RARITY:DETERMINATION}} monster and add a copy of it to your hand. {{KW:DELAY}}: If it was an ally, give it -2 {{COST}}."
-      }
-    }
+    "changed": {}
   },
   "261": {
     "added": {},
@@ -1461,32 +1217,7 @@
   "266": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Charge",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      },
-      "description": {
-        "now": "{{KW:CHARGE}}. {{KW:MAGIC}}: Deal 3 {{DMG}}, heal 3 {{HP}} to you and draw 3 cards with -1 {{COST}}.",
-        "prev": "{{KW:HASTE}}. {{KW:MAGIC}}: Deal 3 {{DMG}}, draw 3 cards, and heal 3 {{HP}} to you."
-      }
-    }
+    "changed": {}
   },
   "267": {
     "added": {},
@@ -1501,20 +1232,7 @@
   "271": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "272": {
     "added": {},
@@ -2329,12 +2047,7 @@
   "472": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TAUNT}}. {{KW:NEED}}: Your starting deck has no other {{RARITY:LEGENDARY}} monsters. {{KW:MAGIC}}: If this is the first time you play this, add 2 {{CARD:725|2}} to your hand.",
-        "prev": "{{KW:TAUNT}}. {{KW:NEED}}: No non-{{KW:GENERATED}} {{RARITY:LEGENDARY}} monsters in your deck or dustpile. {{KW:MAGIC}}: Add 2 {{CARD:725|2}} to your hand."
-      }
-    }
+    "changed": {}
   },
   "473": {
     "added": {},
@@ -2359,28 +2072,7 @@
   "477": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 2,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 3
-      },
-      "cost": {
-        "now": 2,
-        "prev": 3
-      },
-      "originalCost": {
-        "now": 2,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "478": {
     "added": {},
@@ -2390,36 +2082,7 @@
   "479": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "hp": {
-        "now": 7,
-        "prev": 1
-      },
-      "maxHp": {
-        "now": 7,
-        "prev": 1
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 7,
-        "prev": 1
-      },
-      "cost": {
-        "now": 7,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "480": {
     "added": {},
@@ -2454,12 +2117,7 @@
   "486": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Add an exact copy of a monster (except {{CARD:52|1}}) to your hand. If it's {{RARITY:LEGENDARY}} or {{RARITY:DETERMINATION}}, give it +2 {{COST}}.",
-        "prev": "Add an exact copy of a monster (except {{CARD:52|1}}) to your hand. If it was {{RARITY:LEGENDARY}} or {{RARITY:DETERMINATION}}, give it +2 {{COST}}."
-      }
-    }
+    "changed": {}
   },
   "487": {
     "added": {},
@@ -2514,36 +2172,7 @@
   "497": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "498": {
     "added": {},
@@ -2673,16 +2302,7 @@
   "523": {
     "added": {},
     "removed": {},
-    "changed": {
-      "target": {
-        "now": "ALL",
-        "prev": "MONSTER"
-      },
-      "description": {
-        "now": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}}.",
-        "prev": "After this kills a monster, gain +3 {{ATK}}. {{KW:MAGIC}}: Deal 4 {{DMG}} to a monster."
-      }
-    }
+    "changed": {}
   },
   "524": {
     "added": {},
@@ -2882,12 +2502,7 @@
   "563": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon an {{CARD:563|1}} with +1 {{HP}}.",
-        "prev": "{{KW:MAGIC}}: Summon an {{CARD:563|1}}."
-      }
-    }
+    "changed": {}
   },
   "564": {
     "added": {},
@@ -3147,51 +2762,7 @@
   "615": {
     "added": {},
     "removed": {},
-    "changed": {
-      "name": {
-        "now": "Toxic Spores",
-        "prev": "Toxic Cloud"
-      },
-      "image": {
-        "now": "Toxic_Spores",
-        "prev": "Toxic_Cloud"
-      },
-      "baseImage": {
-        "now": "Toxic_Spores",
-        "prev": "Toxic_Cloud"
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DUST}}: Give its killer +1 {{KW:MOLD_SPORE}}, {{KR}} and {{STATS:-1|-1}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:HASTE}}. {{KW:DUST}}: Give its killer {{KR}} and {{STATS:-1|-1}}."
-      }
-    }
+    "changed": {}
   },
   "616": {
     "added": {},
@@ -3311,24 +2882,7 @@
   "639": {
     "added": {},
     "removed": {},
-    "changed": {
-      "statuses": {
-        "now": [],
-        "prev": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ]
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SWITCH}}: {{KW:SILENCE}} and kill an ally monster to gain {{SWITCH_LEFT:1|+3 {{HP}} and {{KW:TAUNT}}}} or {{SWITCH_RIGHT:1|+2 {{ATK}} and {{KW:HASTE}}}}.",
-        "prev": "{{KW:TAUNT}}. {{KW:MAGIC}}: {{KW:SILENCE}} and kill an ally monster to gain +3 {{HP}}."
-      }
-    }
+    "changed": {}
   },
   "640": {
     "added": {},
@@ -3628,16 +3182,7 @@
   "699": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 4,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "700": {
     "added": {},
@@ -3832,16 +3377,7 @@
   "738": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 7,
-        "prev": 8
-      },
-      "originalCost": {
-        "now": 7,
-        "prev": 8
-      }
-    }
+    "changed": {}
   },
   "739": {
     "added": {},
@@ -4176,20 +3712,7 @@
   "805": {
     "added": {},
     "removed": {},
-    "changed": {
-      "cost": {
-        "now": 6,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 6,
-        "prev": 7
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemy monsters.",
-        "prev": "{{KW:HASTE}}. {{KW:DELAY}}: If this didn't attack, die and deal 3 {{DMG}} to all enemies."
-      }
-    }
+    "changed": {}
   },
   "806": {
     "added": {},
@@ -4519,12 +4042,7 @@
   "871": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it's an ally monster costing 2+ {{GOLD}}, summon 2 {{CARD:10|2}}.",
-        "prev": "{{KW:MAGIC}}: {{KW:PARALYZE}} a monster. If it was an ally monster costing 2+ {{GOLD}}, summon 2 {{CARD:10|2}}."
-      }
-    }
+    "changed": {}
   },
   "872": {
     "added": {},
@@ -4559,42 +4077,12 @@
   "878": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 6,
-        "prev": 5
-      },
-      "maxHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalHp": {
-        "now": 6,
-        "prev": 5
-      },
-      "cost": {
-        "now": 13,
-        "prev": 12
-      },
-      "originalCost": {
-        "now": 13,
-        "prev": 12
-      }
-    }
+    "changed": {}
   },
   "879": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 3
-      }
-    }
+    "changed": {}
   },
   "880": {
     "added": {},
@@ -4879,12 +4367,7 @@
   "936": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:TURBO}}: {{KW:ERASE}} this and draw a card. Deal 4 {{DMG}} randomly split among all ally monsters. Take any {{DMG}} not dealt.",
-        "prev": "{{KW:TURBO}}: {{KW:ERASE}} this and draw a card. Deal 6 {{DMG}} randomly split among all ally monsters. Take any {{DMG}} not dealt."
-      }
-    }
+    "changed": {}
   },
   "937": {
     "added": {},
@@ -4934,12 +4417,7 @@
   "946": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "{{KW:MAGIC}}: Summon 3 unique non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile and give them {{KW:HASTE}}.",
-        "prev": "{{KW:MAGIC}}: Summon 3 random non-{{RARITY:TOKEN}} monsters costing 3 or less {{GOLD}} from your dustpile."
-      }
-    }
+    "changed": {}
   },
   "947": {
     "added": {},
@@ -4964,106 +4442,22 @@
   "951": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 6,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 6,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "952": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 5,
-        "prev": 4
-      },
-      "cost": {
-        "now": 8,
-        "prev": 7
-      },
-      "originalCost": {
-        "now": 8,
-        "prev": 7
-      }
-    }
+    "changed": {}
   },
   "953": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 4
-      }
-    }
+    "changed": {}
   },
   "954": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 2,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 2,
-        "prev": 4
-      },
-      "cost": {
-        "now": 3,
-        "prev": 5
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 5
-      }
-    }
+    "changed": {}
   },
   "955": {
     "added": {},
@@ -5118,20 +4512,7 @@
   "965": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 4,
-        "prev": 5
-      },
-      "originalAttack": {
-        "now": 4,
-        "prev": 5
-      },
-      "description": {
-        "now": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}. Add any not summoned to your hand with {{STATS:+1|+1}} and {{KW:HASTE}}.",
-        "prev": "{{KW:TRANSPARENCY}}. {{KW:NEED}}: You spent 8+ {{GOLD}} on other cards this turn. {{KW:MAGIC}}: Summon 3 {{CARD:462|3}}."
-      }
-    }
+    "changed": {}
   },
   "966": {
     "added": {},
@@ -5221,12 +4602,7 @@
   "983": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "Look at {{CARD:970|1}}, {{CARD:980|1}}, {{CARD:979|1}}, {{CARD:982|1}}, {{CARD:965|1}}, and {{CARD:981|1}}. Add one to your hand with {{STATS:-1|+1|+1}}. {{KW:DELAY}}: Send it from your hand to your deck.",
-        "prev": "Look at {{CARD:970|1}}, {{CARD:980|1}}, {{CARD:979|1}}, {{CARD:982|1}}, {{CARD:965|1}} and {{CARD:981|1}}. Add one to your hand. {{KW:DELAY}}: Send it from your hand to your deck."
-      }
-    }
+    "changed": {}
   },
   "984": {
     "added": {},
@@ -5251,12 +4627,7 @@
   "988": {
     "added": {},
     "removed": {},
-    "changed": {
-      "description": {
-        "now": "All monsters take +1 {{DMG}}.",
-        "prev": "All other monsters take +1 {{DMG}}."
-      }
-    }
+    "changed": {}
   },
   "989": {
     "added": {},
@@ -5271,58 +4642,12 @@
   "991": {
     "added": {},
     "removed": {},
-    "changed": {
-      "hp": {
-        "now": 4,
-        "prev": 3
-      },
-      "maxHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "originalHp": {
-        "now": 4,
-        "prev": 3
-      },
-      "cost": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalCost": {
-        "now": 3,
-        "prev": 2
-      }
-    }
+    "changed": {}
   },
   "992": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 4
-      },
-      "hp": {
-        "now": 3,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 4
-      },
-      "description": {
-        "now": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Then {{KW:PARALYZE}} it, give it {{KR}}, +1 {{KW:MOLD_SPORE}}, and make it {{KW:WANTED}}.",
-        "prev": "{{KW:MAGIC}}: {{KW:SILENCE}} a monster. Then {{KW:PARALYZE}} it, give it {{KR}}, and make it {{KW:WANTED}}."
-      }
-    }
+    "changed": {}
   },
   "993": {
     "added": {},
@@ -5365,93 +4690,67 @@
     "changed": {}
   },
   "1001": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1002": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1003": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1004": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1005": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1006": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1007": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1008": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1009": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1010": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1011": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1012": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   },
   "1013": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

@@ -51,9 +51,7 @@
     "description": "{{KW:HASTE}}. {{KW:CANDY}}. {{KW:SUPPORT}}: Gain {{STATS:+1|+1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

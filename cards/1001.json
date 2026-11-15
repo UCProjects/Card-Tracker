@@ -38,9 +38,7 @@
     "description": "{{KW:ARMOR}}. {{KW:MAGIC}}: {{KW:ERASE}} a card in your hand to summon 3 {{CARD:615|3}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

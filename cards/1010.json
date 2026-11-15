@@ -51,9 +51,7 @@
     "description": "{{KW:HASTE}}. {{KW:DODGE}} (1). {{KW:MAGIC}}: Add a {{STATS:3|3}} {{CARD:431|1}} to your hand. {{KW:SUPPORT}}: Give it {{STATS:-1|+1|+1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

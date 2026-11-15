@@ -29,9 +29,7 @@
     "description": "{{STYLE:tropical|Starwalker}}. {{KW:MAGIC}}: If you have 4+ unique rarities in your dustpile, gain {{KW:HASTE}} and {{KW:TAUNT}}. If you have 6+, {{KW:ERASE}} them to gain {{STATS:+1|+1}} and {{KW:DODGE}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

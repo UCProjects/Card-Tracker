@@ -29,9 +29,7 @@
     "description": "{{KW:MAGIC}}: Enchant all ally slots with {{ENCHANT:PHOTO_SHOOT|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

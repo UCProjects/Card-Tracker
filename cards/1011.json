@@ -29,9 +29,7 @@
     "description": "{{KW:MAGIC}}: Cast all non-{{RARITY:TOKEN}} spells you played last turn. If possible, target the monster in front of this."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

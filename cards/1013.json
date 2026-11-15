@@ -44,9 +44,7 @@
     "description": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. Your {{KW:SUPPORT}} effects trigger an additional time."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

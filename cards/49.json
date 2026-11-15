@@ -53,65 +53,6 @@
   "diffs": {
     "added": {},
     "removed": {},
-    "changed": {
-      "attack": {
-        "now": 3,
-        "prev": 2
-      },
-      "hp": {
-        "now": 3,
-        "prev": 2
-      },
-      "maxHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalAttack": {
-        "now": 3,
-        "prev": 2
-      },
-      "originalHp": {
-        "now": 3,
-        "prev": 2
-      },
-      "cost": {
-        "now": 5,
-        "prev": 6
-      },
-      "originalCost": {
-        "now": 5,
-        "prev": 6
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "NEUTRAL",
-            "name": "Program",
-            "statusBehavior": "STACKABLE",
-            "counter": 4,
-            "displayCounter": true
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Taunt",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TAUNT}}. {{KW:MAGIC}}: Steal {{STATS:1|1}} from every monster in your hand (min. 1 {{HP}}). {{KW:PROGRAM}} (4): Target the enemy hand instead.",
-        "prev": "{{KW:MAGIC}}: Gain {{STATS:+1|+1}} for each card in your hand."
-      }
-    }
+    "changed": {}
   }
 }

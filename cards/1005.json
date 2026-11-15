@@ -29,9 +29,7 @@
     "description": "{{KW:DUST}}: Enchant this slot with {{ENCHANT:GATHERING_STEAM|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

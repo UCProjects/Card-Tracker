@@ -29,9 +29,7 @@
     "description": "{{KW:MAGIC}}: Look at 4 spells with {{COST}} equal to your current {{GOLD}} (max 12). Add one to your hand."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

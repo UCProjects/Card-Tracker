@@ -37,9 +37,7 @@
     "description": "{{KW:HASTE}}. {{KW:DUST}}: For every excess {{DMG}} this took, give a random different monster in your hand {{STATS:+1|+1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

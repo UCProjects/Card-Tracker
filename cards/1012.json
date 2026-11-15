@@ -29,9 +29,7 @@
     "description": "{{KW:NEED}}: Your opponent has taken 18+ {{DMG}} this game. {{KW:MAGIC}}: Give 3 random monsters in your hand {{STATS:+2|+2}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }

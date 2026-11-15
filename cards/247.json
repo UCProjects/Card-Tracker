@@ -45,45 +45,7 @@
   },
   "diffs": {
     "added": {},
-    "removed": {
-      "target": "ENEMY_MONSTER"
-    },
-    "changed": {
-      "hp": {
-        "now": 5,
-        "prev": 4
-      },
-      "maxHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "originalHp": {
-        "now": 5,
-        "prev": 4
-      },
-      "statuses": {
-        "now": [
-          {
-            "statusType": "POSITIVE",
-            "name": "Haste",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          },
-          {
-            "statusType": "POSITIVE",
-            "name": "Transparency",
-            "statusBehavior": "UNIQUE",
-            "counter": 1,
-            "displayCounter": false
-          }
-        ],
-        "prev": []
-      },
-      "description": {
-        "now": "{{KW:HASTE}}. {{KW:TRANSPARENCY}}. {{KW:TURBO}}: Gain +1 {{ATK}}.",
-        "prev": "{{KW:TURBO}}: Gain +1 {{ATK}}. {{KW:MAGIC}}: {{KW:SILENCE}} an enemy monster with as much or less {{ATK}} than this."
-      }
-    }
+    "removed": {},
+    "changed": {}
   }
 }

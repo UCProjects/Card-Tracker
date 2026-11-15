@@ -37,9 +37,7 @@
     "description": "{{KW:DARKSPAWN}}. {{KW:DUST}}: Summon a {{CARD:739|1}}."
   },
   "diffs": {
-    "added": {
-      "new": true
-    },
+    "added": {},
     "removed": {},
     "changed": {}
   }
